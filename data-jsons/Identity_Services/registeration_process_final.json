@@ -1,0 +1,481 @@
+{
+  "file_name": "registeration_process_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 80,
+  "qa_data": [
+    {
+      "question": "Where can applicants apply for NADRA services?",
+      "answer": "Applicants can apply from anywhere in Pakistan or abroad. A physical visit to the DAU (Data Acquisition Unit) or an online application may be initiated.",
+      "urdu_question": "درخواست دہندگان نادرا کی خدمات کے لیے کہاں درخواست دے سکتے ہیں؟",
+      "urdu_answer": "درخواست دہندگان پاکستان یا بیرون ملک کہیں سے بھی درخواست دے سکتے ہیں۔ DAU (ڈیٹا ایکوزیشن یونٹ) کا جسمانی دورہ یا آن لائن درخواست شروع کی جا سکتی ہے۔"
+    },
+    {
+      "question": "What is the complete registration process at NADRA?",
+      "answer": "The registration process occurs in 7 sequential steps: Step 1 - Token Issuance, Step 2 - Fee Collection, Step 3 - Biometric Capture, Step 4 - Demographic Data Entry, Step 5 - Application Form Printing, Step 6 - Confirmation of Data Accuracy, and Step 7 - Interview.",
+      "urdu_question": "نادرا میں رجسٹریشن کا مکمل عمل کیا ہے؟",
+      "urdu_answer": "رجسٹریشن کا عمل 7 ترتیب وار مراحل میں ہوتا ہے: مرحلہ 1 - ٹوکن جاری کرنا، مرحلہ 2 - فیس جمع کرنا، مرحلہ 3 - بائیو میٹرک کیپچر، مرحلہ 4 - ڈیموگرافک ڈیٹا انٹری، مرحلہ 5 - درخواست فارم کی پرنٹنگ، مرحلہ 6 - ڈیٹا کی درستگی کی تصدیق، اور مرحلہ 7 -۔"
+    },
+    {
+      "question": "What happens in Step 1 of the registration process?",
+      "answer": "In Step 1 (Token Issuance), the applicant receives a token with a sequence number upon entering the center. Each DAU follows a token-based queue system for orderly service handling.",
+      "urdu_question": "رجسٹریشن کے عمل کے مرحلہ 1 میں کیا ہوتا ہے؟",
+      "urdu_answer": "مرحلہ 1 (ٹوکن جاری کرنے) میں، درخواست دہندہ کو مرکز میں داخل ہونے پر ترتیب نمبر کے ساتھ ایک ٹوکن موصول ہوتا ہے۔ ہر DAU منظم سروس ہینڈلنگ کے لیے ٹوکن پر مبنی قطار کے نظام کی پیروی کرتا ہے۔"
+    },
+    {
+      "question": "What is the token-based queue system at NADRA centers?",
+      "answer": "Each DAU follows a token-based queue system where applicants receive a token with a sequence number upon entering the center. This ensures orderly service handling and fair processing of applications.",
+      "urdu_question": "نادرا مراکز میں ٹوکن کی بنیاد پر قطار کا نظام کیا ہے؟",
+      "urdu_answer": "ہر DAU ٹوکن پر مبنی قطار کے نظام کی پیروی کرتا ہے جہاں درخواست دہندگان مرکز میں داخل ہونے پر ایک ترتیب نمبر کے ساتھ ٹوکن وصول کرتے ہیں۔ یہ منظم سروس ہینڈلنگ اور درخواستوں کی منصفانہ پروسیسنگ کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What happens during Step 2 of the registration process?",
+      "answer": "In Step 2 (Fee Collection), the applicant pays the requisite fee in cash or via electronic methods, and a confirmation receipt is issued.",
+      "urdu_question": "رجسٹریشن کے مرحلہ 2 کے دوران کیا ہوتا ہے؟",
+      "urdu_answer": "مرحلہ 2 (فیس کی وصولی) میں، درخواست دہندہ مطلوبہ فیس نقد یا الیکٹرانک طریقوں سے ادا کرتا ہے، اور ایک تصدیقی رسید جاری کی جاتی ہے۔"
+    },
+    {
+      "question": "What payment methods are accepted for NADRA fees?",
+      "answer": "NADRA accepts payment in cash or via electronic methods during the fee collection step of the registration process.",
+      "urdu_question": "نادرا فیس کے لیے ادائیگی کے کون سے طریقے قبول کیے جاتے ہیں؟",
+      "urdu_answer": "نادرا رجسٹریشن کے عمل کے فیس وصولی کے مرحلے کے دوران نقد یا الیکٹرانک طریقوں سے ادائیگی قبول کرتا ہے۔"
+    },
+    {
+      "question": "What happens in Step 3 of the registration process?",
+      "answer": "In Step 3 (Biometric Capture), a photograph is taken (without headgear) and all fingerprints are captured for biometric verification and identification purposes.",
+      "urdu_question": "رجسٹریشن کے عمل کے مرحلہ 3 میں کیا ہوتا ہے؟",
+      "urdu_answer": "مرحلہ 3 (بائیو میٹرک کیپچر) میں، ایک تصویر لی جاتی ہے (بغیر ہیڈ گیئر کے) اور تمام فنگر پرنٹس بائیو میٹرک تصدیق اور شناخت کے مقاصد کے لیے لیے جاتے ہیں۔"
+    },
+    {
+      "question": "Are there any requirements for the photograph during biometric capture?",
+      "answer": "Yes, during biometric capture, the photograph must be taken without headgear to ensure clear facial recognition and proper identification.",
+      "urdu_question": "کیا بائیو میٹرک کیپچر کے دوران تصویر کے لیے کوئی تقاضے ہیں؟",
+      "urdu_answer": "جی ہاں، بائیو میٹرک کیپچر کے دوران، چہرے کی واضح شناخت اور مناسب شناخت کو یقینی بنانے کے لیے تصویر کو سر کے پوشاک کے بغیر لینا چاہیے۔"
+    },
+    {
+      "question": "What biometric data is collected during the registration process?",
+      "answer": "During Step 3 (Biometric Capture), a photograph is taken without headgear and all fingerprints are captured as part of the biometric data collection.",
+      "urdu_question": "رجسٹریشن کے دوران کون سا بائیو میٹرک ڈیٹا اکٹھا کیا جاتا ہے؟",
+      "urdu_answer": "مرحلہ 3 (بائیو میٹرک کیپچر) کے دوران، سر کے پوشاک کے بغیر ایک تصویر لی جاتی ہے اور تمام فنگر پرنٹس کو بائیو میٹرک ڈیٹا اکٹھا کرنے کے حصے کے طور پر لیا جاتا ہے۔"
+    },
+    {
+      "question": "What happens during Step 4 of the registration process?",
+      "answer": "In Step 4 (Demographic Data Entry), personal data is entered into the system, including information about parents, spouse, address, and contact details.",
+      "urdu_question": "رجسٹریشن کے مرحلہ 4 کے دوران کیا ہوتا ہے؟",
+      "urdu_answer": "مرحلہ 4 (ڈیموگرافک ڈیٹا انٹری) میں، ذاتی ڈیٹا کو سسٹم میں داخل کیا جاتا ہے، بشمول والدین، شریک حیات، پتہ، اور رابطے کی تفصیلات کے بارے میں معلومات۔"
+    },
+    {
+      "question": "What type of personal information is entered during demographic data entry?",
+      "answer": "During demographic data entry, personal data including parents' information, spouse details, address, and contact details are entered into the NADRA system.",
+      "urdu_question": "ڈیموگرافک ڈیٹا انٹری کے دوران کس قسم کی ذاتی معلومات درج کی جاتی ہیں؟",
+      "urdu_answer": "ڈیموگرافک ڈیٹا انٹری کے دوران، ذاتی ڈیٹا بشمول والدین کی معلومات، شریک حیات کی تفصیلات، پتہ اور رابطے کی تفصیلات نادرا سسٹم میں داخل کی جاتی ہیں۔"
+    },
+    {
+      "question": "What happens in Step 5 of the registration process?",
+      "answer": "In Step 5 (Application Form Printing), all entered details are reviewed with the applicant, and upon verbal confirmation from the applicant, the form is printed.",
+      "urdu_question": "رجسٹریشن کے مرحلہ 5 میں کیا ہوتا ہے؟",
+      "urdu_answer": "مرحلہ 5 (درخواست فارم پرنٹنگ) میں، تمام درج کردہ تفصیلات کا درخواست دہندہ کے ساتھ جائزہ لیا جاتا ہے، اور درخواست دہندہ کی زبانی تصدیق کے بعد، فارم پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "How is the application form verified before printing?",
+      "answer": "Before printing the application form, all entered details are reviewed with the applicant, and the form is only printed upon receiving verbal confirmation from the applicant that all information is correct.",
+      "urdu_question": "پرنٹنگ سے پہلے درخواست فارم کی تصدیق کیسے کی جاتی ہے؟",
+      "urdu_answer": "درخواست فارم کو پرنٹ کرنے سے پہلے، تمام درج کی گئی تفصیلات کا درخواست دہندہ کے ساتھ جائزہ لیا جاتا ہے، اور فارم کو صرف درخواست دہندہ سے زبانی تصدیق ملنے پر پرنٹ کیا جاتا ہے کہ تمام معلومات درست ہیں۔"
+    },
+    {
+      "question": "What happens during Step 6 of the registration process?",
+      "answer": "In Step 6 (Confirmation of Data Accuracy), the applicant reviews and signs the printed form to confirm the accuracy of all data entered.",
+      "urdu_question": "رجسٹریشن کے مرحلہ 6 کے دوران کیا ہوتا ہے؟",
+      "urdu_answer": "مرحلہ 6 (ڈیٹا کی درستگی کی تصدیق) میں، درخواست دہندہ تمام داخل کردہ ڈیٹا کی درستگی کی تصدیق کے لیے پرنٹ شدہ فارم کا جائزہ لیتا ہے اور اس پر دستخط کرتا ہے۔"
+    },
+    {
+      "question": "What is the applicant's responsibility in confirming data accuracy?",
+      "answer": "The applicant must review the printed application form and sign it to confirm the accuracy of all data entered. This is their formal confirmation that all information is correct.",
+      "urdu_question": "ڈیٹا کی درستگی کی تصدیق میں درخواست دہندہ کی کیا ذمہ داری ہے؟",
+      "urdu_answer": "درخواست دہندہ کو پرنٹ شدہ درخواست فارم کا جائزہ لینا چاہیے اور درج کردہ تمام ڈیٹا کی درستگی کی تصدیق کے لیے اس پر دستخط کرنا چاہیے۔ یہ ان کی رسمی تصدیق ہے کہ تمام معلومات درست ہیں۔"
+    },
+    {
+      "question": "What is the final step in the registration process?",
+      "answer": "Step 7 (Interview) is the final step, where a NADRA officer conducts a brief interview with the applicant to validate submitted data and assess eligibility, after which the form is collected for final submission.",
+      "urdu_question": "رجسٹریشن کے عمل کا آخری مرحلہ کیا ہے؟",
+      "urdu_answer": "مرحلہ 7 (انٹرویو) آخری مرحلہ ہے، جہاں نادرا کا افسر جمع کرائے گئے ڈیٹا کی توثیق کرنے اور اہلیت کا اندازہ لگانے کے لیے درخواست گزار کے ساتھ ایک مختصر انٹرویو کرتا ہے، جس کے بعد فارم کو حتمی جمع کرانے کے لیے جمع کیا جاتا ہے۔"
+    },
+    {
+      "question": "Who conducts the interview in the registration process?",
+      "answer": "A NADRA officer conducts the interview during Step 7 of the registration process to validate submitted data and assess the applicant's eligibility.",
+      "urdu_question": "رجسٹریشن کے عمل میں انٹرویو کون کرتا ہے؟",
+      "urdu_answer": "نادرا کا ایک افسر رجسٹریشن کے عمل کے مرحلہ 7 کے دوران جمع کرائے گئے ڈیٹا کی توثیق کرنے اور درخواست گزار کی اہلیت کا جائزہ لینے کے لیے انٹرویو لیتا ہے۔"
+    },
+    {
+      "question": "What is the purpose of the interview in the registration process?",
+      "answer": "The interview conducted by a NADRA officer serves to validate the submitted data and assess the applicant's eligibility for the requested identity document or service.",
+      "urdu_question": "رجسٹریشن کے عمل میں انٹرویو کا مقصد کیا ہے؟",
+      "urdu_answer": "نادرا کے ایک افسر کا انٹرویو جمع کرائے گئے ڈیٹا کی توثیق کرتا ہے اور درخواست دہندہ کی درخواست کردہ شناختی دستاویز یا سروس کے لیے اہلیت کا جائزہ لیتا ہے۔"
+    },
+    {
+      "question": "Can I apply for NADRA services online?",
+      "answer": "Yes, an online application may be initiated, though applicants can also apply through a physical visit to the DAU (Data Acquisition Unit) from anywhere in Pakistan or abroad.",
+      "urdu_question": "کیا میں نادرا کی خدمات کے لیے آن لائن درخواست دے سکتا ہوں؟",
+      "urdu_answer": "ہاں، ایک آن لائن درخواست شروع کی جا سکتی ہے، حالانکہ درخواست دہندگان پاکستان یا بیرون ملک سے بھی DAU (ڈیٹا ایکوزیشن یونٹ) کے جسمانی دورے کے ذریعے بھی درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "Do I need to physically visit a NADRA center for registration?",
+      "answer": "While online applications can be initiated, the registration process typically involves a physical visit to the DAU for biometric capture, fee payment, interview, and other steps in the 7-step process.",
+      "urdu_question": "کیا مجھے رجسٹریشن کے لیے جسمانی طور پر نادرا سینٹر جانا ہوگا؟",
+      "urdu_answer": "جبکہ آن لائن درخواستیں شروع کی جا سکتی ہیں، رجسٹریشن کے عمل میں عام طور پر بائیو میٹرک کیپچر، فیس کی ادائیگی، انٹرویو، اور 7 قدمی عمل میں دیگر مراحل کے لیے DAU کا جسمانی دورہ شامل ہوتا ہے۔"
+    },
+    {
+      "question": "What is a DAU in the registration process?",
+      "answer": "DAU stands for Data Acquisition Unit, which is the NADRA facility where applicants can visit to complete their registration process, following the token-based queue system.",
+      "urdu_question": "رجسٹریشن کے عمل میں DAU کیا ہے؟",
+      "urdu_answer": "ڈی اے یو کا مطلب ہے ڈیٹا ایکوزیشن یونٹ، جو کہ نادرا کی سہولت ہے جہاں درخواست دہندگان ٹوکن پر مبنی قطار کے نظام کے بعد اپنے رجسٹریشن کے عمل کو مکمل کرنے کے لیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "Is there a specific order to follow during the registration process?",
+      "answer": "Yes, the registration process follows a specific sequential order with 7 steps that must be completed in sequence: Token Issuance, Fee Collection, Biometric Capture, Demographic Data Entry, Application Form Printing, Confirmation of Data Accuracy, and Interview.",
+      "urdu_question": "کیا رجسٹریشن کے عمل کے دوران عمل کرنے کے لیے کوئی خاص حکم ہے؟",
+      "urdu_answer": "ہاں، رجسٹریشن کا عمل 7 مراحل کے ساتھ ایک مخصوص ترتیب وار ترتیب کی پیروی کرتا ہے جسے ترتیب کے ساتھ مکمل کرنا ضروری ہے: ٹوکن جاری کرنا، فیس جمع کرنا، بائیو میٹرک کیپچر، آبادیاتی ڈیٹا انٹری، درخواست فارم کی پرنٹنگ، ڈیٹا کی درستگی کی تصدیق، اور انٹرویو۔"
+    },
+    {
+      "question": "What happens after the interview is completed?",
+      "answer": "After the interview is completed, the NADRA officer collects the form for final submission, completing the registration process at the center level.",
+      "urdu_question": "انٹرویو مکمل ہونے کے بعد کیا ہوتا ہے؟",
+      "urdu_answer": "انٹرویو مکمل ہونے کے بعد، نادرا افسر مرکز کی سطح پر رجسٹریشن کے عمل کو مکمل کرتے ہوئے، حتمی جمع کرانے کے لیے فارم جمع کرتا ہے۔"
+    },
+    {
+      "question": "Can overseas Pakistanis apply through this registration process?",
+      "answer": "Yes, applicants can apply from anywhere in Pakistan or abroad, indicating that overseas Pakistanis can also use this registration process, either through physical visits or online applications.",
+      "urdu_question": "کیا بیرون ملک مقیم پاکستانی اس رجسٹریشن کے عمل کے ذریعے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، درخواست دہندگان پاکستان میں یا بیرون ملک کہیں سے بھی درخواست دے سکتے ہیں، جس سے ظاہر ہوتا ہے کہ بیرون ملک مقیم پاکستانی بھی اس رجسٹریشن کے عمل کو جسمانی دوروں یا آن لائن درخواستوں کے ذریعے استعمال کر سکتے ہیں۔"
+    },
+    {
+      "question": "What documentation is required during the registration process?",
+      "answer": "While the registration process outlines the procedural steps, specific documentation requirements depend on the type of service being applied for. The demographic data entry step captures personal information, and all details are confirmed before form printing.",
+      "urdu_question": "رجسٹریشن کے عمل کے دوران کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "جب کہ رجسٹریشن کا عمل طریقہ کار کے مراحل کا خاکہ پیش کرتا ہے، مخصوص دستاویزات کے تقاضے اس بات پر منحصر ہوتے ہیں کہ کس قسم کی خدمت کے لیے درخواست دی جا رہی ہے۔ ڈیموگرافک ڈیٹا انٹری کا مرحلہ ذاتی معلومات حاصل کرتا ہے، اور فارم پرنٹ کرنے سے پہلے تمام تفصیلات کی تصدیق ہوجاتی ہے۔"
+    },
+    {
+      "question": "Are there any steps where I can make corrections to my information?",
+      "answer": "Yes, there are two verification points: during Step 5 when all entered details are reviewed with you before printing (verbal confirmation required), and during Step 6 when you review and sign the printed form to confirm data accuracy before the final interview.",
+      "urdu_question": "کیا کوئی ایسے اقدامات ہیں جہاں میں اپنی معلومات میں تصحیح کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، تصدیق کے دو نکات ہیں: مرحلہ 5 کے دوران جب پرنٹ کرنے سے پہلے تمام درج کردہ تفصیلات کا آپ کے ساتھ جائزہ لیا جاتا ہے (زبانی تصدیق درکار ہے)، اور مرحلہ 6 کے دوران جب آپ حتمی انٹرویو سے پہلے ڈیٹا کی درستگی کی تصدیق کے لیے پرنٹ شدہ فارم کا جائزہ لیتے اور دستخط کرتے ہیں۔"
+    },
+    {
+      "question": "How long does the complete registration process take?",
+      "answer": "The complete registration process typically takes 2-4 hours depending on crowd size, queue position, and application complexity. Peak hours may result in longer waiting times between steps.",
+      "urdu_question": "مکمل رجسٹریشن کے عمل میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "ہجوم کے سائز، قطار کی پوزیشن، اور درخواست کی پیچیدگی کے لحاظ سے مکمل رجسٹریشن کے عمل میں عام طور پر 2-4 گھنٹے لگتے ہیں۔ چوٹی کے اوقات کے نتیجے میں قدموں کے درمیان انتظار کا وقت طویل ہو سکتا ہے۔"
+    },
+    {
+      "question": "Can I skip any steps in the registration process?",
+      "answer": "No, the registration process requires all 7 steps to be completed in sequence. Each step is mandatory and serves a specific purpose in ensuring accurate and complete application processing.",
+      "urdu_question": "کیا میں رجسٹریشن کے عمل میں کوئی مرحلہ چھوڑ سکتا ہوں؟",
+      "urdu_answer": "نہیں، رجسٹریشن کے عمل کے لیے تمام 7 مراحل کو ترتیب سے مکمل کرنے کی ضرورت ہے۔ ہر قدم لازمی ہے اور درست اور مکمل درخواست کی کارروائی کو یقینی بنانے میں ایک خاص مقصد پورا کرتا ہے۔"
+    },
+    {
+      "question": "What should I bring to the NADRA center for registration?",
+      "answer": "You should bring all required original documents for your specific service, valid identification, payment for fees (cash or card), and any supporting documents. Check the specific document requirements for your service type before visiting.",
+      "urdu_question": "میں رجسٹریشن کے لیے نادرا سینٹر میں کیا لاؤں؟",
+      "urdu_answer": "آپ کو اپنی مخصوص سروس کے لیے تمام درکار اصل دستاویزات، درست شناخت، فیس کی ادائیگی (نقد یا کارڈ) اور کسی بھی معاون دستاویزات کو ساتھ لانا چاہیے۔ ملاحظہ کرنے سے پہلے اپنی سروس کی قسم کے لیے مخصوص دستاویز کی ضروریات کو چیک کریں۔"
+    },
+    {
+      "question": "Are there peak hours I should avoid at NADRA centers?",
+      "answer": "Peak hours are typically 9 AM-12 PM and 2 PM-4 PM on weekdays. To avoid crowds, consider visiting early morning (8 AM), late afternoon (4-5 PM), or mid-week (Tuesday-Thursday).",
+      "urdu_question": "کیا نادرا سنٹرز میں ایسے اوقات کار ہیں جن سے مجھے گریز کرنا چاہیے؟",
+      "urdu_answer": "کام کے اوقات عام طور پر 9 AM-12 PM اور 2 PM-4 PM ہفتے کے دنوں میں ہوتے ہیں۔ ہجوم سے بچنے کے لیے، صبح سویرے (8AM)، دیر سے دوپہر (4-5 PM)، یا ہفتے کے وسط (منگل سے جمعرات) جانے پر غور کریں۔"
+    },
+    {
+      "question": "Can family members go through the registration process together?",
+      "answer": "Family members can visit together and may receive consecutive tokens, but each person must complete their individual registration process including separate biometric capture, data entry, and interview steps.",
+      "urdu_question": "کیا خاندان کے افراد ایک ساتھ رجسٹریشن کے عمل سے گزر سکتے ہیں؟",
+      "urdu_answer": "خاندان کے افراد اکٹھے مل سکتے ہیں اور لگاتار ٹوکن وصول کر سکتے ہیں، لیکن ہر فرد کو اپنا انفرادی رجسٹریشن عمل مکمل کرنا چاہیے جس میں علیحدہ بایو میٹرک کیپچر، ڈیٹا انٹری، اور انٹرویو کے مراحل شامل ہیں۔"
+    },
+    {
+      "question": "What happens if I make an error during the demographic data entry?",
+      "answer": "Errors can be corrected during Step 5 when all details are reviewed with you before printing. If errors are found after printing, corrections can be made before proceeding to the interview, and the form will be reprinted.",
+      "urdu_question": "اگر میں ڈیموگرافک ڈیٹا انٹری کے دوران غلطی کروں تو کیا ہوگا؟",
+      "urdu_answer": "نقائص کو مرحلہ 5 کے دوران درست کیا جا سکتا ہے جب پرنٹ کرنے سے پہلے آپ کے ساتھ تمام تفصیلات کا جائزہ لیا جائے۔ اگر پرنٹنگ کے بعد غلطیاں پائی جاتی ہیں، تو انٹرویو میں جانے سے پہلے اصلاح کی جا سکتی ہے، اور فارم کو دوبارہ پرنٹ کیا جائے گا۔"
+    },
+    {
+      "question": "What if I cannot provide all fingerprints during biometric capture?",
+      "answer": "If you cannot provide all fingerprints due to injury, medical condition, or other reasons, NADRA staff will document the situation and use alternative biometric methods or capture available fingerprints for verification.",
+      "urdu_question": "کیا ہوگا اگر میں بائیو میٹرک کیپچر کے دوران تمام فنگر پرنٹس فراہم نہ کر سکوں؟",
+      "urdu_answer": "اگر آپ چوٹ، طبی حالت، یا دیگر وجوہات کی وجہ سے تمام فنگر پرنٹس فراہم نہیں کر سکتے ہیں، تو نادرا کا عملہ صورت حال کو دستاویز کرے گا اور متبادل بائیو میٹرک طریقے استعمال کرے گا یا تصدیق کے لیے دستیاب فنگر پرنٹس حاصل کرے گا۔"
+    },
+    {
+      "question": "Can I leave the center and return later during the registration process?",
+      "answer": "No, the registration process is designed as a continuous workflow. Once you receive your token, you should remain at the center to complete all steps in sequence. Leaving may require restarting the process.",
+      "urdu_question": "کیا میں رجسٹریشن کے عمل کے دوران مرکز سے نکل سکتا ہوں اور بعد میں واپس آ سکتا ہوں؟",
+      "urdu_answer": "نہیں، رجسٹریشن کے عمل کو ایک مسلسل ورک فلو کے طور پر ڈیزائن کیا گیا ہے۔ ایک بار جب آپ اپنا ٹوکن وصول کر لیتے ہیں، تو آپ کو ترتیب میں تمام مراحل کو مکمل کرنے کے لیے مرکز میں رہنا چاہیے۔ چھوڑنے کے لیے عمل کو دوبارہ شروع کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What electronic payment methods are accepted during fee collection?",
+      "answer": "Electronic payment methods typically include credit cards, debit cards, mobile banking, digital wallets like JazzCash and Easypaisa, and other approved electronic payment systems available at the center.",
+      "urdu_question": "فیس جمع کرنے کے دوران ادائیگی کے کون سے الیکٹرانک طریقے قبول کیے جاتے ہیں؟",
+      "urdu_answer": "الیکٹرانک ادائیگی کے طریقوں میں عام طور پر کریڈٹ کارڈز، ڈیبٹ کارڈز، موبائل بینکنگ، ڈیجیٹل والیٹس جیسے JazzCash اور Easypaisa، اور مرکز پر دستیاب دیگر منظور شدہ الیکٹرانک ادائیگی کے نظام شامل ہیں۔"
+    },
+    {
+      "question": "What happens if the biometric capture equipment malfunctions?",
+      "answer": "If biometric equipment malfunctions, NADRA staff will attempt to resolve the issue, use backup equipment if available, or reschedule your biometric capture. You may receive a temporary receipt to return when equipment is functioning.",
+      "urdu_question": "اگر بائیو میٹرک کیپچر کا سامان خراب ہو جائے تو کیا ہوتا ہے؟",
+      "urdu_answer": "اگر بائیو میٹرک آلات میں خرابی ہے تو، نادرا کا عملہ اس مسئلے کو حل کرنے کی کوشش کرے گا، اگر دستیاب ہو تو بیک اپ کا سامان استعمال کریں، یا آپ کے بائیو میٹرک کیپچر کو دوبارہ شیڈول کریں۔ جب سامان کام کر رہا ہو تو آپ کو واپسی کے لیے ایک عارضی رسید موصول ہو سکتی ہے۔"
+    },
+    {
+      "question": "Are there any dress code requirements for the registration process?",
+      "answer": "While there's no strict dress code, you must remove headgear during photograph capture. Dress modestly and appropriately for official documentation. Religious headwear may be accommodated in certain circumstances.",
+      "urdu_question": "کیا رجسٹریشن کے عمل کے لیے ڈریس کوڈ کے کوئی تقاضے ہیں؟",
+      "urdu_answer": "اگرچہ لباس کا کوئی سخت کوڈ نہیں ہے، آپ کو تصویر کھینچنے کے دوران ہیڈ گیئر کو ہٹا دینا چاہیے۔ سرکاری دستاویزات کے لیے معمولی اور مناسب لباس پہنیں۔ مذہبی سر کے لباس کو مخصوص حالات میں ایڈجسٹ کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Can I request a specific NADRA officer for my interview?",
+      "answer": "Generally, you cannot request specific officers as interviews are conducted based on availability and workload distribution. However, if you have concerns about the interview process, you can speak with a supervisor.",
+      "urdu_question": "کیا میں اپنے انٹرویو کے لیے نادرا کے مخصوص افسر سے درخواست کر سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، آپ مخصوص افسران سے درخواست نہیں کر سکتے ہیں کیونکہ انٹرویو دستیابی اور کام کے بوجھ کی تقسیم کی بنیاد پر کیے جاتے ہیں۔ تاہم، اگر آپ کو انٹرویو کے عمل کے بارے میں خدشات ہیں، تو آپ سپروائزر سے بات کر سکتے ہیں۔"
+    },
+    {
+      "question": "What questions are typically asked during the NADRA interview?",
+      "answer": "The interview typically covers verification of personal details, family information, address confirmation, purpose of application, document authenticity, and clarification of any discrepancies in the provided information.",
+      "urdu_question": "نادرا انٹرویو کے دوران عام طور پر کون سے سوالات پوچھے جاتے ہیں؟",
+      "urdu_answer": "انٹرویو میں عام طور پر ذاتی تفصیلات کی تصدیق، خاندانی معلومات، پتے کی تصدیق، درخواست کا مقصد، دستاویز کی صداقت، اور فراہم کردہ معلومات میں کسی بھی تضاد کی وضاحت شامل ہوتی ہے۔"
+    },
+    {
+      "question": "What happens if I fail the interview stage?",
+      "answer": "If there are issues during the interview, the officer may request additional documentation, clarification, or defer the application pending further verification. You'll be informed about specific concerns and next steps.",
+      "urdu_question": "اگر میں انٹرویو کے مرحلے میں ناکام ہو جاؤں تو کیا ہوگا؟",
+      "urdu_answer": "اگر انٹرویو کے دوران مسائل پیش آتے ہیں، تو افسر اضافی دستاویزات، وضاحت، یا مزید تصدیق تک درخواست کو موخر کر سکتا ہے۔ آپ کو مخصوص خدشات اور اگلے اقدامات کے بارے میں مطلع کیا جائے گا۔"
+    },
+    {
+      "question": "Can I bring a translator or assistant during the registration process?",
+      "answer": "Yes, you can bring a translator or assistant, especially if you have language barriers or disabilities. However, the primary applicant must personally participate in biometric capture and interview stages.",
+      "urdu_question": "کیا میں رجسٹریشن کے عمل کے دوران مترجم یا معاون لا سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ مترجم یا معاون لا سکتے ہیں، خاص طور پر اگر آپ کو زبان کی رکاوٹیں یا معذوری ہو۔ تاہم، بنیادی درخواست دہندہ کو ذاتی طور پر بائیو میٹرک کیپچر اور انٹرویو کے مراحل میں حصہ لینا چاہیے۔"
+    },
+    {
+      "question": "What privacy measures protect my information during registration?",
+      "answer": "NADRA implements strict privacy measures including restricted access to processing areas, secure data handling protocols, limited staff access to personal information, and secure transmission of data to central servers.",
+      "urdu_question": "رجسٹریشن کے دوران رازداری کے کون سے اقدامات میری معلومات کی حفاظت کرتے ہیں؟",
+      "urdu_answer": "نادرا رازداری کے سخت اقدامات کو لاگو کرتا ہے جس میں پروسیسنگ ایریاز تک محدود رسائی، محفوظ ڈیٹا ہینڈلنگ پروٹوکول، عملے کی ذاتی معلومات تک محدود رسائی اور مرکزی سرورز تک ڈیٹا کی محفوظ ترسیل شامل ہیں۔"
+    },
+    {
+      "question": "Are there separate queues for different types of applications?",
+      "answer": "Some centers may have separate queues for different services (new applications, renewals, modifications), while others use a unified token system. Check with your specific DAU about their queue management system.",
+      "urdu_question": "کیا مختلف قسم کی درخواستوں کے لیے الگ قطاریں ہیں؟",
+      "urdu_answer": "کچھ مراکز میں مختلف خدمات (نئی ایپلیکیشنز، تجدیدات، ترمیمات) کے لیے الگ الگ قطاریں ہو سکتی ہیں، جبکہ دیگر ایک متحد ٹوکن سسٹم استعمال کرتے ہیں۔ اپنے مخصوص DAU سے ان کے قطار کے انتظام کے نظام کے بارے میں چیک کریں۔"
+    },
+    {
+      "question": "What happens if I lose my token during the registration process?",
+      "answer": "If you lose your token, immediately inform the staff. They may be able to verify your identity and issue a replacement token or guide you through alternative procedures to continue your application.",
+      "urdu_question": "اگر میں رجسٹریشن کے عمل کے دوران اپنا ٹوکن کھو دوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ اپنا ٹوکن کھو دیتے ہیں تو فوراً عملے کو مطلع کریں۔ وہ آپ کی شناخت کی تصدیق کر سکتے ہیں اور متبادل ٹوکن جاری کر سکتے ہیں یا آپ کی درخواست جاری رکھنے کے لیے متبادل طریقہ کار کے ذریعے آپ کی رہنمائی کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I change my mind about the type of service during registration?",
+      "answer": "It's best to decide on the type of service before starting the process. Changes during registration may require restarting the process with different documentation and fees.",
+      "urdu_question": "کیا میں رجسٹریشن کے دوران سروس کی قسم کے بارے میں اپنا خیال بدل سکتا ہوں؟",
+      "urdu_answer": "عمل شروع کرنے سے پہلے سروس کی قسم کے بارے میں فیصلہ کرنا بہتر ہے۔ رجسٹریشن کے دوران تبدیلیوں کے لیے مختلف دستاویزات اور فیسوں کے ساتھ عمل کو دوبارہ شروع کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What accessibility accommodations are available during registration?",
+      "answer": "NADRA provides accessibility accommodations including wheelchair access, priority queues for elderly and disabled applicants, assistance with form filling, and alternative biometric capture methods when needed.",
+      "urdu_question": "رجسٹریشن کے دوران کون سے قابل رسائی رہائش دستیاب ہیں؟",
+      "urdu_answer": "نادرا قابل رسائی رہائش فراہم کرتا ہے جس میں وہیل چیئر تک رسائی، بزرگ اور معذور درخواست دہندگان کے لیے ترجیحی قطاریں، فارم بھرنے میں مدد، اور ضرورت پڑنے پر بائیو میٹرک کیپچر کے متبادل طریقے شامل ہیں۔"
+    },
+    {
+      "question": "How is my personal data secured during the registration process?",
+      "answer": "Personal data is secured through encrypted transmission, limited staff access, secure storage systems, CCTV monitoring, and strict data protection protocols throughout all steps of the registration process.",
+      "urdu_question": "رجسٹریشن کے عمل کے دوران میرا ذاتی ڈیٹا کیسے محفوظ ہے؟",
+      "urdu_answer": "ذاتی ڈیٹا کو انکرپٹڈ ٹرانسمیشن، عملے کی محدود رسائی، محفوظ اسٹوریج سسٹم، سی سی ٹی وی مانیٹرنگ، اور رجسٹریشن کے تمام مراحل میں ڈیٹا پروٹیکشن کے سخت پروٹوکول کے ذریعے محفوظ کیا جاتا ہے۔"
+    },
+    {
+      "question": "What should I do if I disagree with information entered during demographic data entry?",
+      "answer": "Immediately inform the data entry operator about any disagreements or errors. All information is reviewed with you in Step 5 before printing, providing an opportunity to make corrections.",
+      "urdu_question": "اگر میں ڈیموگرافک ڈیٹا انٹری کے دوران درج کی گئی معلومات سے متفق ہوں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "ڈیٹا انٹری آپریٹر کو کسی بھی اختلاف یا غلطی کے بارے میں فوری طور پر مطلع کریں۔ تصحیح کرنے کا موقع فراہم کرتے ہوئے، پرنٹ کرنے سے پہلے مرحلہ 5 میں آپ کے ساتھ تمام معلومات کا جائزہ لیا جاتا ہے۔"
+    },
+    {
+      "question": "Can I complete the registration process in multiple visits?",
+      "answer": "The registration process is designed to be completed in a single visit. Breaking it into multiple visits may cause complications and may require restarting the process from Step 1.",
+      "urdu_question": "کیا میں ایک سے زیادہ دوروں میں رجسٹریشن کا عمل مکمل کر سکتا ہوں؟",
+      "urdu_answer": "رجسٹریشن کے عمل کو ایک ہی دورے میں مکمل کرنے کے لیے ڈیزائن کیا گیا ہے۔ اسے متعدد دوروں میں تقسیم کرنے سے پیچیدگیاں پیدا ہو سکتی ہیں اور مرحلہ 1 سے عمل کو دوبارہ شروع کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What backup procedures exist if computer systems are down?",
+      "answer": "If computer systems are down, NADRA may temporarily halt processing, use backup systems if available, or provide temporary receipts for applicants to return when systems are restored.",
+      "urdu_question": "اگر کمپیوٹر سسٹم بند ہیں تو بیک اپ کے کون سے طریقہ کار موجود ہیں؟",
+      "urdu_answer": "اگر کمپیوٹر سسٹم بند ہیں، نادرا عارضی طور پر پروسیسنگ کو روک سکتا ہے، اگر دستیاب ہو تو بیک اپ سسٹم استعمال کر سکتا ہے، یا سسٹم بحال ہونے پر درخواست دہندگان کو واپس آنے کے لیے عارضی رسیدیں فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "How do I know my registration was successful?",
+      "answer": "After completing Step 7 (Interview) and form collection, you'll receive a receipt with tracking information. This confirms successful completion of the registration process at the center level.",
+      "urdu_question": "میں کیسے جان سکتا ہوں کہ میری رجسٹریشن کامیاب رہی؟",
+      "urdu_answer": "مرحلہ 7 (انٹرویو) مکمل کرنے اور فارم جمع کرنے کے بعد، آپ کو ٹریکنگ کی معلومات کے ساتھ ایک رسید موصول ہوگی۔ یہ مرکز کی سطح پر رجسٹریشن کے عمل کی کامیاب تکمیل کی تصدیق کرتا ہے۔"
+    },
+    {
+      "question": "Can I track my application status after completing registration?",
+      "answer": "Yes, you can track your application status using the tracking number provided, through PAK-ID mobile app, SMS services, online portals, or by calling NADRA helpline 1777.",
+      "urdu_question": "کیا میں رجسٹریشن مکمل کرنے کے بعد اپنی درخواست کی حیثیت کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID موبائل ایپ، ایس ایم ایس سروسز، آن لائن پورٹلز، یا نادرا ہیلپ لائن 1777 پر کال کر کے فراہم کردہ ٹریکنگ نمبر کا استعمال کرتے ہوئے اپنی درخواست کی حیثیت کو ٹریک کر سکتے ہیں۔"
+    },
+    {
+      "question": "What happens if there are discrepancies in my documents during registration?",
+      "answer": "If discrepancies are found, the NADRA officer will discuss them during the interview. You may be asked to provide additional documentation or clarification to resolve the discrepancies.",
+      "urdu_question": "اگر رجسٹریشن کے دوران میرے دستاویزات میں تضادات ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر تضاد پایا جاتا ہے تو نادرا افسر انٹرویو کے دوران ان پر بات کرے گا۔ آپ سے تضادات کو حل کرنے کے لیے اضافی دستاویزات یا وضاحت فراہم کرنے کے لیے کہا جا سکتا ہے۔"
+    },
+    {
+      "question": "Are there express or priority registration services available?",
+      "answer": "Some centers may offer priority services for urgent applications, elderly applicants, or disabled persons. Check with your DAU about available priority services and any additional requirements.",
+      "urdu_question": "کیا ایکسپریس یا ترجیحی رجسٹریشن کی خدمات دستیاب ہیں؟",
+      "urdu_answer": "کچھ مراکز فوری درخواستوں، بزرگ درخواست دہندگان، یا معذور افراد کے لیے ترجیحی خدمات پیش کر سکتے ہیں۔ دستیاب ترجیحی خدمات اور کسی بھی اضافی ضروریات کے بارے میں اپنے DAU سے چیک کریں۔"
+    },
+    {
+      "question": "What should I do if I feel unwell during the registration process?",
+      "answer": "If you feel unwell, inform the staff immediately. They can provide assistance, allow you to rest, or help reschedule your appointment if necessary. Your health and safety are prioritized.",
+      "urdu_question": "اگر میں رجسٹریشن کے عمل کے دوران بیمار محسوس کروں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کی طبیعت ناساز ہو تو فوراً عملے کو مطلع کریں۔ وہ مدد فراہم کر سکتے ہیں، آپ کو آرام کرنے کی اجازت دے سکتے ہیں، یا اگر ضروری ہو تو آپ کی ملاقات کو دوبارہ ترتیب دینے میں مدد کر سکتے ہیں۔ آپ کی صحت اور حفاظت کو ترجیح دی جاتی ہے۔"
+    },
+    {
+      "question": "Can I register for multiple services in the same visit?",
+      "answer": "Depending on the services, you may be able to apply for multiple services in the same visit. However, each service may require separate processing, documentation, and fees.",
+      "urdu_question": "کیا میں ایک ہی وزٹ میں متعدد سروسز کے لیے رجسٹر ہو سکتا ہوں؟",
+      "urdu_answer": "خدمات پر منحصر ہے، آپ ایک ہی دورے میں متعدد خدمات کے لیے درخواست دے سکتے ہیں۔ تاہم، ہر سروس کو علیحدہ پروسیسنگ، دستاویزات اور فیس کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "What happens to my original documents during registration?",
+      "answer": "Original documents are typically verified and returned to you during the process. Photocopies may be made for NADRA's records, but original documents remain with you unless specifically required to be submitted.",
+      "urdu_question": "رجسٹریشن کے دوران میری اصل دستاویزات کا کیا ہوتا ہے؟",
+      "urdu_answer": "اصل دستاویزات کی عام طور پر تصدیق کی جاتی ہے اور عمل کے دوران آپ کو واپس کر دی جاتی ہے۔ نادرا کے ریکارڈ کے لیے فوٹو کاپیاں بنائی جا سکتی ہیں، لیکن اصل دستاویزات آپ کے پاس رہتی ہیں جب تک کہ خاص طور پر جمع کرانے کی ضرورت نہ ہو۔"
+    },
+    {
+      "question": "How often should I check my information during the registration process?",
+      "answer": "You should carefully review information at two key points: during Step 5 when details are reviewed before printing, and during Step 6 when you review and sign the printed form. Accuracy is crucial at both stages.",
+      "urdu_question": "رجسٹریشن کے عمل کے دوران مجھے کتنی بار اپنی معلومات کی جانچ کرنی چاہیے؟",
+      "urdu_answer": "آپ کو دو اہم نکات پر معلومات کا بغور جائزہ لینا چاہئے: مرحلہ 5 کے دوران جب پرنٹنگ سے پہلے تفصیلات کا جائزہ لیا جاتا ہے، اور مرحلہ 6 کے دوران جب آپ پرنٹ شدہ فارم کا جائزہ لیتے اور دستخط کرتے ہیں۔ درستگی دونوں مراحل میں اہم ہے۔"
+    },
+    {
+      "question": "Can minors complete the registration process independently?",
+      "answer": "Minors typically require parental or guardian presence during registration. The accompanying adult may need to provide consent and assist with certain steps of the process.",
+      "urdu_question": "کیا نابالغ بچے رجسٹریشن کا عمل آزادانہ طور پر مکمل کر سکتے ہیں؟",
+      "urdu_answer": "نابالغوں کو عام طور پر رجسٹریشن کے دوران والدین یا سرپرست کی موجودگی کی ضرورت ہوتی ہے۔ ساتھ آنے والے بالغ کو رضامندی فراہم کرنے اور عمل کے بعض مراحل میں مدد کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens if I need to make changes after completing registration?",
+      "answer": "After completing registration, changes typically require separate modification procedures. It's important to ensure all information is correct during the registration process to avoid later complications.",
+      "urdu_question": "اگر مجھے رجسٹریشن مکمل کرنے کے بعد تبدیلیاں کرنے کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "رجسٹریشن مکمل کرنے کے بعد، تبدیلیوں کے لیے عام طور پر الگ الگ ترمیمی طریقہ کار کی ضرورت ہوتی ہے۔ یہ یقینی بنانا ضروری ہے کہ رجسٹریشن کے عمل کے دوران تمام معلومات درست ہیں تاکہ بعد میں ہونے والی پیچیدگیوں سے بچا جا سکے۔"
+    },
+    {
+      "question": "Are there any medical requirements for the registration process?",
+      "answer": "Generally, there are no specific medical requirements for registration. However, certain services may require medical certificates or documentation, depending on the type of application.",
+      "urdu_question": "کیا رجسٹریشن کے عمل کے لیے کوئی طبی تقاضے ہیں؟",
+      "urdu_answer": "عام طور پر، رجسٹریشن کے لیے کوئی خاص طبی تقاضے نہیں ہوتے۔ تاہم، درخواست کی قسم کے لحاظ سے بعض خدمات کے لیے طبی سرٹیفکیٹ یا دستاویزات کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "How is confidentiality maintained during the interview?",
+      "answer": "Interviews are conducted in designated areas with privacy measures. NADRA officers are trained in confidentiality protocols, and sensitive information is handled according to data protection guidelines.",
+      "urdu_question": "انٹرویو کے دوران رازداری کیسے برقرار رکھی جاتی ہے؟",
+      "urdu_answer": "انٹرویوز رازداری کے اقدامات کے ساتھ نامزد علاقوں میں کیے جاتے ہیں۔ نادرا افسران کو رازداری کے پروٹوکول کی تربیت دی جاتی ہے، اور حساس معلومات کو ڈیٹا کے تحفظ کے رہنما خطوط کے مطابق ہینڈل کیا جاتا ہے۔"
+    },
+    {
+      "question": "Can I provide feedback about my registration experience?",
+      "answer": "Yes, you can provide feedback through NADRA's feedback mechanisms including complaint boxes at centers, online feedback portals, helpline 1777, or official email channels.",
+      "urdu_question": "کیا میں اپنے رجسٹریشن کے تجربے کے بارے میں رائے دے سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ نادرا کے فیڈ بیک میکانزم کے ذریعے فیڈ بیک فراہم کر سکتے ہیں جن میں مراکز پر شکایت کے خانے، آن لائن فیڈ بیک پورٹلز، ہیلپ لائن 1777، یا سرکاری ای میل چینلز شامل ہیں۔"
+    },
+    {
+      "question": "What should I do if I suspect fraudulent activity during registration?",
+      "answer": "If you suspect fraudulent activity, immediately report it to NADRA security, the center supervisor, or call the helpline 1777. Provide details about the suspected fraud for investigation.",
+      "urdu_question": "اگر مجھے رجسٹریشن کے دوران دھوکہ دہی کی سرگرمی کا شبہ ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو دھوکہ دہی کی سرگرمی کا شبہ ہے، تو فوری طور پر نادرا سیکیورٹی، سینٹر سپروائزر کو اطلاع دیں، یا ہیلپ لائن 1777 پر کال کریں۔ تحقیقات کے لیے مشتبہ فراڈ کے بارے میں تفصیلات فراہم کریں۔"
+    },
+    {
+      "question": "Are there different registration procedures for different types of identity documents?",
+      "answer": "While the basic 7-step process is standard, specific requirements, documentation, and procedures may vary depending on the type of identity document or service being applied for.",
+      "urdu_question": "کیا شناختی دستاویزات کی مختلف اقسام کے لیے رجسٹریشن کے مختلف طریقہ کار ہیں؟",
+      "urdu_answer": "جبکہ بنیادی 7 قدمی عمل معیاری ہے، مخصوص تقاضے، دستاویزات، اور طریقہ کار شناختی دستاویز یا سروس کی قسم کے لحاظ سے مختلف ہو سکتے ہیں جس کے لیے درخواست دی جا رہی ہے۔"
+    },
+    {
+      "question": "How do I prepare for the NADRA registration process?",
+      "answer": "Prepare by gathering all required documents, checking fee amounts, choosing off-peak visit times, reviewing application requirements, bringing proper identification, and ensuring you have sufficient time to complete all steps.",
+      "urdu_question": "میں نادرا رجسٹریشن کے عمل کی تیاری کیسے کروں؟",
+      "urdu_answer": "تمام مطلوبہ دستاویزات جمع کر کے، فیس کی رقم کی جانچ کر کے، آف پیک وزٹ کے اوقات کا انتخاب کر کے، درخواست کی ضروریات کا جائزہ لے کر، مناسب شناخت لے کر، اور اس بات کو یقینی بنائیں کہ آپ کے پاس تمام مراحل کو مکمل کرنے کے لیے کافی وقت ہے۔"
+    },
+    {
+      "question": "What quality assurance measures are in place during registration?",
+      "answer": "Quality assurance includes multiple verification steps, supervisor oversight, data accuracy checks, biometric quality validation, interview verification, and system checks before final submission.",
+      "urdu_question": "رجسٹریشن کے دوران کوالٹی اشورینس کے کیا اقدامات کیے جاتے ہیں؟",
+      "urdu_answer": "کوالٹی ایشورنس میں تصدیق کے متعدد مراحل، سپروائزر کی نگرانی، ڈیٹا کی درستگی کی جانچ، بائیو میٹرک معیار کی تصدیق، انٹرویو کی تصدیق، اور حتمی جمع کرانے سے پہلے سسٹم کی جانچ شامل ہے۔"
+    },
+    {
+      "question": "Can I get assistance if I have difficulty understanding the registration process?",
+      "answer": "Yes, NADRA staff are available to assist applicants who need help understanding the process. You can ask questions at any step, and staff will provide guidance to ensure proper completion.",
+      "urdu_question": "اگر مجھے رجسٹریشن کے عمل کو سمجھنے میں دشواری ہو تو کیا میں مدد حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا کا عملہ ان درخواست دہندگان کی مدد کے لیے دستیاب ہے جنہیں عمل کو سمجھنے میں مدد کی ضرورت ہے۔ آپ کسی بھی مرحلے پر سوالات پوچھ سکتے ہیں، اور عملہ مناسب تکمیل کو یقینی بنانے کے لیے رہنمائی فراہم کرے گا۔"
+    },
+    {
+      "question": "What happens if there are power outages during registration?",
+      "answer": "If power outages occur, NADRA centers typically have backup power systems. If systems are affected, you may receive a temporary receipt to return when power is restored.",
+      "urdu_question": "اگر رجسٹریشن کے دوران بجلی کی بندش ہو تو کیا ہوتا ہے؟",
+      "urdu_answer": "اگر بجلی کی بندش ہوتی ہے تو، نادرا مراکز میں عام طور پر بیک اپ پاور سسٹم ہوتا ہے۔ اگر سسٹم متاثر ہوتے ہیں، تو بجلی بحال ہونے پر آپ کو واپسی کے لیے ایک عارضی رسید موصول ہو سکتی ہے۔"
+    },
+    {
+      "question": "Are there any restrictions on when I can complete the registration process?",
+      "answer": "Registration can be completed during DAU operating hours. Some centers may have specific hours for certain services, and holiday schedules may affect availability.",
+      "urdu_question": "کیا اس پر کوئی پابندیاں ہیں جب میں رجسٹریشن کا عمل مکمل کر سکتا ہوں؟",
+      "urdu_answer": "رجسٹریشن DAU کے کام کے اوقات میں مکمل کی جا سکتی ہے۔ کچھ مراکز میں کچھ خدمات کے لیے مخصوص اوقات ہو سکتے ہیں، اور چھٹیوں کے شیڈول دستیابی کو متاثر کر سکتے ہیں۔"
+    },
+    {
+      "question": "How does NADRA ensure the security of the registration process?",
+      "answer": "Security measures include CCTV monitoring, restricted access areas, staff identification protocols, secure data transmission, biometric verification, and comprehensive audit trails for all transactions.",
+      "urdu_question": "نادرا رجسٹریشن کے عمل کی حفاظت کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "حفاظتی اقدامات میں سی سی ٹی وی کی نگرانی، رسائی کے محدود علاقے، عملے کی شناخت کے پروٹوکول، محفوظ ڈیٹا ٹرانسمیشن، بائیو میٹرک تصدیق، اور تمام لین دین کے لیے جامع آڈٹ ٹریلز شامل ہیں۔"
+    },
+    {
+      "question": "What training do NADRA staff receive for the registration process?",
+      "answer": "NADRA staff receive comprehensive training on registration procedures, customer service, data protection, system operation, document verification, and maintaining quality standards throughout the process.",
+      "urdu_question": "نادرا کا عملہ رجسٹریشن کے عمل کے لیے کیا تربیت حاصل کرتا ہے؟",
+      "urdu_answer": "نادرا کا عملہ رجسٹریشن کے طریقہ کار، کسٹمر سروس، ڈیٹا پروٹیکشن، سسٹم آپریشن، دستاویزات کی تصدیق، اور پورے عمل کے دوران معیار کے معیار کو برقرار رکھنے کے بارے میں جامع تربیت حاصل کرتا ہے۔"
+    },
+    {
+      "question": "Can I request a copy of my registration form?",
+      "answer": "You typically receive a receipt with key information after registration. For additional copies or detailed information, you may need to make specific requests through official channels.",
+      "urdu_question": "کیا میں اپنے رجسٹریشن فارم کی ایک کاپی کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "آپ کو عام طور پر رجسٹریشن کے بعد کلیدی معلومات کے ساتھ ایک رسید موصول ہوتی ہے۔ اضافی کاپیوں یا تفصیلی معلومات کے لیے، آپ کو سرکاری چینلز کے ذریعے مخصوص درخواستیں کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens if I need to cancel my registration during the process?",
+      "answer": "If you need to cancel during the process, inform the staff immediately. Depending on the stage, you may be able to stop the process, though fees paid may not be refundable.",
+      "urdu_question": "اگر مجھے عمل کے دوران اپنی رجسٹریشن منسوخ کرنے کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کو عمل کے دوران منسوخ کرنے کی ضرورت ہے، تو عملے کو فوری طور پر مطلع کریں۔ اسٹیج پر منحصر ہے، آپ اس عمل کو روکنے کے قابل ہوسکتے ہیں، حالانکہ ادا کی گئی فیس واپسی نہیں ہوسکتی ہے۔"
+    },
+    {
+      "question": "Are there any technological innovations being implemented in the registration process?",
+      "answer": "NADRA continuously updates its systems with new technology including improved biometric systems, digital workflows, online services, and enhanced security measures to improve the registration experience.",
+      "urdu_question": "کیا رجسٹریشن کے عمل میں کوئی تکنیکی ایجادات کو لاگو کیا جا رہا ہے؟",
+      "urdu_answer": "نادرا اپنے سسٹمز کو نئی ٹیکنالوجی کے ساتھ مسلسل اپ ڈیٹ کرتا رہتا ہے جس میں بہتر بائیو میٹرک سسٹم، ڈیجیٹل ورک فلو، آن لائن خدمات، اور رجسٹریشن کے تجربے کو بہتر بنانے کے لیے سیکیورٹی کے بہتر اقدامات شامل ہیں۔"
+    },
+    {
+      "question": "How does the registration process accommodate people with special needs?",
+      "answer": "Special accommodations include wheelchair accessibility, priority queues, assistance with form completion, alternative communication methods, extended time allowances, and specialized staff support as needed.",
+      "urdu_question": "رجسٹریشن کا عمل خصوصی ضروریات والے لوگوں کو کیسے ایڈجسٹ کرتا ہے؟",
+      "urdu_answer": "خصوصی رہائش میں وہیل چیئر تک رسائی، ترجیحی قطاریں، فارم کی تکمیل میں مدد، مواصلات کے متبادل طریقے، توسیعی وقت کے الاؤنسز، اور ضرورت کے مطابق عملے کی خصوصی مدد شامل ہیں۔"
+    },
+    {
+      "question": "What coordination exists between different NADRA centers for registration?",
+      "answer": "NADRA centers are connected through centralized systems allowing data sharing, application tracking, and coordination. You can typically track your application from any center after registration.",
+      "urdu_question": "رجسٹریشن کے لیے نادرا کے مختلف مراکز کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "نادرا مراکز سینٹرلائزڈ سسٹم کے ذریعے منسلک ہیں جو ڈیٹا شیئرنگ، ایپلیکیشن ٹریکنگ اور کوآرڈینیشن کی اجازت دیتے ہیں۔ آپ عام طور پر رجسٹریشن کے بعد کسی بھی مرکز سے اپنی درخواست کو ٹریک کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I register at any NADRA DAU regardless of my address?",
+      "answer": "Generally, you can register at any NADRA DAU across Pakistan. However, some services may have location-specific requirements or preferences, so it's best to confirm with the specific service requirements.",
+      "urdu_question": "کیا میں اپنے پتے سے قطع نظر کسی بھی نادرا ڈی اے یو میں رجسٹر ہو سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، آپ پورے پاکستان میں کسی بھی نادرا DAU میں رجسٹر کر سکتے ہیں۔ تاہم، کچھ سروسز میں مقام کے لحاظ سے مخصوص تقاضے یا ترجیحات ہو سکتی ہیں، اس لیے مخصوص سروس کے تقاضوں کے ساتھ تصدیق کرنا بہتر ہے۔"
+    },
+    {
+      "question": "What future improvements are planned for the registration process?",
+      "answer": "NADRA continues to work on process improvements including digital integration, reduced processing times, enhanced user experience, better queue management, and expanded online services.",
+      "urdu_question": "رجسٹریشن کے عمل کے لیے مستقبل میں کیا بہتری کی منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "نادرا عمل میں بہتری پر کام جاری رکھے ہوئے ہے جس میں ڈیجیٹل انضمام، پروسیسنگ کے اوقات میں کمی، صارف کے تجربے میں اضافہ، قطار کا بہتر انتظام، اور توسیع شدہ آن لائن خدمات شامل ہیں۔"
+    }
+  ]
+}

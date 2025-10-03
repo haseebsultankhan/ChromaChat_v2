@@ -1,0 +1,319 @@
+{
+  "file_name": "alien-registration-policy.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 54,
+  "qa_data": [
+    {
+      "question": "What is the title and version of the policy document?",
+      "answer": "The document is titled **ALIEN REGISTRATION POLICY** and its version is **1.0.0**.",
+      "urdu_question": "پالیسی دستاویز کا عنوان اور ورژن کیا ہے؟",
+      "urdu_answer": "دستاویز کا عنوان ہے **ایلین رجسٹریشن پالیسی** اور اس کا ورژن **1.0.0** ہے۔"
+    },
+    {
+      "question": "Who is eligible for alien registration if they have been residing illegally in Pakistan?",
+      "answer": "Any foreigner or their family members (excluding Afghan nationals and POC holders) who have been residing **illegally for at least five years** prior to registration, **or** who have remained in prison for **three years** (under Foreign Act 14‑D), whichever period is shorter.",
+      "urdu_question": "اگر وہ پاکستان میں غیر قانونی طور پر مقیم ہیں تو کون غیر ملکی رجسٹریشن کا اہل ہے؟",
+      "urdu_answer": "کوئی بھی غیر ملکی یا ان کے خاندان کے افراد (افغان شہریوں اور POC ہولڈرز کو چھوڑ کر) جو رجسٹریشن سے پہلے **کم از کم پانچ سال سے** غیر قانونی طور پر مقیم ہیں، **یا** جو **تین سال** (غیر ملکی ایکٹ 14‑D کے تحت) سے جیل میں رہے ہیں، جو بھی مدت کم ہو۔"
+    },
+    {
+      "question": "Are Afghan nationals and POC holders covered by the eligibility criteria?",
+      "answer": "No. Afghan nationals and POC (Persons of Pakistani Origin) holders are **excluded** from the eligibility criteria defined in this policy.",
+      "urdu_question": "کیا افغان شہری اور POC ہولڈر اہلیت کے معیار کے تحت آتے ہیں؟",
+      "urdu_answer": "نہیں۔"
+    },
+    {
+      "question": "What is the eligibility condition for foreigners holding a valid visa or passport?",
+      "answer": "Foreigners with a valid visa or passport who intend to live in Pakistan **for more than ninety (90) days** are eligible for mandatory registration and issuance of an Alien Registration Card (ARC).",
+      "urdu_question": "درست ویزا یا پاسپورٹ رکھنے والے غیر ملکیوں کے لیے اہلیت کی شرط کیا ہے؟",
+      "urdu_answer": "درست ویزا یا پاسپورٹ والے غیر ملکی جو ** نوے (90) دنوں سے زیادہ ** پاکستان میں رہنے کا ارادہ رکھتے ہیں وہ لازمی رجسٹریشن اور ایلین رجسٹریشن کارڈ (ARC) کے اجراء کے اہل ہیں۔"
+    },
+    {
+      "question": "Is registration mandatory for foreigners who intend to stay less than ninety days?",
+      "answer": "No. Registration for foreigners on a valid visa/passport intending to stay **less than ninety (90) days** is **optional**.",
+      "urdu_question": "کیا نوے دن سے کم قیام کا ارادہ رکھنے والے غیر ملکیوں کے لیے رجسٹریشن لازمی ہے؟",
+      "urdu_answer": "نمبر۔ ایک درست ویزا/پاسپورٹ پر غیر ملکیوں کے لیے رجسٹریشن جو **نوے (90) دنوں سے کم رہنے کا ارادہ رکھتے ہیں** **اختیاری** ہے۔"
+    },
+    {
+      "question": "What are the two main types of registration described in the policy?",
+      "answer": "1) **Registration and Issuance of Card** – compulsory for residents of five years or for stays >90 days; optional for stays <90 days. 2) **Work Permit** – issued by the Interior Division to registered foreigners holding an ARC.",
+      "urdu_question": "پالیسی میں بیان کردہ رجسٹریشن کی دو اہم اقسام کیا ہیں؟",
+      "urdu_answer": "1) **رجسٹریشن اور کارڈ کا اجراء** - پانچ سال کے رہائشیوں کے لیے یا 90 دنوں سے زیادہ قیام کے لیے لازمی؛ <90 دنوں کے قیام کے لیے اختیاری۔ 2) ** ورک پرمٹ** - داخلہ ڈویژن کی طرف سے ARC رکھنے والے رجسٹرڈ غیر ملکیوں کو جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "When is a foreigner compulsorily required to register and obtain an ARC?",
+      "answer": "When the foreigner has stayed in Pakistan **at least five (5) years** prior to registration **or** intends to stay **more than ninety (90) days**.",
+      "urdu_question": "ایک غیر ملکی کو لازمی طور پر رجسٹریشن اور اے آر سی حاصل کرنے کی کب ضرورت ہے؟",
+      "urdu_answer": "جب غیر ملکی ** رجسٹریشن سے پہلے ** کم از کم پانچ (5) سال ** پاکستان میں مقیم ہو ** یا** قیام کا ارادہ رکھتا ہو ** نوے (90) دن سے زیادہ**۔"
+    },
+    {
+      "question": "Which authority issues the work permit for registered foreigners?",
+      "answer": "The **Interior Division** issues the work permit to foreigners who hold a valid Alien Registration Card (ARC).",
+      "urdu_question": "کونسی اتھارٹی رجسٹرڈ غیر ملکیوں کے لیے ورک پرمٹ جاری کرتی ہے؟",
+      "urdu_answer": "**داخلہ ڈویژن** ان غیر ملکیوں کو ورک پرمٹ جاری کرتا ہے جن کے پاس درست ایلین رجسٹریشن کارڈ (ARC) ہے۔"
+    },
+    {
+      "question": "What documents satisfy the “Legal Stay” requirement for new registration?",
+      "answer": "Either an **Ex‑NARA Card** (old, valid or expired) **or** a **valid visa**.",
+      "urdu_question": "نئی رجسٹریشن کے لیے کون سی دستاویزات \"قانونی قیام\" کی ضرورت کو پورا کرتی ہیں؟",
+      "urdu_answer": "یا تو **Ex‑NARA کارڈ** (پرانا، درست یا میعاد ختم) **یا** ایک **درست ویزا**۔"
+    },
+    {
+      "question": "List three documents that can be used to prove an “Illegal Stay” of at least five years.",
+      "answer": "Any three of the following: 1) Expired passport and visa, 2) Valid SIM issued ≥ 5 years ago, 3) Bank account opened ≥ 5 years ago, 4) Pakistan driving licence issued ≥ 5 years ago, 5) Pakistani educational document dated ≥ 5 years ago, 6) Utility bills in applicant’s name for ≥ 5 years, 7) Tenant letter & employer affidavit showing 5‑year stay, 8) Any other government‑issued document.",
+      "urdu_question": "تین دستاویزات کی فہرست بنائیں جو کم از کم پانچ سال کے \"غیر قانونی قیام\" کو ثابت کرنے کے لیے استعمال کی جا سکتی ہیں۔",
+      "urdu_answer": "مندرجہ ذیل میں سے کوئی بھی تین: 1) میعاد ختم ہونے والا پاسپورٹ اور ویزا، 2) درست سم جاری کیا گیا ≥ 5 سال پہلے، 3) بینک اکاؤنٹ ≥ 5 سال پہلے کھولا گیا، 4) پاکستان کا ڈرائیونگ لائسنس ≥ 5 سال پہلے جاری کیا گیا، 5) پاکستانی تعلیمی دستاویز جس کی تاریخ ≥ 5 سال پہلے، 6) یوٹیلیٹی بلز ≥ 5 سال پہلے) کرایہ دار کا خط اور آجر کا حلف نامہ جس میں 5 سالہ قیام دکھایا گیا ہے، 8) حکومت کی طرف سے جاری کردہ کوئی اور دستاویز۔"
+    },
+    {
+      "question": "Can a foreigner use a utility bill as proof of a five‑year stay?",
+      "answer": "Yes. Utility bills in the applicant’s name that cover at least five years prior to registration are acceptable evidence of an illegal stay.",
+      "urdu_question": "کیا کوئی غیر ملکی پانچ سالہ قیام کے ثبوت کے طور پر یوٹیلٹی بل استعمال کر سکتا ہے؟",
+      "urdu_answer": "جی ہاں درخواست دہندہ کے نام کے یوٹیلیٹی بل جو رجسٹریشن سے کم از کم پانچ سال پہلے کے ہوتے ہیں غیر قانونی قیام کا قابل قبول ثبوت ہیں۔"
+    },
+    {
+      "question": "Who is allowed to collect the ARC on behalf of the applicant?",
+      "answer": "The ARC can be collected by: 1) The applicant in person, 2) The applicant’s spouse, parents, son, daughter, or siblings **with the original token slip**, 3) Any person **with an authority letter** from the applicant **and the original token slip**.",
+      "urdu_question": "درخواست گزار کی جانب سے اے آر سی جمع کرنے کی اجازت کس کو ہے؟",
+      "urdu_answer": "اے آر سی اس طرح جمع کیا جا سکتا ہے: 1) درخواست دہندہ ذاتی طور پر، 2) درخواست دہندہ کی شریک حیات، والدین، بیٹا، بیٹی، یا بہن بھائی **اصل ٹوکن سلپ کے ساتھ**، 3) کوئی بھی شخص **درخواست دہندہ کی طرف سے ** اتھارٹی لیٹر** اور اصل ٹوکن سلپ**۔"
+    },
+    {
+      "question": "What is the maximum period of validity for an Alien Registration Card?",
+      "answer": "The ARC is valid for **up to five years**, as stipulated by the fee schedule.",
+      "urdu_question": "ایلین رجسٹریشن کارڈ کی زیادہ سے زیادہ میعاد کتنی ہے؟",
+      "urdu_answer": "ARC **پانچ سال تک** کے لیے درست ہے، جیسا کہ فیس کے شیڈول کے مطابق ہے۔"
+    },
+    {
+      "question": "Name five benefits that ARC holders enjoy.",
+      "answer": "Five benefits include: 1) Travel within Pakistan (except restricted areas), 2) Enrol in private educational institutions at own expense, 3) Apply for utility connections, 4) Apply for vehicle registration, 5) Open a bank account in the city of residence.",
+      "urdu_question": "پانچ فوائد کے نام بتائیں جن سے ARC ہولڈرز لطف اندوز ہوتے ہیں۔",
+      "urdu_answer": "پانچ فوائد میں شامل ہیں: 1) پاکستان کے اندر سفر کریں (محدود علاقوں کے علاوہ)، 2) نجی تعلیمی اداروں میں اپنے خرچے پر اندراج کریں، 3) یوٹیلیٹی کنکشن کے لیے درخواست دیں، 4) گاڑیوں کی رجسٹریشن کے لیے درخواست دیں، 5) رہائش کے شہر میں بینک اکاؤنٹ کھولیں۔"
+    },
+    {
+      "question": "Can an ARC holder obtain a driving licence?",
+      "answer": "Yes. One of the benefits listed is the ability to **apply for a driving licence**.",
+      "urdu_question": "کیا ARC ہولڈر ڈرائیونگ لائسنس حاصل کر سکتا ہے؟",
+      "urdu_answer": "جی ہاں درج کردہ فوائد میں سے ایک **ڈرائیونگ لائسنس کے لیے درخواست دینے کی اہلیت** ہے۔"
+    },
+    {
+      "question": "Is an ARC holder allowed to get a cellular mobile connection?",
+      "answer": "Yes. ARC holders may **obtain a cellular mobile connection**.",
+      "urdu_question": "کیا ARC ہولڈر کو سیلولر موبائل کنکشن حاصل کرنے کی اجازت ہے؟",
+      "urdu_answer": "جی ہاں ARC ہولڈرز **ایک سیلولر موبائل کنکشن حاصل کر سکتے ہیں**۔"
+    },
+    {
+      "question": "What is required for a minor (son/daughter) aged 18 years or younger to be registered?",
+      "answer": "The applicant must present **the parent’s ARC** **and** either a **birth certificate** or a **passport with a valid visa**.",
+      "urdu_question": "18 سال یا اس سے کم عمر کے نابالغ (بیٹے/بیٹی) کے لیے رجسٹریشن کے لیے کیا ضروری ہے؟",
+      "urdu_answer": "درخواست گزار کو **والدین کا ARC** **اور** یا تو **برتھ سرٹیفکیٹ** یا **ایک درست ویزا والا پاسپورٹ** پیش کرنا ہوگا۔"
+    },
+    {
+      "question": "Under which schedule is a Foreigner Minor Registration Card issued?",
+      "answer": "It is issued under **Schedule IV**.",
+      "urdu_question": "غیر ملکی نابالغ رجسٹریشن کارڈ کس شیڈول کے تحت جاری کیا جاتا ہے؟",
+      "urdu_answer": "یہ **شیڈول IV** کے تحت جاری کیا گیا ہے۔"
+    },
+    {
+      "question": "What documents are needed to register a dependent (spouse, sibling, parent, etc.)?",
+      "answer": "The dependent must provide the **head’s ARC** **and** a **document proving the relationship** between the head and the applicant (e.g., marriage certificate, birth certificate, etc.).",
+      "urdu_question": "انحصار کرنے والے (شریک حیات، بہن بھائی، والدین، وغیرہ) کو رجسٹر کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "انحصار کرنے والے کو **سر کا ARC** **اور** سربراہ اور درخواست دہندہ کے درمیان تعلق کو ثابت کرنے والا **دستاویز فراہم کرنا چاہیے (مثلاً، نکاح نامہ، پیدائش کا سرٹیفکیٹ وغیرہ)۔"
+    },
+    {
+      "question": "What is the normal category fee for a new Foreigner Registration Card per year?",
+      "answer": "The normal category fee is **Rs. 1,000/- per year**.",
+      "urdu_question": "ہر سال نئے غیر ملکی رجسٹریشن کارڈ کے لیے عام زمرہ کی فیس کتنی ہے؟",
+      "urdu_answer": "عام زمرے کی فیس ** روپے ہے۔ 1,000/- فی سال**۔"
+    },
+    {
+      "question": "What is the urgent category fee for a new Foreigner Registration Card per year?",
+      "answer": "The urgent category fee is **Rs. 2,000/- per year**.",
+      "urdu_question": "فی سال نئے غیر ملکی رجسٹریشن کارڈ کے لیے فوری زمرہ کی فیس کتنی ہے؟",
+      "urdu_answer": "فوری زمرہ کی فیس ** روپے ہے۔ 2,000/- سالانہ **۔"
+    },
+    {
+      "question": "How much does a renewal or modification of an ARC cost under the normal category?",
+      "answer": "Renewal or modification costs **Rs. 1,000/- per year** under the normal category.",
+      "urdu_question": "عام زمرے کے تحت ARC کی تجدید یا ترمیم پر کتنا خرچ آتا ہے؟",
+      "urdu_answer": "تجدید یا ترمیم کے اخراجات ** روپے۔ 1,000/- سالانہ ** عام زمرے کے تحت۔"
+    },
+    {
+      "question": "Is there an urgent fee for renewing or modifying an ARC?",
+      "answer": "Yes. The urgent fee for renewal/modification is **Rs. 2,000/- per year**.",
+      "urdu_question": "کیا ARC کی تجدید یا ترمیم کے لیے کوئی فوری فیس ہے؟",
+      "urdu_answer": "جی ہاں تجدید/ترمیم کی فوری فیس ** روپے ہے۔ 2,000/- سالانہ **۔"
+    },
+    {
+      "question": "What is the fee for obtaining a duplicate ARC in the normal category?",
+      "answer": "A duplicate ARC costs **Rs. 1,000/- per year** under the normal category.",
+      "urdu_question": "عام زمرے میں ڈپلیکیٹ اے آر سی حاصل کرنے کی فیس کیا ہے؟",
+      "urdu_answer": "ایک ڈپلیکیٹ ARC کی قیمت ** روپے ہے۔ 1,000/- سالانہ ** عام زمرے کے تحت۔"
+    },
+    {
+      "question": "What is the fee for a Work Permit Card?",
+      "answer": "The Work Permit Card costs **Rs. 5,000/- per year** (only a normal category fee is listed; urgent category is not applicable).",
+      "urdu_question": "ورک پرمٹ کارڈ کی فیس کیا ہے؟",
+      "urdu_answer": "ورک پرمٹ کارڈ کی قیمت ** روپے۔ 5,000/- سالانہ ** (صرف ایک عام زمرہ کی فیس درج ہے؛ فوری زمرہ لاگو نہیں ہے)۔"
+    },
+    {
+      "question": "Can an ARC holder work in Pakistan without a work permit?",
+      "answer": "No. To take private employment, work, or undertake business activity, a registered foreigner must have a **Work Permit** issued by the Interior Division.",
+      "urdu_question": "کیا اے آر سی ہولڈر ورک پرمٹ کے بغیر پاکستان میں کام کر سکتا ہے؟",
+      "urdu_answer": "نہیں۔ نجی ملازمت، کام، یا کاروباری سرگرمیاں کرنے کے لیے، ایک رجسٹرڈ غیر ملکی کے پاس داخلہ ڈویژن کی طرف سے جاری کردہ ** ورک پرمٹ** ہونا ضروری ہے۔"
+    },
+    {
+      "question": "Does the policy allow registration for Afghan nationals?",
+      "answer": "No. Afghan nationals are explicitly excluded from the eligibility criteria.",
+      "urdu_question": "کیا پالیسی افغان شہریوں کے لیے رجسٹریشن کی اجازت دیتی ہے؟",
+      "urdu_answer": "نہیں۔ افغان شہریوں کو اہلیت کے معیار سے واضح طور پر خارج کر دیا گیا ہے۔"
+    },
+    {
+      "question": "If a foreigner has been in prison for three years, are they eligible for registration?",
+      "answer": "Yes, provided the three‑year prison stay is **under the Foreign Act 14‑D** and it represents the shorter period compared with the five‑year illegal stay requirement.",
+      "urdu_question": "اگر کوئی غیر ملکی تین سال سے جیل میں ہے تو کیا وہ رجسٹریشن کے اہل ہیں؟",
+      "urdu_answer": "ہاں، بشرطیکہ تین سال کا قیدی قیام **فارن ایکٹ 14‑D** کے تحت ہو اور یہ پانچ سالہ غیر قانونی قیام کی ضرورت کے مقابلے میں مختصر مدت کی نمائندگی کرتا ہے۔"
+    },
+    {
+      "question": "What is the minimum stay period that makes registration optional rather than compulsory?",
+      "answer": "If the foreigner intends to stay **less than ninety (90) days**, registration is optional.",
+      "urdu_question": "قیام کی کم از کم مدت کیا ہے جو رجسٹریشن کو لازمی کرنے کے بجائے اختیاری بناتی ہے؟",
+      "urdu_answer": "اگر غیر ملکی ** نوے (90) دنوں سے کم رہنے کا ارادہ رکھتا ہے تو، رجسٹریشن اختیاری ہے۔"
+    },
+    {
+      "question": "Is a SIM card alone sufficient proof of a five‑year illegal stay?",
+      "answer": "A **valid SIM issued at least five years prior** can be used as part of the proof, but it must be accompanied by other acceptable documents as listed in the policy.",
+      "urdu_question": "کیا صرف ایک سم کارڈ ہی پانچ سال کے غیر قانونی قیام کا کافی ثبوت ہے؟",
+      "urdu_answer": "ایک **کم از کم پانچ سال پہلے جاری کردہ درست سم** کو ثبوت کے حصے کے طور پر استعمال کیا جا سکتا ہے، لیکن اس کے ساتھ دیگر قابل قبول دستاویزات کا ہونا ضروری ہے جیسا کہ پالیسی میں درج ہے۔"
+    },
+    {
+      "question": "Can a foreigner who has a valid visa but intends to stay exactly ninety days register?",
+      "answer": "The policy states “more than ninety (90) days” for compulsory registration. If the stay is **exactly ninety days**, registration remains **optional**.",
+      "urdu_question": "کیا ایک غیر ملکی جس کے پاس درست ویزا ہے لیکن وہ بالکل نوے دن قیام کا ارادہ رکھتا ہے وہ رجسٹر کر سکتا ہے؟",
+      "urdu_answer": "پالیسی لازمی رجسٹریشن کے لیے \"نوے (90) دن سے زیادہ\" بتاتی ہے۔ اگر قیام **بالکل نوے دن** ہے، تو رجسٹریشن **اختیاری** رہتی ہے۔"
+    },
+    {
+      "question": "What authority issues the Alien Registration Card?",
+      "answer": "The **National Database and Registration Authority (NADRA)** issues the Alien Registration Card.",
+      "urdu_question": "کون سی اتھارٹی ایلین رجسٹریشن کارڈ جاری کرتی ہے؟",
+      "urdu_answer": "**نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی (نادرا)** ایلین رجسٹریشن کارڈ جاری کرتی ہے۔"
+    },
+    {
+      "question": "What token is required for a family member to collect the ARC on behalf of the applicant?",
+      "answer": "An **original token slip** is required, together with either the family member’s identity (if they are a spouse/parent/child/sibling) or an **authority letter** if the collector is another person.",
+      "urdu_question": "درخواست دہندہ کی جانب سے ARC جمع کرنے کے لیے خاندان کے کسی رکن کے لیے کون سا ٹوکن درکار ہے؟",
+      "urdu_answer": "ایک **اصل ٹوکن پرچی** درکار ہے، اس کے ساتھ یا تو خاندان کے رکن کی شناخت (اگر وہ شریک حیات/والدین/بچہ/بہن بھائی ہیں) یا ایک **اتھارٹی لیٹر** اگر کلکٹر کوئی دوسرا شخص ہو۔"
+    },
+    {
+      "question": "Can an ARC holder apply for a vehicle registration?",
+      "answer": "Yes. One of the listed benefits is the ability to **apply for vehicle registration**.",
+      "urdu_question": "کیا ARC ہولڈر گاڑی کی رجسٹریشن کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "جی ہاں درج کردہ فوائد میں سے ایک **گاڑی کی رجسٹریشن کے لیے درخواست دینے کی اہلیت** ہے۔"
+    },
+    {
+      "question": "Does the ARC provide the holder the right to travel to all areas of Pakistan?",
+      "answer": "The ARC allows travel **within the country excluding restricted areas**.",
+      "urdu_question": "کیا ARC ہولڈر کو پاکستان کے تمام علاقوں میں سفر کرنے کا حق فراہم کرتا ہے؟",
+      "urdu_answer": "ARC **محدود علاقوں کو چھوڑ کر** ملک کے اندر سفر کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "Is there a fee difference between normal and urgent categories for a Foreigner Children Registration?",
+      "answer": "Both categories have the same fee structure: **Rs. 1,000/-** for normal and **Rs. 2,000/-** for urgent, per year.",
+      "urdu_question": "کیا غیر ملکی بچوں کی رجسٹریشن کے لیے عام اور فوری زمروں میں فیس کا فرق ہے؟",
+      "urdu_answer": "دونوں زمروں کی فیس کا ڈھانچہ ایک جیسا ہے: ** روپے۔ 1,000/-** نارمل اور ** روپے۔ 2,000/-** فوری طور پر، فی سال۔"
+    },
+    {
+      "question": "What is the purpose of Schedule IV in the context of this policy?",
+      "answer": "Schedule IV governs the issuance of **Foreigner Minor Registration Cards** (for children aged ≤ 18 years).",
+      "urdu_question": "اس پالیسی کے تناظر میں شیڈول IV کا مقصد کیا ہے؟",
+      "urdu_answer": "شیڈول IV **غیر ملکی معمولی رجسٹریشن کارڈز** (≤ 18 سال کی عمر کے بچوں کے لیے) کے اجراء کو کنٹرول کرتا ہے۔"
+    },
+    {
+      "question": "Which documents can be used to prove the relationship between the head ARC holder and a dependent?",
+      "answer": "Documents such as **marriage certificates, birth certificates, sibling certificates, or any official document** that establishes the familial relationship are acceptable.",
+      "urdu_question": "ہیڈ اے آر سی ہولڈر اور زیر کفالت کے درمیان تعلق ثابت کرنے کے لیے کن دستاویزات کا استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "دستاویزات جیسے **شادی کا سرٹیفکیٹ، برتھ سرٹیفکیٹ، بہن بھائی کا سرٹیفکیٹ، یا کوئی بھی سرکاری دستاویز** جو خاندانی رشتہ قائم کرتی ہے۔"
+    },
+    {
+      "question": "If a foreigner’s passport and visa have both expired, can they still register?",
+      "answer": "Yes, expired passport and visa can be used as proof of **illegal stay**, provided the applicant also supplies other required documents (e.g., SIM, bank account) covering at least five years.",
+      "urdu_question": "اگر کسی غیر ملکی کا پاسپورٹ اور ویزہ دونوں کی میعاد ختم ہو چکی ہے تو کیا وہ پھر بھی رجسٹر ہو سکتے ہیں؟",
+      "urdu_answer": "ہاں، میعاد ختم ہونے والے پاسپورٹ اور ویزا کو **غیر قانونی قیام** کے ثبوت کے طور پر استعمال کیا جا سکتا ہے، بشرطیکہ درخواست دہندہ کم از کم پانچ سال پر محیط دیگر مطلوبہ دستاویزات (مثلاً، سم، بینک اکاؤنٹ) بھی فراہم کرے۔"
+    },
+    {
+      "question": "Can an ARC be renewed before its five‑year expiry?",
+      "answer": "The policy allows **renewal** (and modification) of the ARC, subject to the applicable fee (Rs. 1,000/- normal, Rs. 2,000/- urgent) per year.",
+      "urdu_question": "کیا ARC کی پانچ سالہ میعاد ختم ہونے سے پہلے اس کی تجدید کی جا سکتی ہے؟",
+      "urdu_answer": "پالیسی اے آر سی کی **تجدید** (اور ترمیم) کی اجازت دیتی ہے، لاگو فیس (1,000/- نارمل، 2,000/- فوری) ہر سال۔"
+    },
+    {
+      "question": "Is there any provision for issuing a duplicate ARC if the original is lost?",
+      "answer": "Yes. A **duplicate ARC** can be obtained for **Rs. 1,000/-** under the normal category (Rs. 2,000/- urgent).",
+      "urdu_question": "اگر اصلی گم ہو جائے تو کیا ڈپلیکیٹ اے آر سی جاری کرنے کا کوئی انتظام ہے؟",
+      "urdu_answer": "جی ہاں ایک **ڈپلیکیٹ ARC** **روپے میں حاصل کیا جا سکتا ہے۔ 1,000/-** عام زمرے کے تحت (2,000/- فوری)۔"
+    },
+    {
+      "question": "What is the fee for a Foreigner Children Registration Card under the urgent category?",
+      "answer": "The urgent fee for a Foreigner Children Registration Card is **Rs. 2,000/- per year**.",
+      "urdu_question": "فوری زمرہ کے تحت غیر ملکی بچوں کے رجسٹریشن کارڈ کی فیس کیا ہے؟",
+      "urdu_answer": "غیر ملکی بچوں کے رجسٹریشن کارڈ کی فوری فیس ** روپے ہے۔ 2,000/- سالانہ **۔"
+    },
+    {
+      "question": "Does the policy mention any taxes or cess associated with the work permit?",
+      "answer": "Yes. The benefit list states that applying for a work permit is **subject to applicable taxes, cess, etc.**",
+      "urdu_question": "کیا پالیسی میں ورک پرمٹ سے وابستہ کسی ٹیکس یا سیس کا ذکر ہے؟",
+      "urdu_answer": "جی ہاں فوائد کی فہرست میں کہا گیا ہے کہ ورک پرمٹ کے لیے درخواست دینا **قابل اطلاق ٹیکس، سیس وغیرہ کے تابع ہے۔**"
+    },
+    {
+      "question": "What is the minimum duration a foreigner must have been staying illegally to be eligible for registration?",
+      "answer": "A minimum of **five years** of illegal residence (or three years of imprisonment under the Foreign Act 14‑D, whichever is shorter) is required.",
+      "urdu_question": "رجسٹریشن کے اہل ہونے کے لیے ایک غیر ملکی کو غیر قانونی طور پر رہنے کی کم از کم مدت کتنی ہے؟",
+      "urdu_answer": "کم از کم **پانچ سال** غیر قانونی رہائش (یا فارن ایکٹ 14‑D کے تحت تین سال قید، جو بھی کم ہو) درکار ہے۔"
+    },
+    {
+      "question": "Are there any differences in the fee schedule for urgent processing of the Work Permit Card?",
+      "answer": "No. The urgent category for the Work Permit Card is listed as **N/A**.",
+      "urdu_question": "کیا ورک پرمٹ کارڈ کی فوری کارروائی کے لیے فیس کے شیڈول میں کوئی فرق ہے؟",
+      "urdu_answer": "نمبر۔ ورک پرمٹ کارڈ کے لیے فوری زمرہ **N/A** کے طور پر درج ہے۔"
+    },
+    {
+      "question": "Can an ARC holder open a bank account in any city of Pakistan?",
+      "answer": "The holder can open a bank account **within the city of residence**.",
+      "urdu_question": "کیا ARC ہولڈر پاکستان کے کسی بھی شہر میں بینک اکاؤنٹ کھول سکتا ہے؟",
+      "urdu_answer": "ہولڈر **رہائشی شہر کے اندر** بینک اکاؤنٹ کھول سکتا ہے۔"
+    },
+    {
+      "question": "What are the steps to register a foreigner who has been living illegally for five years but does not have a valid visa?",
+      "answer": "1) Gather any of the listed illegal‑stay documents (expired passport/visa, SIM, bank account, driving licence, educational document, utility bills, tenant letter & employer affidavit, or other government document) all showing at least five‑year continuity. 2) Submit one of these documents along with the application to NADRA. 3) Pay the applicable fee (normal or urgent) for a Foreigner Registration Card. 4) Collect the ARC using the token slip as per Section 4.",
+      "urdu_question": "ایسے غیر ملکی کو رجسٹر کرنے کے کیا اقدامات ہیں جو پانچ سال سے غیر قانونی طور پر مقیم ہے لیکن اس کے پاس درست ویزا نہیں ہے؟",
+      "urdu_answer": "1) درج کردہ غیر قانونی قیام کے دستاویزات میں سے کوئی بھی جمع کریں (متعدد پاسپورٹ/ویزا، سم، بینک اکاؤنٹ، ڈرائیونگ لائسنس، تعلیمی دستاویز، یوٹیلیٹی بلز، کرایہ دار کا خط اور آجر کا حلف نامہ، یا دیگر سرکاری دستاویز) جو کم از کم پانچ سال کے تسلسل کو ظاہر کرتے ہیں۔ 2) ان دستاویزات میں سے ایک درخواست کے ساتھ نادرا کو جمع کرائیں۔ 3) غیر ملکی رجسٹریشن کارڈ کے لیے قابل اطلاق فیس (عام یا فوری) ادا کریں۔ 4) سیکشن 4 کے مطابق ٹوکن سلپ کا استعمال کرتے ہوئے اے آر سی جمع کریں۔"
+    },
+    {
+      "question": "Is a spouse of a registered foreigner automatically eligible for a dependent ARC?",
+      "answer": "Yes, provided the spouse presents the **head’s ARC** and a **document proving the marital relationship** (e.g., marriage certificate).",
+      "urdu_question": "کیا رجسٹرڈ غیر ملکی کی شریک حیات خود بخود ایک منحصر ARC کے لیے اہل ہے؟",
+      "urdu_answer": "ہاں، بشرطیکہ شریک حیات **سر کا ARC** اور **ازدواجی تعلقات کو ثابت کرنے والی دستاویز** پیش کرے (مثلاً نکاح نامہ)۔"
+    },
+    {
+      "question": "What is the role of the Interior Division in this policy?",
+      "answer": "The Interior Division **issues Work Permit Cards** to foreign nationals who hold a valid Alien Registration Card.",
+      "urdu_question": "اس پالیسی میں داخلہ ڈویژن کا کیا کردار ہے؟",
+      "urdu_answer": "داخلہ ڈویژن ان غیر ملکی شہریوں کو ** ورک پرمٹ کارڈ جاری کرتا ہے** جن کے پاس درست ایلین رجسٹریشن کارڈ ہے۔"
+    },
+    {
+      "question": "Can an ARC holder apply for private education for themselves?",
+      "answer": "Yes. One of the benefits is the ability to **apply in private educational institutions at own expense**.",
+      "urdu_question": "کیا ARC ہولڈر اپنے لیے نجی تعلیم کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "جی ہاں فوائد میں سے ایک **نجی تعلیمی اداروں میں اپنے خرچے پر درخواست دینے کی اہلیت** ہے۔"
+    },
+    {
+      "question": "If a foreigner wants an urgent ARC, how much will they pay per year?",
+      "answer": "For an urgent ARC (Foreigner Registration Card), the fee is **Rs. 2,000/- per year**.",
+      "urdu_question": "اگر کوئی غیر ملکی فوری ARC چاہتا ہے، تو وہ ہر سال کتنی رقم ادا کرے گا؟",
+      "urdu_answer": "فوری ARC (غیر ملکی رجسٹریشن کارڈ) کے لیے، فیس ** روپے ہے۔ 2,000/- سالانہ **۔"
+    },
+    {
+      "question": "What is the maximum validity period for a Work Permit Card?",
+      "answer": "The fee schedule indicates the Work Permit Card is charged **per year**, implying it is issued **annually**; the policy does not specify a maximum multi‑year validity beyond the yearly renewal.",
+      "urdu_question": "ورک پرمٹ کارڈ کی زیادہ سے زیادہ میعاد کی مدت کتنی ہے؟",
+      "urdu_answer": "فیس کا شیڈول بتاتا ہے کہ ورک پرمٹ کارڈ پر **سالانہ** چارج کیا جاتا ہے، اس کا مطلب یہ ہے کہ یہ **سالانہ** جاری کیا جاتا ہے۔ پالیسی سالانہ تجدید کے بعد زیادہ سے زیادہ کثیر سالہ میعاد کی وضاحت نہیں کرتی ہے۔"
+    }
+  ]
+}

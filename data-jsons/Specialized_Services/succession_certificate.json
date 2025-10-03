@@ -1,0 +1,505 @@
+{
+  "file_name": "succession_certificate.json",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 120,
+  "qa_data": [
+    {
+      "question": "What is a Legal Heir in succession matters?",
+      "answer": "A Legal Heir is a person who has entitlement to a share in the property of the deceased.",
+      "urdu_question": "یکے بعد دیگرے معاملات میں قانونی وارث کیا ہے؟",
+      "urdu_answer": "قانونی وارث وہ شخص ہوتا ہے جسے متوفی کی جائیداد میں حصہ کا حق حاصل ہو۔"
+    },
+    {
+      "question": "Who is considered an Applicant in succession cases?",
+      "answer": "An Applicant is a person who is authorized to act on behalf of all other legal heirs for the purpose of filing an application.",
+      "urdu_question": "یکے بعد دیگرے مقدمات میں درخواست گزار کس کو سمجھا جاتا ہے؟",
+      "urdu_answer": "درخواست دہندہ وہ شخص ہوتا ہے جو درخواست دائر کرنے کے مقصد سے دیگر تمام قانونی وارثوں کی جانب سے کام کرنے کا مجاز ہوتا ہے۔"
+    },
+    {
+      "question": "What constitutes a Factual Controversy in succession matters?",
+      "answer": "A Factual Controversy is an objection by legal heirs or by any claimant of legal heirship, any dispute which may arise in establishing the identity of legal heir which is not resolvable by the Authority or any situation, matter or event requiring adjudication or recording of evidence by the Court or where at least one of the legal heirs is a MINOR.",
+      "urdu_question": "یکے بعد دیگرے معاملات میں حقیقتی تنازعہ کیا ہے؟",
+      "urdu_answer": "حقائق پر مبنی تنازعہ قانونی وارثوں یا قانونی وارثت کے کسی بھی دعویدار کی طرف سے ایک اعتراض ہے، کوئی بھی تنازعہ جو قانونی وارث کی شناخت قائم کرنے میں پیدا ہو سکتا ہے جو اتھارٹی کے ذریعہ حل نہیں کیا جا سکتا ہے یا کوئی ایسی صورت حال، معاملہ یا واقعہ جس میں عدالت کے ذریعہ فیصلہ یا ثبوت کی ریکارڈنگ کی ضرورت ہوتی ہے یا جہاں قانونی وارثوں میں سے کم از کم ایک نابالغ ہے۔"
+    },
+    {
+      "question": "What is the jurisdiction for Succession Law application?",
+      "answer": "The jurisdiction is the geographical boundary where the Succession Law is applicable i.e. Whole of ICT, Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan, AJK & GB.",
+      "urdu_question": "جانشینی قانون کی درخواست کا دائرہ اختیار کیا ہے؟",
+      "urdu_answer": "دائرہ اختیار جغرافیائی حد ہے جہاں جانشینی کا قانون لاگو ہوتا ہے یعنی پورے ICT، پنجاب، سندھ، خیبر پختونخوا، بلوچستان، AJK اور GB پر۔"
+    },
+    {
+      "question": "What is a Succession Facilitation Unit (SFU)?",
+      "answer": "SFU is a Succession Facilitation Unit established for the purpose of receiving, assessing and processing of applications regarding Letter of Administration/Succession Certificate/Decline Certificate.",
+      "urdu_question": "Succession Facilitation Unit (SFU) کیا ہے؟",
+      "urdu_answer": "SFU ایک جانشینی سہولت یونٹ ہے جو لیٹر آف ایڈمنسٹریشن/سکسیشن سرٹیفکیٹ/ڈیکلائن سرٹیفکیٹ سے متعلق درخواستوں کو وصول کرنے، جانچنے اور ان پر کارروائی کرنے کے مقصد سے قائم کیا گیا ہے۔"
+    },
+    {
+      "question": "What does Property include in succession matters?",
+      "answer": "Property includes moveable and immoveable property of the deceased person.",
+      "urdu_question": "جانشینی کے معاملات میں جائیداد کیا شامل ہے؟",
+      "urdu_answer": "جائیداد میں متوفی کی منقولہ اور غیر منقولہ جائیداد شامل ہے۔"
+    },
+    {
+      "question": "What is an Authorization Letter in succession applications?",
+      "answer": "Authorization Letter is prescribed format specified in Schedule I of Federal and Provincial Succession Rules for authorizing/acknowledging one of the Legal Heir (Legal Counsel also for Sindh and Balochistan) for the purpose of filing Succession application. It includes deceased, applicant and legal heir(s) particulars as well as deceased property and share of legal heir(s).",
+      "urdu_question": "یکے بعد دیگرے درخواستوں میں اجازت نامہ کیا ہے؟",
+      "urdu_answer": "اجازت نامہ ایک مقررہ فارمیٹ ہے جو کہ جانشینی کی درخواست دائر کرنے کے مقصد کے لیے قانونی وارث (سندھ اور بلوچستان کے لیے بھی قانونی مشیر) میں سے کسی ایک کو اختیار/تسلیم کرنے کے لیے وفاقی اور صوبائی جانشینی کے قواعد کے شیڈول I میں بیان کیا گیا ہے۔ اس میں متوفی، درخواست دہندگان اور قانونی وارثوں کی تفصیلات کے ساتھ ساتھ متوفی کی جائیداد اور قانونی وارثوں کا حصہ شامل ہے۔"
+    },
+    {
+      "question": "What is Board Verification in succession processes?",
+      "answer": "Board Verification is the process for verifying legal heir of the deceased through a board of three designated personnel of the Authority where fingerprints of such legal heirs are not available in Authority's database and it is not possible to update fingerprints due to valid reason i.e. settled abroad, bedridden, amputated etc.",
+      "urdu_question": "جانشینی کے عمل میں بورڈ کی تصدیق کیا ہے؟",
+      "urdu_answer": "بورڈ ویریفیکیشن اتھارٹی کے تین نامزد اہلکاروں کے بورڈ کے ذریعے مقتول کے قانونی وارث کی تصدیق کرنے کا عمل ہے جہاں ایسے قانونی ورثاء کے فنگر پرنٹ اتھارٹی کے ڈیٹا بیس میں دستیاب نہیں ہیں اور درست وجہ یعنی بیرون ملک مقیم، بستر پر پڑے، کٹے ہوئے وغیرہ کی وجہ سے فنگر پرنٹس کو اپ ڈیٹ کرنا ممکن نہیں ہے۔"
+    },
+    {
+      "question": "Who is a Legal Counsel in succession matters?",
+      "answer": "A Legal Counsel is an advocate with a valid bar license who represents a person in Court of Law.",
+      "urdu_question": "یکے بعد دیگرے معاملات میں قانونی مشیر کون ہے؟",
+      "urdu_answer": "ایک قانونی وکیل ایک درست بار لائسنس کے ساتھ ایک وکیل ہے جو عدالت میں کسی شخص کی نمائندگی کرتا ہے۔"
+    },
+    {
+      "question": "What is an Authority Letter for succession certificates?",
+      "answer": "It is a written statement in order to authorize someone on behalf of the applicant to collect Succession Certificate / Letter of Administration / Decline Certificate only.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کے لیے اتھارٹی لیٹر کیا ہے؟",
+      "urdu_answer": "یہ ایک تحریری بیان ہے تاکہ درخواست دہندہ کی جانب سے کسی کو جانشینی کا سرٹیفکیٹ / لیٹر آف ایڈمنسٹریشن / انکار سرٹیفکیٹ جمع کرنے کا اختیار دیا جائے۔"
+    },
+    {
+      "question": "Who can apply for succession certificate in Sindh?",
+      "answer": "In Sindh, succession applications require presence of the authorized legal heir (Legal heir or Legal Counsel). Legal Counsel with valid bar license can represent applicants. Wakalat Nama is required in favour of Legal Counsel by Primary Applicant for applications filed through Legal Counsel.",
+      "urdu_question": "سندھ میں جانشینی کے سرٹیفکیٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "سندھ میں، جانشینی کی درخواستوں کے لیے مجاز قانونی وارث (قانونی وارث یا قانونی مشیر) کی موجودگی ضروری ہے۔ درست بار لائسنس کے ساتھ قانونی مشیر درخواست دہندگان کی نمائندگی کر سکتا ہے۔ وکالت نامہ قانونی کونسل کے ذریعے دائر درخواستوں کے لیے پرائمری درخواست گزار کے لیے قانونی مشیر کے حق میں درکار ہے۔"
+    },
+    {
+      "question": "Who can apply for succession certificate in Balochistan?",
+      "answer": "In Balochistan, succession applications require presence of the authorized legal heir (Legal heir or Legal Counsel). Legal Counsel with valid bar license can represent applicants. Wakalat Nama is required in favour of Legal Counsel by Primary Applicant for applications filed through Legal Counsel.",
+      "urdu_question": "بلوچستان میں جانشینی کے سرٹیفکیٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "بلوچستان میں، جانشینی کی درخواستوں کے لیے مجاز قانونی وارث (قانونی وارث یا قانونی مشیر) کی موجودگی ضروری ہے۔ درست بار لائسنس کے ساتھ قانونی مشیر درخواست دہندگان کی نمائندگی کر سکتا ہے۔ وکالت نامہ قانونی کونسل کے ذریعے دائر درخواستوں کے لیے پرائمری درخواست گزار کے لیے قانونی مشیر کے حق میں درکار ہے۔"
+    },
+    {
+      "question": "Who can apply for succession certificate in Punjab?",
+      "answer": "In Punjab, succession applications require presence of the authorized legal heir. Legal Counsel representation is not specifically mentioned as mandatory for Punjab applications.",
+      "urdu_question": "پنجاب میں جانشینی کے سرٹیفکیٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "پنجاب میں، جانشینی کی درخواستوں کے لیے مجاز قانونی وارث کی موجودگی ضروری ہے۔ پنجاب کی درخواستوں کے لیے قانونی مشیر کی نمائندگی کا خاص طور پر لازمی طور پر ذکر نہیں کیا گیا ہے۔"
+    },
+    {
+      "question": "Who can apply for succession certificate in KPK?",
+      "answer": "In KPK, succession applications require presence of the authorized legal heir. Legal Counsel representation is not specifically mentioned as mandatory for KPK applications.",
+      "urdu_question": "کے پی کے میں جانشینی کے سرٹیفکیٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "کے پی کے میں، جانشینی کی درخواستوں کے لیے مجاز قانونی وارث کی موجودگی ضروری ہے۔ KPK کی درخواستوں کے لیے قانونی مشیر کی نمائندگی کا خاص طور پر لازمی طور پر ذکر نہیں کیا گیا ہے۔"
+    },
+    {
+      "question": "Who can apply for succession certificate in Islamabad/Federal?",
+      "answer": "In Islamabad/Federal, succession applications require presence of the authorized legal heir. Legal Counsel representation is not specifically mentioned as mandatory for Federal applications.",
+      "urdu_question": "اسلام آباد/وفاق میں جانشینی کے سرٹیفکیٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "اسلام آباد/وفاق میں، جانشینی کی درخواستوں کے لیے مجاز قانونی وارث کی موجودگی ضروری ہے۔ قانونی مشیر کی نمائندگی کا خاص طور پر وفاقی درخواستوں کے لیے لازمی طور پر ذکر نہیں کیا گیا ہے۔"
+    },
+    {
+      "question": "What is Wakalat Nama requirement for Sindh and Balochistan?",
+      "answer": "Wakalat Nama is required in favour of Legal Counsel by Primary Applicant for application filed through Legal Counsel along with valid Bar License (for Sindh & Balochistan only).",
+      "urdu_question": "سندھ اور بلوچستان کے لیے وکالت نامہ کی کیا ضرورت ہے؟",
+      "urdu_answer": "وکالت نامہ پرائمری درخواست دہندہ کی طرف سے قانونی وکیل کے حق میں درکار ہے قانونی کونسل کے ذریعے داخل کردہ درخواست کے ساتھ قانونی بار لائسنس (صرف سندھ اور بلوچستان کے لیے)۔"
+    },
+    {
+      "question": "What documents are required for a fresh Succession Certificate application?",
+      "answer": "Required documents are: 1. Death Certificate of deceased issued by Municipal Authority/UC/Cantonment, 2. Deceased CNIC/NICOP/POC cancellation Receipt, 3. Copies of CNICs/NICOPs/POCs of legal heirs, 4. Authorization Letter (as per Schedule-I), 5. Family Registration Certificate FRC (Alpha or Beta or both), 6. Original ownership documents of Moveable/Immoveable Asset(s), 7. Wakalat Nama in favour of Legal Counsel (for Sindh & Balochistan only).",
+      "urdu_question": "نئی جانشینی سرٹیفکیٹ کی درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات یہ ہیں: 1. میونسپل اتھارٹی/UC/Cantonment کی طرف سے جاری کردہ میت کا ڈیتھ سرٹیفکیٹ، 2. متوفی CNIC/NICOP/POC کی منسوخی کی رسید، 3. قانونی ورثاء کے CNICs/NICOPs/POCs کی کاپیاں، 4. اتھورائزیشن لیٹر (بطور FRC)، فیملی رجسٹریشن 5۔ (الفا یا بیٹا یا دونوں)، 6. منقولہ/غیر منقولہ اثاثوں کی اصل ملکیت کی دستاویزات، 7. قانونی وکیل کے حق میں وکالت نامہ (صرف سندھ اور بلوچستان کے لیے)۔"
+    },
+    {
+      "question": "What are the steps for processing a fresh Succession Certificate application?",
+      "answer": "Steps are: 1. Data entry of deceased, legal heirs and asset particulars, 2. Scanning of documents with correct document title, 3. Advertisement/Public Notice in two nationwide circulated Newspaper (3x Newspaper for Sindh only), 4. Objection recording (If objection received within 14 days of publication of notice), 5. Biometric Verification of all legal heirs, 6. Approval, Printing, Receiving and Delivery of SC/LOA.",
+      "urdu_question": "ایک تازہ جانشینی سرٹیفکیٹ کی درخواست پر کارروائی کے لیے کیا اقدامات ہیں؟",
+      "urdu_answer": "مراحل یہ ہیں: 1. متوفی کے ڈیٹا کا اندراج، قانونی ورثاء اور اثاثہ جات کی تفصیلات، 2. دستاویز کے صحیح عنوان کے ساتھ دستاویزات کی اسکیننگ، 3. دو ملک بھر میں زیر گردش اخبارات میں اشتہار/عوامی نوٹس (صرف سندھ کے لیے 3x اخبار)، 4. اعتراضات کی ریکارڈنگ (اگر اعتراض موصول ہوا ہے)، تمام قانونی نوٹس کی عوامی تصدیق کے 14 دنوں کے اندر، 5۔ 6. SC/LOA کی منظوری، پرنٹنگ، وصولی اور ترسیل۔"
+    },
+    {
+      "question": "What documents are required for duplicate Succession Certificate application?",
+      "answer": "Required documents are: 1. Applicant CNIC/NICOP/POC, 2. Copy of the FIR/Police Report (for Lost/Stolen Certificate) or 3. Original SC/LOA (for Damaged Certificate).",
+      "urdu_question": "ڈپلیکیٹ جانشینی سرٹیفکیٹ کی درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات ہیں: 1. درخواست دہندہ CNIC/NICOP/POC، 2. FIR/پولیس رپورٹ کی کاپی (گمشدہ/چوری شدہ سرٹیفکیٹ کے لیے) یا 3. اصل SC/LOA (خراب سرٹیفکیٹ کے لیے)۔"
+    },
+    {
+      "question": "What are the steps for reprint of lost/damaged certificate?",
+      "answer": "Steps are: 1. Retrieval of already processed application data with input as Tracking ID, Document ID and Date of Issue, 2. Scanning of documents with correct document title, 3. Approval, Printing, Receiving & Delivery of SC/LOA.",
+      "urdu_question": "گمشدہ/خراب سرٹیفکیٹ کے دوبارہ پرنٹ کے لیے کیا اقدامات ہیں؟",
+      "urdu_answer": "اقدامات یہ ہیں: 1. ٹریکنگ ID، دستاویز کی شناخت اور ایشو کی تاریخ کے طور پر ان پٹ کے ساتھ پہلے سے پروسیس شدہ ایپلیکیشن ڈیٹا کی بازیافت، 2. صحیح دستاویز کے عنوان کے ساتھ دستاویزات کی سکیننگ، 3. SC/LOA کی منظوری، پرنٹنگ، وصول اور ترسیل۔"
+    },
+    {
+      "question": "What documents are required for Office Mistake/Amendment applications?",
+      "answer": "Required documents are: 1. Applicant CNIC/NICOP/POC, 2. Original SC/LOA, 3. Revised Authorization Certificate with correct information (in case of Amendment only).",
+      "urdu_question": "آفس کی غلطی/ترمیم کی درخواستوں کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات ہیں: 1. درخواست دہندہ CNIC/NICOP/POC، 2. اصل SC/LOA، 3. درست معلومات کے ساتھ نظر ثانی شدہ اجازت نامہ (صرف ترمیم کی صورت میں)۔"
+    },
+    {
+      "question": "What are the steps for Office Mistake/Amendment applications?",
+      "answer": "Steps are: 1. Retrieval of already processed application data with input as Tracking ID, Document ID and Date of Issue, 2. Correction in applicant, deceased, legal heir's particulars and assets/property details highlighted by the applicant, 3. Scanning of documents with correct document title, 4. Advertisement/Public Notice in two nationwide circulated Newspaper (3x Newspaper for Sindh only), 5. Objection recording (If objection received within 14 days of publication of notice), 6. Biometric Verification of all legal heirs, 7. Approval, Printing, Receiving and Delivery of SC/LOA.",
+      "urdu_question": "آفس کی غلطی/ترمیم کی درخواستوں کے لیے کیا اقدامات ہیں؟",
+      "urdu_answer": "اقدامات یہ ہیں: 1. ٹریکنگ آئی ڈی، دستاویز کی شناخت اور ایشو کی تاریخ کے طور پر ان پٹ کے ساتھ پہلے سے عملدرآمد شدہ درخواست کے ڈیٹا کی بازیافت، 2. درخواست گزار، متوفی، قانونی وارث کی تفصیلات اور درخواست دہندہ کی طرف سے نمایاں کردہ اثاثوں/جائیداد کی تفصیلات میں تصحیح، 3. درست دستاویز کے عنوان کے ساتھ دستاویزات کی سکیننگ، 4. (صرف سندھ کے لیے 3x اخبار)، 5. اعتراضات کی ریکارڈنگ (اگر نوٹس کی اشاعت کے 14 دنوں کے اندر اعتراض موصول ہوا ہے)، 6. تمام قانونی وارثوں کی بائیو میٹرک تصدیق، 7. SC/LOA کی منظوری، پرنٹنگ، وصولی اور ترسیل۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for Islamabad/Federal?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "اسلام آباد/وفاق کے لیے جانشینی کے سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 20,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 15,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for Sindh?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 22,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 17,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "سندھ کے لیے جانشینی سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 22,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 17,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for Punjab?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "پنجاب کے لیے جانشینی کے سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 20,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 15,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for KPK?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "KPK کے لیے جانشینی کے سرٹیفکیٹ کی فیسیں کیا ہیں؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 20,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 15,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for Balochistan?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "بلوچستان کے لیے جانشینی کے سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 20,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 15,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for AJK?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "AJK کے لیے جانشینی کے سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 20,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 15,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are the Succession Certificate fees for Gilgit Baltistan?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost.",
+      "urdu_question": "گلگت بلتستان کے لیے جانشینی کے سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "نئی/ تازہ درخواست: اثاثے ≥ 100,000: روپے۔ 20,000، اثاثے <100,000: روپے۔ 10,000 ڈپلیکیٹ درخواست: روپے 5,000 ترمیم کی درخواست (ترمیم/دوبارہ پرنٹ کا نقصان): روپے۔ 5,000 انکار سرٹیفکیٹ فیس: اثاثے ≥ 100,000: روپے۔ 15,000، اثاثے <100,000: روپے۔ 5,000 آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What is the mode of payment for Succession Certificate?",
+      "answer": "The mode of payment for Succession Certificate is CASH ONLY. Fees can be different for different provinces, so please confirm the city name and which province it's located in.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کی ادائیگی کا طریقہ کیا ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ کے لیے ادائیگی کا طریقہ صرف نقد ہے۔ فیس مختلف صوبوں کے لیے مختلف ہو سکتی ہے، اس لیے براہ کرم شہر کے نام اور کس صوبے میں واقع ہے اس کی تصدیق کریں۔"
+    },
+    {
+      "question": "What legal acts govern Succession Certificates?",
+      "answer": "The legal acts include: Punjab Succession and Letter of Administration Rules, 2020; Letter of Administration and Succession Certificate (Punjab Amendment) Rules, 2021; Succession Certificate / Letter of Administration / Inheritance / Mutation (Sindh Amendment) Rules, 2021; Letter of Administration and Succession Certificate (KPK Amendment) Rules, 2021; Letter of Administration and Succession Certificate (Balochistan Amendment) Rules, 2021; Letter of Administration and Succession Certificate (Islamabad Capital Territory Amendment) Rules, 2022. (To be read with NADRA Ordinance 2000).",
+      "urdu_question": "جانشینی کے سرٹیفیکیٹس پر کون سے قانونی کام ہوتے ہیں؟",
+      "urdu_answer": "قانونی کارروائیوں میں شامل ہیں: پنجاب جانشینی اور لیٹر آف ایڈمنسٹریشن رولز، 2020؛ لیٹر آف ایڈمنسٹریشن اینڈ سکشن سرٹیفکیٹ (پنجاب ترمیمی) رولز، 2021؛ جانشینی کا سرٹیفکیٹ/ لیٹر آف ایڈمنسٹریشن/ وراثت/ میوٹیشن (سندھ ترمیم) رولز، 2021؛ لیٹر آف ایڈمنسٹریشن اینڈ سکشن سرٹیفکیٹ (کے پی کے ترمیمی) رولز، 2021؛ لیٹر آف ایڈمنسٹریشن اینڈ سکشن سرٹیفکیٹ (بلوچستان ترمیم) رولز، 2021؛ لیٹر آف ایڈمنسٹریشن اینڈ سکشن سرٹیفکیٹ (اسلام آباد کیپیٹل ٹیریٹری ترمیم) رولز 2022۔ (نادرا آرڈیننس 2000 کے ساتھ پڑھا جائے)۔"
+    },
+    {
+      "question": "What is the document version and status of this Succession Policy?",
+      "answer": "Document: Letters of Administration & Succession Certificate — Policy for SFUs/DSFUs, Version: SFU-1.0.1, Status: In Process, Total Pages: 12, Creation Dates: February - 2024, Last Policy Version: SFU-1.0.0, Control Status: Controlled, Distribution: Ops Division, RHOs, Directorate and Departments. This Policy is applicable on all SFUs/DSFUs and Succession Manpacks across the country.",
+      "urdu_question": "اس جانشینی کی پالیسی کا دستاویزی ورژن اور حیثیت کیا ہے؟",
+      "urdu_answer": "دستاویز: انتظامیہ اور جانشینی کے سرٹیفکیٹ کے خطوط — SFUs/DSFUs کے لیے پالیسی، ورژن: SFU-1.0.1، حیثیت: عمل میں، کل صفحات: 12، تخلیق کی تاریخیں: فروری - 2024، آخری پالیسی ورژن: SFU-1.0.0، کنٹرول تقسیم، کنٹرول: تقسیم آر ایچ اوز، ڈائریکٹوریٹ اور محکمے۔ یہ پالیسی ملک بھر کے تمام SFUs/DSFUs اور Succession Manpacks پر لاگو ہوتی ہے۔"
+    },
+    {
+      "question": "How are photographs and fingerprints captured during succession application processing?",
+      "answer": "Photograph and fingerprints of the applicant will be captured while processing application. Legal heirs' fingerprints will be captured on their availability, failing which Facial Verification will be done. Legal Heirs settled abroad can provide fingerprints online at Pak-ID Mobile App or DAUs Abroad (for Fresh, Office Mistake & Amendment applications).",
+      "urdu_question": "یکے بعد دیگرے درخواست کی کارروائی کے دوران تصاویر اور فنگر پرنٹس کیسے حاصل کیے جاتے ہیں؟",
+      "urdu_answer": "درخواست پر کارروائی کے دوران درخواست گزار کی تصویر اور فنگر پرنٹس لیے جائیں گے۔ قانونی ورثاء کے فنگر پرنٹس ان کی دستیابی پر حاصل کیے جائیں گے، اس میں ناکامی کی صورت میں چہرے کی تصدیق کی جائے گی۔ بیرون ملک مقیم قانونی ورثاء پاک-آئی ڈی موبائل ایپ یا ڈی اے یوز بیرون ملک (تازہ، آفس کی غلطی اور ترمیمی درخواستوں کے لیے) پر آن لائن فنگر پرنٹس فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Is biometric verification required for all types of succession applications?",
+      "answer": "Legal heir's Biometric Verification (except applicant) will not be carried out for Decline & Reprint-Lost applications. For other applications, biometric verification is required when legal heirs are available.",
+      "urdu_question": "کیا تمام قسم کی جانشینی کی درخواستوں کے لیے بائیو میٹرک تصدیق ضروری ہے؟",
+      "urdu_answer": "قانونی وارث کی بائیو میٹرک تصدیق (درخواست دہندہ کے علاوہ) مسترد اور دوبارہ پرنٹ-گم شدہ درخواستوں کے لیے نہیں کی جائے گی۔ دیگر درخواستوں کے لیے، جب قانونی وارث دستیاب ہوں تو بائیو میٹرک تصدیق کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "When is Board Verification used in succession cases?",
+      "answer": "Legal Heirs will be verified through Board Verification where Legal Heir(s) fingerprints are not verified and it is unable to update fingerprints for being settled abroad, bedridden or for any other valid reason for not visiting NRC/DAU.",
+      "urdu_question": "یکے بعد دیگرے معاملات میں بورڈ کی تصدیق کب استعمال کی جاتی ہے؟",
+      "urdu_answer": "قانونی وارثوں کی تصدیق بورڈ کی توثیق کے ذریعے کی جائے گی جہاں قانونی وارثوں کے فنگر پرنٹس کی تصدیق نہیں کی گئی ہے اور وہ بیرون ملک مقیم ہونے، بستر پر رہنے یا NRC/DAU میں نہ آنے کی کسی اور معقول وجہ سے فنگر پرنٹس کو اپ ڈیٹ کرنے سے قاصر ہے۔"
+    },
+    {
+      "question": "How should documents be scanned during succession application processing?",
+      "answer": "Scanning of documents will be made on the same day and it will be ensured to scan documents with respective document title i.e. affidavit should be scanned against the affidavit category selected from the drop down menu at the scanning stage.",
+      "urdu_question": "جانشینی کی درخواست کی کارروائی کے دوران دستاویزات کو کیسے اسکین کیا جانا چاہئے؟",
+      "urdu_answer": "دستاویزات کی اسکیننگ اسی دن کی جائے گی اور اس بات کو یقینی بنایا جائے گا کہ متعلقہ دستاویز کے عنوان کے ساتھ دستاویزات کو اسکین کیا جائے یعنی حلف نامہ اسکیننگ کے مرحلے پر ڈراپ ڈاؤن مینو سے منتخب کردہ حلف نامے کے زمرے کے خلاف اسکین کیا جائے۔"
+    },
+    {
+      "question": "Can a succession application be cancelled on the same day?",
+      "answer": "Application can be cancelled on same day (on irreversible problem before scanning of documents) and no fee will be charged.",
+      "urdu_question": "کیا جانشینی کی درخواست اسی دن منسوخ کی جا سکتی ہے؟",
+      "urdu_answer": "درخواست اسی دن منسوخ کی جاسکتی ہے (دستاویزات کی اسکیننگ سے پہلے ناقابل واپسی مسئلہ پر) اور کوئی فیس نہیں لی جائے گی۔"
+    },
+    {
+      "question": "When are Decline Certificates issued for succession applications?",
+      "answer": "For minors in deceased family as legal heir(s), application will be processed to issue Decline Certificate. If deceased is MNIC holder, application will also be processed to issue Decline Certificate. Applications from extended family (beyond Alpha and Beta Family of the deceased) will be processed to issue Decline Certificate. Application will be processed to issue Decline Certificate on Court Orders/Directions.",
+      "urdu_question": "جانشینی کی درخواستوں کے لیے انکار سرٹیفکیٹ کب جاری کیے جاتے ہیں؟",
+      "urdu_answer": "متوفی کے خاندان میں نابالغوں کے لیے بطور قانونی وارث، درخواست مسترد کرنے کا سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی۔ اگر متوفی MNIC ہولڈر ہے تو Decline Certificate جاری کرنے کے لیے درخواست پر بھی کارروائی کی جائے گی۔ توسیعی خاندان (میت کے الفا اور بیٹا فیملی سے آگے) کی درخواستوں پر رد عمل کا سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی۔ درخواست پر عدالتی احکامات/ہدایات پر رد عمل کا سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی۔"
+    },
+    {
+      "question": "How are Decline Certificates processed through succession software?",
+      "answer": "Decline Certificate will be issued through Succession software. Legal heirs, deceased asset's details and decline reason will be recorded. For deceased with MNIC and extended family case, only deceased asset's details will be entered. Decline Certificate on Factual Controversy will be issued on the same day of processing of the application.",
+      "urdu_question": "جانشینی کے سافٹ ویئر کے ذریعے انکار سرٹیفکیٹس پر کیسے عمل کیا جاتا ہے؟",
+      "urdu_answer": "Decline سرٹیفکیٹ Succession سافٹ ویئر کے ذریعے جاری کیا جائے گا۔ قانونی ورثاء، متوفی کے اثاثوں کی تفصیلات اور کمی کی وجہ درج کی جائے گی۔ MNIC کے ساتھ متوفی اور توسیع شدہ فیملی کیس کے لیے، صرف متوفی کے اثاثوں کی تفصیلات درج کی جائیں گی۔ حقائق پر مبنی تنازعہ کو مسترد کرنے کا سرٹیفکیٹ درخواست کی کارروائی کے اسی دن جاری کیا جائے گا۔"
+    },
+    {
+      "question": "Can a succession application be reprocessed after a Decline Certificate is issued?",
+      "answer": "Application for Succession Certificate / Letter of Administration will be processed once reason of decline is eliminated even if Decline Certificate has been issued previously. Fresh application for Letter of Administration or Succession Certificate can be filed after settlement on objection/factual grounds even if Decline Certificate has been issued previously.",
+      "urdu_question": "کیا رد عمل کا سرٹیفکیٹ جاری ہونے کے بعد جانشینی کی درخواست پر دوبارہ کارروائی کی جا سکتی ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ/ لیٹر آف ایڈمنسٹریشن کے لیے درخواست پر ایک بار کارروائی کی جائے گی جب انکار کی وجہ ختم ہو جائے گی چاہے انکار کا سرٹیفکیٹ پہلے جاری کیا گیا ہو۔ لیٹر آف ایڈمنسٹریشن یا جانشینی کے سرٹیفکیٹ کے لیے تازہ درخواست اعتراض/حقیقی بنیادوں پر تصفیہ کے بعد دائر کی جا سکتی ہے چاہے انکار سرٹیفکیٹ پہلے جاری کیا گیا ہو۔"
+    },
+    {
+      "question": "How many decline reasons can be selected for a Decline Certificate?",
+      "answer": "Only one reason can be selected while processing of Decline Certificate application from the decline reason library.",
+      "urdu_question": "تنزلی کے سرٹیفکیٹ کے لیے کتنی کمی کی وجوہات کا انتخاب کیا جا سکتا ہے؟",
+      "urdu_answer": "کمی کی وجہ لائبریری سے انکار سرٹیفکیٹ کی درخواست پر کارروائی کرتے وقت صرف ایک وجہ کا انتخاب کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What is the objection process for succession certificates?",
+      "answer": "Any aggrieved person may approach the OIC of respective SFU for objection (if any) within fourteen (14) days after publication of notice in Newspaper. On receiving objection through letter, email or telephone, objector will be informed to submit objection by appearing in person or by any person authorized through Special Power of Attorney. No objection will be entertained if objector fails to appear in person at concerned SFU for objection recording.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ پر اعتراض کا عمل کیا ہے؟",
+      "urdu_answer": "کوئی بھی مشتعل شخص اخبار میں نوٹس کی اشاعت کے بعد چودہ (14) دنوں کے اندر اعتراض کے لیے متعلقہ SFU کے OIC سے رجوع کر سکتا ہے (اگر کوئی ہو)۔ خط، ای میل یا ٹیلی فون کے ذریعے اعتراض موصول ہونے پر، اعتراض کنندہ کو مطلع کیا جائے گا کہ وہ ذاتی طور پر حاضر ہو کر یا خصوصی پاور آف اٹارنی کے ذریعے مجاز کسی بھی شخص کے ذریعے اعتراض جمع کرائیں۔ اگر اعتراض کنندہ اعتراض ریکارڈنگ کے لیے متعلقہ SFU میں ذاتی طور پر حاضر ہونے میں ناکام رہتا ہے تو کوئی اعتراض نہیں کیا جائے گا۔"
+    },
+    {
+      "question": "What documents must an objector submit during the objection process?",
+      "answer": "Objector has to submit written objection on plain paper along with justifiable documentary evidence that will be scanned and uploaded at Succession Web Portal by authorized user. Objector(s) Fingerprints will be captured, and receipt will be provided to the objector after recording objection.",
+      "urdu_question": "اعتراض کے عمل کے دوران اعتراض کنندہ کو کون سی دستاویزات جمع کرانی چاہئیں؟",
+      "urdu_answer": "اعتراض کنندہ کو سادہ کاغذ پر تحریری اعتراضات کے ساتھ جائز دستاویزی ثبوت جمع کروانا ہوں گے جو کہ مجاز صارف کے ذریعے سکین کرکے Succession Web Portal پر اپ لوڈ کیا جائے گا۔ اعتراض کرنے والوں کے فنگر پرنٹس لیے جائیں گے، اور اعتراض ریکارڈ کرنے کے بعد اعتراض کنندہ کو رسید فراہم کی جائے گی۔"
+    },
+    {
+      "question": "What happens after an objection is recorded in succession cases?",
+      "answer": "On objection (after hearing the applicant), process on application will be stopped and system generated Decline Certificate will be issued to the applicant after 14 Days' Notice Period. Decision on objection as claimant of legal heir of the deceased will be made on updation of objector's record through respective DAU or Zonal office.",
+      "urdu_question": "یکے بعد دیگرے مقدمات میں اعتراض درج ہونے کے بعد کیا ہوتا ہے؟",
+      "urdu_answer": "اعتراض پر (درخواست گزار کی سماعت کے بعد)، درخواست پر کارروائی روک دی جائے گی اور 14 دن کے نوٹس کی مدت کے بعد درخواست دہندگان کو سسٹم سے تیار کردہ انکار کا سرٹیفکیٹ جاری کیا جائے گا۔ متوفی کے قانونی وارث کے دعویدار کے طور پر اعتراض پر فیصلہ متعلقہ DAU یا زونل آفس کے ذریعے اعتراض کنندہ کے ریکارڈ کی تازہ کاری پر کیا جائے گا۔"
+    },
+    {
+      "question": "What refund is provided if a succession application is declined due to objection?",
+      "answer": "Applicant will be refunded Rs. 5000/- as per Schedule IV (of Federal/Provincial Succession Rules) through cross cheque if application is declined on objection and it's receiving will be maintained at SFU and updated at Web Portal as well.",
+      "urdu_question": "اعتراض کی وجہ سے جانشینی کی درخواست مسترد ہونے پر کیا رقم کی واپسی کی جاتی ہے؟",
+      "urdu_answer": "درخواست دہندہ کو روپے واپس کیے جائیں گے۔ 5000/- شیڈول IV کے مطابق (وفاقی/صوبائی جانشینی کے قواعد کے) کراس چیک کے ذریعے اگر درخواست کو اعتراض پر مسترد کر دیا جاتا ہے اور اس کی وصولی کو SFU پر برقرار رکھا جائے گا اور ویب پورٹل پر بھی اپ ڈیٹ کیا جائے گا۔"
+    },
+    {
+      "question": "Who can collect the succession certificate once it's ready?",
+      "answer": "SC/LOA will be delivered to the applicant on self-presence (with/without token slip) or legal heir (with original token slip) or any other person (with original token slip and authority letter from applicant).",
+      "urdu_question": "جانشینی کا سرٹیفکیٹ تیار ہونے کے بعد کون جمع کر سکتا ہے؟",
+      "urdu_answer": "SC/LOA درخواست دہندہ کو خود موجودگی پر (بغیر ٹوکن سلپ کے) یا قانونی وارث (اصل ٹوکن پرچی کے ساتھ) یا کسی دوسرے شخص کو (درخواست دہندہ کی طرف سے اصل ٹوکن سلپ اور اتھارٹی لیٹر کے ساتھ) پہنچایا جائے گا۔"
+    },
+    {
+      "question": "What happens if concealment of facts is discovered in succession applications?",
+      "answer": "If any concealment of fact including concealment of legal heirs of the deceased is found, applicant shall be liable to face legal action as per prevailing law and Letter of Administration/ Succession Certificate shall deemed to be cancelled by the issuing Authority forthwith.",
+      "urdu_question": "اگر پے در پے درخواستوں میں حقائق کو چھپانے کا پتہ چل جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر متوفی کے قانونی ورثاء کی پردہ پوشی سمیت حقیقت کی کوئی پردہ پوشی پائی جاتی ہے تو، درخواست دہندہ کو مروجہ قانون کے مطابق قانونی کارروائی کا سامنا کرنا پڑے گا اور لیٹر آف ایڈمنسٹریشن/ جانشینی کا سرٹیفکیٹ جاری کرنے والی اتھارٹی کے ذریعے فوری طور پر منسوخ تصور کیا جائے گا۔"
+    },
+    {
+      "question": "When are cases referred to Zonal Verification Board?",
+      "answer": "Cases will be referred to Zonal Verification Board in the following scenario: Where fingerprints of any of the legal heir(s) are not verified and it is unable to update fingerprints due to valid reasons i.e. settled abroad, bedridden, old age etc.",
+      "urdu_question": "کیسز زونل تصدیقی بورڈ کو کب بھیجے جاتے ہیں؟",
+      "urdu_answer": "مندرجہ ذیل منظرنامے میں مقدمات زونل تصدیقی بورڈ کو بھیجے جائیں گے: جہاں قانونی وارثوں میں سے کسی کے فنگر پرنٹس کی تصدیق نہیں ہوئی ہے اور وہ درست وجوہات کی بنا پر فنگر پرنٹس کو اپ ڈیٹ کرنے سے قاصر ہے یعنی بیرون ملک مقیم، بستر پر، بڑھاپے وغیرہ۔"
+    },
+    {
+      "question": "What is the composition of the Zonal Board for succession verification?",
+      "answer": "Composition of Zonal Board will be as follows: 1. President: DD/AD Zone, 2. Member-1: Office In-Charge SFU, Member-2: Desk Operator SFU.",
+      "urdu_question": "جانشینی کی تصدیق کے لیے زونل بورڈ کی تشکیل کیا ہے؟",
+      "urdu_answer": "زونل بورڈ کی تشکیل اس طرح ہوگی: 1. صدر: DD/AD زون، 2. ممبر-1: آفس انچارج SFU، ممبر-2: ڈیسک آپریٹر SFU۔"
+    },
+    {
+      "question": "What actions can the Zonal Board take for unverified fingerprints?",
+      "answer": "For fingerprints not verified, the board can: Clear (a) - Use 'Biometric Clear' option to Clear case from Succession Unified Web Portal, or Reject (b) - Use 'Case Reject' option to reject case from Succession Unified Web Portal.",
+      "urdu_question": "غیر تصدیق شدہ فنگر پرنٹس کے لیے زونل بورڈ کیا اقدامات کر سکتا ہے؟",
+      "urdu_answer": "فنگر پرنٹس کی تصدیق نہ ہونے کے لیے، بورڈ یہ کر سکتا ہے: Clear (a) - Succession Uniified Web Portal سے کیس صاف کرنے کے لیے 'Biometric Clear' آپشن استعمال کریں، یا Reject (b) - Succession Uniified Web Portal سے کیس کو مسترد کرنے کے لیے 'Case Reject' آپشن استعمال کریں۔"
+    },
+    {
+      "question": "Who performs the Zonal Board verification and what documents are required?",
+      "answer": "Regional DD/AD Operations Branch nominated by respective Region performs the verification. Required documents are: 1. Notice, 2. Board Proceedings, 3. Affidavit as per prescribed format, 4. Minute Sheet duly approved from Regional DG.",
+      "urdu_question": "زونل بورڈ کی تصدیق کون کرتا ہے اور کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "متعلقہ علاقے کی طرف سے نامزد کردہ علاقائی DD/AD آپریشنز برانچ تصدیق کرتی ہے۔ مطلوبہ دستاویزات یہ ہیں: 1. نوٹس، 2. بورڈ کی کارروائی، 3. مقررہ فارمیٹ کے مطابق حلف نامہ، 4. ریجنل ڈی جی سے باقاعدہ طور پر منظور شدہ منٹ شیٹ۔"
+    },
+    {
+      "question": "What notice must be served under Section 6(5) of Succession Law?",
+      "answer": "Notice under Section 6(5) of relevant Succession Law shall be served to the applicant as per prescribed format (Annex-B).",
+      "urdu_question": "جانشینی قانون کے سیکشن 6(5) کے تحت کیا نوٹس دیا جانا چاہیے؟",
+      "urdu_answer": "متعلقہ جانشینی قانون کے سیکشن 6(5) کے تحت نوٹس درخواست دہندہ کو مقررہ فارمیٹ (اینیکس-بی) کے مطابق دیا جائے گا۔"
+    },
+    {
+      "question": "What affidavit must be submitted for unverified fingerprints?",
+      "answer": "Applicant has to submit an affidavit duly attested by Oath Commissioner as per prescribed format (Annex-C) to confirm on oath that person whose fingerprints are not being verified is the true legal heir of the deceased.",
+      "urdu_question": "غیر تصدیق شدہ فنگر پرنٹس کے لیے کون سا حلف نامہ جمع کرنا ہوگا؟",
+      "urdu_answer": "درخواست گزار کو ایک حلف نامہ جمع کرانا ہوگا جس کی تصدیق اوتھ کمشنر کے ذریعہ طے شدہ فارمیٹ (اینیکس-سی) کے مطابق کی گئی ہے تاکہ حلف پر اس بات کی تصدیق کی جا سکے کہ جس شخص کے فنگر پرنٹس کی تصدیق نہیں ہو رہی ہے وہی مقتول کا حقیقی وارث ہے۔"
+    },
+    {
+      "question": "How are board proceedings prepared and forwarded?",
+      "answer": "Board proceedings will be prepared duly completed/signed as per prescribed format (Annex-D) and forwarded to respective Regional Operations Branch.",
+      "urdu_question": "بورڈ کی کارروائی کیسے تیار اور آگے بھیجی جاتی ہے؟",
+      "urdu_answer": "بورڈ کی کارروائی کو مقررہ فارمیٹ (اینیکس-ڈی) کے مطابق مکمل/دستخط کے ساتھ تیار کیا جائے گا اور متعلقہ علاقائی آپریشنز برانچ کو بھیج دیا جائے گا۔"
+    },
+    {
+      "question": "What is the minimum quorum for Zonal Board meetings?",
+      "answer": "Minimum quorum for Zonal Board is President and 1 × member. It shall be conducted on weekly basis.",
+      "urdu_question": "زونل بورڈ کے اجلاسوں کے لیے کم از کم کورم کتنا ہوتا ہے؟",
+      "urdu_answer": "زونل بورڈ کے لیے کم از کم کورم صدر اور 1 × ممبر ہے۔ یہ ہفتہ وار بنیادوں پر منعقد کیا جائے گا۔"
+    },
+    {
+      "question": "What are the responsibilities of the Board President?",
+      "answer": "President of the Board shall ensure presence of the board members. Board members shall assist President in all ways and means (Reports, Archive record etc.).",
+      "urdu_question": "بورڈ کے صدر کی ذمہ داریاں کیا ہیں؟",
+      "urdu_answer": "بورڈ کے صدر بورڈ کے اراکین کی موجودگی کو یقینی بنائیں گے۔ بورڈ کے اراکین صدر کی ہر طرح سے مدد کریں گے (رپورٹ، آرکائیو ریکارڈ وغیرہ)۔"
+    },
+    {
+      "question": "What knowledge requirements exist for Board members?",
+      "answer": "Board members shall have good knowledge of Succession Laws, Rules and Registration Policy.",
+      "urdu_question": "بورڈ کے اراکین کے لیے علم کی کیا ضروریات موجود ہیں؟",
+      "urdu_answer": "بورڈ کے اراکین کو جانشینی کے قوانین، قواعد اور رجسٹریشن کی پالیسی کا اچھا علم ہونا چاہیے۔"
+    },
+    {
+      "question": "When must the Board be reconstituted?",
+      "answer": "Board shall be reconstituted by respective RHO immediately if any member is posted/suspended/terminated/resigned.",
+      "urdu_question": "بورڈ کی تشکیل نو کب ہونی چاہیے؟",
+      "urdu_answer": "اگر کوئی ممبر تعینات/معطل/برطرف/استعفی ہو جاتا ہے تو متعلقہ RHO کے ذریعے بورڈ کی تشکیل نو فوراً کی جائے گی۔"
+    },
+    {
+      "question": "How should Board members conduct interviews of legal heirs?",
+      "answer": "Board members shall conduct detailed interview of legal heir whose fingerprints are not verified personally. Board members shall verify concerned person data on verifying tools. Board proceedings will be conducted using modern device/video call as per Section 6(5) of Succession Laws for legal heirs unable to visit designated SFU due to valid reason i.e. settled abroad, bedridden.",
+      "urdu_question": "بورڈ کے ارکان کو قانونی ورثاء کے انٹرویوز کیسے کرنے چاہئیں؟",
+      "urdu_answer": "بورڈ ممبران قانونی وارث کا تفصیلی انٹرویو کریں گے جن کی انگلیوں کے نشانات ذاتی طور پر تصدیق شدہ نہیں ہیں۔ بورڈ کے اراکین تصدیقی ٹولز پر متعلقہ شخص کے ڈیٹا کی تصدیق کریں گے۔ بورڈ کی کارروائی جدید ڈیوائس/ویڈیو کال کا استعمال کرتے ہوئے جانشینی قوانین کے سیکشن 6(5) کے مطابق قانونی ورثا کے لیے کی جائے گی جو جائز وجہ کی وجہ سے نامزد SFU سے ملنے سے قاصر ہیں یعنی بیرون ملک مقیم، بستر پر۔"
+    },
+    {
+      "question": "How does Regional Operations Branch validate succession cases?",
+      "answer": "Regional Operations Branch will validate the case through Unified Succession Web Portal ensuring that all documents/evidences mentioned above are uploaded before validating the case.",
+      "urdu_question": "علاقائی آپریشنز برانچ جانشینی کے مقدمات کی توثیق کیسے کرتی ہے؟",
+      "urdu_answer": "ریجنل آپریشنز برانچ یونیفائیڈ سکشن ویب پورٹل کے ذریعے کیس کی توثیق کرے گی اور اس بات کو یقینی بنائے گی کہ کیس کی توثیق کرنے سے پہلے مذکورہ بالا تمام دستاویزات/شواہد اپ لوڈ کیے جائیں۔"
+    },
+    {
+      "question": "What happens if there are multiple newspapers requirements in Sindh?",
+      "answer": "For Sindh province specifically, advertisement/public notice must be published in 3 newspapers (3x Newspaper for Sindh only), while other provinces require publication in two nationwide circulated newspapers.",
+      "urdu_question": "اگر سندھ میں متعدد اخبارات کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "خاص طور پر صوبہ سندھ کے لیے، اشتہار/عوامی نوٹس 3 اخبارات میں شائع کیا جانا چاہیے (صرف سندھ کے لیے 3x اخبارات)، جب کہ دیگر صوبوں کے لیے ملک بھر میں زیر گردش دو اخبارات میں اشاعت ضروری ہے۔"
+    },
+    {
+      "question": "Can legal heirs abroad participate in succession proceedings?",
+      "answer": "Yes, legal heirs settled abroad can provide fingerprints online at Pak-ID Mobile App or DAUs Abroad (for Fresh, Office Mistake & Amendment applications). Board proceedings can also be conducted using modern device/video call for legal heirs unable to visit designated SFU due to valid reasons like being settled abroad.",
+      "urdu_question": "کیا بیرون ملک قانونی وارث جانشینی کی کارروائی میں حصہ لے سکتے ہیں؟",
+      "urdu_answer": "ہاں، بیرون ملک مقیم قانونی ورثاء پاک-آئی ڈی موبائل ایپ یا ڈی اے یوز بیرون ملک (تازہ، آفس کی غلطی اور ترمیمی درخواستوں کے لیے) پر آن لائن فنگر پرنٹس فراہم کر سکتے ہیں۔ قانونی ورثا کے لیے جدید ڈیوائس/ویڈیو کال کا استعمال کرتے ہوئے بورڈ کی کارروائی بھی کی جا سکتی ہے جو کہ بیرون ملک آباد ہونے جیسی درست وجوہات کی وجہ سے نامزد SFU کا دورہ کرنے سے قاصر ہیں۔"
+    },
+    {
+      "question": "What special provisions exist for bedridden or disabled legal heirs?",
+      "answer": "Board Verification is available for legal heirs who cannot update fingerprints due to being bedridden, amputated, or having other valid reasons for not visiting NRC/DAU. Board proceedings can be conducted using modern device/video call for such cases.",
+      "urdu_question": "بستر پر پڑے یا معذور قانونی ورثاء کے لیے کون سی خصوصی دفعات موجود ہیں؟",
+      "urdu_answer": "بورڈ کی توثیق ان قانونی ورثاء کے لیے دستیاب ہے جو بستر پر ہونے، کٹے ہوئے ہونے، یا NRC/DAU میں نہ آنے کی دیگر درست وجوہات کی وجہ سے فنگر پرنٹس کو اپ ڈیٹ نہیں کر سکتے۔ ایسے معاملات کے لیے بورڈ کی کارروائی جدید ڈیوائس/ویڈیو کال کے ذریعے کی جا سکتی ہے۔"
+    },
+    {
+      "question": "How long is the notice period for objections in succession cases?",
+      "answer": "The notice period for objections is fourteen (14) days after publication of notice in newspaper. Any aggrieved person may approach the OIC of respective SFU for objection within this period.",
+      "urdu_question": "یکے بعد دیگرے مقدمات میں اعتراضات کے نوٹس کی مدت کتنی ہے؟",
+      "urdu_answer": "اعتراضات کے نوٹس کی مدت اخبار میں نوٹس کی اشاعت کے بعد چودہ (14) دن ہے۔ کوئی بھی پریشان شخص اس مدت کے اندر اعتراض کے لیے متعلقہ SFU کے OIC سے رجوع کر سکتا ہے۔"
+    },
+    {
+      "question": "What happens if someone objects via telephone or email?",
+      "answer": "On receiving objection through letter, email or telephone, objector will be informed to submit objection by appearing in person or by any person authorized through Special Power of Attorney. No objection will be entertained if objector fails to appear in person at concerned SFU for objection recording.",
+      "urdu_question": "اگر کوئی ٹیلی فون یا ای میل کے ذریعے اعتراض کرے تو کیا ہوتا ہے؟",
+      "urdu_answer": "خط، ای میل یا ٹیلی فون کے ذریعے اعتراض موصول ہونے پر، اعتراض کنندہ کو مطلع کیا جائے گا کہ وہ ذاتی طور پر حاضر ہو کر یا خصوصی پاور آف اٹارنی کے ذریعے مجاز کسی بھی شخص کے ذریعے اعتراض جمع کرائیں۔ اگر اعتراض کنندہ اعتراض ریکارڈنگ کے لیے متعلقہ SFU میں ذاتی طور پر حاضر ہونے میں ناکام رہتا ہے تو کوئی اعتراض نہیں کیا جائے گا۔"
+    },
+    {
+      "question": "Can an authorized representative file an objection on behalf of the objector?",
+      "answer": "Yes, objection can be submitted by any person authorized through Special Power of Attorney on behalf of the objector, but the authorized person must appear in person at the concerned SFU for objection recording.",
+      "urdu_question": "کیا کوئی مجاز نمائندہ اعتراض کنندہ کی طرف سے اعتراض درج کر سکتا ہے؟",
+      "urdu_answer": "جی ہاں، اعتراض کرنے والے کی جانب سے خصوصی پاور آف اٹارنی کے ذریعے مجاز کوئی بھی شخص اعتراض جمع کرا سکتا ہے، لیکن مجاز شخص کو اعتراض ریکارڈنگ کے لیے متعلقہ SFU میں ذاتی طور پر حاضر ہونا چاہیے۔"
+    },
+    {
+      "question": "How are succession applications tracked through the system?",
+      "answer": "Applications are tracked using Tracking ID, Document ID and Date of Issue. The system maintains records through the Succession Unified Web Portal and all case updates are recorded electronically.",
+      "urdu_question": "نظام کے ذریعے جانشینی کی درخواستوں کو کیسے ٹریک کیا جاتا ہے؟",
+      "urdu_answer": "ایپلی کیشنز کو ٹریکنگ آئی ڈی، دستاویز کی شناخت اور ایشو کی تاریخ کا استعمال کرتے ہوئے ٹریک کیا جاتا ہے۔ سسٹم Succession Uniified Web Portal کے ذریعے ریکارڈ کو برقرار رکھتا ہے اور تمام کیس اپ ڈیٹس کو الیکٹرانک طور پر ریکارڈ کیا جاتا ہے۔"
+    },
+    {
+      "question": "What quality control measures exist for document scanning in succession cases?",
+      "answer": "Documents must be scanned with respective document titles (e.g., affidavit should be scanned against the affidavit category selected from the dropdown menu). All scanning must be completed on the same day as application processing.",
+      "urdu_question": "یکے بعد دیگرے کیسز میں دستاویز کی اسکیننگ کے لیے کوالٹی کنٹرول کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "دستاویزات کو متعلقہ دستاویز کے عنوانات کے ساتھ اسکین کیا جانا چاہیے (مثال کے طور پر، حلف نامہ کو ڈراپ ڈاؤن مینو سے منتخب کردہ حلف نامے کے زمرے کے خلاف اسکین کیا جانا چاہیے)۔ تمام اسکیننگ اسی دن مکمل کی جانی چاہیے جس دن درخواست کی کارروائی ہو رہی ہے۔"
+    },
+    {
+      "question": "Are there different procedures for MNIC holders in succession cases?",
+      "answer": "Yes, if the deceased is an MNIC (Machine Readable National Identity Card) holder, the application will be processed to issue a Decline Certificate rather than a regular Succession Certificate.",
+      "urdu_question": "کیا یکے بعد دیگرے مقدمات میں MNIC ہولڈرز کے لیے مختلف طریقہ کار ہیں؟",
+      "urdu_answer": "ہاں، اگر متوفی ایک MNIC (مشین ریڈ ایبل قومی شناختی کارڈ) ہولڈر ہے، تو درخواست پر باقاعدہ جانشینی کے سرٹیفکیٹ کے بجائے انکار کا سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی۔"
+    },
+    {
+      "question": "What constitutes 'extended family' in succession matters?",
+      "answer": "Extended family refers to relatives beyond Alpha and Beta Family of the deceased. Applications from such extended family members will be processed to issue Decline Certificate rather than regular succession certificates.",
+      "urdu_question": "یکے بعد دیگرے معاملات میں 'توسیع شدہ خاندان' کیا ہوتا ہے؟",
+      "urdu_answer": "توسیع شدہ خاندان سے مراد متوفی کے الفا اور بیٹا خاندان سے باہر کے رشتہ دار ہیں۔ اس طرح کے بڑھے ہوئے خاندان کے افراد کی درخواستوں پر باقاعدہ جانشینی کے سرٹیفکیٹ کے بجائے انکار سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی۔"
+    },
+    {
+      "question": "How are court orders handled in succession applications?",
+      "answer": "Applications will be processed to issue Decline Certificate on Court Orders/Directions. This ensures compliance with judicial directives in succession matters.",
+      "urdu_question": "یکے بعد دیگرے درخواستوں میں عدالتی احکامات کو کیسے نمٹا جاتا ہے؟",
+      "urdu_answer": "درخواستوں پر عدالتی احکامات/ہدایات پر رد عمل کا سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی۔ یہ یکے بعد دیگرے معاملات میں عدالتی ہدایات کی تعمیل کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What happens to succession cases involving minor legal heirs?",
+      "answer": "For minors in deceased family as legal heir(s), application will be processed to issue Decline Certificate, as special legal considerations apply when minors are involved in inheritance matters.",
+      "urdu_question": "جانشینی کے مقدمات کا کیا ہوتا ہے جس میں نابالغ قانونی ورثاء شامل ہوتے ہیں؟",
+      "urdu_answer": "متوفی خاندان کے نابالغوں کے لیے بطور قانونی وارث، درخواست مسترد ہونے کا سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جائے گی، کیونکہ جب نابالغ وراثت کے معاملات میں ملوث ہوتے ہیں تو خصوصی قانونی تحفظات لاگو ہوتے ہیں۔"
+    },
+    {
+      "question": "How often should Zonal Board meetings be conducted?",
+      "answer": "Zonal Board meetings shall be conducted on a weekly basis to ensure timely processing of cases requiring board verification.",
+      "urdu_question": "زونل بورڈ کے اجلاس کتنی بار منعقد کیے جانے چاہئیں؟",
+      "urdu_answer": "زونل بورڈ کے اجلاس ہفتہ وار بنیادوں پر منعقد کیے جائیں گے تاکہ بورڈ کی توثیق کی ضرورت والے مقدمات کی بروقت کارروائی کو یقینی بنایا جا سکے۔"
+    },
+    {
+      "question": "What role does the Unified Succession Web Portal play?",
+      "answer": "The Unified Succession Web Portal is used for case validation, document uploading, status tracking, biometric clearing/rejecting cases, and maintaining comprehensive records of all succession applications and their processing stages.",
+      "urdu_question": "یونیفائیڈ سکشن ویب پورٹل کیا کردار ادا کرتا ہے؟",
+      "urdu_answer": "یونیفائیڈ سکشن ویب پورٹل کیس کی تصدیق، دستاویز اپ لوڈ کرنے، اسٹیٹس ٹریکنگ، بائیو میٹرک کلیئرنگ/ریجیکٹنگ کیسز، اور جانشینی کی تمام درخواستوں اور ان کی پروسیسنگ کے مراحل کے جامع ریکارڈ کو برقرار رکھنے کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "Can succession applications be filed for the same deceased multiple times?",
+      "answer": "Yes, fresh applications for Letter of Administration or Succession Certificate can be filed after settlement on objection/factual grounds even if Decline Certificate has been issued previously, provided the reason for decline is eliminated.",
+      "urdu_question": "کیا ایک ہی میت کے لیے متعدد بار جانشینی کی درخواستیں دائر کی جا سکتی ہیں؟",
+      "urdu_answer": "ہاں، لیٹر آف ایڈمنسٹریشن یا جانشینی کے سرٹیفکیٹ کے لیے نئی درخواستیں اعتراضات/حقیقی بنیادوں پر تصفیہ کے بعد دائر کی جا سکتی ہیں چاہے انکار کا سرٹیفکیٹ پہلے جاری کیا گیا ہو، بشرطیکہ انکار کی وجہ ختم کر دی گئی ہو۔"
+    },
+    {
+      "question": "What security measures exist to prevent fraud in succession applications?",
+      "answer": "Security measures include biometric verification of legal heirs, public notice publication for objections, board verification for unverified fingerprints, detailed documentary evidence requirements, and legal action provisions for concealment of facts including cancellation of certificates if fraud is discovered.",
+      "urdu_question": "یکے بعد دیگرے درخواستوں میں دھوکہ دہی کو روکنے کے لیے کیا حفاظتی اقدامات موجود ہیں؟",
+      "urdu_answer": "حفاظتی اقدامات میں قانونی ورثا کی بائیو میٹرک تصدیق، اعتراضات کے لیے پبلک نوٹس کی اشاعت، غیر تصدیق شدہ فنگر پرنٹس کے لیے بورڈ کی تصدیق، تفصیلی دستاویزی ثبوت کے تقاضے، اور حقائق کو چھپانے کے لیے قانونی کارروائی کی دفعات شامل ہیں جن میں فراڈ کا پتہ چلنے پر سرٹیفکیٹس کی منسوخی بھی شامل ہے۔"
+    },
+    {
+      "question": "How are overseas Pakistani legal heirs accommodated in succession proceedings?",
+      "answer": "Overseas Pakistani legal heirs can provide fingerprints online through Pak-ID Mobile App or at DAUs abroad. Board proceedings can be conducted via modern devices/video calls for those unable to visit designated SFUs, ensuring global accessibility to succession services.",
+      "urdu_question": "بیرون ملک مقیم پاکستانی قانونی ورثاء کو یکے بعد دیگرے کارروائیوں میں کیسے جگہ دی جاتی ہے؟",
+      "urdu_answer": "بیرون ملک مقیم پاکستانی قانونی ورثاء پاک-آئی ڈی موبائل ایپ کے ذریعے یا بیرون ملک DAUs پر فنگر پرنٹس آن لائن فراہم کر سکتے ہیں۔ بورڈ کی کارروائی جدید آلات/ویڈیو کالز کے ذریعے کی جا سکتی ہے جو نامزد SFUs کا دورہ کرنے سے قاصر ہیں، جس سے جانشینی کی خدمات تک عالمی رسائی کو یقینی بنایا جا سکتا ہے۔"
+    },
+    {
+      "question": "What happens if all required documents are not uploaded before case validation?",
+      "answer": "Regional Operations Branch will not validate the case through Unified Succession Web Portal unless all required documents/evidences are uploaded. This ensures complete documentation before proceeding with case processing.",
+      "urdu_question": "اگر تمام مطلوبہ دستاویزات کیس کی توثیق سے پہلے اپ لوڈ نہ کیے جائیں تو کیا ہوگا؟",
+      "urdu_answer": "ریجنل آپریشنز برانچ یونیفائیڈ سکشن ویب پورٹل کے ذریعے کیس کی توثیق نہیں کرے گی جب تک کہ تمام مطلوبہ دستاویزات/شواہد اپ لوڈ نہ کیے جائیں۔ یہ کیس پروسیسنگ کے ساتھ آگے بڑھنے سے پہلے مکمل دستاویزات کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "Are there any special considerations for succession cases involving property disputes?",
+      "answer": "Cases involving property disputes or factual controversies are processed to issue Decline Certificates. Such matters may require court adjudication or additional evidence that cannot be resolved by the Authority alone.",
+      "urdu_question": "کیا جائیداد کے تنازعات پر مشتمل جانشینی کے معاملات کے لیے کوئی خاص تحفظات ہیں؟",
+      "urdu_answer": "جائیداد کے تنازعات یا حقائق پر مبنی تنازعات کے کیسز کو مسترد کرنے کے سرٹیفکیٹ جاری کرنے کے لیے کارروائی کی جاتی ہے۔ اس طرح کے معاملات میں عدالتی فیصلے یا اضافی شواہد کی ضرورت پڑ سکتی ہے جو اکیلے اتھارٹی کے ذریعہ حل نہیں کی جاسکتی ہے۔"
+    },
+    {
+      "question": "Can I apply for succession certificate from anywhere in Pakistan",
+      "answer": "You can apply for succession certificate from anywhere in Pakistan regardless of the domicile of the deceased person.",
+      "urdu_question": "کیا میں پاکستان میں کہیں سے بھی جانشینی کے سرٹیفکیٹ کے لیے درخواست دے سکتا ہوں۔",
+      "urdu_answer": "آپ متوفی کے ڈومیسائل سے قطع نظر پاکستان میں کہیں سے بھی جانشینی کے سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "Can I apply online for succession certificate",
+      "answer": "No, currently there is no online application process for succession certificate. You need to visit the designated Succession Facilitation Unit (SFU) in person to apply.",
+      "urdu_question": "کیا میں جانشینی کے سرٹیفکیٹ کے لیے آن لائن درخواست دے سکتا ہوں۔",
+      "urdu_answer": "نہیں، فی الحال جانشینی کے سرٹیفکیٹ کے لیے کوئی آن لائن درخواست کا عمل نہیں ہے۔ درخواست دینے کے لیے آپ کو نامزد کردہ Succession Facilitation Unit (SFU) کو ذاتی طور پر جانا ہوگا۔"
+    },
+    {
+      "question": "Can I apply for succesion certificate from outside Pakistan or if the heirs are overseas?",
+      "answer": "Yes, you can apply for a Succession Certificate from outside Pakistan by initiating the application from within Pakistan, either by a family member or a representative, and then completing biometrics at a local Pakistan Mission abroad or through the NADRA Pak Identity App. The application must be initiated by at least one heir in Pakistan, after which the overseas heirs can perform their biometric verification at designated Pakistan Consulates or High Commissions in major cities or by using the official mobile app.",
+      "urdu_question": "کیا میں پاکستان سے باہر سے جانشینی کے سرٹیفکیٹ کے لیے درخواست دے سکتا ہوں یا اگر وارث بیرون ملک مقیم ہیں؟",
+      "urdu_answer": "ہاں، آپ پاکستان کے اندر سے، خاندان کے کسی فرد یا نمائندے کے ذریعے، اور پھر بیرون ملک مقامی پاکستانی مشن میں یا نادرا پاک شناختی ایپ کے ذریعے بائیو میٹرک مکمل کر کے پاکستان سے باہر سے جانشینی کے سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں۔ درخواست پاکستان میں کم از کم ایک وارث کی طرف سے شروع کی جانی چاہیے، جس کے بعد بیرون ملک مقیم ورثاء بڑے شہروں میں نامزد پاکستانی قونصل خانوں یا ہائی کمیشنز میں یا سرکاری موبائل ایپ کا استعمال کر کے اپنی بائیو میٹرک تصدیق کروا سکتے ہیں۔"
+    },
+    {
+      "question": "how to get succession certificate if the heirs are overseas??",
+      "answer": "To get a succession certificate with overseas heirs, one legal heir applies to NADRA in Pakistan, providing the deceased's death certificate and all heirs' details. All heirs (whether in Pakistan or abroad) then conduct biometric verification at a designated NADRA office, their local Pakistan Mission (embassy/consulate), or a future overseas center or through PAK ID application. After a 14-day public notice for objections, NADRA issues the certificate if no issues arise. The process requires coordination among all heirs, regardless of their location.",
+      "urdu_question": "اگر وارث بیرون ملک ہیں تو جانشینی کا سرٹیفکیٹ کیسے حاصل کیا جائے؟",
+      "urdu_answer": "بیرون ملک مقیم ورثاء کے ساتھ جانشینی کا سرٹیفکیٹ حاصل کرنے کے لیے، ایک قانونی وارث پاکستان میں نادرا سے درخواست کرتا ہے، میت کا ڈیتھ سرٹیفکیٹ اور تمام ورثاء کی تفصیلات فراہم کرتا ہے۔ تمام ورثاء (چاہے پاکستان میں ہوں یا بیرون ملک) پھر ایک نامزد نادرا دفتر، اپنے مقامی پاکستان مشن (سفارت خانہ/قونصلیٹ) یا مستقبل کے بیرون ملک مرکز یا PAK ID درخواست کے ذریعے بائیو میٹرک تصدیق کرواتے ہیں۔ اعتراضات کے لیے 14 دن کے عوامی نوٹس کے بعد، نادرا سرٹیفکیٹ جاری کرتا ہے اگر کوئی مسئلہ پیدا نہ ہو۔ اس عمل کے لیے تمام ورثاء کے درمیان ہم آہنگی کی ضرورت ہوتی ہے، چاہے ان کا مقام کچھ بھی ہو۔"
+    }
+  ]
+}

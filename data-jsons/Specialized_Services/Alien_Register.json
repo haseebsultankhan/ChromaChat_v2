@@ -1,0 +1,601 @@
+{
+  "file_name": "Alien_Register.json",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 120,
+  "qa_data": [
+    {
+      "question": "What is the Alien Registration policy in Pakistan?",
+      "answer": "The Alien Registration policy (Version 1.0.0) is a comprehensive framework for registering foreigners and their family members residing in Pakistan, enabling them to obtain Alien Registration Cards (ARC) for legal identification and access to services.",
+      "urdu_question": "پاکستان میں ایلین رجسٹریشن کی پالیسی کیا ہے؟",
+      "urdu_answer": "ایلین رجسٹریشن پالیسی (ورژن 1.0.0) پاکستان میں مقیم غیر ملکیوں اور ان کے خاندان کے افراد کی رجسٹریشن کے لیے ایک جامع فریم ورک ہے، جو انہیں قانونی شناخت اور خدمات تک رسائی کے لیے ایلین رجسٹریشن کارڈز (ARC) حاصل کرنے کے قابل بناتا ہے۔"
+    },
+    {
+      "question": "What is the eligibility criteria for Alien Registration in Pakistan?",
+      "answer": "Any foreigner or their family members (except Afghan Nationals and POC holders) who have resided in Pakistan illegally for at least five years prior to registration OR remained in prison for a period of three years (for illegal stay under Foreign Act 14-D only), whichever is less. Also, any foreigner with valid visa/passport intending to live in Pakistan legally for more or less than ninety days is eligible for registration/issuance of card.",
+      "urdu_question": "پاکستان میں ایلین رجسٹریشن کے لیے اہلیت کا معیار کیا ہے؟",
+      "urdu_answer": "کوئی بھی غیر ملکی یا ان کے خاندان کے افراد (سوائے افغان شہریوں اور پی او سی ہولڈرز کے) جو رجسٹریشن سے پہلے کم از کم پانچ سال تک غیر قانونی طور پر پاکستان میں مقیم رہے یا تین سال کی مدت تک قید رہے (صرف غیر ملکی ایکٹ 14-D کے تحت غیر قانونی قیام کے لیے)، جو بھی کم ہو۔ اس کے علاوہ، درست ویزا/پاسپورٹ کے ساتھ کوئی بھی غیر ملکی جو پاکستان میں قانونی طور پر نوے دنوں سے کم یا زیادہ عرصے تک رہنے کا ارادہ رکھتا ہے، وہ کارڈ کے رجسٹریشن/جاری کرنے کا اہل ہے۔"
+    },
+    {
+      "question": "Are Afghan Nationals and POC holders eligible for Alien Registration?",
+      "answer": "No, Afghan Nationals and POC (Pakistan Origin Card) holders are specifically excluded from the Alien Registration policy and are not eligible for registration.",
+      "urdu_question": "کیا افغان شہری اور POC ہولڈر ایلین رجسٹریشن کے اہل ہیں؟",
+      "urdu_answer": "نہیں، افغان شہریوں اور پی او سی (پاکستان اوریجن کارڈ) کے حاملین کو خاص طور پر ایلین رجسٹریشن پالیسی سے خارج کر دیا گیا ہے اور وہ رجسٹریشن کے اہل نہیں ہیں۔"
+    },
+    {
+      "question": "Why are Afghan Nationals excluded from Alien Registration?",
+      "answer": "Afghan Nationals are excluded from the Alien Registration policy likely due to separate bilateral agreements and specific policies governing Afghan refugees and displaced persons in Pakistan.",
+      "urdu_question": "افغان شہریوں کو ایلین رجسٹریشن سے کیوں باہر رکھا گیا ہے؟",
+      "urdu_answer": "افغان شہریوں کو پاکستان میں افغان مہاجرین اور بے گھر افراد کے لیے الگ الگ دو طرفہ معاہدوں اور مخصوص پالیسیوں کی وجہ سے ممکنہ طور پر ایلین رجسٹریشن پالیسی سے خارج کر دیا گیا ہے۔"
+    },
+    {
+      "question": "What is the five-year residency requirement for illegal stay applicants?",
+      "answer": "Foreigners with illegal stay status must prove they have resided in Pakistan for at least five years prior to registration through documents like expired passport/visa, valid SIM cards, bank accounts, driving licenses, educational documents, or utility bills dating back at least five years.",
+      "urdu_question": "غیر قانونی قیام کے درخواست دہندگان کے لیے پانچ سالہ رہائش کی ضرورت کیا ہے؟",
+      "urdu_answer": "غیر قانونی قیام کی حیثیت کے حامل غیر ملکیوں کو یہ ثابت کرنا ہوگا کہ وہ رجسٹریشن سے پہلے کم از کم پانچ سال سے پاکستان میں مقیم ہیں جیسے کہ میعاد ختم ہونے والے پاسپورٹ/ویزا، درست سم کارڈز، بینک اکاؤنٹس، ڈرائیونگ لائسنس، تعلیمی دستاویزات، یا کم از کم پانچ سال پرانے یوٹیلیٹی بلز کے ذریعے۔"
+    },
+    {
+      "question": "What is the three-year prison provision for alien registration?",
+      "answer": "Foreigners who remained in prison for a period of three years specifically for illegal stay under Foreign Act 14-D only can apply for registration, whichever is less between the five-year residency or three-year imprisonment period.",
+      "urdu_question": "اجنبی رجسٹریشن کے لیے تین سال کی قید کا کیا انتظام ہے؟",
+      "urdu_answer": "غیر ملکی جو تین سال کی مدت کے لیے خاص طور پر فارن ایکٹ 14-D کے تحت غیر قانونی قیام کے لیے جیل میں رہے صرف رجسٹریشن کے لیے درخواست دے سکتے ہیں، جو بھی پانچ سال کی اقامت یا تین سال کی قید کی مدت میں سے کم ہو۔"
+    },
+    {
+      "question": "Is registration mandatory for all foreigners in Pakistan?",
+      "answer": "Registration is compulsory for foreigners who have stayed in Pakistan for at least five years prior to registration or intending to stay for more than ninety days. However, foreigners who intend to live less than ninety days may or may not register with NADRA - it is optional for them.",
+      "urdu_question": "کیا پاکستان میں تمام غیر ملکیوں کے لیے رجسٹریشن لازمی ہے؟",
+      "urdu_answer": "رجسٹریشن ان غیر ملکیوں کے لیے لازمی ہے جو رجسٹریشن سے پہلے کم از کم پانچ سال پاکستان میں مقیم ہیں یا نوے دن سے زیادہ قیام کا ارادہ رکھتے ہیں۔ تاہم، جو غیر ملکی نوے دن سے کم رہنے کا ارادہ رکھتے ہیں وہ نادرا کے ساتھ رجسٹر ہو سکتے ہیں یا نہیں - یہ ان کے لیے اختیاری ہے۔"
+    },
+    {
+      "question": "What is the ninety-day rule for foreign visitors?",
+      "answer": "Foreigners intending to stay in Pakistan for more than ninety days must compulsorily register with NADRA. Those staying for less than ninety days may optionally register but are not required to do so.",
+      "urdu_question": "غیر ملکی زائرین کے لیے نوے دن کا کیا حکم ہے؟",
+      "urdu_answer": "پاکستان میں نوے دن سے زیادہ قیام کرنے کے خواہشمند غیر ملکیوں کو لازمی طور پر نادرا کے ساتھ رجسٹر کرنا ہوگا۔ نوے دن سے کم رہنے والے اختیاری طور پر رجسٹر ہو سکتے ہیں لیکن ایسا کرنے کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What are the two types of registration available under the Alien Registration policy?",
+      "answer": "The two types are: 1) Registration and Issuance of Card - for foreigners meeting the residency criteria, and 2) Work Permit - issued by the Interior Division to registered foreigners who hold an Alien Registration Card (ARC), enabling them to take private employment, work, or undertake business activity.",
+      "urdu_question": "ایلین رجسٹریشن پالیسی کے تحت دو قسم کی رجسٹریشن دستیاب ہے؟",
+      "urdu_answer": "دو قسمیں ہیں: 1) رجسٹریشن اور کارڈ کا اجراء - رہائش کے معیار پر پورا اترنے والے غیر ملکیوں کے لیے، اور 2) ورک پرمٹ - داخلہ ڈویژن کی طرف سے ان رجسٹرڈ غیر ملکیوں کو جاری کیا جاتا ہے جن کے پاس ایلین رجسٹریشن کارڈ (ARC) ہے، جس سے وہ نجی ملازمت، کام، یا کاروباری سرگرمیاں شروع کر سکتے ہیں۔"
+    },
+    {
+      "question": "Who issues the Work Permit for foreigners in Pakistan?",
+      "answer": "The Work Permit is issued by the Interior Division to registered foreigners under this policy who hold an Alien Registration Card (ARC).",
+      "urdu_question": "پاکستان میں غیر ملکیوں کو ورک پرمٹ کون جاری کرتا ہے؟",
+      "urdu_answer": "ورک پرمٹ داخلہ ڈویژن کی طرف سے اس پالیسی کے تحت رجسٹرڈ غیر ملکیوں کو جاری کیا جاتا ہے جو ایلین رجسٹریشن کارڈ (ARC) رکھتے ہیں۔"
+    },
+    {
+      "question": "What is the relationship between ARC and Work Permit?",
+      "answer": "An Alien Registration Card (ARC) is a prerequisite for obtaining a Work Permit. Only registered foreigners who hold an ARC can apply for a Work Permit from the Interior Division.",
+      "urdu_question": "اے آر سی اور ورک پرمٹ کے درمیان کیا تعلق ہے؟",
+      "urdu_answer": "ورک پرمٹ حاصل کرنے کے لیے ایلین رجسٹریشن کارڈ (ARC) ایک شرط ہے۔ صرف رجسٹرڈ غیر ملکی جو ARC رکھتے ہیں داخلہ ڈویژن سے ورک پرمٹ کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "What documents are required for foreigners with legal stay status for Alien Registration?",
+      "answer": "For legal stay, any one of the following documents is required: Ex-NARA Card (old), whether valid or expired, or Valid Visa.",
+      "urdu_question": "ایلین رجسٹریشن کے لیے قانونی قیام کی حیثیت رکھنے والے غیر ملکیوں کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "قانونی قیام کے لیے، درج ذیل دستاویزات میں سے کسی ایک کی ضرورت ہے: سابق NARA کارڈ (پرانا)، چاہے وہ درست ہو یا میعاد ختم ہو، یا درست ویزا۔"
+    },
+    {
+      "question": "What is an Ex-NARA Card?",
+      "answer": "Ex-NARA Card refers to the old alien registration cards issued by the previous registration authority before NADRA took over alien registration functions. These cards, whether valid or expired, can be used as proof of legal stay.",
+      "urdu_question": "Ex-NARA کارڈ کیا ہے؟",
+      "urdu_answer": "Ex-NARA کارڈ سے مراد وہ پرانے اجنبی رجسٹریشن کارڈز ہیں جو نادرا کی جانب سے ایلین رجسٹریشن کے کاموں کو سنبھالنے سے پہلے پچھلی رجسٹریشن اتھارٹی کی طرف سے جاری کیے گئے تھے۔ یہ کارڈز، چاہے درست ہوں یا میعاد ختم، قانونی قیام کے ثبوت کے طور پر استعمال کیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "What documents are required for foreigners with illegal stay status for Alien Registration?",
+      "answer": "For illegal stay, any one of the following documents is required: Expired passport and visa, Valid SIM issued at least 5 years prior to registration, Valid bank account opened at least 5 years prior to registration, Pakistan driving license issued at least 5 years prior to registration, Pakistani educational document at least 5 years prior to registration, Utility bills in applicant's name for at least 5 years prior to registration, Tenant letter and affidavit from employer proving stay in Pakistan for last 5 years, or Any other document issued by the Government of Pakistan.",
+      "urdu_question": "ایلین رجسٹریشن کے لیے غیر قانونی قیام کی حیثیت رکھنے والے غیر ملکیوں کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "غیر قانونی قیام کے لیے درج ذیل دستاویزات میں سے کسی ایک کی ضرورت ہے: میعاد ختم ہونے والا پاسپورٹ اور ویزا، رجسٹریشن سے کم از کم 5 سال قبل جاری کردہ درست سم، رجسٹریشن سے کم از کم 5 سال پہلے کھلا ہوا درست بینک اکاؤنٹ، رجسٹریشن سے کم از کم 5 سال قبل جاری کردہ پاکستان کا ڈرائیونگ لائسنس، پاکستانی تعلیمی دستاویز کم از کم 5 سال قبل رجسٹریشن کے بل میں، رجسٹریشن کے لیے کم از کم 5 سال پہلے رجسٹریشن بل۔ رجسٹریشن سے کئی سال پہلے، آجر کی طرف سے کرایہ دار کا خط اور حلف نامہ جو پاکستان میں پچھلے 5 سال تک قیام کو ثابت کرتا ہے، یا حکومت پاکستان کی طرف سے جاری کردہ کوئی اور دستاویز۔"
+    },
+    {
+      "question": "How long must documents prove residency for illegal stay applicants?",
+      "answer": "For illegal stay applicants, documents must prove residency for at least 5 years prior to registration. This applies to SIM cards, bank accounts, driving licenses, educational documents, utility bills, and tenant letters with employer affidavits.",
+      "urdu_question": "غیر قانونی قیام کے درخواست دہندگان کے لیے دستاویزات کو کتنی دیر تک رہائش ثابت کرنا چاہیے؟",
+      "urdu_answer": "غیر قانونی قیام کے درخواست دہندگان کے لیے، دستاویزات کو رجسٹریشن سے قبل کم از کم 5 سال تک رہائش کا ثبوت دینا چاہیے۔ اس کا اطلاق سم کارڈز، بینک اکاؤنٹس، ڈرائیونگ لائسنس، تعلیمی دستاویزات، یوٹیلیٹی بلز، اور آجر کے حلف ناموں کے ساتھ کرایہ دار کے خطوط پر ہوتا ہے۔"
+    },
+    {
+      "question": "Can expired passports be used for alien registration?",
+      "answer": "Yes, expired passport and visa can be used as proof of previous legal stay for illegal stay applicants, demonstrating that they were once legally present in Pakistan.",
+      "urdu_question": "کیا میعاد ختم ہونے والے پاسپورٹ کو اجنبی رجسٹریشن کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، غیر قانونی قیام کے درخواست دہندگان کے سابقہ قانونی قیام کے ثبوت کے طور پر میعاد ختم ہونے والے پاسپورٹ اور ویزا کو استعمال کیا جا سکتا ہے، جس سے یہ ظاہر ہوتا ہے کہ وہ کبھی پاکستان میں قانونی طور پر موجود تھے۔"
+    },
+    {
+      "question": "What role do utility bills play in alien registration?",
+      "answer": "Utility bills in the applicant's name for at least 5 years prior to registration serve as proof of continuous residence in Pakistan for illegal stay applicants, demonstrating established residence.",
+      "urdu_question": "اجنبی رجسٹریشن میں یوٹیلیٹی بلز کیا کردار ادا کرتے ہیں؟",
+      "urdu_answer": "رجسٹریشن سے کم از کم 5 سال قبل درخواست دہندہ کے نام پر یوٹیلٹی بلز غیر قانونی قیام کے درخواست دہندگان کے لیے پاکستان میں مستقل رہائش کے ثبوت کے طور پر کام کرتے ہیں، جو کہ قائم رہائش کا مظاہرہ کرتے ہیں۔"
+    },
+    {
+      "question": "What is a tenant letter for alien registration purposes?",
+      "answer": "A tenant letter combined with an affidavit from an employer can prove stay in Pakistan for the last 5 years for illegal stay applicants, providing alternative documentation of residence.",
+      "urdu_question": "اجنبی رجسٹریشن کے مقاصد کے لیے کرایہ دار کا خط کیا ہے؟",
+      "urdu_answer": "کرایہ دار کا خط ایک آجر کے حلف نامہ کے ساتھ مل کر غیر قانونی قیام کے درخواست دہندگان کے لیے پچھلے 5 سالوں سے پاکستان میں قیام کو ثابت کر سکتا ہے، رہائش کی متبادل دستاویزات فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Who can collect the Alien Registration Card on behalf of the applicant?",
+      "answer": "The card can be collected by: 1) Applicant in person from center, 2) Spouse, Parents, Son, Daughter, or Siblings with original token slip, or 3) Anyone with authority letter from the applicant and original token slip.",
+      "urdu_question": "درخواست گزار کی جانب سے ایلین رجسٹریشن کارڈ کون جمع کر سکتا ہے؟",
+      "urdu_answer": "کارڈ اس طرح جمع کیا جا سکتا ہے: 1) مرکز سے ذاتی طور پر درخواست دہندہ، 2) شریک حیات، والدین، بیٹا، بیٹی، یا بہن بھائی اصل ٹوکن سلپ کے ساتھ، یا 3) درخواست دہندہ کی طرف سے اختیاری خط اور اصل ٹوکن سلپ کے ساتھ کوئی بھی۔"
+    },
+    {
+      "question": "What is required for family members to collect ARC cards?",
+      "answer": "Family members (spouse, parents, son, daughter, or siblings) can collect the ARC with the original token slip. They don't need additional authorization beyond the family relationship and token.",
+      "urdu_question": "خاندان کے ارکان کو اے آر سی کارڈ جمع کرنے کے لیے کیا ضرورت ہے؟",
+      "urdu_answer": "خاندان کے ارکان (شریک حیات، والدین، بیٹا، بیٹی، یا بہن بھائی) اصل ٹوکن پرچی کے ساتھ ARC جمع کر سکتے ہیں۔ انہیں خاندانی تعلق اور ٹوکن سے آگے اضافی اجازت کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What is an authority letter for ARC collection?",
+      "answer": "An authority letter is a written authorization from the applicant allowing any designated person to collect their ARC on their behalf, provided they also have the original token slip.",
+      "urdu_question": "اے آر سی جمع کرنے کے لیے اتھارٹی لیٹر کیا ہے؟",
+      "urdu_answer": "ایک اتھارٹی لیٹر درخواست دہندہ کی طرف سے ایک تحریری اجازت ہے جو کسی بھی نامزد شخص کو اپنی طرف سے اپنا ARC جمع کرنے کی اجازت دیتا ہے، بشرطیکہ ان کے پاس اصل ٹوکن سلپ بھی ہو۔"
+    },
+    {
+      "question": "What is the validity period of the Alien Registration Card?",
+      "answer": "The validity of the Alien Registration Card is up to five years as per the fee schedule.",
+      "urdu_question": "ایلین رجسٹریشن کارڈ کی میعاد کتنی ہے؟",
+      "urdu_answer": "ایلین رجسٹریشن کارڈ کی میعاد فیس کے شیڈول کے مطابق پانچ سال تک ہے۔"
+    },
+    {
+      "question": "Can ARC validity be less than five years?",
+      "answer": "Yes, ARC validity is 'up to five years,' meaning applicants can choose shorter validity periods based on their needs and the corresponding fee structure.",
+      "urdu_question": "کیا ARC کی میعاد پانچ سال سے کم ہو سکتی ہے؟",
+      "urdu_answer": "جی ہاں، ARC کی میعاد 'پانچ سال تک' ہے، یعنی درخواست دہندگان اپنی ضروریات اور متعلقہ فیس کے ڈھانچے کی بنیاد پر مختصر مدت کا انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "What are the benefits of holding an Alien Registration Card?",
+      "answer": "ARC holders may: 1) Travel within the country (excluding restricted areas), 2) Apply in private educational institutions at own expense, 3) Apply for utility connections, 4) Apply for vehicle registration, 5) Apply for driving license, 6) Open a bank account within city of residence, 7) Use the card to prove identity anywhere in Pakistan, 8) Get a cellular mobile connection, 9) Apply for work permit (subject to applicable taxes, cess, etc.), and 10) Stay in Pakistan during the validity of the card.",
+      "urdu_question": "ایلین رجسٹریشن کارڈ رکھنے کے کیا فوائد ہیں؟",
+      "urdu_answer": "اے آر سی ہولڈرز: 1) ملک کے اندر سفر کر سکتے ہیں (محدود علاقوں کو چھوڑ کر)، 2) نجی تعلیمی اداروں میں اپنے خرچے پر درخواست دیں، 3) یوٹیلیٹی کنکشن کے لیے درخواست دیں، 4) گاڑیوں کی رجسٹریشن کے لیے درخواست دیں، 5) ڈرائیونگ لائسنس کے لیے درخواست دیں، 6) رہائش کے شہر کے اندر بینک اکاؤنٹ کھولیں، 7) پاکستان میں کسی بھی شناختی کارڈ کا استعمال کریں، 8) موبائل کنکشن ثابت کرنے کے لیے موبائل فون کا استعمال کریں۔ 9) ورک پرمٹ کے لیے درخواست دیں (قابل اطلاق ٹیکس، سیس وغیرہ کے تابع)، اور 10) کارڈ کی میعاد کے دوران پاکستان میں رہیں۔"
+    },
+    {
+      "question": "Can ARC holders travel freely throughout Pakistan?",
+      "answer": "ARC holders can travel within the country but are excluded from restricted areas. They cannot access all areas of Pakistan due to security restrictions.",
+      "urdu_question": "کیا ARC ہولڈرز پاکستان بھر میں آزادانہ سفر کر سکتے ہیں؟",
+      "urdu_answer": "ARC ہولڈرز ملک کے اندر سفر کر سکتے ہیں لیکن انہیں محدود علاقوں سے باہر رکھا گیا ہے۔ سیکورٹی پابندیوں کی وجہ سے وہ پاکستان کے تمام علاقوں تک رسائی حاصل نہیں کر سکتے۔"
+    },
+    {
+      "question": "What are restricted areas for ARC holders?",
+      "answer": "Restricted areas typically include sensitive border regions, military installations, and areas designated as restricted by the government for security reasons. Specific areas would be defined by relevant security policies.",
+      "urdu_question": "ARC ہولڈرز کے لیے کون سے محدود علاقے ہیں؟",
+      "urdu_answer": "ممنوعہ علاقوں میں عام طور پر حساس سرحدی علاقے، فوجی تنصیبات، اور ایسے علاقے شامل ہوتے ہیں جنہیں سیکورٹی وجوہات کی بناء پر حکومت کی طرف سے محدود کیا گیا ہے۔ مخصوص علاقوں کی وضاحت متعلقہ سیکورٹی پالیسیوں کے ذریعے کی جائے گی۔"
+    },
+    {
+      "question": "Can ARC holders apply for admission in government educational institutions?",
+      "answer": "No, ARC holders can only apply in private educational institutions at their own expense. They are not eligible for government educational institutions under this policy.",
+      "urdu_question": "کیا ARC ہولڈرز سرکاری تعلیمی اداروں میں داخلے کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "نہیں، اے آر سی ہولڈرز صرف نجی تعلیمی اداروں میں اپنے خرچ پر درخواست دے سکتے ہیں۔ وہ اس پالیسی کے تحت سرکاری تعلیمی اداروں کے لیے اہل نہیں ہیں۔"
+    },
+    {
+      "question": "Why are ARC holders restricted to private educational institutions?",
+      "answer": "This restriction likely exists to reserve government-subsidized education primarily for Pakistani citizens, while allowing foreigners access to private education at market rates.",
+      "urdu_question": "اے آر سی ہولڈرز پرائیویٹ تعلیمی اداروں تک کیوں محدود ہیں؟",
+      "urdu_answer": "یہ پابندی ممکنہ طور پر پاکستانی شہریوں کے لیے حکومت کی طرف سے سبسڈی والی تعلیم کو محفوظ رکھنے کے لیے موجود ہے، جبکہ غیر ملکیوں کو مارکیٹ ریٹ پر نجی تعلیم تک رسائی کی اجازت دیتی ہے۔"
+    },
+    {
+      "question": "Where can ARC holders open bank accounts?",
+      "answer": "ARC holders can open a bank account within their city of residence only, not in other cities outside their residential area.",
+      "urdu_question": "اے آر سی ہولڈر بینک اکاؤنٹس کہاں کھول سکتے ہیں؟",
+      "urdu_answer": "ARC ہولڈرز صرف اپنے رہائشی شہر کے اندر بینک اکاؤنٹ کھول سکتے ہیں، اپنے رہائشی علاقے سے باہر دوسرے شہروں میں نہیں۔"
+    },
+    {
+      "question": "Why is bank account opening restricted to city of residence for ARC holders?",
+      "answer": "This restriction helps with monitoring and oversight of foreign nationals' financial activities and ensures they maintain accounts where they actually reside.",
+      "urdu_question": "اے آر سی ہولڈرز کے لیے بینک اکاؤنٹ کھولنا رہائش کے شہر تک کیوں محدود ہے؟",
+      "urdu_answer": "یہ پابندی غیر ملکی شہریوں کی مالی سرگرمیوں کی نگرانی اور نگرانی میں مدد کرتی ہے اور اس بات کو یقینی بناتی ہے کہ وہ ان اکاؤنٹس کو برقرار رکھتے ہیں جہاں وہ اصل میں رہتے ہیں۔"
+    },
+    {
+      "question": "Can ARC holders apply for vehicle registration?",
+      "answer": "Yes, ARC holders can apply for vehicle registration, allowing them to legally own and operate vehicles in Pakistan during their stay.",
+      "urdu_question": "کیا ARC ہولڈر گاڑیوں کی رجسٹریشن کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، اے آر سی ہولڈرز گاڑیوں کی رجسٹریشن کے لیے درخواست دے سکتے ہیں، جس سے وہ اپنے قیام کے دوران پاکستان میں قانونی طور پر گاڑیوں کے مالک اور چلانے کی اجازت دے سکتے ہیں۔"
+    },
+    {
+      "question": "Can ARC holders get cellular mobile connections?",
+      "answer": "Yes, ARC holders can get cellular mobile connections, providing them with communication services using their ARC as identification.",
+      "urdu_question": "کیا ARC ہولڈرز سیلولر موبائل کنکشن حاصل کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، ARC ہولڈر سیلولر موبائل کنکشن حاصل کر سکتے ہیں، انہیں شناخت کے طور پر اپنے ARC کا استعمال کرتے ہوئے مواصلاتی خدمات فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "What taxes and cess apply to ARC holders' work permits?",
+      "answer": "Work permits for ARC holders are subject to applicable taxes, cess, and other charges as determined by relevant tax authorities and labor regulations.",
+      "urdu_question": "ARC ہولڈرز کے ورک پرمٹ پر کون سے ٹیکس اور سیس لاگو ہوتے ہیں؟",
+      "urdu_answer": "ARC ہولڈرز کے لیے ورک پرمٹ قابل اطلاق ٹیکس، سیس، اور دیگر چارجز کے ساتھ مشروط ہیں جیسا کہ متعلقہ ٹیکس حکام اور لیبر ریگولیشنز کے ذریعے متعین کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the requirements for registration of minor children (age ≤ 18 years) of foreigners?",
+      "answer": "For registration of minors (son/daughter, age ≤ 18 years), the requirements are: Parent's ARC Card AND Birth certificate OR passport with valid visa. A Foreigner Minor Registration Card will be issued under Schedule IV.",
+      "urdu_question": "غیر ملکیوں کے نابالغ بچوں (عمر ≤ 18 سال) کی رجسٹریشن کے لیے کیا تقاضے ہیں؟",
+      "urdu_answer": "نابالغوں کی رجسٹریشن کے لیے (بیٹا/بیٹی، عمر ≤ 18 سال)، تقاضے یہ ہیں: والدین کا اے آر سی کارڈ اور پیدائش کا سرٹیفکیٹ یا درست ویزا والا پاسپورٹ۔ ایک غیر ملکی نابالغ رجسٹریشن کارڈ شیڈول IV کے تحت جاری کیا جائے گا۔"
+    },
+    {
+      "question": "Under which schedule is the Foreigner Minor Registration Card issued?",
+      "answer": "The Foreigner Minor Registration Card for children aged 18 years or less is issued under Schedule IV.",
+      "urdu_question": "غیر ملکی مائنر رجسٹریشن کارڈ کس شیڈول کے تحت جاری کیا جاتا ہے؟",
+      "urdu_answer": "18 سال یا اس سے کم عمر کے بچوں کے لیے فارنر مائنر رجسٹریشن کارڈ شیڈول IV کے تحت جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is Schedule IV in the context of alien registration?",
+      "answer": "Schedule IV refers to the specific regulatory framework and procedures for issuing Foreigner Minor Registration Cards to children of foreign nationals registered under the alien registration policy.",
+      "urdu_question": "اجنبی رجسٹریشن کے تناظر میں شیڈول IV کیا ہے؟",
+      "urdu_answer": "شیڈول IV کا حوالہ غیر ملکی رجسٹریشن پالیسی کے تحت رجسٹرڈ غیر ملکی شہریوں کے بچوں کو غیر ملکی معمولی رجسٹریشن کارڈ جاری کرنے کے مخصوص ریگولیٹری فریم ورک اور طریقہ کار سے ہے۔"
+    },
+    {
+      "question": "Do minor children need separate ARC cards?",
+      "answer": "Yes, minor children of ARC holders need their own Foreigner Minor Registration Cards, which are issued under Schedule IV with specific requirements and procedures.",
+      "urdu_question": "کیا نابالغ بچوں کو الگ اے آر سی کارڈ کی ضرورت ہے؟",
+      "urdu_answer": "جی ہاں، اے آر سی ہولڈرز کے نابالغ بچوں کو ان کے اپنے فارنر مائنر رجسٹریشن کارڈز کی ضرورت ہوتی ہے، جو مخصوص ضروریات اور طریقہ کار کے ساتھ شیڈول IV کے تحت جاری کیے جاتے ہیں۔"
+    },
+    {
+      "question": "What are the requirements for registration of dependents?",
+      "answer": "For registration of dependents (son/daughter/spouse/sister/brother/parents), the requirements are: Head ARC Card AND Document proving relationship between head and applicant.",
+      "urdu_question": "انحصار کرنے والوں کی رجسٹریشن کے لیے کیا تقاضے ہیں؟",
+      "urdu_answer": "زیر کفالت افراد (بیٹا/بیٹی/شریک حیات/بہن/بھائی/والدین) کی رجسٹریشن کے لیے تقاضے یہ ہیں: ہیڈ اے آر سی کارڈ اور سر اور درخواست دہندہ کے درمیان تعلق ثابت کرنے والا دستاویز۔"
+    },
+    {
+      "question": "Who is considered a dependent for Alien Registration purposes?",
+      "answer": "Dependents include son, daughter, spouse, sister, brother, and parents of the main ARC card holder (head).",
+      "urdu_question": "ایلین رجسٹریشن کے مقاصد کے لیے کسے منحصر سمجھا جاتا ہے؟",
+      "urdu_answer": "انحصار کرنے والوں میں بیٹا، بیٹی، شریک حیات، بہن، بھائی، اور مرکزی ARC کارڈ ہولڈر (سر) کے والدین شامل ہیں۔"
+    },
+    {
+      "question": "What constitutes proof of relationship for dependent registration?",
+      "answer": "Documents proving relationship may include marriage certificates for spouses, birth certificates for children and siblings, and family registration documents or passports showing family relationships.",
+      "urdu_question": "منحصر رجسٹریشن کے لیے رشتہ کا ثبوت کیا ہے؟",
+      "urdu_answer": "رشتہ ثابت کرنے والی دستاویزات میں میاں بیوی کے لیے شادی کے سرٹیفکیٹ، بچوں اور بہن بھائیوں کے لیے پیدائشی سرٹیفکیٹ، اور خاندانی رجسٹریشن کے دستاویزات یا خاندانی تعلقات کو ظاہر کرنے والے پاسپورٹ شامل ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Can extended family members be registered as dependents?",
+      "answer": "The policy specifically lists son, daughter, spouse, sister, brother, and parents as dependents. Extended family members beyond these relationships are not covered under dependent registration.",
+      "urdu_question": "کیا خاندان کے بڑھے ہوئے افراد کو بطور انحصار رجسٹر کیا جا سکتا ہے؟",
+      "urdu_answer": "پالیسی خاص طور پر بیٹے، بیٹی، شریک حیات، بہن، بھائی، اور والدین کو بطور انحصار درج کرتی ہے۔ ان رشتوں سے آگے بڑھے ہوئے خاندانی ممبران منحصر رجسٹریشن کے تحت نہیں آتے ہیں۔"
+    },
+    {
+      "question": "What are the fees for Foreigner Registration Card in normal and urgent categories?",
+      "answer": "Foreigner Registration Card fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year.",
+      "urdu_question": "عام اور فوری زمروں میں غیر ملکی رجسٹریشن کارڈ کی فیس کیا ہے؟",
+      "urdu_answer": "غیر ملکی رجسٹریشن کارڈ کی فیس روپے ہے۔ 1,000/- نارمل زمرے کے لیے اور روپے۔ 2,000/- فوری زمرہ کے لیے، ہر سال چارج کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the fees for renewal and modification of ARC?",
+      "answer": "Renewal and modification fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year.",
+      "urdu_question": "ARC کی تجدید اور ترمیم کی فیس کیا ہے؟",
+      "urdu_answer": "تجدید اور ترمیم کی فیس روپے ہے۔ 1,000/- نارمل زمرے کے لیے اور روپے۔ 2,000/- فوری زمرہ کے لیے، ہر سال چارج کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the fees for duplicate ARC?",
+      "answer": "Duplicate ARC fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year.",
+      "urdu_question": "ڈپلیکیٹ ARC کی فیس کیا ہے؟",
+      "urdu_answer": "ڈپلیکیٹ اے آر سی فیس روپے ہیں۔ 1,000/- نارمل زمرے کے لیے اور روپے۔ 2,000/- فوری زمرہ کے لیے، ہر سال چارج کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the fees for Foreigner Children Registration?",
+      "answer": "Foreigner Children Registration fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year.",
+      "urdu_question": "غیر ملکی بچوں کی رجسٹریشن کی فیس کیا ہے؟",
+      "urdu_answer": "غیر ملکی بچوں کی رجسٹریشن فیس روپے ہے۔ 1,000/- نارمل زمرے کے لیے اور روپے۔ 2,000/- فوری زمرہ کے لیے، ہر سال چارج کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the fees for Work Permit Card?",
+      "answer": "Work Permit Card fees are Rs. 5,000/- per year for normal category. There is no urgent category available for Work Permit Cards.",
+      "urdu_question": "ورک پرمٹ کارڈ کی فیس کیا ہے؟",
+      "urdu_answer": "ورک پرمٹ کارڈ کی فیس روپے ہے۔ عام زمرے کے لیے 5,000/- سالانہ۔ ورک پرمٹ کارڈز کے لیے کوئی فوری زمرہ دستیاب نہیں ہے۔"
+    },
+    {
+      "question": "How are ARC processing fees calculated?",
+      "answer": "All ARC processing fees are calculated on a per year basis. The total fee depends on the validity period chosen by the applicant, up to a maximum of five years.",
+      "urdu_question": "ARC پروسیسنگ فیس کا حساب کیسے لگایا جاتا ہے؟",
+      "urdu_answer": "تمام ARC پروسیسنگ فیسوں کا حساب ہر سال کی بنیاد پر کیا جاتا ہے۔ کل فیس درخواست دہندہ کے ذریعہ منتخب کردہ میعاد کی مدت پر منحصر ہے، زیادہ سے زیادہ پانچ سال تک۔"
+    },
+    {
+      "question": "What is the difference between normal and urgent category processing for ARC?",
+      "answer": "Normal category costs Rs. 1,000/- per year while urgent category costs Rs. 2,000/- per year for most services (registration, renewal, modification, duplicate, children registration). Urgent category presumably offers faster processing times, though specific timeframes are not mentioned in the policy.",
+      "urdu_question": "ARC کے لیے نارمل اور فوری زمرہ پروسیسنگ میں کیا فرق ہے؟",
+      "urdu_answer": "عام زمرے کی قیمت روپے۔ 1,000/- فی سال جبکہ فوری زمرے کی لاگت روپے ہے۔ زیادہ تر خدمات (رجسٹریشن، تجدید، ترمیم، ڈپلیکیٹ، بچوں کی رجسٹریشن) کے لیے 2,000/- فی سال۔ ارجنٹ زمرہ ممکنہ طور پر تیز تر پروسیسنگ اوقات پیش کرتا ہے، حالانکہ پالیسی میں مخصوص ٹائم فریم کا ذکر نہیں کیا گیا ہے۔"
+    },
+    {
+      "question": "Why is there no urgent category for Work Permit Cards?",
+      "answer": "Work Permit Cards are issued by the Interior Division rather than NADRA, so they follow different processing procedures and don't offer urgent processing options.",
+      "urdu_question": "ورک پرمٹ کارڈز کے لیے کوئی فوری زمرہ کیوں نہیں ہے؟",
+      "urdu_answer": "ورک پرمٹ کارڈز نادرا کے بجائے داخلہ ڈویژن کی طرف سے جاری کیے جاتے ہیں، اس لیے وہ پروسیسنگ کے مختلف طریقہ کار پر عمل کرتے ہیں اور فوری کارروائی کے اختیارات پیش نہیں کرتے ہیں۔"
+    },
+    {
+      "question": "Can ARC fees be paid for multiple years at once?",
+      "answer": "Yes, since fees are calculated per year and cards can be valid for up to five years, applicants can pay for their desired validity period (1-5 years) at the time of application.",
+      "urdu_question": "کیا ARC فیس ایک ساتھ کئی سالوں تک ادا کی جا سکتی ہے؟",
+      "urdu_answer": "ہاں، چونکہ فیس کا حساب ہر سال کیا جاتا ہے اور کارڈز پانچ سال تک کارآمد ہو سکتے ہیں، اس لیے درخواست دہندگان درخواست کے وقت اپنی مطلوبہ میعاد کی مدت (1-5 سال) کی ادائیگی کر سکتے ہیں۔"
+    },
+    {
+      "question": "What is the total cost for a five-year ARC in normal category?",
+      "answer": "For a five-year ARC in normal category, the total cost would be Rs. 5,000/- (Rs. 1,000/- × 5 years).",
+      "urdu_question": "عام زمرہ میں پانچ سالہ ARC کی کل لاگت کتنی ہے؟",
+      "urdu_answer": "عام زمرے میں پانچ سالہ ARC کے لیے، کل لاگت روپے ہوگی۔ 5,000/- (روپے 1,000/- × 5 سال)۔"
+    },
+    {
+      "question": "What is the total cost for a five-year ARC in urgent category?",
+      "answer": "For a five-year ARC in urgent category, the total cost would be Rs. 10,000/- (Rs. 2,000/- × 5 years).",
+      "urdu_question": "فوری زمرہ میں پانچ سالہ ARC کی کل لاگت کتنی ہے؟",
+      "urdu_answer": "فوری زمرے میں پانچ سالہ ARC کے لیے، کل لاگت روپے ہوگی۔ 10,000/- (روپے 2,000/- × 5 سال)۔"
+    },
+    {
+      "question": "Are there any additional charges beyond the listed fees?",
+      "answer": "The policy lists the basic processing fees, but there may be additional charges for services like courier delivery, premium processing, or other value-added services not specified in this fee structure.",
+      "urdu_question": "کیا درج شدہ فیسوں سے زیادہ کوئی اضافی چارجز ہیں؟",
+      "urdu_answer": "پالیسی بنیادی پروسیسنگ فیسوں کی فہرست دیتی ہے، لیکن کورئیر ڈیلیوری، پریمیم پروسیسنگ، یا دیگر ویلیو ایڈڈ سروسز جیسی خدمات کے لیے اضافی چارجز ہوسکتے ہیں جو اس فیس کے ڈھانچے میں متعین نہیں ہیں۔"
+    },
+    {
+      "question": "Can ARC holders sponsor other family members for registration?",
+      "answer": "Yes, ARC holders can sponsor immediate family members (dependents) for registration by providing their own ARC and documents proving relationships.",
+      "urdu_question": "کیا ARC ہولڈرز رجسٹریشن کے لیے خاندان کے دیگر افراد کو سپانسر کر سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، اے آر سی ہولڈرز اپنے خاندان کے فوری ممبران (انحصار) کو رجسٹریشن کے لیے سپانسر کر سکتے ہیں ان کا اپنا اے آر سی اور تعلقات ثابت کرنے والی دستاویزات فراہم کر کے۔"
+    },
+    {
+      "question": "What happens if an ARC expires?",
+      "answer": "When an ARC expires, the holder loses legal status and must renew their card to continue enjoying the benefits and legal stay in Pakistan. Overstaying with an expired ARC may result in legal consequences.",
+      "urdu_question": "اگر ARC کی میعاد ختم ہو جائے تو کیا ہوتا ہے؟",
+      "urdu_answer": "ARC کی میعاد ختم ہونے پر، ہولڈر قانونی حیثیت کھو دیتا ہے اور اسے پاکستان میں فوائد اور قانونی قیام سے لطف اندوز ہوتے رہنے کے لیے اپنے کارڈ کی تجدید کرنی ہوگی۔ میعاد ختم ہونے والے ARC کے ساتھ زیادہ قیام کے قانونی نتائج برآمد ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Can ARC be extended beyond five years?",
+      "answer": "The policy states maximum validity is five years. For longer stays, ARC holders would need to renew their cards before expiry to maintain legal status.",
+      "urdu_question": "کیا ARC کو پانچ سال سے زیادہ بڑھایا جا سکتا ہے؟",
+      "urdu_answer": "پالیسی بتاتی ہے کہ زیادہ سے زیادہ میعاد پانچ سال ہے۔ طویل قیام کے لیے، ARC ہولڈرز کو قانونی حیثیت برقرار رکھنے کے لیے میعاد ختم ہونے سے پہلے اپنے کارڈز کی تجدید کرنی ہوگی۔"
+    },
+    {
+      "question": "What is the difference between ARC renewal and modification?",
+      "answer": "Renewal extends the validity period of an existing ARC, while modification involves changing information on the card such as address, employment details, or other personal information.",
+      "urdu_question": "اے آر سی کی تجدید اور ترمیم میں کیا فرق ہے؟",
+      "urdu_answer": "تجدید موجودہ اے آر سی کی میعاد کی مدت میں توسیع کرتی ہے، جبکہ ترمیم میں کارڈ پر معلومات جیسے پتہ، ملازمت کی تفصیلات، یا دیگر ذاتی معلومات کو تبدیل کرنا شامل ہے۔"
+    },
+    {
+      "question": "When might someone need a duplicate ARC?",
+      "answer": "A duplicate ARC is needed when the original card is lost, stolen, damaged beyond use, or when a replacement is required for other legitimate reasons.",
+      "urdu_question": "کب کسی کو ڈپلیکیٹ اے آر سی کی ضرورت ہو سکتی ہے؟",
+      "urdu_answer": "ایک ڈپلیکیٹ اے آر سی کی ضرورت اس وقت ہوتی ہے جب اصل کارڈ گم ہو جائے، چوری ہو جائے، استعمال سے باہر ہو جائے، یا جب دوسری جائز وجوہات کی بنا پر اسے تبدیل کرنے کی ضرورت ہو۔"
+    },
+    {
+      "question": "Can ARC holders work in any field?",
+      "answer": "ARC holders can apply for work permits to engage in private employment, work, or business activities, subject to applicable taxes and regulations. However, specific restrictions may apply to certain professions or sectors.",
+      "urdu_question": "کیا ARC ہولڈرز کسی بھی شعبے میں کام کر سکتے ہیں؟",
+      "urdu_answer": "ARC ہولڈرز قابل اطلاق ٹیکسوں اور ضوابط کے تحت نجی ملازمت، کام یا کاروباری سرگرمیوں میں مشغول ہونے کے لیے ورک پرمٹ کے لیے درخواست دے سکتے ہیں۔ تاہم، مخصوص پابندیاں بعض پیشوں یا شعبوں پر لاگو ہو سکتی ہیں۔"
+    },
+    {
+      "question": "What is the role of Interior Division in alien registration?",
+      "answer": "The Interior Division issues Work Permits to ARC holders and likely oversees policy aspects of alien registration, while NADRA handles the actual registration and card issuance processes.",
+      "urdu_question": "اجنبی رجسٹریشن میں داخلہ ڈویژن کا کیا کردار ہے؟",
+      "urdu_answer": "داخلہ ڈویژن ARC ہولڈرز کو ورک پرمٹ جاری کرتا ہے اور ممکنہ طور پر اجنبی رجسٹریشن کے پالیسی پہلوؤں کی نگرانی کرتا ہے، جبکہ نادرا اصل رجسٹریشن اور کارڈ جاری کرنے کے عمل کو سنبھالتا ہے۔"
+    },
+    {
+      "question": "Can ARC holders convert to Pakistani citizenship?",
+      "answer": "The alien registration policy doesn't address citizenship conversion. This would be governed by separate citizenship laws and naturalization procedures under the Pakistan Citizenship Act.",
+      "urdu_question": "کیا ARC ہولڈر پاکستانی شہریت اختیار کر سکتے ہیں؟",
+      "urdu_answer": "اجنبی رجسٹریشن کی پالیسی شہریت کی تبدیلی پر توجہ نہیں دیتی۔ یہ الگ الگ شہریت کے قوانین اور پاکستان سٹیزن شپ ایکٹ کے تحت نیچرلائزیشن کے طریقہ کار کے ذریعے چلایا جائے گا۔"
+    },
+    {
+      "question": "What happens to ARC if the holder commits a crime?",
+      "answer": "While not explicitly stated in this policy, criminal activities could result in ARC cancellation, deportation, or other legal consequences under Pakistani law and immigration regulations.",
+      "urdu_question": "اگر ہولڈر جرم کرتا ہے تو ARC کا کیا ہوتا ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں واضح طور پر بیان نہیں کیا گیا ہے، مجرمانہ سرگرمیوں کے نتیجے میں ARC کی منسوخی، ملک بدری، یا پاکستانی قانون اور امیگریشن کے ضوابط کے تحت دیگر قانونی نتائج برآمد ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Can ARC holders invest in property in Pakistan?",
+      "answer": "The policy allows ARC holders to apply for utility connections but doesn't specifically address property investment. Property ownership by foreigners is governed by separate laws and regulations.",
+      "urdu_question": "کیا ARC ہولڈرز پاکستان میں جائیداد میں سرمایہ کاری کر سکتے ہیں؟",
+      "urdu_answer": "یہ پالیسی ARC ہولڈرز کو یوٹیلیٹی کنکشن کے لیے درخواست دینے کی اجازت دیتی ہے لیکن خاص طور پر پراپرٹی کی سرمایہ کاری پر توجہ نہیں دیتی۔ غیر ملکیوں کی جائیداد کی ملکیت الگ الگ قوانین اور ضوابط کے تحت چلتی ہے۔"
+    },
+    {
+      "question": "Are there country-specific restrictions for ARC?",
+      "answer": "The policy specifically excludes Afghan Nationals, suggesting there may be country-specific restrictions based on bilateral relations, security concerns, or international agreements.",
+      "urdu_question": "کیا ARC کے لیے ملک کے لیے مخصوص پابندیاں ہیں؟",
+      "urdu_answer": "اس پالیسی میں خاص طور پر افغان شہریوں کو شامل نہیں کیا گیا ہے، یہ تجویز کرتا ہے کہ دو طرفہ تعلقات، سلامتی کے خدشات، یا بین الاقوامی معاہدوں کی بنیاد پر ملک کی مخصوص پابندیاں ہو سکتی ہیں۔"
+    },
+    {
+      "question": "What documentation is needed for ARC renewal?",
+      "answer": "While specific renewal documentation isn't detailed in this policy, it likely includes the current ARC, updated passport/visa information, proof of continued residence, and payment of renewal fees.",
+      "urdu_question": "اے آر سی کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں تجدید کی مخصوص دستاویزات کی تفصیل نہیں ہے، اس میں ممکنہ طور پر موجودہ ARC، اپ ڈیٹ شدہ پاسپورٹ/ویزا کی معلومات، مستقل رہائش کا ثبوت، اور تجدید کی فیس کی ادائیگی شامل ہے۔"
+    },
+    {
+      "question": "Can ARC holders leave and re-enter Pakistan?",
+      "answer": "The policy allows travel within Pakistan but doesn't address international travel. Re-entry would depend on visa requirements and the validity of travel documents.",
+      "urdu_question": "کیا ARC ہولڈر پاکستان چھوڑ کر دوبارہ داخل ہو سکتے ہیں؟",
+      "urdu_answer": "پالیسی پاکستان کے اندر سفر کی اجازت دیتی ہے لیکن بین الاقوامی سفر پر توجہ نہیں دیتی۔ دوبارہ داخلے کا انحصار ویزا کی ضروریات اور سفری دستاویزات کی درستگی پر ہوگا۔"
+    },
+    {
+      "question": "What is the process for ARC application?",
+      "answer": "While the policy lists requirements and fees, the specific application process would involve visiting NADRA centers, submitting required documents, paying fees, and following prescribed procedures.",
+      "urdu_question": "اے آر سی کی درخواست کا عمل کیا ہے؟",
+      "urdu_answer": "جب کہ پالیسی ضروریات اور فیسوں کی فہرست دیتی ہے، درخواست کے مخصوص عمل میں نادرا مراکز کا دورہ، مطلوبہ دستاویزات جمع کروانا، فیس کی ادائیگی اور مقررہ طریقہ کار پر عمل کرنا شامل ہوگا۔"
+    },
+    {
+      "question": "Are there biometric requirements for ARC?",
+      "answer": "As with other NADRA services, ARC applications likely require biometric capture (fingerprints and photographs), though this isn't explicitly stated in the policy excerpt.",
+      "urdu_question": "کیا ARC کے لیے بائیو میٹرک کے تقاضے ہیں؟",
+      "urdu_answer": "نادرا کی دیگر خدمات کی طرح، اے آر سی ایپلی کیشنز کو ممکنہ طور پر بائیو میٹرک کیپچر (فنگر پرنٹس اور تصاویر) کی ضرورت ہوتی ہے، حالانکہ پالیسی کے اقتباس میں یہ واضح طور پر نہیں بتایا گیا ہے۔"
+    },
+    {
+      "question": "Can ARC holders sponsor business visas for others?",
+      "answer": "The policy doesn't address visa sponsorship capabilities. This would be governed by immigration and visa policies separate from the alien registration framework.",
+      "urdu_question": "کیا ARC ہولڈرز دوسروں کے لیے کاروباری ویزا سپانسر کر سکتے ہیں؟",
+      "urdu_answer": "پالیسی ویزا سپانسرشپ کی صلاحیتوں پر توجہ نہیں دیتی۔ یہ غیر ملکی رجسٹریشن فریم ورک سے الگ امیگریشن اور ویزا پالیسیوں کے ذریعے کنٹرول کیا جائے گا۔"
+    },
+    {
+      "question": "What appeal process exists for ARC rejections?",
+      "answer": "The policy doesn't specify appeal procedures. Rejected applicants would likely need to follow NADRA's standard grievance and appeal mechanisms for service-related disputes.",
+      "urdu_question": "ARC کے مسترد ہونے کے لیے اپیل کا کون سا عمل موجود ہے؟",
+      "urdu_answer": "پالیسی اپیل کے طریقہ کار کی وضاحت نہیں کرتی ہے۔ مسترد شدہ درخواست دہندگان کو ممکنہ طور پر سروس سے متعلق تنازعات کے لیے نادرا کے معیاری شکایت اور اپیل کے طریقہ کار پر عمل کرنے کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "Can ARC be transferred between family members?",
+      "answer": "No, ARC is personal identification and cannot be transferred. Each eligible person must apply for their own ARC based on their individual circumstances and eligibility.",
+      "urdu_question": "کیا ARC خاندان کے افراد کے درمیان منتقل کیا جا سکتا ہے؟",
+      "urdu_answer": "نہیں، ARC ذاتی شناخت ہے اور اسے منتقل نہیں کیا جا سکتا۔ ہر اہل فرد کو ان کے انفرادی حالات اور اہلیت کی بنیاد پر اپنے ARC کے لیے درخواست دینی چاہیے۔"
+    },
+    {
+      "question": "What verification process applies to submitted documents?",
+      "answer": "While not detailed in this policy, NADRA likely verifies submitted documents through various means including database checks, embassy verification, and authentication processes.",
+      "urdu_question": "جمع کرائے گئے دستاویزات پر توثیق کا کون سا عمل لاگو ہوتا ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں تفصیل نہیں ہے، نادرا ممکنہ طور پر جمع کرائے گئے دستاویزات کی مختلف ذرائع سے تصدیق کرتا ہے جس میں ڈیٹا بیس چیک، سفارت خانے کی تصدیق، اور تصدیق کے عمل شامل ہیں۔"
+    },
+    {
+      "question": "Are there seasonal restrictions on ARC applications?",
+      "answer": "The policy doesn't mention seasonal restrictions. ARC applications can presumably be submitted year-round, subject to NADRA center operating hours and procedures.",
+      "urdu_question": "کیا ARC ایپلی کیشنز پر موسمی پابندیاں ہیں؟",
+      "urdu_answer": "پالیسی میں موسمی پابندیوں کا ذکر نہیں ہے۔ اے آر سی کی درخواستیں ممکنہ طور پر سال بھر جمع کی جا سکتی ہیں، نادرا سینٹر کے کام کے اوقات اور طریقہ کار کے تحت۔"
+    },
+    {
+      "question": "Can ARC holders get Pakistani driving licenses?",
+      "answer": "Yes, the policy specifically states that ARC holders can apply for driving licenses, enabling them to legally drive in Pakistan.",
+      "urdu_question": "کیا ARC ہولڈرز پاکستانی ڈرائیونگ لائسنس حاصل کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، پالیسی میں خاص طور پر کہا گیا ہے کہ اے آر سی ہولڈرز ڈرائیونگ لائسنس کے لیے درخواست دے سکتے ہیں، جس سے وہ پاکستان میں قانونی طور پر گاڑی چلا سکیں۔"
+    },
+    {
+      "question": "What utility connections can ARC holders obtain?",
+      "answer": "ARC holders can apply for utility connections including electricity, gas, water, telephone, and internet services for their residence or business.",
+      "urdu_question": "ARC ہولڈرز کون سے یوٹیلیٹی کنکشن حاصل کر سکتے ہیں؟",
+      "urdu_answer": "ARC ہولڈرز اپنی رہائش یا کاروبار کے لیے بجلی، گیس، پانی، ٹیلی فون، اور انٹرنیٹ سروسز سمیت یوٹیلٹی کنکشن کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "Can ARC be used for international identification?",
+      "answer": "ARC serves as identification within Pakistan but may not be accepted internationally. Foreign nationals would need their passports for international identification and travel.",
+      "urdu_question": "کیا ARC کو بین الاقوامی شناخت کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "اے آر سی پاکستان میں شناخت کے طور پر کام کرتا ہے لیکن بین الاقوامی سطح پر اسے قبول نہیں کیا جا سکتا۔ غیر ملکی شہریوں کو بین الاقوامی شناخت اور سفر کے لیے اپنے پاسپورٹ کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "What is the minimum stay requirement for voluntary ARC registration?",
+      "answer": "Foreigners intending to stay less than ninety days can voluntarily register for ARC, so there's no minimum stay requirement for voluntary registration.",
+      "urdu_question": "رضاکارانہ ARC رجسٹریشن کے لیے کم از کم قیام کی ضرورت کیا ہے؟",
+      "urdu_answer": "نوے دن سے کم رہنے کا ارادہ رکھنے والے غیر ملکی رضاکارانہ طور پر اے آر سی کے لیے اندراج کر سکتے ہیں، اس لیے رضاکارانہ رجسٹریشن کے لیے کم از کم قیام کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "How does ARC relate to visa requirements?",
+      "answer": "ARC registration may complement but doesn't replace visa requirements. Foreign nationals still need appropriate visas for legal entry and stay in Pakistan.",
+      "urdu_question": "ARC کا ویزا کی ضروریات سے کیا تعلق ہے؟",
+      "urdu_answer": "اے آر سی رجسٹریشن مکمل ہو سکتی ہے لیکن ویزا کی ضروریات کو تبدیل نہیں کرتی ہے۔ غیر ملکی شہریوں کو اب بھی پاکستان میں قانونی داخلے اور قیام کے لیے مناسب ویزا درکار ہے۔"
+    },
+    {
+      "question": "Can ARC holders access government healthcare services?",
+      "answer": "The policy doesn't specifically address healthcare access. ARC holders may need to pay for healthcare services or obtain private health insurance.",
+      "urdu_question": "کیا ARC ہولڈرز سرکاری صحت کی دیکھ بھال کی خدمات تک رسائی حاصل کر سکتے ہیں؟",
+      "urdu_answer": "پالیسی خاص طور پر صحت کی دیکھ بھال تک رسائی پر توجہ نہیں دیتی ہے۔ ARC ہولڈرز کو صحت کی دیکھ بھال کی خدمات کے لیے ادائیگی کرنے یا نجی ہیلتھ انشورنس حاصل کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What employment restrictions apply to ARC holders?",
+      "answer": "ARC holders need separate Work Permits from Interior Division for employment. They cannot work without proper work authorization, even with valid ARC.",
+      "urdu_question": "ARC ہولڈرز پر ملازمت کی کونسی پابندیاں لاگو ہوتی ہیں؟",
+      "urdu_answer": "ARC ہولڈرز کو ملازمت کے لیے داخلہ ڈویژن سے علیحدہ ورک پرمٹ کی ضرورت ہوتی ہے۔ وہ کام کی مناسب اجازت کے بغیر کام نہیں کر سکتے، یہاں تک کہ درست ARC کے ساتھ۔"
+    },
+    {
+      "question": "Can ARC validity periods be shortened?",
+      "answer": "Yes, applicants can choose validity periods less than the maximum five years, paying correspondingly lower fees based on their intended stay duration.",
+      "urdu_question": "کیا ARC کی میعاد کو مختصر کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، درخواست دہندگان زیادہ سے زیادہ پانچ سال سے کم مدت کا انتخاب کر سکتے ہیں، اسی طرح کم فیس ادا کرتے ہوئے ان کے قیام کی مدت کی بنیاد پر۔"
+    },
+    {
+      "question": "What happens to dependent registrations if the main ARC expires?",
+      "answer": "If the main ARC holder's card expires, dependent registrations would likely become invalid as well, requiring renewal of the head's ARC first.",
+      "urdu_question": "اگر مرکزی ARC کی میعاد ختم ہو جائے تو منحصر رجسٹریشن کا کیا ہوتا ہے؟",
+      "urdu_answer": "اگر مرکزی ARC ہولڈر کے کارڈ کی میعاد ختم ہو جاتی ہے تو، انحصار شدہ رجسٹریشن بھی غلط ہو جائے گی، جس کے لیے پہلے ہیڈ کے ARC کی تجدید کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Are there special provisions for refugees or asylum seekers?",
+      "answer": "The policy specifically excludes Afghan Nationals and doesn't address refugees or asylum seekers, who are likely covered under separate international protection frameworks.",
+      "urdu_question": "کیا پناہ گزینوں یا پناہ کے متلاشیوں کے لیے خصوصی انتظامات ہیں؟",
+      "urdu_answer": "اس پالیسی میں خاص طور پر افغان شہریوں کو شامل نہیں کیا گیا ہے اور اس میں پناہ گزینوں یا پناہ کے متلاشیوں سے خطاب نہیں کیا گیا ہے، جو ممکنہ طور پر علیحدہ بین الاقوامی تحفظ کے فریم ورک کے تحت آتے ہیں۔"
+    },
+    {
+      "question": "Can ARC holders establish businesses in Pakistan?",
+      "answer": "ARC holders can apply for work permits that enable business activities, but specific business establishment may require additional licenses and approvals under business laws.",
+      "urdu_question": "کیا ARC ہولڈرز پاکستان میں کاروبار قائم کر سکتے ہیں؟",
+      "urdu_answer": "ARC ہولڈرز ورک پرمٹ کے لیے درخواست دے سکتے ہیں جو کاروباری سرگرمیوں کو فعال کرتے ہیں، لیکن مخصوص کاروباری ادارے کو کاروباری قوانین کے تحت اضافی لائسنسوں اور منظوریوں کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What digital services are available for ARC holders?",
+      "answer": "While not specified in this policy, ARC holders may have access to NADRA's digital services and online platforms for various transactions and verifications.",
+      "urdu_question": "اے آر سی ہولڈرز کے لیے کونسی ڈیجیٹل خدمات دستیاب ہیں؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں وضاحت نہیں کی گئی ہے، اے آر سی ہولڈرز کو نادرا کی ڈیجیٹل سروسز اور مختلف لین دین اور تصدیق کے لیے آن لائن پلیٹ فارم تک رسائی حاصل ہو سکتی ہے۔"
+    },
+    {
+      "question": "How does ARC registration affect tax obligations?",
+      "answer": "ARC holders engaging in work or business activities are subject to Pakistani tax obligations as determined by relevant tax laws and their specific activities.",
+      "urdu_question": "ARC رجسٹریشن ٹیکس کی ذمہ داریوں کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "کام یا کاروباری سرگرمیوں میں مشغول ARC ہولڈرز متعلقہ ٹیکس قوانین اور ان کی مخصوص سرگرمیوں کے ذریعے متعین پاکستانی ٹیکس کی ذمہ داریوں کے تابع ہیں۔"
+    },
+    {
+      "question": "Can ARC information be shared with other government agencies?",
+      "answer": "As with other NADRA services, ARC information may be shared with relevant government agencies for legitimate purposes while maintaining data protection standards.",
+      "urdu_question": "کیا ARC کی معلومات دیگر سرکاری ایجنسیوں کے ساتھ شیئر کی جا سکتی ہیں؟",
+      "urdu_answer": "نادرا کی دیگر خدمات کی طرح، ڈیٹا کے تحفظ کے معیارات کو برقرار رکھتے ہوئے اے آر سی کی معلومات کو جائز مقاصد کے لیے متعلقہ سرکاری ایجنسیوں کے ساتھ شیئر کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What quality assurance measures apply to ARC processing?",
+      "answer": "NADRA likely applies standard quality assurance measures including document verification, biometric capture, data accuracy checks, and supervisory reviews for ARC processing.",
+      "urdu_question": "کوالٹی اشورینس کے کون سے اقدامات ARC پروسیسنگ پر لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا ممکنہ طور پر معیاری معیار کی یقین دہانی کے اقدامات کا اطلاق کرتا ہے جس میں دستاویز کی تصدیق، بائیو میٹرک کیپچر، ڈیٹا کی درستگی کی جانچ اور ARC پروسیسنگ کے لیے نگرانی کے جائزے شامل ہیں۔"
+    },
+    {
+      "question": "Are there emergency procedures for ARC applications?",
+      "answer": "While urgent category processing is available, specific emergency procedures for exceptional circumstances are not detailed in this policy.",
+      "urdu_question": "کیا ARC درخواستوں کے لیے ہنگامی طریقہ کار موجود ہیں؟",
+      "urdu_answer": "جبکہ فوری زمرہ کی کارروائی دستیاب ہے، اس پالیسی میں غیر معمولی حالات کے لیے مخصوص ہنگامی طریقہ کار کی تفصیل نہیں ہے۔"
+    },
+    {
+      "question": "How does the ARC policy align with international standards?",
+      "answer": "The ARC policy appears designed to balance national security concerns with international practices for foreign resident registration and identification.",
+      "urdu_question": "اے آر سی کی پالیسی بین الاقوامی معیارات کے ساتھ کیسے مطابقت رکھتی ہے؟",
+      "urdu_answer": "ARC پالیسی غیر ملکی رہائشیوں کی رجسٹریشن اور شناخت کے بین الاقوامی طریقوں کے ساتھ قومی سلامتی کے خدشات کو متوازن کرنے کے لیے بنائی گئی ہے۔"
+    },
+    {
+      "question": "What training do NADRA staff receive for ARC processing?",
+      "answer": "NADRA staff likely receive specialized training on alien registration procedures, document verification, policy implementation, and customer service for foreign applicants.",
+      "urdu_question": "اے آر سی پروسیسنگ کے لیے نادرا کا عملہ کیا تربیت حاصل کرتا ہے؟",
+      "urdu_answer": "نادرا کا عملہ ممکنہ طور پر غیر ملکی درخواست دہندگان کے لیے غیر ملکی رجسٹریشن کے طریقہ کار، دستاویزات کی تصدیق، پالیسی کے نفاذ، اور کسٹمر سروس کے بارے میں خصوصی تربیت حاصل کرتا ہے۔"
+    },
+    {
+      "question": "Can ARC holders access legal aid services?",
+      "answer": "The policy doesn't address legal aid access. ARC holders may need to arrange private legal representation or seek assistance through relevant legal aid organizations.",
+      "urdu_question": "کیا ARC ہولڈر قانونی امداد کی خدمات تک رسائی حاصل کر سکتے ہیں؟",
+      "urdu_answer": "پالیسی قانونی امداد تک رسائی پر توجہ نہیں دیتی۔ ARC ہولڈرز کو نجی قانونی نمائندگی کا بندوبست کرنے یا متعلقہ قانونی امدادی تنظیموں کے ذریعے مدد لینے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What coordination exists between NADRA and immigration authorities?",
+      "answer": "While not detailed in this policy, coordination likely exists between NADRA and immigration authorities for information sharing and enforcement of alien registration requirements.",
+      "urdu_question": "نادرا اور امیگریشن حکام کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں تفصیل نہیں ہے، نادرا اور امیگریشن حکام کے درمیان معلومات کے تبادلے اور اجنبی رجسٹریشن کی ضروریات کو نافذ کرنے کے لیے ممکنہ طور پر ہم آہنگی موجود ہے۔"
+    },
+    {
+      "question": "How are ARC applications processed during emergencies?",
+      "answer": "Emergency processing procedures are not specified in this policy, though urgent category processing provides faster service for time-sensitive applications.",
+      "urdu_question": "ہنگامی حالات کے دوران ARC درخواستوں پر کیسے کارروائی کی جاتی ہے؟",
+      "urdu_answer": "اس پالیسی میں ایمرجنسی پروسیسنگ کے طریقہ کار کی وضاحت نہیں کی گئی ہے، حالانکہ فوری زمرہ پروسیسنگ وقت کے لحاظ سے حساس ایپلی کیشنز کے لیے تیز تر سروس فراہم کرتی ہے۔"
+    },
+    {
+      "question": "What future developments are planned for alien registration services?",
+      "answer": "Future developments are not outlined in this policy but may include digital improvements, enhanced verification systems, and integration with other government services.",
+      "urdu_question": "اجنبی رجسٹریشن خدمات کے لیے مستقبل میں کیا پیش رفت کی منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "اس پالیسی میں مستقبل کی پیشرفت کا خاکہ نہیں دیا گیا ہے لیکن اس میں ڈیجیٹل بہتری، بہتر تصدیقی نظام، اور دیگر سرکاری خدمات کے ساتھ انضمام شامل ہوسکتا ہے۔"
+    },
+    {
+      "question": "How does ARC registration contribute to national statistics?",
+      "answer": "ARC registration helps maintain accurate statistics on foreign residents in Pakistan, supporting policy development and demographic planning by government agencies.",
+      "urdu_question": "اے آر سی رجسٹریشن قومی اعدادوشمار میں کیسے حصہ ڈالتی ہے؟",
+      "urdu_answer": "ARC رجسٹریشن پاکستان میں غیر ملکی باشندوں کے درست اعدادوشمار کو برقرار رکھنے میں مدد کرتا ہے، حکومتی ایجنسیوں کی طرف سے پالیسی کی ترقی اور آبادیاتی منصوبہ بندی میں مدد کرتا ہے۔"
+    },
+    {
+      "question": "What security features are incorporated in ARC cards?",
+      "answer": "While not detailed in this policy, ARC cards likely incorporate security features similar to other NADRA documents to prevent forgery and unauthorized use.",
+      "urdu_question": "اے آر سی کارڈز میں کون سی حفاظتی خصوصیات شامل ہیں؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں تفصیل نہیں ہے، ARC کارڈز میں ممکنہ طور پر دیگر نادرا دستاویزات کی طرح حفاظتی خصوصیات شامل ہیں تاکہ جعلسازی اور غیر مجاز استعمال کو روکا جا سکے۔"
+    },
+    {
+      "question": "Can ARC holders access pension or social security benefits?",
+      "answer": "The policy doesn't address social benefits access. ARC holders may not be eligible for Pakistani social security benefits, which are typically reserved for citizens.",
+      "urdu_question": "کیا ARC ہولڈرز پنشن یا سماجی تحفظ کے فوائد تک رسائی حاصل کر سکتے ہیں؟",
+      "urdu_answer": "پالیسی سماجی فوائد تک رسائی پر توجہ نہیں دیتی۔ ARC ہولڈرز پاکستانی سوشل سیکیورٹی فوائد کے اہل نہیں ہوسکتے ہیں، جو عام طور پر شہریوں کے لیے مخصوص ہوتے ہیں۔"
+    },
+    {
+      "question": "What cultural or religious accommodations exist for ARC applicants?",
+      "answer": "While not specified in this policy, NADRA likely provides appropriate cultural and religious accommodations during the application process as per standard service practices.",
+      "urdu_question": "ARC کے درخواست دہندگان کے لیے کون سی ثقافتی یا مذہبی رہائش موجود ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں وضاحت نہیں کی گئی ہے، نادرا ممکنہ طور پر معیاری سروس کے طریقوں کے مطابق درخواست کے عمل کے دوران مناسب ثقافتی اور مذہبی رہائش فراہم کرتا ہے۔"
+    }
+  ]
+}

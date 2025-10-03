@@ -1,0 +1,421 @@
+{
+  "file_name": "delivery.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 65,
+  "qa_data": [
+    {
+      "question": "How are applicants informed about the progress status of their ID card application?",
+      "answer": "Applicants are informed about the progress status of their card via SMS or email at various stages of processing including: Application Form uploading, Card Dispatch, Card Receiving, Any Rejection in Record, Head of Family updates, and Attester notifications.",
+      "urdu_question": "درخواست دہندگان کو ان کے شناختی کارڈ کی درخواست کی پیشرفت کے بارے میں کیسے مطلع کیا جاتا ہے؟",
+      "urdu_answer": "درخواست دہندگان کو پروسیسنگ کے مختلف مراحل پر ایس ایم ایس یا ای میل کے ذریعے ان کے کارڈ کی پیشرفت کے بارے میں مطلع کیا جاتا ہے، بشمول: درخواست فارم اپ لوڈ کرنا، کارڈ ڈسپیچ کرنا، کارڈ وصول کرنا، ریکارڈ میں کوئی رد ہونا، ہیڈ آف فیملی اپڈیٹس، اور اٹیسٹر اطلاعات۔"
+    },
+    {
+      "question": "At which stages do applicants receive SMS or email notifications?",
+      "answer": "Applicants receive notifications at the following stages: Application Form uploading, Card Dispatch, Card Receiving, Any Rejection in Record, Head of Family, and Attester.",
+      "urdu_question": "کن مراحل پر درخواست دہندگان کو ایس ایم ایس یا ای میل اطلاعات موصول ہوتی ہیں؟",
+      "urdu_answer": "درخواست دہندگان کو درج ذیل مراحل پر اطلاعات موصول ہوتی ہیں: درخواست فارم اپ لوڈ کرنا، کارڈ ڈسپیچ کرنا، کارڈ وصول کرنا، ریکارڈ میں کوئی رد، خاندان کا سربراہ، اور تصدیق کنندہ۔"
+    },
+    {
+      "question": "What delivery options are available for receiving NADRA ID documents?",
+      "answer": "Applicants may choose from three delivery options: Pick-up from Centers (collecting documents directly from NADRA centers), Home Delivery (documents delivered to their address), and Digital Delivery (for certain documents like FRCs that can be downloaded instantly).",
+      "urdu_question": "نادرا کی شناختی دستاویزات حاصل کرنے کے لیے ترسیل کے کیا آپشنز دستیاب ہیں؟",
+      "urdu_answer": "درخواست دہندگان ڈیلیوری کے تین اختیارات میں سے انتخاب کر سکتے ہیں: مراکز سے پک اپ (براہ راست نادرا مراکز سے دستاویزات جمع کرنا)، ہوم ڈیلیوری (دستاویزات ان کے پتے پر پہنچائے گئے) اور ڈیجیٹل ڈیلیوری (FRCs جیسے کچھ دستاویزات کے لیے جنہیں فوری طور پر ڈاؤن لوڈ کیا جاسکتا ہے)۔"
+    },
+    {
+      "question": "Can I pick up my ID documents from NADRA centers?",
+      "answer": "Yes, pick-up from Centers is one of the available delivery options. You can collect your ID documents directly from NADRA registration centers.",
+      "urdu_question": "کیا میں اپنی شناختی دستاویزات نادرا مراکز سے اٹھا سکتا ہوں؟",
+      "urdu_answer": "ہاں، مراکز سے پک اپ ڈیلیوری کے دستیاب اختیارات میں سے ایک ہے۔ آپ اپنی شناختی دستاویزات نادرا کے رجسٹریشن مراکز سے براہ راست جمع کر سکتے ہیں۔"
+    },
+    {
+      "question": "Is home delivery available for NADRA documents?",
+      "answer": "Yes, Home Delivery is one of the delivery options available for receiving your ID documents at your specified address.",
+      "urdu_question": "کیا نادرا دستاویزات کے لیے ہوم ڈیلیوری دستیاب ہے؟",
+      "urdu_answer": "ہاں، ہوم ڈیلیوری آپ کے مخصوص ایڈریس پر آپ کی شناختی دستاویزات حاصل کرنے کے لیے دستیاب ڈیلیوری کے اختیارات میں سے ایک ہے۔"
+    },
+    {
+      "question": "What is digital delivery for NADRA documents?",
+      "answer": "Digital Delivery is an option where certain documents, specifically FRCs (Family Registration Certificates) applied for online, can be downloaded instantly from the PAK ID app inbox.",
+      "urdu_question": "نادرا دستاویزات کی ڈیجیٹل ڈیلیوری کیا ہے؟",
+      "urdu_answer": "ڈیجیٹل ڈیلیوری ایک ایسا آپشن ہے جہاں کچھ دستاویزات، خاص طور پر FRCs (فیملی رجسٹریشن سرٹیفکیٹس) آن لائن کے لیے درخواست دی گئی ہیں، PAK ID ایپ ان باکس سے فوری طور پر ڈاؤن لوڈ کی جا سکتی ہیں۔"
+    },
+    {
+      "question": "Which documents can be downloaded digitally?",
+      "answer": "FRCs (Family Registration Certificates) applied for online can be downloaded instantly from the app inbox through digital delivery.",
+      "urdu_question": "کونسی دستاویزات کو ڈیجیٹل طور پر ڈاؤن لوڈ کیا جا سکتا ہے؟",
+      "urdu_answer": "آن لائن کے لیے درخواست کردہ FRCs (فیملی رجسٹریشن سرٹیفکیٹ) ڈیجیٹل ڈیلیوری کے ذریعے ایپ ان باکس سے فوری طور پر ڈاؤن لوڈ کیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "Can I download my FRC immediately after applying online?",
+      "answer": "Yes, FRCs applied for online can be downloaded instantly from the app inbox through the digital delivery option.",
+      "urdu_question": "کیا میں آن لائن درخواست دینے کے فوراً بعد اپنا FRC ڈاؤن لوڈ کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آن لائن کے لیے درخواست دی گئی FRCs کو ڈیجیٹل ڈیلیوری آپشن کے ذریعے ایپ ان باکس سے فوری طور پر ڈاؤن لوڈ کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Will I be notified when my card is dispatched?",
+      "answer": "Yes, applicants receive SMS or email notifications when their card is dispatched as part of the progress status updates.",
+      "urdu_question": "کیا میرا کارڈ بھیجے جانے پر مجھے مطلع کیا جائے گا؟",
+      "urdu_answer": "جی ہاں، درخواست دہندگان کو ایس ایم ایس یا ای میل اطلاعات موصول ہوتی ہیں جب ان کا کارڈ پیش رفت کی صورتحال کی تازہ کاری کے حصے کے طور پر بھیج دیا جاتا ہے۔"
+    },
+    {
+      "question": "Do I get notified if there is a rejection in my application?",
+      "answer": "Yes, applicants are informed via SMS or email if there is any rejection in their record during the application processing.",
+      "urdu_question": "اگر میری درخواست مسترد ہو جائے تو کیا مجھے مطلع کیا جائے گا؟",
+      "urdu_answer": "ہاں، درخواست دہندگان کو ایس ایم ایس یا ای میل کے ذریعے مطلع کیا جاتا ہے اگر درخواست کی کارروائی کے دوران ان کے ریکارڈ میں کوئی رد عمل پایا جاتا ہے۔"
+    },
+    {
+      "question": "What happens when I receive my card at the delivery location?",
+      "answer": "Applicants receive SMS or email notifications when their card is received at the delivery location, confirming successful delivery.",
+      "urdu_question": "جب میں ڈیلیوری کے مقام پر اپنا کارڈ وصول کرتا ہوں تو کیا ہوتا ہے؟",
+      "urdu_answer": "درخواست دہندگان کو ایس ایم ایس یا ای میل اطلاعات موصول ہوتی ہیں جب ان کا کارڈ ڈیلیوری کے مقام پر موصول ہوتا ہے، جس سے کامیاب ترسیل کی تصدیق ہوتی ہے۔"
+    },
+    {
+      "question": "Are notifications sent for Head of Family updates?",
+      "answer": "Yes, notifications are sent for Head of Family updates as part of the comprehensive notification system for application progress.",
+      "urdu_question": "کیا ہیڈ آف فیملی اپڈیٹس کے لیے اطلاعات بھیجی گئی ہیں؟",
+      "urdu_answer": "ہاں، درخواست کی پیشرفت کے لیے جامع نوٹیفکیشن سسٹم کے حصے کے طور پر ہیڈ آف فیملی اپڈیٹس کے لیے اطلاعات بھیجی جاتی ہیں۔"
+    },
+    {
+      "question": "Do attesters receive notifications about applications?",
+      "answer": "Yes, Attesters receive notifications as part of the progress status update system for applications they have attested.",
+      "urdu_question": "کیا تصدیق کرنے والوں کو درخواستوں کے بارے میں اطلاعات موصول ہوتی ہیں؟",
+      "urdu_answer": "ہاں، تصدیق کنندگان کو ان درخواستوں کے لیے جو انہوں نے تصدیق کی ہے پروگریس اسٹیٹس اپ ڈیٹ سسٹم کے حصے کے طور پر اطلاعات موصول ہوتی ہیں۔"
+    },
+    {
+      "question": "How can I choose my preferred delivery method?",
+      "answer": "Applicants may choose one of the three available delivery options: Pick-up from Centers, Home Delivery, or Digital Delivery (for applicable documents like FRCs) during the application process.",
+      "urdu_question": "میں اپنا ترجیحی ترسیل کا طریقہ کیسے منتخب کر سکتا ہوں؟",
+      "urdu_answer": "درخواست دہندگان تین دستیاب ترسیل کے اختیارات میں سے کسی ایک کا انتخاب کرسکتے ہیں: درخواست کے عمل کے دوران مراکز سے پک اپ، ہوم ڈیلیوری، یا ڈیجیٹل ڈیلیوری (قابل اطلاق دستاویزات جیسے FRCs کے لیے)۔"
+    },
+    {
+      "question": "Which delivery method is fastest for getting my documents?",
+      "answer": "Digital Delivery is the fastest option for applicable documents like FRCs, as they can be downloaded instantly from the app inbox. For other documents, you can choose between pick-up from centers or home delivery based on your convenience.",
+      "urdu_question": "میرے دستاویزات حاصل کرنے کے لیے ترسیل کا کون سا طریقہ سب سے تیز ہے؟",
+      "urdu_answer": "ڈیجیٹل ڈیلیوری قابل اطلاق دستاویزات جیسے FRCs کے لیے تیز ترین آپشن ہے، کیونکہ انہیں ایپ ان باکس سے فوری طور پر ڈاؤن لوڈ کیا جا سکتا ہے۔ دیگر دستاویزات کے لیے، آپ اپنی سہولت کی بنیاد پر مراکز سے پک اپ یا ہوم ڈیلیوری کے درمیان انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "What information is included in SMS notifications?",
+      "answer": "SMS notifications typically include your application tracking number, current status of your application, next steps if required, estimated completion dates, and instructions for any action needed from your side.",
+      "urdu_question": "SMS اطلاعات میں کون سی معلومات شامل ہیں؟",
+      "urdu_answer": "ایس ایم ایس اطلاعات میں عام طور پر آپ کی درخواست کا ٹریکنگ نمبر، آپ کی درخواست کی موجودہ حیثیت، ضرورت پڑنے پر اگلے اقدامات، تکمیل کی متوقع تاریخیں، اور آپ کی طرف سے درکار کسی بھی کارروائی کے لیے ہدایات شامل ہوتی ہیں۔"
+    },
+    {
+      "question": "Can I update my mobile number for receiving SMS notifications?",
+      "answer": "Yes, you can update your mobile number by visiting NADRA centers or through online services to ensure you receive SMS notifications on your current active number.",
+      "urdu_question": "کیا میں SMS اطلاعات موصول کرنے کے لیے اپنا موبائل نمبر اپ ڈیٹ کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ اپنے موبائل نمبر کو نادرا کے مراکز پر جا کر یا آن لائن سروسز کے ذریعے اپ ڈیٹ کر سکتے ہیں تاکہ یہ یقینی بنایا جا سکے کہ آپ کو اپنے موجودہ ایکٹو نمبر پر SMS اطلاعات موصول ہوں۔"
+    },
+    {
+      "question": "What email address is used for sending notifications?",
+      "answer": "Notifications are sent to the email address you provided during your application process. Ensure your email address is correct and accessible to receive updates.",
+      "urdu_question": "اطلاعات بھیجنے کے لیے کون سا ای میل پتہ استعمال کیا جاتا ہے؟",
+      "urdu_answer": "اطلاعات اس ای میل ایڈریس پر بھیجی جاتی ہیں جو آپ نے درخواست کے عمل کے دوران فراہم کیا تھا۔ یقینی بنائیں کہ آپ کا ای میل پتہ درست ہے اور اپ ڈیٹس حاصل کرنے کے لیے قابل رسائی ہے۔"
+    },
+    {
+      "question": "How often do I receive progress notifications?",
+      "answer": "You receive notifications at key milestone stages of your application processing, not daily. The frequency depends on your application's progress through different processing stages.",
+      "urdu_question": "مجھے کتنی بار پیش رفت کی اطلاعات موصول ہوتی ہیں؟",
+      "urdu_answer": "آپ کو روزانہ نہیں بلکہ اپنی درخواست کی کارروائی کے اہم سنگ میل کے مراحل پر اطلاعات موصول ہوتی ہیں۔ تعدد مختلف پروسیسنگ مراحل کے ذریعے آپ کی درخواست کی پیشرفت پر منحصر ہے۔"
+    },
+    {
+      "question": "What should I do if I don't receive expected notifications?",
+      "answer": "If you don't receive notifications, check your mobile number and email accuracy, verify they're not blocked by spam filters, contact NADRA helpline, or visit the center to update your contact information.",
+      "urdu_question": "اگر مجھے متوقع اطلاعات موصول نہ ہوں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو اطلاعات موصول نہیں ہوتی ہیں، تو اپنا موبائل نمبر اور ای میل کی درستگی چیک کریں، تصدیق کریں کہ وہ اسپام فلٹرز کے ذریعے بلاک نہیں ہوئے، نادرا ہیلپ لائن سے رابطہ کریں، یا اپنی رابطہ کی معلومات کو اپ ڈیٹ کرنے کے لیے مرکز پر جائیں۔"
+    },
+    {
+      "question": "Can I choose to receive only SMS or only email notifications?",
+      "answer": "While NADRA sends notifications via both SMS and email, you can provide only one contact method if preferred. However, providing both ensures better communication reliability.",
+      "urdu_question": "کیا میں صرف SMS یا صرف ای میل اطلاعات موصول کرنے کا انتخاب کر سکتا ہوں؟",
+      "urdu_answer": "جب کہ نادرا ایس ایم ایس اور ای میل دونوں کے ذریعے اطلاعات بھیجتا ہے، اگر آپ چاہیں تو رابطہ کا صرف ایک طریقہ فراہم کر سکتے ہیں۔ تاہم، دونوں کی فراہمی بہتر مواصلات کی وشوسنییتا کو یقینی بناتی ہے۔"
+    },
+    {
+      "question": "Are notifications sent in multiple languages?",
+      "answer": "NADRA notifications are typically sent in English and Urdu. The language may depend on your application preferences and the service type you're using.",
+      "urdu_question": "کیا اطلاعات متعدد زبانوں میں بھیجی جاتی ہیں؟",
+      "urdu_answer": "نادرا کی اطلاعات عام طور پر انگریزی اور اردو میں بھیجی جاتی ہیں۔ زبان آپ کی درخواست کی ترجیحات اور سروس کی قسم پر منحصر ہو سکتی ہے جسے آپ استعمال کر رہے ہیں۔"
+    },
+    {
+      "question": "What should I do if I receive a notification about application rejection?",
+      "answer": "If you receive a rejection notification, visit the NADRA center with your documents to understand the specific reasons for rejection and get guidance on how to resolve the issues.",
+      "urdu_question": "اگر مجھے درخواست مسترد ہونے کی اطلاع موصول ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو مسترد ہونے کی اطلاع موصول ہوتی ہے تو، مسترد ہونے کی مخصوص وجوہات کو سمجھنے اور مسائل کو حل کرنے کے بارے میں رہنمائی حاصل کرنے کے لیے اپنے دستاویزات کے ساتھ نادرا سینٹر پر جائیں۔"
+    },
+    {
+      "question": "How long does home delivery take?",
+      "answer": "Home delivery time depends on your processing priority: Normal (30 days), Urgent (12 days), or Executive (7 days), plus additional delivery time based on your location and postal service efficiency.",
+      "urdu_question": "ہوم ڈیلیوری میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "ہوم ڈیلیوری کا وقت آپ کی پروسیسنگ ترجیح پر منحصر ہے: نارمل (30 دن)، ارجنٹ (12 دن)، یا ایگزیکٹو (7 دن)، نیز آپ کے مقام اور پوسٹل سروس کی کارکردگی کی بنیاد پر اضافی ڈیلیوری کا وقت۔"
+    },
+    {
+      "question": "Is there an additional fee for home delivery?",
+      "answer": "Home delivery may involve additional courier charges beyond the standard processing fees. Confirm the total cost including delivery charges when selecting this option.",
+      "urdu_question": "کیا ہوم ڈیلیوری کے لیے کوئی اضافی فیس ہے؟",
+      "urdu_answer": "ہوم ڈیلیوری میں معیاری پروسیسنگ فیس سے زیادہ کورئیر چارجز شامل ہو سکتے ہیں۔ اس اختیار کو منتخب کرتے وقت ڈیلیوری چارجز سمیت کل لاگت کی تصدیق کریں۔"
+    },
+    {
+      "question": "What areas are covered by home delivery service?",
+      "answer": "Home delivery is available in most urban and rural areas across Pakistan, but coverage may vary. Confirm availability for your specific address when applying.",
+      "urdu_question": "ہوم ڈیلیوری سروس کے ذریعے کن علاقوں کا احاطہ کیا گیا ہے؟",
+      "urdu_answer": "پاکستان بھر میں زیادہ تر شہری اور دیہی علاقوں میں ہوم ڈیلیوری دستیاب ہے، لیکن کوریج مختلف ہو سکتی ہے۔ درخواست دیتے وقت اپنے مخصوص پتے کی دستیابی کی تصدیق کریں۔"
+    },
+    {
+      "question": "Can I change delivery address after application submission?",
+      "answer": "Contact NADRA customer service immediately if you need to change your delivery address. Changes may be possible before card dispatch but could cause processing delays.",
+      "urdu_question": "کیا میں درخواست جمع کروانے کے بعد ترسیل کا پتہ تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "اگر آپ کو اپنا ڈیلیوری ایڈریس تبدیل کرنا ہو تو فوری طور پر نادرا کسٹمر سروس سے رابطہ کریں۔ کارڈ ڈسپیچ سے پہلے تبدیلیاں ممکن ہو سکتی ہیں لیکن پروسیسنگ میں تاخیر کا سبب بن سکتی ہیں۔"
+    },
+    {
+      "question": "What identification is required for home delivery?",
+      "answer": "For home delivery, you'll need to show valid identification (like existing CNIC, driving license, or passport) and sign for receipt when the courier delivers your documents.",
+      "urdu_question": "ہوم ڈیلیوری کے لیے کون سی شناخت درکار ہے؟",
+      "urdu_answer": "ہوم ڈیلیوری کے لیے، آپ کو درست شناخت دکھانے کی ضرورت ہوگی (جیسے موجودہ CNIC، ڈرائیونگ لائسنس، یا پاسپورٹ) اور جب کورئیر آپ کے دستاویزات فراہم کرے گا تو رسید کے لیے دستخط کریں۔"
+    },
+    {
+      "question": "What happens if I'm not available during home delivery?",
+      "answer": "If you're not available, the courier will typically attempt redelivery or leave a notice. You may need to contact the courier service to arrange a convenient delivery time.",
+      "urdu_question": "اگر میں ہوم ڈیلیوری کے دوران دستیاب نہ ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ دستیاب نہیں ہیں، تو کورئیر عام طور پر دوبارہ ڈیلیوری کی کوشش کرے گا یا نوٹس بھیجے گا۔ آپ کو آسانی سے ترسیل کے وقت کا بندوبست کرنے کے لیے کورئیر سروس سے رابطہ کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can someone else receive my documents on my behalf for home delivery?",
+      "answer": "Generally, you must receive your documents personally for security reasons. In exceptional cases, authorized family members with proper identification may be allowed to receive on your behalf.",
+      "urdu_question": "کیا کوئی اور میری طرف سے ہوم ڈیلیوری کے لیے میرے دستاویزات وصول کر سکتا ہے؟",
+      "urdu_answer": "عام طور پر، آپ کو اپنے دستاویزات ذاتی طور پر سیکورٹی وجوہات کی بنا پر وصول کرنا ہوں گے۔ غیر معمولی معاملات میں، مناسب شناخت کے حامل خاندان کے مجاز افراد کو آپ کی طرف سے وصول کرنے کی اجازت دی جا سکتی ہے۔"
+    },
+    {
+      "question": "How secure is home delivery for NADRA documents?",
+      "answer": "Home delivery uses secure courier services with tracking, signature confirmation, and identity verification to ensure your documents reach only the intended recipient safely.",
+      "urdu_question": "نادرا دستاویزات کی ہوم ڈیلیوری کتنی محفوظ ہے؟",
+      "urdu_answer": "ہوم ڈیلیوری ٹریکنگ، دستخط کی تصدیق، اور شناخت کی تصدیق کے ساتھ محفوظ کورئیر سروسز کا استعمال کرتی ہے تاکہ یہ یقینی بنایا جا سکے کہ آپ کے دستاویزات صرف مطلوبہ وصول کنندہ تک محفوظ طریقے سے پہنچیں۔"
+    },
+    {
+      "question": "What should I do if my documents are lost during home delivery?",
+      "answer": "Immediately contact NADRA customer service and the courier company if documents are lost during delivery. You may need to apply for duplicate documents with proper documentation of the loss.",
+      "urdu_question": "اگر ہوم ڈیلیوری کے دوران میرے کاغذات گم ہو جائیں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "ڈلیوری کے دوران دستاویزات گم ہونے کی صورت میں فوری طور پر نادرا کسٹمر سروس اور کورئیر کمپنی سے رابطہ کریں۔ آپ کو نقصان کی مناسب دستاویزات کے ساتھ ڈپلیکیٹ دستاویزات کے لیے درخواست دینے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Which NADRA centers offer document pickup services?",
+      "answer": "Most NADRA registration centers, including main offices, satellite centers, and franchises, offer document pickup services. Confirm with your local center for availability.",
+      "urdu_question": "نادرا کے کون سے مراکز دستاویز لینے کی خدمات پیش کرتے ہیں؟",
+      "urdu_answer": "نادرا کے زیادہ تر رجسٹریشن مراکز، بشمول مرکزی دفاتر، سیٹلائٹ مراکز، اور فرنچائزز، دستاویزات لینے کی خدمات پیش کرتے ہیں۔ دستیابی کے لیے اپنے مقامی مرکز سے تصدیق کریں۔"
+    },
+    {
+      "question": "What are the operating hours for document pickup?",
+      "answer": "NADRA centers typically operate during business hours (usually 8 AM to 5 PM, Monday to Friday, and limited Saturday hours). Check your local center's specific timings.",
+      "urdu_question": "دستاویز اٹھانے کے کام کے اوقات کیا ہیں؟",
+      "urdu_answer": "نادرا مراکز عام طور پر کاروباری اوقات کے دوران کام کرتے ہیں (عام طور پر صبح 8 بجے سے شام 5 بجے تک، پیر سے جمعہ، اور ہفتہ کے محدود اوقات)۔ اپنے مقامی مرکز کے مخصوص اوقات کو چیک کریں۔"
+    },
+    {
+      "question": "What documents do I need to bring for pickup?",
+      "answer": "Bring your original receipt/token from application submission, a copy of your acknowledgment, and valid identification for verification when collecting your documents.",
+      "urdu_question": "پک اپ کے لیے مجھے کن دستاویزات لانے کی ضرورت ہے؟",
+      "urdu_answer": "اپنے کاغذات جمع کرتے وقت اپنی اصل رسید/ٹوکن، اپنے اقرار نامے کی ایک کاپی، اور تصدیق کے لیے درست شناخت ساتھ لائیں۔"
+    },
+    {
+      "question": "Can I authorize someone else to pick up my documents?",
+      "answer": "Generally, personal pickup is required for security. In exceptional cases, you may authorize someone with a written authorization letter and their valid identification, but confirm center policy first.",
+      "urdu_question": "کیا میں کسی اور کو اپنے دستاویزات لینے کی اجازت دے سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، سیکورٹی کے لیے ذاتی پک اپ کی ضرورت ہوتی ہے۔ غیر معمولی معاملات میں، آپ کسی کو تحریری اجازت نامہ اور ان کی درست شناخت کے ساتھ اجازت دے سکتے ہیں، لیکن پہلے مرکز کی پالیسی کی تصدیق کریں۔"
+    },
+    {
+      "question": "How long are documents held at centers for pickup?",
+      "answer": "Documents are typically held for a specific period (usually 30-60 days) after completion. If not collected within this time, you may need to pay additional fees or apply for duplicate documents.",
+      "urdu_question": "پک اپ کے مراکز میں دستاویزات کتنی دیر تک رکھی جاتی ہیں؟",
+      "urdu_answer": "دستاویزات مکمل ہونے کے بعد عام طور پر ایک مخصوص مدت (عام طور پر 30-60 دن) کے لیے رکھی جاتی ہیں۔ اگر اس وقت کے اندر جمع نہیں کیا جاتا ہے، تو آپ کو اضافی فیس ادا کرنے یا ڈپلیکیٹ دستاویزات کے لیے درخواست دینے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens if I lose my receipt for document pickup?",
+      "answer": "If you lose your receipt, bring alternative identification like your CNIC and provide your application details. The center may require additional verification to confirm your identity.",
+      "urdu_question": "اگر میں دستاویز اٹھانے کی رسید کھو دیتا ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ اپنی رسید کھو دیتے ہیں، تو اپنا CNIC جیسی متبادل شناخت لائیں اور اپنی درخواست کی تفصیلات فراہم کریں۔ مرکز کو آپ کی شناخت کی تصدیق کے لیے اضافی تصدیق کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can I check if my documents are ready for pickup?",
+      "answer": "Yes, you can check readiness through SMS tracking services, NADRA website, PAK-ID app, calling the helpline, or visiting the center directly.",
+      "urdu_question": "کیا میں دیکھ سکتا ہوں کہ آیا میرے کاغذات پک اپ کے لیے تیار ہیں؟",
+      "urdu_answer": "ہاں، آپ ایس ایم ایس ٹریکنگ سروسز، نادرا کی ویب سائٹ، PAK-ID ایپ، ہیلپ لائن پر کال کرنے، یا براہ راست سنٹر پر جا کر تیاری چیک کر سکتے ہیں۔"
+    },
+    {
+      "question": "Are there peak times when pickup centers are crowded?",
+      "answer": "Peak times are typically early mornings, lunch hours, and end of workday. Visit during mid-morning or mid-afternoon for shorter wait times.",
+      "urdu_question": "کیا بہترین اوقات ہوتے ہیں جب پک اپ سینٹرز پر بھیڑ ہوتی ہے؟",
+      "urdu_answer": "چوٹی کے اوقات عام طور پر صبح سویرے، دوپہر کے کھانے کے اوقات اور کام کے دن کے اختتام پر ہوتے ہیں۔ کم انتظار کے اوقات کے لیے صبح کے وسط یا دوپہر کے وسط میں تشریف لائیں۔"
+    },
+    {
+      "question": "What should I verify when collecting my documents?",
+      "answer": "Verify all personal information is correct, check document quality and clarity, ensure all requested documents are provided, and confirm expiration dates before leaving the center.",
+      "urdu_question": "اپنے دستاویزات جمع کرتے وقت مجھے کس چیز کی تصدیق کرنی چاہیے؟",
+      "urdu_answer": "تصدیق کریں کہ تمام ذاتی معلومات درست ہیں، دستاویز کے معیار اور وضاحت کی جانچ کریں، اس بات کو یقینی بنائیں کہ تمام مطلوبہ دستاویزات فراہم کیے گئے ہیں، اور مرکز سے نکلنے سے پہلے میعاد ختم ہونے کی تاریخوں کی تصدیق کریں۔"
+    },
+    {
+      "question": "What if there's an error in my delivered documents?",
+      "answer": "If you find errors in delivered documents, immediately contact NADRA to report the issue. Office mistakes are typically corrected free of charge, while applicant errors may involve fees.",
+      "urdu_question": "اگر میرے ڈیلیور کردہ دستاویزات میں کوئی خامی ہے تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کو ڈیلیور شدہ دستاویزات میں غلطیاں نظر آتی ہیں تو فوری طور پر نادرا سے رابطہ کریں تاکہ مسئلے کی اطلاع دیں۔ آفس کی غلطیوں کو عام طور پر مفت میں درست کیا جاتا ہے، جبکہ درخواست دہندگان کی غلطیوں میں فیس شامل ہو سکتی ہے۔"
+    },
+    {
+      "question": "How do I access digital delivery for FRCs?",
+      "answer": "To access digital delivery for FRCs, download the PAK-ID app, log in with your credentials, navigate to your inbox, and download your FRC document instantly after online application approval.",
+      "urdu_question": "میں FRCs کے لیے ڈیجیٹل ڈیلیوری تک کیسے پہنچ سکتا ہوں؟",
+      "urdu_answer": "FRCs کے لیے ڈیجیٹل ڈیلیوری تک رسائی حاصل کرنے کے لیے، PAK-ID ایپ ڈاؤن لوڈ کریں، اپنی اسناد کے ساتھ لاگ ان کریں، اپنے ان باکس میں جائیں، اور آن لائن درخواست کی منظوری کے بعد فوری طور پر اپنی FRC دستاویز ڈاؤن لوڈ کریں۔"
+    },
+    {
+      "question": "Are digitally delivered documents legally valid?",
+      "answer": "Yes, digitally delivered FRCs are legally valid and accepted by government offices and institutions, as they contain the same information and security features as physical documents.",
+      "urdu_question": "کیا ڈیجیٹل طور پر فراہم کردہ دستاویزات قانونی طور پر درست ہیں؟",
+      "urdu_answer": "جی ہاں، ڈیجیٹل طور پر ڈیلیور کردہ FRCs قانونی طور پر درست ہیں اور سرکاری دفاتر اور اداروں کے ذریعے قبول کیے جاتے ہیں، کیونکہ ان میں وہی معلومات اور حفاظتی خصوصیات ہوتی ہیں جو جسمانی دستاویزات میں ہوتی ہیں۔"
+    },
+    {
+      "question": "Can I print digital documents at home?",
+      "answer": "Yes, you can print digital documents from the PAK-ID app. Ensure you use good quality paper and printer settings for clear, legible printouts.",
+      "urdu_question": "کیا میں گھر پر ڈیجیٹل دستاویزات پرنٹ کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپ سے ڈیجیٹل دستاویزات پرنٹ کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ صاف، واضح پرنٹ آؤٹ کے لیے اچھے معیار کے کاغذ اور پرنٹر کی ترتیبات استعمال کرتے ہیں۔"
+    },
+    {
+      "question": "What file format are digital documents provided in?",
+      "answer": "Digital documents are typically provided in PDF format for easy viewing, downloading, and printing while maintaining document integrity and security features.",
+      "urdu_question": "ڈیجیٹل دستاویزات کس فائل فارمیٹ میں فراہم کی جاتی ہیں؟",
+      "urdu_answer": "دستاویز کی سالمیت اور حفاظتی خصوصیات کو برقرار رکھتے ہوئے ڈیجیٹل دستاویزات کو عام طور پر PDF فارمیٹ میں آسانی سے دیکھنے، ڈاؤن لوڈ کرنے اور پرنٹ کرنے کے لیے فراہم کیا جاتا ہے۔"
+    },
+    {
+      "question": "Is there a limit on how many times I can download digital documents?",
+      "answer": "Generally, there's no limit on downloading your digital documents from the PAK-ID app. You can download them multiple times as needed for your records.",
+      "urdu_question": "کیا اس بات کی کوئی حد ہے کہ میں کتنی بار ڈیجیٹل دستاویزات ڈاؤن لوڈ کر سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، PAK-ID ایپ سے آپ کے ڈیجیٹل دستاویزات کو ڈاؤن لوڈ کرنے کی کوئی حد نہیں ہے۔ آپ اپنے ریکارڈ کی ضرورت کے مطابق انہیں متعدد بار ڈاؤن لوڈ کر سکتے ہیں۔"
+    },
+    {
+      "question": "What if I can't access the PAK-ID app for digital delivery?",
+      "answer": "If you can't access the PAK-ID app, contact NADRA customer support for assistance, try resetting your password, ensure you have a stable internet connection, or visit a NADRA center for help.",
+      "urdu_question": "اگر میں ڈیجیٹل ڈیلیوری کے لیے PAK-ID ایپ تک رسائی حاصل نہیں کر سکتا ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ PAK-ID ایپ تک رسائی حاصل نہیں کر سکتے ہیں، تو مدد کے لیے نادرا کسٹمر سپورٹ سے رابطہ کریں، اپنا پاس ورڈ دوبارہ ترتیب دینے کی کوشش کریں، یقینی بنائیں کہ آپ کا انٹرنیٹ کنکشن مستحکم ہے، یا مدد کے لیے نادرا سنٹر پر جائیں۔"
+    },
+    {
+      "question": "Can I share digital documents electronically?",
+      "answer": "You can share digital documents electronically for official purposes, but ensure you're sharing with authorized entities and maintain the confidentiality and security of your personal information.",
+      "urdu_question": "کیا میں ڈیجیٹل دستاویزات کو الیکٹرانک طور پر شیئر کر سکتا ہوں؟",
+      "urdu_answer": "آپ سرکاری مقاصد کے لیے الیکٹرانک طور پر ڈیجیٹل دستاویزات کا اشتراک کر سکتے ہیں، لیکن یقینی بنائیں کہ آپ مجاز اداروں کے ساتھ اشتراک کر رہے ہیں اور اپنی ذاتی معلومات کی رازداری اور حفاظت کو برقرار رکھتے ہیں۔"
+    },
+    {
+      "question": "What happens if I accidentally delete digital documents?",
+      "answer": "If you delete digital documents, you can re-download them from the PAK-ID app inbox. The documents remain available in your account for future access.",
+      "urdu_question": "اگر میں غلطی سے ڈیجیٹل دستاویزات کو حذف کر دوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ ڈیجیٹل دستاویزات کو حذف کرتے ہیں، تو آپ انہیں PAK-ID ایپ کے ان باکس سے دوبارہ ڈاؤن لوڈ کر سکتے ہیں۔ دستاویزات مستقبل کی رسائی کے لیے آپ کے اکاؤنٹ میں دستیاب رہیں گی۔"
+    },
+    {
+      "question": "Are there size limitations for digital document downloads?",
+      "answer": "Digital documents are optimized for reasonable file sizes. Ensure you have adequate storage space and stable internet connection for downloading, especially on mobile devices.",
+      "urdu_question": "کیا ڈیجیٹل دستاویز ڈاؤن لوڈ کے لیے سائز کی حدود ہیں؟",
+      "urdu_answer": "ڈیجیٹل دستاویزات کو مناسب فائل سائز کے لیے بہتر بنایا گیا ہے۔ یقینی بنائیں کہ آپ کے پاس سٹوریج کی مناسب جگہ اور ڈاؤن لوڈ کرنے کے لیے مستحکم انٹرنیٹ کنکشن ہے، خاص طور پر موبائل آلات پر۔"
+    },
+    {
+      "question": "Can I request physical copies after choosing digital delivery?",
+      "answer": "If you initially chose digital delivery but later need physical copies, contact NADRA to inquire about obtaining hard copies. Additional fees may apply for physical document issuance.",
+      "urdu_question": "کیا میں ڈیجیٹل ڈیلیوری کا انتخاب کرنے کے بعد فزیکل کاپیوں کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "اگر آپ نے ابتدائی طور پر ڈیجیٹل ڈیلیوری کا انتخاب کیا لیکن بعد میں آپ کو فزیکل کاپیاں درکار ہوں تو ہارڈ کاپیاں حاصل کرنے کے لیے نادرا سے رابطہ کریں۔ جسمانی دستاویز کے اجراء کے لیے اضافی فیس لاگو ہو سکتی ہے۔"
+    },
+    {
+      "question": "How can I track my application after submission?",
+      "answer": "You can track your application using the tracking number via SMS services, PAK-ID app, NADRA website, calling helpline 1777, or visiting the center with your receipt.",
+      "urdu_question": "جمع کرانے کے بعد میں اپنی درخواست کو کیسے ٹریک کرسکتا ہوں؟",
+      "urdu_answer": "آپ ایس ایم ایس سروسز، PAK-ID ایپ، نادرا کی ویب سائٹ، کالنگ ہیلپ لائن 1777، یا اپنی رسید کے ساتھ سنٹر پر جا کر ٹریکنگ نمبر کے ذریعے اپنی درخواست کو ٹریک کر سکتے ہیں۔"
+    },
+    {
+      "question": "What information do I need for tracking my application?",
+      "answer": "For tracking, you typically need your application tracking number, CNIC number, and the mobile number used during application submission.",
+      "urdu_question": "اپنی درخواست کو ٹریک کرنے کے لیے مجھے کس معلومات کی ضرورت ہے؟",
+      "urdu_answer": "ٹریکنگ کے لیے، آپ کو عام طور پر اپنا ایپلیکیشن ٹریکنگ نمبر، CNIC نمبر، اور درخواست جمع کرانے کے دوران استعمال ہونے والے موبائل نمبر کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "How long does it take to receive the first notification?",
+      "answer": "The first notification about application form uploading is usually sent within 24-48 hours after your visit to the NADRA center and completion of the initial processing steps.",
+      "urdu_question": "پہلی اطلاع موصول ہونے میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "درخواست فارم اپ لوڈ کرنے کے بارے میں پہلا نوٹیفکیشن عام طور پر آپ کے نادرا سینٹر کے دورے اور ابتدائی پروسیسنگ کے مراحل کی تکمیل کے بعد 24-48 گھنٹے کے اندر بھیج دیا جاتا ہے۔"
+    },
+    {
+      "question": "Can I change my delivery method after application submission?",
+      "answer": "Changing delivery method after submission may be possible before card dispatch, but contact NADRA customer service immediately as changes might cause delays and additional fees.",
+      "urdu_question": "کیا میں درخواست جمع کروانے کے بعد اپنا ترسیل کا طریقہ تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "جمع کرانے کے بعد ڈیلیوری کا طریقہ تبدیل کرنا کارڈ ڈسپیچ سے پہلے ممکن ہو سکتا ہے، لیکن نادرا کسٹمر سروس سے فوری رابطہ کریں کیونکہ تبدیلیاں تاخیر اور اضافی فیسوں کا سبب بن سکتی ہیں۔"
+    },
+    {
+      "question": "What should I do if my delivery address is incorrect in the system?",
+      "answer": "Contact NADRA immediately to correct address information before card dispatch. Provide proper documentation for address correction and expect possible processing delays.",
+      "urdu_question": "اگر سسٹم میں میرا ڈیلیوری ایڈریس غلط ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "کارڈ ڈسپیچ کرنے سے پہلے ایڈریس کی معلومات درست کرنے کے لیے فوری طور پر نادرا سے رابطہ کریں۔ ایڈریس کی اصلاح کے لیے مناسب دستاویزات فراہم کریں اور پروسیسنگ میں ممکنہ تاخیر کی توقع کریں۔"
+    },
+    {
+      "question": "Are there any restrictions on delivery to certain areas?",
+      "answer": "Some remote or security-sensitive areas may have delivery restrictions. Confirm with NADRA if your area is covered by their delivery services when applying.",
+      "urdu_question": "کیا بعض علاقوں میں ترسیل پر کوئی پابندیاں ہیں؟",
+      "urdu_answer": "کچھ دور دراز یا سیکیورٹی کے لحاظ سے حساس علاقوں میں ترسیل کی پابندیاں ہوسکتی ہیں۔ نادرا سے تصدیق کریں کہ آیا درخواست دیتے وقت آپ کا علاقہ ان کی ڈیلیوری سروسز کے تحت آتا ہے۔"
+    },
+    {
+      "question": "How do I report delivery issues or complaints?",
+      "answer": "Report delivery issues through NADRA helpline 1777, visit your local NADRA center, use the PAK-ID app complaint feature, or submit written complaints to customer service.",
+      "urdu_question": "میں ترسیل کے مسائل یا شکایات کی اطلاع کیسے دوں؟",
+      "urdu_answer": "نادرا ہیلپ لائن 1777 کے ذریعے ترسیل کے مسائل کی اطلاع دیں، اپنے مقامی نادرا سنٹر پر جائیں، PAK-ID ایپ شکایت کی خصوصیت استعمال کریں، یا کسٹمر سروس کو تحریری شکایات جمع کرائیں۔"
+    },
+    {
+      "question": "Can I expedite delivery if I have urgent travel plans?",
+      "answer": "For urgent travel, choose Executive processing (7 days) and pick-up delivery for fastest service. Inform NADRA about urgency and provide travel documentation if possible.",
+      "urdu_question": "اگر میرے پاس فوری سفری منصوبے ہیں تو کیا میں ترسیل کو تیز کر سکتا ہوں؟",
+      "urdu_answer": "فوری سفر کے لیے، تیز ترین سروس کے لیے ایگزیکٹو پروسیسنگ (7 دن) اور پک اپ ڈیلیوری کا انتخاب کریں۔ نادرا کو فوری طور پر مطلع کریں اور اگر ممکن ہو تو سفری دستاویزات فراہم کریں۔"
+    },
+    {
+      "question": "What happens during public holidays or strikes affecting delivery?",
+      "answer": "During holidays or strikes, delivery services may be suspended. NADRA will notify applicants of delays and resume services once normal operations are restored.",
+      "urdu_question": "عوامی تعطیلات یا ہڑتالوں کے دوران کیا ہوتا ہے جو ترسیل کو متاثر کرتی ہے؟",
+      "urdu_answer": "تعطیلات یا ہڑتالوں کے دوران، ترسیل کی خدمات معطل ہو سکتی ہیں۔ نادرا درخواست دہندگان کو تاخیر کے بارے میں مطلع کرے گا اور معمول کی کارروائیوں کی بحالی کے بعد خدمات دوبارہ شروع کرے گا۔"
+    },
+    {
+      "question": "How can I provide feedback about delivery services?",
+      "answer": "Provide feedback through NADRA customer satisfaction surveys, online portals, helpline services, or by speaking with staff at NADRA centers about your delivery experience.",
+      "urdu_question": "میں ڈیلیوری خدمات کے بارے میں رائے کیسے دے سکتا ہوں؟",
+      "urdu_answer": "نادرا کے صارفین کے اطمینان کے سروے، آن لائن پورٹلز، ہیلپ لائن سروسز کے ذریعے یا نادرا مراکز کے عملے سے بات کرکے اپنے ڈیلیوری کے تجربے کے بارے میں رائے دیں۔"
+    },
+    {
+      "question": "Are delivery notifications sent in real-time?",
+      "answer": "Notifications are sent as soon as status updates are recorded in the system, typically within a few hours of actual processing milestones, though there may be some delay.",
+      "urdu_question": "کیا ڈیلیوری کی اطلاعات ریئل ٹائم میں بھیجی جاتی ہیں؟",
+      "urdu_answer": "جیسے ہی سسٹم میں اسٹیٹس اپ ڈیٹس ریکارڈ ہوتے ہی اطلاعات بھیجی جاتی ہیں، عام طور پر اصل پروسیسنگ سنگ میل کے چند گھنٹوں کے اندر، اگرچہ کچھ تاخیر ہو سکتی ہے۔"
+    },
+    {
+      "question": "What security measures protect my notifications?",
+      "answer": "Notifications contain limited personal information for security, use verified contact details, and include tracking numbers rather than sensitive personal data to protect your privacy.",
+      "urdu_question": "کون سے حفاظتی اقدامات میری اطلاعات کی حفاظت کرتے ہیں؟",
+      "urdu_answer": "اطلاعات میں سیکیورٹی کے لیے محدود ذاتی معلومات ہوتی ہیں، تصدیق شدہ رابطے کی تفصیلات استعمال ہوتی ہیں، اور آپ کی رازداری کی حفاظت کے لیے حساس ذاتی ڈیٹا کے بجائے ٹریکنگ نمبرز شامل ہوتے ہیں۔"
+    },
+    {
+      "question": "Can I set preferences for notification timing?",
+      "answer": "Notification timing is automated based on processing stages and cannot be customized. However, you can manage your phone and email settings to receive them appropriately.",
+      "urdu_question": "کیا میں اطلاع کے وقت کے لیے ترجیحات مرتب کر سکتا ہوں؟",
+      "urdu_answer": "نوٹیفکیشن کا وقت پروسیسنگ کے مراحل کی بنیاد پر خودکار ہے اور اسے اپنی مرضی کے مطابق نہیں بنایا جا سکتا۔ تاہم، آپ اپنے فون اور ای میل کی ترتیبات کو مناسب طریقے سے وصول کرنے کے لیے منظم کر سکتے ہیں۔"
+    },
+    {
+      "question": "What should I do if I receive duplicate notifications?",
+      "answer": "Duplicate notifications may occur due to system updates. Ignore duplicates and refer to the latest notification status. Contact customer service if duplicates cause confusion.",
+      "urdu_question": "اگر مجھے ڈپلیکیٹ اطلاعات موصول ہوں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "سسٹم اپ ڈیٹس کی وجہ سے ڈپلیکیٹ اطلاعات ہو سکتی ہیں۔ ڈپلیکیٹس کو نظر انداز کریں اور تازہ ترین اطلاع کی حیثیت کا حوالہ دیں۔ اگر نقلیں الجھن کا باعث بنتی ہیں تو کسٹمر سروس سے رابطہ کریں۔"
+    },
+    {
+      "question": "How accurate are the delivery time estimates provided?",
+      "answer": "Delivery time estimates are based on processing categories and are generally reliable. However, factors like document verification, address accuracy, and external circumstances may affect actual delivery times.",
+      "urdu_question": "فراہم کردہ ترسیل کے وقت کے تخمینے کتنے درست ہیں؟",
+      "urdu_answer": "ڈیلیوری کے وقت کے تخمینے پروسیسنگ کے زمرے پر مبنی ہوتے ہیں اور عام طور پر قابل اعتماد ہوتے ہیں۔ تاہم، دستاویزات کی تصدیق، پتے کی درستگی، اور بیرونی حالات جیسے عوامل اصل ترسیل کے اوقات کو متاثر کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I request special delivery instructions?",
+      "answer": "You can provide special delivery instructions like preferred delivery times, alternative contact persons, or specific address details to ensure successful delivery.",
+      "urdu_question": "کیا میں سپیشل ڈیلیوری ہدایات کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "آپ ڈیلیوری کی خصوصی ہدایات جیسے ترجیحی ڈیلیوری کے اوقات، متبادل رابطہ افراد، یا مخصوص پتے کی تفصیلات فراہم کر سکتے ہیں تاکہ کامیاب ترسیل کو یقینی بنایا جا سکے۔"
+    },
+    {
+      "question": "What happens if my documents are returned to sender?",
+      "answer": "If documents are returned due to incorrect address or recipient unavailability, contact NADRA immediately to arrange re-delivery or change to pickup option. Additional fees may apply.",
+      "urdu_question": "اگر میری دستاویزات بھیجنے والے کو واپس کردی جائیں تو کیا ہوگا؟",
+      "urdu_answer": "اگر دستاویزات غلط ایڈریس یا وصول کنندہ کی عدم دستیابی کی وجہ سے واپس کر دی جاتی ہیں، تو دوبارہ ڈیلیوری کا بندوبست کرنے یا پک اپ آپشن میں تبدیل کرنے کے لیے فوری طور پر نادرا سے رابطہ کریں۔ اضافی فیسیں لاگو ہو سکتی ہیں۔"
+    }
+  ]
+}

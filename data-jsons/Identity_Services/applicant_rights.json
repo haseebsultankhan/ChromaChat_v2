@@ -1,0 +1,175 @@
+{
+  "file_name": "applicant_rights_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 28,
+  "qa_data": [
+    {
+      "question": "What are the basic rights of an applicant when applying for NADRA services?",
+      "answer": "Applicants have comprehensive rights including: Timely Service (receiving ID card within specified timeframe), Accurate Processing (error-free information recording), Transparent Procedures (understanding requirements and fees), Fair Treatment (respectful non-discriminatory service), Access to Information (accessing and correcting personal records), Data Privacy and Security (protection from unauthorized access), Grievance Redressal (complaint submission and resolution), Special Assistance (accommodations for disabilities), Fee Transparency (knowing official fees without hidden charges), and Accountability (holding NADRA accountable for service quality).",
+      "urdu_question": "نادرا خدمات کے لیے درخواست دیتے وقت درخواست گزار کے بنیادی حقوق کیا ہیں؟",
+      "urdu_answer": "درخواست دہندگان کے پاس جامع حقوق ہیں جن میں شامل ہیں: بروقت سروس (مقررہ وقت کے اندر شناختی کارڈ وصول کرنا)، درست پروسیسنگ (غلطی سے پاک معلومات کی ریکارڈنگ)، شفاف طریقہ کار (ضروریات اور فیسوں کو سمجھنا)، منصفانہ سلوک (احترام کے ساتھ غیر امتیازی خدمت)، معلومات تک رسائی (ذاتی ریکارڈ تک رسائی اور درست کرنا)، ڈیٹا پرائیویٹ سے ڈیٹا تک رسائی اور درستگی۔ ازالہ (شکایت جمع کروانا اور حل کرنا)، خصوصی مدد (معذوروں کے لیے رہائش)، فیس کی شفافیت (پوشیدہ چارجز کے بغیر سرکاری فیسوں کو جاننا)، اور احتساب (سروس کے معیار کے لیے نادرا کو جوابدہ رکھنا)۔"
+    },
+    {
+      "question": "What is meant by the right to timely service in NADRA?",
+      "answer": "The right to timely service means applicants have the right to receive their ID card within a specified timeframe, with clear updates on application status throughout the process.",
+      "urdu_question": "نادرا میں بروقت سروس کے حق سے کیا مراد ہے؟",
+      "urdu_answer": "بروقت خدمت کے حق کا مطلب ہے کہ درخواست دہندگان کو ایک مخصوص مدت کے اندر اپنا شناختی کارڈ حاصل کرنے کا حق حاصل ہے، جس میں پورے عمل کے دوران درخواست کی صورتحال پر واضح اپ ڈیٹس موجود ہیں۔"
+    },
+    {
+      "question": "What does the right to accurate processing guarantee?",
+      "answer": "The right to accurate processing guarantees that personal information will be recorded and processed without error during the application process.",
+      "urdu_question": "درست پروسیسنگ کا حق کیا ضمانت دیتا ہے؟",
+      "urdu_answer": "درست پروسیسنگ کا حق اس بات کی ضمانت دیتا ہے کہ درخواست کے عمل کے دوران ذاتی معلومات کو بغیر کسی غلطی کے ریکارڈ کیا جائے گا اور اس پر کارروائی کی جائے گی۔"
+    },
+    {
+      "question": "What are transparent procedures in NADRA services?",
+      "answer": "Transparent procedures mean applicants have the right to understand procedures, required documents, and official fees clearly before and during the application process.",
+      "urdu_question": "نادرا سروسز میں شفاف طریقہ کار کیا ہے؟",
+      "urdu_answer": "شفاف طریقہ کار کا مطلب ہے کہ درخواست دہندگان کو درخواست کے عمل سے پہلے اور اس کے دوران طریقہ کار، مطلوبہ دستاویزات اور سرکاری فیس کو واضح طور پر سمجھنے کا حق حاصل ہے۔"
+    },
+    {
+      "question": "What constitutes fair treatment for NADRA applicants?",
+      "answer": "Fair treatment means applicants have the right to respectful and non-discriminatory service regardless of their background, status, or personal characteristics.",
+      "urdu_question": "نادرا کے درخواست دہندگان کے ساتھ منصفانہ سلوک کیا ہے؟",
+      "urdu_answer": "منصفانہ سلوک کا مطلب ہے کہ درخواست دہندگان کو ان کے پس منظر، حیثیت، یا ذاتی خصوصیات سے قطع نظر باعزت اور غیر امتیازی خدمت کا حق حاصل ہے۔"
+    },
+    {
+      "question": "What access to information rights do applicants have?",
+      "answer": "Applicants have the right to access and correct their personal records maintained by NADRA.",
+      "urdu_question": "درخواست دہندگان کو معلومات کے حقوق تک کیا رسائی حاصل ہے؟",
+      "urdu_answer": "درخواست دہندگان کو نادرا کے زیر انتظام اپنے ذاتی ریکارڈ تک رسائی اور درست کرنے کا حق ہے۔"
+    },
+    {
+      "question": "How is data privacy and security protected for NADRA applicants?",
+      "answer": "Applicants have the right to have their personal data protected from unauthorized access, ensuring confidentiality and security of their information.",
+      "urdu_question": "نادرا کے درخواست دہندگان کے ڈیٹا کی رازداری اور سیکیورٹی کیسے محفوظ ہے؟",
+      "urdu_answer": "درخواست دہندگان کو یہ حق حاصل ہے کہ وہ اپنے ذاتی ڈیٹا کو غیر مجاز رسائی سے محفوظ رکھیں، ان کی معلومات کی رازداری اور حفاظت کو یقینی بنائیں۔"
+    },
+    {
+      "question": "What is the grievance redressal right?",
+      "answer": "The grievance redressal right allows applicants to submit complaints about NADRA services and receive timely resolutions to their concerns.",
+      "urdu_question": "شکایت کے ازالے کا حق کیا ہے؟",
+      "urdu_answer": "شکایات کے ازالے کا حق درخواست دہندگان کو نادرا کی خدمات کے بارے میں شکایات جمع کرانے اور ان کے خدشات کا بروقت حل حاصل کرنے کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "What special assistance rights exist for disabled applicants?",
+      "answer": "Applicants have the right to accommodations in case of disability or special needs to ensure equal access to NADRA services.",
+      "urdu_question": "معذور درخواست دہندگان کے لیے کون سے خصوصی امدادی حقوق موجود ہیں؟",
+      "urdu_answer": "درخواست دہندگان کو نادرا کی خدمات تک مساوی رسائی کو یقینی بنانے کے لیے معذوری یا خصوصی ضروریات کی صورت میں رہائش کا حق ہے۔"
+    },
+    {
+      "question": "What does fee transparency mean for NADRA services?",
+      "answer": "Fee transparency means applicants have the right to know official fees without hidden charges or overpricing before paying for any service.",
+      "urdu_question": "نادرا سروسز کے لیے فیس کی شفافیت کا کیا مطلب ہے؟",
+      "urdu_answer": "فیس کی شفافیت کا مطلب ہے کہ درخواست دہندگان کو کسی بھی سروس کی ادائیگی سے پہلے پوشیدہ چارجز یا زیادہ قیمتوں کے بغیر سرکاری فیس جاننے کا حق ہے۔"
+    },
+    {
+      "question": "What accountability rights do applicants have against NADRA?",
+      "answer": "Applicants have the right to hold NADRA accountable for service quality and to escalate issues if needed when services do not meet standards.",
+      "urdu_question": "درخواست دہندگان کو نادرا کے خلاف کیا احتسابی حقوق حاصل ہیں؟",
+      "urdu_answer": "درخواست دہندگان کو سروس کے معیار کے لیے نادرا کو جوابدہ ٹھہرانے اور خدمات کے معیار پر پورا نہ اترنے پر ضرورت پڑنے پر مسائل کو بڑھانے کا حق ہے۔"
+    },
+    {
+      "question": "Can applicants demand error-free processing of their applications?",
+      "answer": "Yes, applicants have the right to accurate processing, which means their personal information must be recorded and processed without error.",
+      "urdu_question": "کیا درخواست دہندگان اپنی درخواستوں کی غلطی سے پاک کارروائی کا مطالبہ کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، درخواست دہندگان کو درست پروسیسنگ کا حق حاصل ہے، جس کا مطلب ہے کہ ان کی ذاتی معلومات کو بغیر کسی غلطی کے ریکارڈ اور پراسیس کیا جانا چاہیے۔"
+    },
+    {
+      "question": "Are applicants entitled to know about hidden fees in NADRA services?",
+      "answer": "Yes, applicants have the right to fee transparency, which means they must be informed of all official fees without any hidden charges or overpricing.",
+      "urdu_question": "کیا درخواست دہندگان نادرا سروسز میں پوشیدہ فیس کے بارے میں جاننے کے حقدار ہیں؟",
+      "urdu_answer": "ہاں، درخواست دہندگان کو شفافیت کی فیس لینے کا حق حاصل ہے، جس کا مطلب ہے کہ انہیں تمام سرکاری فیسوں کے بارے میں بغیر کسی پوشیدہ چارجز یا زیادہ قیمتوں کے مطلع کیا جانا چاہیے۔"
+    },
+    {
+      "question": "Do applicants have the right to complain about poor NADRA services?",
+      "answer": "Yes, applicants have the right to grievance redressal, which includes submitting complaints and receiving timely resolutions for any service-related issues.",
+      "urdu_question": "کیا درخواست دہندگان کو نادرا کی ناقص خدمات کے بارے میں شکایت کرنے کا حق ہے؟",
+      "urdu_answer": "ہاں، درخواست دہندگان کو شکایات کے ازالے کا حق حاصل ہے، جس میں شکایات جمع کرانا اور سروس سے متعلقہ مسائل کے لیے بروقت حل حاصل کرنا شامل ہے۔"
+    },
+    {
+      "question": "What happens if NADRA violates an applicant's rights?",
+      "answer": "Applicants have the right to accountability, which means they can hold NADRA accountable for service quality and escalate issues through proper channels if their rights are violated or services do not meet standards.",
+      "urdu_question": "اگر نادرا درخواست گزار کے حقوق کی خلاف ورزی کرتا ہے تو کیا ہوتا ہے؟",
+      "urdu_answer": "درخواست دہندگان کو جوابدہی کا حق حاصل ہے، جس کا مطلب ہے کہ وہ خدمات کے معیار کے لیے نادرا کو جوابدہ ٹھہرا سکتے ہیں اور اگر ان کے حقوق کی خلاف ورزی ہوتی ہے یا خدمات معیارات پر پورا نہیں اترتی ہیں تو مناسب چینلز کے ذریعے مسائل کو بڑھا سکتے ہیں۔"
+    },
+    {
+      "question": "How can I exercise my right to timely service if my application is delayed?",
+      "answer": "If your application exceeds the promised delivery timeline, you can: 1) Contact NADRA call center at 1777, 2) File a complaint at https://complaints.nadra.gov.pk, 3) Visit the registration center with your receipt, 4) Escalate to regional office if center doesn't respond, 5) Use your accountability rights to demand explanation and resolution.",
+      "urdu_question": "اگر میری درخواست میں تاخیر ہو جائے تو میں بروقت خدمت کے اپنے حق کا استعمال کیسے کر سکتا ہوں؟",
+      "urdu_answer": "اگر آپ کی درخواست وعدہ کردہ ڈیلیوری ٹائم لائن سے تجاوز کر جاتی ہے، تو آپ یہ کر سکتے ہیں: 1) نادرا کال سینٹر سے 1777 پر رابطہ کریں، 2) https://complaints.nadra.gov.pk پر شکایت درج کریں، 3) اپنی رسید کے ساتھ رجسٹریشن سینٹر پر جائیں، 4) اگر مرکز جواب نہیں دیتا ہے تو علاقائی دفتر میں جائیں، 5) اپنے اکاؤنٹیبلٹی کا مطالبہ کرنے کے لیے حقوق کا استعمال کریں۔"
+    },
+    {
+      "question": "What specific accommodations are available for disabled applicants under special assistance rights?",
+      "answer": "Special assistance includes: wheelchair accessibility at centers, priority queue service, assistance with form filling, alternative biometric capture methods if needed, extended time for procedures, sign language interpreters where available, and family member assistance permission",
+      "urdu_question": "خصوصی امدادی حقوق کے تحت معذور درخواست گزاروں کے لیے کون سی مخصوص رہائشیں دستیاب ہیں؟",
+      "urdu_answer": "خصوصی مدد میں شامل ہیں: مراکز پر وہیل چیئر کی رسائی، ترجیحی قطار کی خدمت، فارم بھرنے میں مدد، ضرورت پڑنے پر متبادل بائیو میٹرک کیپچر کے طریقے، طریقہ کار کے لیے بڑھا ہوا وقت، جہاں دستیاب ہو اشاروں کی زبان کے ترجمان، اور خاندان کے رکن کی مدد کی اجازت"
+    },
+    {
+      "question": "How can I access and correct my personal records maintained by NADRA?",
+      "answer": "To access your records: 1) Visit any NADRA center with your CNIC, 2) Request data verification/correction, 3) Submit required documents for changes, 4) Use PAK-ID app for basic information viewing, 5) Submit written request for detailed record access.",
+      "urdu_question": "میں نادرا کے زیر انتظام اپنے ذاتی ریکارڈ تک کیسے رسائی اور درست کر سکتا ہوں؟",
+      "urdu_answer": "اپنے ریکارڈ تک رسائی حاصل کرنے کے لیے: 1) اپنے CNIC کے ساتھ کسی بھی نادرا سینٹر پر جائیں، 2) ڈیٹا کی تصدیق/تصحیح کی درخواست کریں، 3) تبدیلیوں کے لیے مطلوبہ دستاویزات جمع کروائیں، 4) بنیادی معلومات دیکھنے کے لیے PAK-ID ایپ کا استعمال کریں، 5) تفصیلی ریکارڈ تک رسائی کے لیے تحریری درخواست جمع کروائیں۔"
+    },
+    {
+      "question": "What constitutes a violation of my data privacy and security rights?",
+      "answer": "Violations include: unauthorized sharing of your personal data with third parties, data breaches exposing your information, staff accessing your records without legitimate purpose, selling personal information, or failure to secure databases against cyber threats.",
+      "urdu_question": "میرے ڈیٹا کی رازداری اور حفاظتی حقوق کی خلاف ورزی کیا ہے؟",
+      "urdu_answer": "خلاف ورزیوں میں شامل ہیں: تیسرے فریق کے ساتھ آپ کے ذاتی ڈیٹا کا غیر مجاز اشتراک، آپ کی معلومات کو بے نقاب کرنے والے ڈیٹا کی خلاف ورزیاں، عملہ کا آپ کے ریکارڈ تک جائز مقصد کے بغیر رسائی، ذاتی معلومات کی فروخت، یا سائبر خطرات کے خلاف ڈیٹا بیس کو محفوظ بنانے میں ناکامی۔"
+    },
+    {
+      "question": "What are the timeframes for grievance redressal under my complaint rights?",
+      "answer": "NADRA typically resolves complaints within 7 days for standard issues. Complex cases may take up to 30 days. You should receive acknowledgment within 24-48 hours of complaint submission and regular updates on resolution progress.",
+      "urdu_question": "میرے شکایت کے حقوق کے تحت شکایت کے ازالے کے لیے کیا ٹائم فریم ہیں؟",
+      "urdu_answer": "نادرا عام طور پر معیاری مسائل کے لیے 7 دن کے اندر شکایات کا ازالہ کرتا ہے۔ پیچیدہ معاملات میں 30 دن لگ سکتے ہیں۔ آپ کو شکایت جمع کروانے کے 24-48 گھنٹوں کے اندر اندر منظوری ملنی چاہیے اور حل کی پیشرفت پر باقاعدہ اپ ڈیٹس ملنا چاہیے۔"
+    },
+    {
+      "question": "What should I do if NADRA staff violates my right to fair treatment?",
+      "answer": "If you face discrimination or disrespectful treatment: 1) Note staff details and incident specifics, 2) Report immediately to the center supervisor, 3) File formal complaint with evidence, 4) Escalate to regional office if unresolved",
+      "urdu_question": "اگر نادرا کا عملہ میرے منصفانہ سلوک کے حق کی خلاف ورزی کرتا ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو امتیازی سلوک یا توہین آمیز سلوک کا سامنا کرنا پڑتا ہے: 1) عملے کی تفصیلات اور واقعہ کی تفصیلات نوٹ کریں، 2) مرکز کے نگران کو فوری طور پر رپورٹ کریں، 3) ثبوت کے ساتھ رسمی شکایت درج کریں، 4) حل نہ ہونے پر علاقائی دفتر میں جائیں۔"
+    },
+    {
+      "question": "Can I demand compensation if NADRA violates my applicant rights?",
+      "answer": "While NADRA is accountable for service quality, compensation policies depend on the specific violation and circumstances. You can demand remedial action, re-processing without additional fees, expedited service, or formal apology. For significant damages, legal consultation may be needed",
+      "urdu_question": "اگر نادرا میرے درخواست گزار کے حقوق کی خلاف ورزی کرتا ہے تو کیا میں معاوضے کا مطالبہ کر سکتا ہوں؟",
+      "urdu_answer": "جبکہ نادرا سروس کے معیار کے لیے جوابدہ ہے، معاوضے کی پالیسیاں مخصوص خلاف ورزی اور حالات پر منحصر ہیں۔ آپ اصلاحی کارروائی، اضافی فیس کے بغیر دوبارہ کارروائی، تیز خدمت، یا رسمی معافی مانگ سکتے ہیں۔ اہم نقصانات کے لیے قانونی مشاورت کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "What happens if I'm not satisfied with NADRA's response to my rights violation complaint?",
+      "answer": "If unsatisfied with the response: 1) Escalate to higher authorities within NADRA, 2) Contact Federal Ombudsman, 3) Approach relevant parliamentary committees, 4) File court petition for fundamental rights violations, 5) Use NADRA media channels for public accountability.",
+      "urdu_question": "اگر میں اپنے حقوق کی خلاف ورزی کی شکایت پر نادرا کے جواب سے مطمئن نہیں ہوں تو کیا ہوگا؟",
+      "urdu_answer": "جواب سے مطمئن نہ ہونے کی صورت میں: 1) نادرا کے اندر اعلیٰ حکام سے رابطہ کریں، 2) وفاقی محتسب سے رابطہ کریں، 3) متعلقہ پارلیمانی کمیٹیوں سے رجوع کریں، 4) بنیادی حقوق کی خلاف ورزیوں کے لیے عدالت میں درخواست دائر کریں، 5) عوامی احتساب کے لیے نادرا کے میڈیا چینلز کا استعمال کریں۔"
+    },
+    {
+      "question": "How can I verify the authenticity of NADRA fees to ensure fee transparency?",
+      "answer": "To verify fees: 1) Check official NADRA website for current fee structure, 2) Request written fee breakdown at the center, 3) Avoid paying unofficial agents, 4) Use NADRA helpline (1777) for fee inquiries, 5) Report any discrepancies or overcharging to NADRA complaints portal.",
+      "urdu_question": "فیس کی شفافیت کو یقینی بنانے کے لیے میں نادرا فیس کی صداقت کی تصدیق کیسے کر سکتا ہوں؟",
+      "urdu_answer": "فیس کی تصدیق کے لیے: 1) موجودہ فیس کے ڈھانچے کے لیے نادرا کی آفیشل ویب سائٹ چیک کریں، 2) مرکز میں تحریری فیس بریک ڈاؤن کی درخواست کریں، 3) غیر سرکاری ایجنٹوں کو ادائیگی کرنے سے گریز کریں، 4) فیس کی پوچھ گچھ کے لیے نادرا ہیلپ لائن (1777) کا استعمال کریں، 5) نادرا شکایات پورٹل پر کسی بھی تضاد یا زائد چارجنگ کی اطلاع دیں۔"
+    },
+    {
+      "question": "Are these applicant rights legally enforceable or just service standards?",
+      "answer": "These rights are based on NADRA's mandate under the NADRA Ordinance 2000 and constitutional guarantees. They are legally enforceable through administrative complaints, ombudsman, and courts, not just voluntary service standards",
+      "urdu_question": "کیا درخواست دہندگان کے یہ حقوق قانونی طور پر قابل نفاذ ہیں یا صرف خدمت کے معیارات؟",
+      "urdu_answer": "یہ حقوق نادرا آرڈیننس 2000 کے تحت نادرا کے مینڈیٹ اور آئینی ضمانتوں پر مبنی ہیں۔ وہ انتظامی شکایات، محتسب اور عدالتوں کے ذریعے قانونی طور پر قابل نفاذ ہیں، نہ کہ صرف رضاکارانہ خدمات کے معیارات"
+    },
+    {
+      "question": "What constitutes 'clear updates on application status' under timely service rights?",
+      "answer": "Clear updates should include: current processing stage, expected completion date, any additional requirements, reason for delays if any, tracking reference number, and contact information for follow-up. Updates should be provided proactively or upon request.",
+      "urdu_question": "بروقت خدمت کے حقوق کے تحت 'درخواست کی صورتحال پر واضح اپ ڈیٹ' کیا ہے؟",
+      "urdu_answer": "واضح اپ ڈیٹس میں یہ شامل ہونا چاہیے: موجودہ پروسیسنگ مرحلہ، تکمیل کی متوقع تاریخ، کوئی اضافی تقاضے، تاخیر کی وجہ اگر کوئی ہو، ٹریکنگ حوالہ نمبر، اور فالو اپ کے لیے رابطہ کی معلومات۔ اپ ڈیٹس کو فعال طور پر یا درخواست پر فراہم کیا جانا چاہئے."
+    },
+    {
+      "question": "How can I ensure my personal data is protected when applying for NADRA services?",
+      "answer": "To protect your data: 1) Only provide information to authorized NADRA personnel, 2) Avoid sharing sensitive details with third parties, 3) Use secure channels for online applications, 4) Regularly monitor your records for unauthorized changes, 5) Report any suspicious activity immediately to NADRA.",
+      "urdu_question": "میں کیسے یقینی بنا سکتا ہوں کہ نادرا سروسز کے لیے درخواست دیتے وقت میرا ذاتی ڈیٹا محفوظ ہے؟",
+      "urdu_answer": "اپنے ڈیٹا کی حفاظت کے لیے: 1) صرف نادرا کے مجاز اہلکاروں کو معلومات فراہم کریں، 2) تیسرے فریق کے ساتھ حساس تفصیلات شیئر کرنے سے گریز کریں، 3) آن لائن درخواستوں کے لیے محفوظ چینلز کا استعمال کریں، 4) غیر مجاز تبدیلیوں کے لیے اپنے ریکارڈ کی باقاعدگی سے نگرانی کریں، 5) کسی بھی مشکوک سرگرمی کی اطلاع فوری طور پر نادرا کو دیں۔"
+    },
+    {
+      "question": "Can I refuse to pay if NADRA violates fee transparency rights?",
+      "answer": "If you suspect overcharging or hidden fees: 1) Request detailed fee breakdown, 2) Verify against official rates, 3) Pay only official amounts, 4) Document any discrepancies, 5) File immediate complaint, 6) Refuse to pay unauthorized charges while complying with official fees.",
+      "urdu_question": "اگر نادرا فیس شفافیت کے حقوق کی خلاف ورزی کرتا ہے تو کیا میں ادائیگی سے انکار کر سکتا ہوں؟",
+      "urdu_answer": "اگر آپ کو اوور چارجنگ یا چھپی ہوئی فیسوں کا شبہ ہے: 1) فیس کی تفصیلی بریک ڈاؤن کی درخواست کریں، 2) سرکاری نرخوں کے خلاف تصدیق کریں، 3) صرف سرکاری رقم ادا کریں، 4) کسی بھی تضاد کو دستاویز کریں، 5) فوری شکایت درج کریں، 6) سرکاری فیس کی تعمیل کرتے ہوئے غیر مجاز چارجز ادا کرنے سے انکار کریں۔"
+    }
+  ]
+}

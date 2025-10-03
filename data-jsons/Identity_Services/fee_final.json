@@ -1,0 +1,499 @@
+{
+  "file_name": "fee_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 85,
+  "qa_data": [
+    {
+      "question": "What is the fee structure effective date and where can I find updated fees?",
+      "answer": "The fee structure is effective as of 16 Sep 2024. The updated list may be checked from the NADRA website: https://www.nadra.gov.pk/fee-structure.",
+      "urdu_question": "فیس کا ڈھانچہ مؤثر تاریخ کیا ہے اور میں اپ ڈیٹ شدہ فیس کہاں سے تلاش کر سکتا ہوں؟",
+      "urdu_answer": "فیس کا ڈھانچہ 16 ستمبر 2024 سے موثر ہے۔ اپ ڈیٹ کردہ فہرست کو نادرا کی ویب سائٹ سے چیک کیا جا سکتا ہے: https://www.nadra.gov.pk/fee-structure۔"
+    },
+    {
+      "question": "What is the fee for a new CNIC?",
+      "answer": "New CNIC fees are: Normal processing - PKR 0 (free), Urgent processing - PKR 1,150, Executive processing - PKR 2,150.",
+      "urdu_question": "نئے CNIC کی فیس کیا ہے؟",
+      "urdu_answer": "CNIC کی نئی فیسیں ہیں: نارمل پروسیسنگ - PKR 0 (مفت)، ارجنٹ پروسیسنگ - PKR 1,150، ایگزیکٹو پروسیسنگ - PKR 2,150۔"
+    },
+    {
+      "question": "How much does CNIC modification, duplicate, or renewal cost?",
+      "answer": "CNIC Modification/Duplicate/Renewal fees are: Normal processing - PKR 400, Urgent processing - PKR 1,150, Executive processing - PKR 2,150.",
+      "urdu_question": "CNIC میں ترمیم، نقل، یا تجدید کی قیمت کتنی ہے؟",
+      "urdu_answer": "CNIC میں ترمیم/ڈپلیکیٹ/تجدید کی فیسیں ہیں: نارمل پروسیسنگ - PKR 400، ارجنٹ پروسیسنگ - PKR 1,150، ایگزیکٹو پروسیسنگ - PKR 2,150۔"
+    },
+    {
+      "question": "What are the fees for Smart NIC services?",
+      "answer": "New Smart NIC/Modification/Duplicate/Renewal fees are: Normal processing - PKR 750, Urgent processing - PKR 1,500, Executive processing - PKR 2,500.",
+      "urdu_question": "اسمارٹ این آئی سی خدمات کی فیس کیا ہے؟",
+      "urdu_answer": "نئی سمارٹ این آئی سی/ ترمیم/ ڈپلیکیٹ/ تجدید کی فیسیں ہیں: نارمل پروسیسنگ - PKR 750، ارجنٹ پروسیسنگ - PKR 1,500، ایگزیکٹو پروسیسنگ - PKR 2,500۔"
+    },
+    {
+      "question": "Is there any fee for CNIC cancellation due to death?",
+      "answer": "No, CNIC cancellation due to death is free of cost (PKR 0).",
+      "urdu_question": "کیا موت کی وجہ سے CNIC کی منسوخی کی کوئی فیس ہے؟",
+      "urdu_answer": "نہیں، موت کی وجہ سے CNIC کی منسوخی مفت ہے (PKR 0)۔"
+    },
+    {
+      "question": "What are the fees for Child Registration Certificate (CRC)?",
+      "answer": "CRC New/Duplicate/Modification fees are: Normal processing - PKR 50, Executive processing - PKR 500.",
+      "urdu_question": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کی فیس کیا ہے؟",
+      "urdu_answer": "CRC نئی/ڈپلیکیٹ/ترمیم کی فیسیں ہیں: نارمل پروسیسنگ - PKR 50، ایگزیکٹو پروسیسنگ - PKR 500۔"
+    },
+    {
+      "question": "How much does a Family Registration Certificate (FRC) cost?",
+      "answer": "FRC costs PKR 1,000 for Executive processing only.",
+      "urdu_question": "فیملی رجسٹریشن سرٹیفکیٹ (FRC) کی قیمت کتنی ہے؟",
+      "urdu_answer": "FRC کی لاگت PKR 1,000 صرف ایگزیکٹو پروسیسنگ کے لیے ہے۔"
+    },
+    {
+      "question": "What are NICOP fees for Zone A countries (USA/Europe)?",
+      "answer": "For Zone A (USA/Europe): Regular NICOP - Normal $36, Urgent $54, Executive $72. Smart NICOP - Normal $39, Urgent $57, Executive $75.",
+      "urdu_question": "زون A ممالک (USA/Europe) کے لیے NICOP فیس کیا ہیں؟",
+      "urdu_answer": "زون A (USA/Europe): ریگولر NICOP - نارمل $36، فوری $54، ایگزیکٹو $72۔ Smart NICOP - نارمل $39، فوری $57، ایگزیکٹو $75۔"
+    },
+    {
+      "question": "What are NICOP fees for Zone B countries (Middle East/Africa)?",
+      "answer": "For Zone B (Middle East/Africa): Regular NICOP - Normal $17, Urgent $27, Executive $37. Smart NICOP - Normal $20, Urgent $30, Executive $40.",
+      "urdu_question": "زون بی ممالک (مشرق وسطی/افریقہ) کے لیے NICOP فیس کیا ہیں؟",
+      "urdu_answer": "زون B کے لیے (مشرق وسطی/افریقہ): باقاعدہ NICOP - نارمل $17، فوری $27، ایگزیکٹو $37۔ اسمارٹ NICOP - نارمل $20، فوری $30، ایگزیکٹو $40۔"
+    },
+    {
+      "question": "What are the fees for Smart POC services?",
+      "answer": "Smart POC fees: New POC/Renewal - Normal $150, Urgent $200, Executive $200. POC Modification/Duplicate - Normal $200, Urgent $250, Executive $300.",
+      "urdu_question": "اسمارٹ پی او سی خدمات کی فیس کیا ہے؟",
+      "urdu_answer": "اسمارٹ پی او سی فیس: نیا پی او سی/تجدید - نارمل $150، فوری $200، ایگزیکٹو $200۔ POC ترمیم/ڈپلیکیٹ - عمومی $200، فوری $250، ایگزیکٹو $300۔"
+    },
+    {
+      "question": "How much does POC cancellation cost?",
+      "answer": "POC cancellation fees are: Due to Death/Divorce - $5, Due to Surrender of Nationality - $15.",
+      "urdu_question": "POC منسوخی کی قیمت کتنی ہے؟",
+      "urdu_answer": "POC منسوخی کی فیسیں ہیں: موت/طلاق کی وجہ سے - $5، قومیت کے حوالے کرنے کی وجہ سے - $15۔"
+    },
+    {
+      "question": "What are Succession Certificate fees in Islamabad?",
+      "answer": "Islamabad Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free.",
+      "urdu_question": "اسلام آباد میں جانشینی سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "اسلام آباد جانشینی سرٹیفکیٹ کی فیس: نئی/ تازہ درخواست - اثاثے ≥100,000: روپے 20,000، اثاثے <100,000: 10,000 روپے۔ نقل: 5000 روپے۔ ترمیم: 5000 روپے۔ انکار سرٹیفکیٹ - اثاثے ≥100,000: روپے 15,000، اثاثے <100,000: 5,000 روپے۔ آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are Succession Certificate fees in Sindh?",
+      "answer": "Sindh Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.22,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.17,000, Assets <100,000: Rs.5,000. Office Mistake: Free.",
+      "urdu_question": "سندھ میں جانشینی سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "سندھ جانشینی سرٹیفکیٹ کی فیس: نئی/ تازہ درخواست - اثاثے ≥100,000: روپے 22,000، اثاثے <100,000: 10,000 روپے۔ نقل: 5000 روپے۔ ترمیم: 5000 روپے۔ انکار سرٹیفکیٹ - اثاثے ≥100,000: روپے 17,000، اثاثے <100,000: 5,000 روپے۔ آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are Succession Certificate fees in Punjab?",
+      "answer": "Punjab Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free.",
+      "urdu_question": "پنجاب میں جانشینی سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "پنجاب جانشینی سرٹیفکیٹ کی فیس: نئی/ تازہ درخواست - اثاثے ≥100,000: روپے 20,000، اثاثے <100,000: 10,000 روپے۔ نقل: 5000 روپے۔ ترمیم: 5000 روپے۔ انکار سرٹیفکیٹ - اثاثے ≥100,000: روپے 15,000، اثاثے <100,000: 5,000 روپے۔ آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are Succession Certificate fees in KPK?",
+      "answer": "KPK Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free.",
+      "urdu_question": "KPK میں جانشینی سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "KPK جانشینی کے سرٹیفکیٹ کی فیس: نئی/ تازہ درخواست - اثاثے ≥100,000: روپے 20,000، اثاثے <100,000: 10,000 روپے۔ نقل: 5000 روپے۔ ترمیم: 5000 روپے۔ انکار سرٹیفکیٹ - اثاثے ≥100,000: روپے 15,000، اثاثے <100,000: 5,000 روپے۔ آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "What are Succession Certificate fees in Balochistan?",
+      "answer": "Balochistan Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free.",
+      "urdu_question": "بلوچستان میں جانشینی سرٹیفکیٹ کی فیس کیا ہے؟",
+      "urdu_answer": "بلوچستان جانشینی سرٹیفکیٹ کی فیس: نئی/ تازہ درخواست - اثاثے ≥100,000: روپے 20,000، اثاثے <100,000: 10,000 روپے۔ نقل: 5000 روپے۔ ترمیم: 5000 روپے۔ انکار سرٹیفکیٹ - اثاثے ≥100,000: روپے 15,000، اثاثے <100,000: 5,000 روپے۔ آفس کی غلطی: مفت۔"
+    },
+    {
+      "question": "Are Succession Certificate fees the same in all provinces?",
+      "answer": "No, Succession Certificate fees vary by province. Sindh has higher fees (Rs.22,000 for assets ≥100,000) compared to Punjab, KPK, and Balochistan (Rs.20,000), while Islamabad/Federal follows the Rs.20,000 structure.",
+      "urdu_question": "کیا جانشینی کے سرٹیفکیٹ کی فیس تمام صوبوں میں ایک جیسی ہے؟",
+      "urdu_answer": "نہیں، جانشینی کے سرٹیفکیٹ کی فیس صوبے کے لحاظ سے مختلف ہوتی ہے۔ سندھ میں پنجاب، کے پی کے، اور بلوچستان (20,000 روپے) کے مقابلے (اثاثوں کے لیے 22,000 روپے ≥100,000) زیادہ فیس ہے، جب کہ اسلام آباد/وفاق 20,000 روپے کے ڈھانچے کی پیروی کرتا ہے۔"
+    },
+    {
+      "question": "What payment modes are accepted for NADRA services?",
+      "answer": "Accepted payment modes include: Cash, Credit Card, Debit Card, e-Sahulat Franchise, Easypaisa, and JazzCash.",
+      "urdu_question": "نادرا کی خدمات کے لیے ادائیگی کے کون سے طریقے قبول کیے جاتے ہیں؟",
+      "urdu_answer": "ادائیگی کے قبول شدہ طریقوں میں شامل ہیں: کیش، کریڈٹ کارڈ، ڈیبٹ کارڈ، ای سہولت فرنچائز، ایزی پیسہ، اور جاز کیش۔"
+    },
+    {
+      "question": "What is the payment mode for Succession Certificate?",
+      "answer": "For Succession Certificate, the payment mode is CASH ONLY.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کے لیے ادائیگی کا طریقہ کیا ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ کے لیے، ادائیگی کا طریقہ صرف نقد ہے۔"
+    },
+    {
+      "question": "Can I pay NICOP fees in Pakistani Rupees?",
+      "answer": "Yes, NICOP fees may be paid in PKR based on the official conversion rate applicable on the application date, even though they are listed in USD.",
+      "urdu_question": "کیا میں NICOP فیس پاکستانی روپے میں ادا کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، NICOP فیس کی ادائیگی درخواست کی تاریخ پر لاگو ہونے والے سرکاری تبادلوں کی شرح کی بنیاد پر PKR میں کی جا سکتی ہے، حالانکہ وہ USD میں درج ہیں۔"
+    },
+    {
+      "question": "What is the difference between Normal, Urgent, and Executive processing?",
+      "answer": "The three processing categories have different fees and delivery timelines: Normal (lowest fee, longest time), Urgent (medium fee, medium time), and Executive (highest fee, fastest delivery). Specific delivery times vary by service type.",
+      "urdu_question": "نارمل، ارجنٹ اور ایگزیکٹو پروسیسنگ میں کیا فرق ہے؟",
+      "urdu_answer": "تین پروسیسنگ کیٹیگریز میں مختلف فیس اور ڈیلیوری ٹائم لائنز ہیں: نارمل (سب سے کم فیس، سب سے طویل وقت)، ارجنٹ (درمیانی فیس، درمیانی وقت) اور ایگزیکٹو (سب سے زیادہ فیس، تیز ترین ڈیلیوری)۔ سروس کی قسم کے لحاظ سے مخصوص ترسیل کے اوقات مختلف ہوتے ہیں۔"
+    },
+    {
+      "question": "Are there any free NADRA services?",
+      "answer": "Yes, several services are free: New CNIC (Normal processing), CNIC cancellation due to death, and Office Mistake corrections for all services.",
+      "urdu_question": "کیا نادرا کی کوئی مفت خدمات ہیں؟",
+      "urdu_answer": "ہاں، کئی خدمات مفت ہیں: نیا CNIC (نارمل پروسیسنگ)، موت کی وجہ سے CNIC کی منسوخی، اور تمام خدمات کے لیے آفس کی غلطی کی اصلاح۔"
+    },
+    {
+      "question": "What determines the Succession Certificate fee amount?",
+      "answer": "Succession Certificate fees are determined by two factors: the province where you're applying and the total value of deceased assets (whether ≥100,000 or <100,000 rupees).",
+      "urdu_question": "جانشینی سرٹیفکیٹ فیس کی رقم کا تعین کیا ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ کی فیس کا تعین دو عوامل سے کیا جاتا ہے: وہ صوبہ جہاں آپ درخواست دے رہے ہیں اور فوت شدہ اثاثوں کی کل قیمت (چاہے ≥100,000 یا <100,000 روپے)۔"
+    },
+    {
+      "question": "How much more expensive is Smart NICOP compared to regular NICOP?",
+      "answer": "Smart NICOP is $3 more expensive than regular NICOP across all processing types and zones. For example, in Zone A: Normal NICOP $36 vs Smart NICOP $39.",
+      "urdu_question": "باقاعدہ NICOP کے مقابلے Smart NICOP کتنا مہنگا ہے؟",
+      "urdu_answer": "سمارٹ NICOP تمام پروسیسنگ اقسام اور زونز میں باقاعدہ NICOP سے $3 زیادہ مہنگا ہے۔ مثال کے طور پر، زون A میں: نارمل NICOP $36 بمقابلہ Smart NICOP $39۔"
+    },
+    {
+      "question": "What is the most expensive NADRA service?",
+      "answer": "Smart POC Executive Modification/Duplicate is the most expensive at $300, followed by Succession Certificate in Sindh for high-value assets at Rs.22,000.",
+      "urdu_question": "نادرا کی سب سے مہنگی سروس کون سی ہے؟",
+      "urdu_answer": "سمارٹ POC ایگزیکٹو ترمیم/ڈپلیکیٹ $300 میں سب سے مہنگا ہے، اس کے بعد سندھ میں 22,000 روپے میں اعلیٰ قیمت والے اثاثوں کے لیے جانشینی کا سرٹیفکیٹ آتا ہے۔"
+    },
+    {
+      "question": "Are amendment and duplicate fees the same for Succession Certificates?",
+      "answer": "Yes, both Amendment Application and Duplicate Application for Succession Certificates cost Rs.5,000 across all provinces.",
+      "urdu_question": "کیا جانشینی کے سرٹیفیکیٹس کے لیے ترمیم اور ڈپلیکیٹ فیس ایک جیسی ہیں؟",
+      "urdu_answer": "جی ہاں، تمام صوبوں میں ترمیمی درخواست اور جانشینی کے سرٹیفکیٹس کے لیے ڈپلیکیٹ درخواست دونوں کی قیمت 5,000 روپے ہے۔"
+    },
+    {
+      "question": "How do I know which zone my country falls under for NICOP fees?",
+      "answer": "Zone A includes USA/Europe with higher fees ($36-75), while Zone B includes Middle East/Africa with lower fees ($17-40). Contact NADRA for specific country classifications.",
+      "urdu_question": "میں کیسے جان سکتا ہوں کہ میرا ملک NICOP فیس کے تحت کون سا زون آتا ہے؟",
+      "urdu_answer": "زون اے میں زیادہ فیس ($36-75) کے ساتھ USA/یورپ شامل ہیں، جبکہ زون B میں کم فیس ($17-40) کے ساتھ مشرق وسطی/افریقہ شامل ہے۔ مخصوص ملک کی درجہ بندی کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I upgrade from Normal to Urgent processing after application?",
+      "answer": "The fee structure shows different processing categories, but you would need to contact NADRA directly to confirm if upgrades are possible and what additional fees may apply.",
+      "urdu_question": "کیا میں درخواست کے بعد نارمل سے ارجنٹ پروسیسنگ میں اپ گریڈ کر سکتا ہوں؟",
+      "urdu_answer": "فیس کا ڈھانچہ مختلف پروسیسنگ زمروں کو ظاہر کرتا ہے، لیکن آپ کو یہ تصدیق کرنے کے لیے نادرا سے براہ راست رابطہ کرنا ہوگا کہ کیا اپ گریڈ ممکن ہیں اور کیا اضافی فیسیں لاگو ہوسکتی ہیں۔"
+    },
+    {
+      "question": "What does 'Office Mistake' mean in the fee structure?",
+      "answer": "Office Mistake refers to errors made by NADRA staff during processing. Corrections for such mistakes are provided free of cost across all services.",
+      "urdu_question": "فیس کے ڈھانچے میں 'آفس کی غلطی' کا کیا مطلب ہے؟",
+      "urdu_answer": "آفس کی غلطی سے مراد نادرا کے عملے کی طرف سے کارروائی کے دوران کی گئی غلطیاں ہیں۔ ایسی غلطیوں کی تصحیح تمام خدمات پر مفت فراہم کی جاتی ہے۔"
+    },
+    {
+      "question": "Why are POC services more expensive than NICOP?",
+      "answer": "POC (Pakistan Origin Card) is for foreigners and dual nationals, while NICOP is for Pakistani citizens living abroad. POC services ($150-300) are priced higher than NICOP services ($17-75) due to different processing requirements.",
+      "urdu_question": "POC خدمات NICOP سے زیادہ مہنگی کیوں ہیں؟",
+      "urdu_answer": "POC (پاکستان اوریجن کارڈ) غیر ملکیوں اور دوہری شہریوں کے لیے ہے، جبکہ NICOP بیرون ملک مقیم پاکستانی شہریوں کے لیے ہے۔ پروسیسنگ کے مختلف تقاضوں کی وجہ سے POC سروسز ($150-300) کی قیمت NICOP سروسز ($17-75) سے زیادہ ہے۔"
+    },
+    {
+      "question": "Are there any additional charges beyond the listed fees?",
+      "answer": "The fee structure shows the main service charges. However, you should verify with NADRA if there are any additional processing or service charges not listed in this basic fee schedule.",
+      "urdu_question": "کیا درج شدہ فیسوں سے زیادہ کوئی اضافی چارجز ہیں؟",
+      "urdu_answer": "فیس کا ڈھانچہ مرکزی سروس چارجز کو ظاہر کرتا ہے۔ تاہم، آپ کو نادرا سے تصدیق کرنی چاہیے کہ آیا اس بنیادی فیس کے شیڈول میں کوئی اضافی پروسیسنگ یا سروس چارجز درج نہیں ہیں۔"
+    },
+    {
+      "question": "Can I pay NADRA fees using mobile wallets?",
+      "answer": "Yes, mobile wallet payments are accepted through Easypaisa and JazzCash as listed in the accepted payment modes for NADRA services.",
+      "urdu_question": "کیا میں موبائل والیٹس کے ذریعے نادرا کی فیس ادا کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، موبائل والیٹ کی ادائیگی Easypaisa اور JazzCash کے ذریعے قبول کی جاتی ہے جیسا کہ نادرا کی خدمات کے لیے قبول شدہ ادائیگی کے طریقوں میں درج ہے۔"
+    },
+    {
+      "question": "Is there a processing fee for using credit or debit cards?",
+      "answer": "The fee structure lists the service charges only. Any additional processing charges for card payments would need to be confirmed at the NADRA center or through their customer service.",
+      "urdu_question": "کیا کریڈٹ یا ڈیبٹ کارڈ استعمال کرنے کے لیے کوئی پروسیسنگ فیس ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ صرف سروس چارجز کی فہرست دیتا ہے۔ کارڈ کی ادائیگی کے لیے کسی بھی اضافی پروسیسنگ چارجز کی تصدیق نادرا سینٹر یا ان کی کسٹمر سروس کے ذریعے کرانی ہوگی۔"
+    },
+    {
+      "question": "Can I pay NADRA fees online?",
+      "answer": "NADRA accepts electronic payment methods including credit cards, debit cards, and digital services like Easypaisa and JazzCash, which may include online payment options.",
+      "urdu_question": "کیا میں نادرا کی فیس آن لائن ادا کر سکتا ہوں؟",
+      "urdu_answer": "نادرا الیکٹرانک ادائیگی کے طریقوں کو قبول کرتا ہے بشمول کریڈٹ کارڈز، ڈیبٹ کارڈز، اور ڈیجیٹل سروسز جیسے ایزی پیسہ اور جاز کیش، جس میں آن لائن ادائیگی کے اختیارات شامل ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What happens if my electronic payment fails during the transaction?",
+      "answer": "If your electronic payment fails, contact NADRA customer service immediately with your transaction details. You may need to complete payment through an alternative method before your application can proceed.",
+      "urdu_question": "اگر لین دین کے دوران میری الیکٹرانک ادائیگی ناکام ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کی الیکٹرانک ادائیگی ناکام ہو جاتی ہے، تو اپنی لین دین کی تفصیلات کے ساتھ فوری طور پر نادرا کسٹمر سروس سے رابطہ کریں۔ آپ کی درخواست کے آگے بڑھنے سے پہلے آپ کو متبادل طریقہ کے ذریعے ادائیگی مکمل کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Is there a difference in fees between NADRA centers and franchises?",
+      "answer": "The official fee structure applies to all authorized NADRA centers and franchises. However, confirm that you're paying only the official rates listed in the fee structure.",
+      "urdu_question": "کیا نادرا سینٹرز اور فرنچائزز کے درمیان فیس میں فرق ہے؟",
+      "urdu_answer": "سرکاری فیس کا ڈھانچہ نادرا کے تمام مجاز مراکز اور فرنچائزز پر لاگو ہوتا ہے۔ تاہم، تصدیق کریں کہ آپ صرف فیس کے ڈھانچے میں درج سرکاری نرخوں کی ادائیگی کر رہے ہیں۔"
+    },
+    {
+      "question": "How is the USD to PKR conversion rate determined for NICOP fees?",
+      "answer": "NICOP fees in PKR are calculated based on the official conversion rate applicable on the application date, as specified in the fee structure.",
+      "urdu_question": "NICOP فیس کے لیے USD سے PKR کی تبدیلی کی شرح کا تعین کیسے کیا جاتا ہے؟",
+      "urdu_answer": "PKR میں NICOP فیس کا حساب درخواست کی تاریخ پر لاگو ہونے والے سرکاری تبادلوں کی شرح کی بنیاد پر کیا جاتا ہے، جیسا کہ فیس کے ڈھانچے میں بیان کیا گیا ہے۔"
+    },
+    {
+      "question": "Do NICOP fees change if the exchange rate fluctuates?",
+      "answer": "The PKR equivalent is calculated using the official conversion rate applicable on your specific application date, so rates may vary with exchange rate fluctuations.",
+      "urdu_question": "اگر شرح مبادلہ میں اتار چڑھاؤ آتا ہے تو کیا NICOP فیس تبدیل ہوتی ہے؟",
+      "urdu_answer": "PKR کے مساوی کا حساب آپ کی مخصوص درخواست کی تاریخ پر لاگو ہونے والے آفیشل تبادلوں کی شرح کا استعمال کرتے ہوئے لگایا جاتا ہے، لہذا شرح مبادلہ کی شرح کے اتار چڑھاو کے ساتھ مختلف ہو سکتی ہے۔"
+    },
+    {
+      "question": "Are there any discounts for senior citizens or disabled persons?",
+      "answer": "The standard fee structure doesn't mention special discounts. Contact NADRA directly to inquire about any available concessions for senior citizens or persons with disabilities.",
+      "urdu_question": "کیا بزرگ شہریوں یا معذور افراد کے لیے کوئی رعایت ہے؟",
+      "urdu_answer": "معیاری فیس کے ڈھانچے میں خصوصی رعایت کا ذکر نہیں ہے۔ بزرگ شہریوں یا معذور افراد کے لیے دستیاب مراعات کے بارے میں دریافت کرنے کے لیے براہ راست نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What is the fee for replacing a damaged ID card?",
+      "answer": "Damaged ID card replacement falls under CNIC Duplicate services: Normal processing - PKR 400, Urgent processing - PKR 1,150, Executive processing - PKR 2,150.",
+      "urdu_question": "خراب شدہ شناختی کارڈ کو تبدیل کرنے کی فیس کیا ہے؟",
+      "urdu_answer": "خراب شدہ شناختی کارڈ کی تبدیلی CNIC ڈپلیکیٹ خدمات کے تحت آتی ہے: نارمل پروسیسنگ - PKR 400، ارجنٹ پروسیسنگ - PKR 1,150، ایگزیکٹو پروسیسنگ - PKR 2,150۔"
+    },
+    {
+      "question": "How much does it cost to get an urgent CNIC replacement?",
+      "answer": "Urgent CNIC replacement (duplicate) costs PKR 1,150, which is the same for modification, duplicate, or renewal services under urgent processing.",
+      "urdu_question": "فوری طور پر CNIC کی تبدیلی حاصل کرنے میں کتنا خرچ آتا ہے؟",
+      "urdu_answer": "ارجنٹ CNIC کی تبدیلی (ڈپلیکیٹ) کی قیمت PKR 1,150 ہے، جو کہ فوری کارروائی کے تحت ترمیم، نقل، یا تجدید کی خدمات کے لیے یکساں ہے۔"
+    },
+    {
+      "question": "Is there a separate fee for biometric verification during applications?",
+      "answer": "Biometric verification is included as part of the standard service fees. There's no separate charge for biometric capture during the application process.",
+      "urdu_question": "کیا درخواستوں کے دوران بائیو میٹرک تصدیق کے لیے الگ فیس ہے؟",
+      "urdu_answer": "بائیو میٹرک تصدیق معیاری سروس فیس کے حصے کے طور پر شامل ہے۔ درخواست کے عمل کے دوران بائیو میٹرک کیپچر کے لیے کوئی الگ چارج نہیں ہے۔"
+    },
+    {
+      "question": "Can I get a refund if my application is rejected?",
+      "answer": "The fee structure doesn't specify refund policies. Contact NADRA customer service to understand their refund policy for rejected applications or processing errors.",
+      "urdu_question": "اگر میری درخواست مسترد ہو جاتی ہے تو کیا مجھے رقم کی واپسی مل سکتی ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ رقم کی واپسی کی پالیسیوں کی وضاحت نہیں کرتا ہے۔ مسترد شدہ درخواستوں یا پروسیسنگ کی غلطیوں کے لیے ان کی ریفنڈ پالیسی کو سمجھنے کے لیے نادرا کسٹمر سروس سے رابطہ کریں۔"
+    },
+    {
+      "question": "What is the cost difference between CNIC and Smart NIC?",
+      "answer": "Smart NIC services cost significantly more: Smart NIC starts at PKR 750 (Normal) vs regular CNIC starts at PKR 0 (Normal for new) or PKR 400 (Normal for modification/duplicate).",
+      "urdu_question": "CNIC اور Smart NIC کے درمیان قیمت میں کیا فرق ہے؟",
+      "urdu_answer": "اسمارٹ این آئی سی خدمات کی قیمت کافی زیادہ ہے: اسمارٹ این آئی سی PKR 750 (نارمل) سے شروع ہوتا ہے بمقابلہ ریگولر CNIC PKR 0 (نئے کے لیے نارمل) یا PKR 400 (ترمیم/ڈپلیکیٹ کے لیے نارمل) سے شروع ہوتا ہے۔"
+    },
+    {
+      "question": "Why is there no urgent processing option for CRC services?",
+      "answer": "CRC services only offer Normal (PKR 50) and Executive (PKR 500) processing options. NADRA's service design for child certificates doesn't include an urgent processing tier.",
+      "urdu_question": "CRC خدمات کے لیے فوری کارروائی کا کوئی آپشن کیوں نہیں ہے؟",
+      "urdu_answer": "CRC سروسز صرف نارمل (PKR 50) اور ایگزیکٹو (PKR 500) پروسیسنگ کے اختیارات پیش کرتی ہیں۔ چائلڈ سرٹیفکیٹس کے لیے نادرا کے سروس ڈیزائن میں فوری پروسیسنگ کا درجہ شامل نہیں ہے۔"
+    },
+    {
+      "question": "What is the cheapest NADRA service available?",
+      "answer": "The cheapest paid service is CRC (Child Registration Certificate) at PKR 50 for normal processing. New CNIC is free but only for normal processing.",
+      "urdu_question": "نادرا کی سب سے سستی سروس کونسی ہے؟",
+      "urdu_answer": "عام پروسیسنگ کے لیے PKR 50 میں سب سے سستی ادا شدہ سروس CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) ہے۔ نیا CNIC مفت ہے لیکن صرف عام پروسیسنگ کے لیے۔"
+    },
+    {
+      "question": "How much does it cost to get both NICOP and Smart NICOP?",
+      "answer": "You cannot get both NICOP and Smart NICOP simultaneously as they are different versions of the same service. You would choose either regular NICOP or upgrade to Smart NICOP.",
+      "urdu_question": "NICOP اور Smart NICOP دونوں حاصل کرنے میں کتنا خرچ آتا ہے؟",
+      "urdu_answer": "آپ NICOP اور Smart NICOP دونوں کو بیک وقت حاصل نہیں کر سکتے کیونکہ یہ ایک ہی سروس کے مختلف ورژن ہیں۔ آپ یا تو باقاعدہ NICOP کا انتخاب کریں گے یا Smart NICOP میں اپ گریڈ کریں گے۔"
+    },
+    {
+      "question": "Are there bulk discounts for multiple family members applying together?",
+      "answer": "The fee structure shows individual service charges. Contact NADRA to inquire if any family or bulk application discounts are available for multiple applications.",
+      "urdu_question": "کیا ایک ساتھ درخواست دینے والے متعدد فیملی ممبرز کے لیے بڑی رعایتیں ہیں؟",
+      "urdu_answer": "فیس کا ڈھانچہ انفرادی سروس چارجز کو ظاہر کرتا ہے۔ یہ معلوم کرنے کے لیے نادرا سے رابطہ کریں کہ آیا ایک سے زیادہ درخواستوں کے لیے کوئی فیملی یا بلک درخواست کی چھوٹ دستیاب ہے۔"
+    },
+    {
+      "question": "What if I need to pay in a currency other than PKR or USD?",
+      "answer": "NADRA services are priced in PKR (domestic) and USD (international). For other currencies, conversion would likely be done to USD or PKR at applicable exchange rates.",
+      "urdu_question": "اگر مجھے PKR یا USD کے علاوہ کسی دوسری کرنسی میں ادائیگی کرنے کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "نادرا کی خدمات کی قیمتیں PKR (گھریلو) اور USD (بین الاقوامی) میں ہیں۔ دیگر کرنسیوں کے لیے، ممکنہ طور پر قابل اطلاق شرح تبادلہ پر USD یا PKR میں تبدیلی کی جائے گی۔"
+    },
+    {
+      "question": "Can I use e-Sahulat services for all NADRA payments?",
+      "answer": "e-Sahulat Franchise is listed as an accepted payment mode, but availability may vary by location and service type. Confirm e-Sahulat availability for your specific service at the center.",
+      "urdu_question": "کیا میں نادرا کی تمام ادائیگیوں کے لیے ای سہولت سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "e-Sahulat فرنچائز ایک قبول شدہ ادائیگی کے موڈ کے طور پر درج ہے، لیکن دستیابی مقام اور سروس کی قسم کے لحاظ سے مختلف ہو سکتی ہے۔ مرکز میں اپنی مخصوص سروس کے لیے ای-سہولت کی دستیابی کی تصدیق کریں۔"
+    },
+    {
+      "question": "Is there a fee for checking my application status?",
+      "answer": "The fee structure doesn't mention charges for status inquiries. Application status checking is typically a free service, but confirm with NADRA customer service.",
+      "urdu_question": "کیا میری درخواست کی حیثیت چیک کرنے کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "فیس کے ڈھانچے میں اسٹیٹس انکوائریوں کے چارجز کا ذکر نہیں ہے۔ درخواست کی حیثیت کی جانچ عام طور پر ایک مفت سروس ہے، لیکن نادرا کسٹمر سروس سے تصدیق کریں۔"
+    },
+    {
+      "question": "How often does NADRA update its fee structure?",
+      "answer": "The current fee structure is effective from 16 Sep 2024. Fee updates are published on the NADRA website: https://www.nadra.gov.pk/fee-structure when changes occur.",
+      "urdu_question": "نادرا اپنی فیس کے ڈھانچے کو کتنی بار اپ ڈیٹ کرتا ہے؟",
+      "urdu_answer": "موجودہ فیس کا ڈھانچہ 16 ستمبر 2024 سے نافذ العمل ہے۔ جب تبدیلیاں آتی ہیں تو فیس اپ ڈیٹس نادرا کی ویب سائٹ: https://www.nadra.gov.pk/fee-structure پر شائع کی جاتی ہیں۔"
+    },
+    {
+      "question": "What is the fee for correcting information due to my own mistake?",
+      "answer": "Corrections due to your mistake would fall under modification services with standard fees: CNIC modification PKR 400-2,150 depending on processing type, while Office Mistakes by NADRA are corrected free.",
+      "urdu_question": "میری اپنی غلطی کی وجہ سے معلومات کو درست کرنے کی فیس کیا ہے؟",
+      "urdu_answer": "آپ کی غلطی کی وجہ سے ہونے والی تصحیحیں معیاری فیس کے ساتھ ترمیمی خدمات کے تحت آئیں گی: پروسیسنگ کی قسم کے لحاظ سے CNIC ترمیم PKR 400-2,150، جبکہ نادرا کی طرف سے آفس کی غلطیاں مفت میں درست کی جاتی ہیں۔"
+    },
+    {
+      "question": "Are there any hidden charges in NADRA fee structure?",
+      "answer": "The published fee structure lists the main charges. Always verify that you're only paying official rates and ask for an itemized receipt for transparency.",
+      "urdu_question": "کیا نادرا فیس کے ڈھانچے میں کوئی پوشیدہ چارجز ہیں؟",
+      "urdu_answer": "شائع شدہ فیس کا ڈھانچہ بنیادی چارجز کی فہرست دیتا ہے۔ ہمیشہ تصدیق کریں کہ آپ صرف سرکاری نرخ ادا کر رہے ہیں اور شفافیت کے لیے آئٹمائزڈ رسید طلب کریں۔"
+    },
+    {
+      "question": "Can I pay partially in cash and partially by card?",
+      "answer": "Multiple payment modes are accepted, but confirm with the NADRA center if split payments (partially cash, partially electronic) are allowed for a single application.",
+      "urdu_question": "کیا میں جزوی طور پر نقد اور جزوی طور پر کارڈ کے ذریعے ادائیگی کر سکتا ہوں؟",
+      "urdu_answer": "ادائیگی کے متعدد طریقوں کو قبول کیا جاتا ہے، لیکن اگر ایک درخواست کے لیے تقسیم شدہ ادائیگیوں (جزوی طور پر نقد، جزوی طور پر الیکٹرانک) کی اجازت ہو تو نادرا سینٹر سے تصدیق کریں۔"
+    },
+    {
+      "question": "What is the fee for getting a copy of my application form?",
+      "answer": "The fee structure doesn't specifically mention charges for application form copies. This might be included in the service or available as a complementary service.",
+      "urdu_question": "میرے درخواست فارم کی کاپی حاصل کرنے کی فیس کیا ہے؟",
+      "urdu_answer": "فیس کے ڈھانچے میں درخواست فارم کی کاپیوں کے چارجز کا خاص طور پر ذکر نہیں کیا گیا ہے۔ یہ سروس میں شامل ہو سکتا ہے یا ایک تکمیلی خدمت کے طور پر دستیاب ہے۔"
+    },
+    {
+      "question": "Is there a fee for rescheduling my appointment?",
+      "answer": "The fee structure covers service charges only. Appointment-related fees, if any, would need to be confirmed with NADRA's appointment system or customer service.",
+      "urdu_question": "کیا میری اپوائنٹمنٹ کو ری شیڈول کرنے کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ صرف سروس چارجز کا احاطہ کرتا ہے۔ اپوائنٹمنٹ سے متعلق فیس، اگر کوئی ہے تو، نادرا کے اپوائنٹمنٹ سسٹم یا کسٹمر سروس سے تصدیق کرنی ہوگی۔"
+    },
+    {
+      "question": "How much extra does executive processing cost compared to normal?",
+      "answer": "Executive processing costs significantly more: for CNIC services, Executive (PKR 2,150) vs Normal (PKR 0-400) is 5x+ more expensive, while for Smart NIC, Executive (PKR 2,500) vs Normal (PKR 750) is about 3.3x more.",
+      "urdu_question": "عام کے مقابلے ایگزیکٹو پروسیسنگ کی لاگت کتنی اضافی ہے؟",
+      "urdu_answer": "ایگزیکٹو پروسیسنگ کی لاگت کافی زیادہ ہے: CNIC سروسز کے لیے، ایگزیکٹو (PKR 2,150) بمقابلہ نارمل (PKR 0-400) 5x+ زیادہ مہنگا ہے، جبکہ Smart NIC کے لیے، ایگزیکٹو (PKR 2,500) بمقابلہ نارمل (PKR 750) تقریباً 3.3 گنا زیادہ ہے۔"
+    },
+    {
+      "question": "Are POC fees the same worldwide or do they vary by region?",
+      "answer": "POC fees are listed in USD and appear to be standardized globally, unlike NICOP which has Zone A and Zone B pricing. However, confirm with the nearest Pakistani consulate for your specific location.",
+      "urdu_question": "کیا دنیا بھر میں POC کی فیسیں ایک جیسی ہیں یا خطے کے لحاظ سے مختلف ہوتی ہیں؟",
+      "urdu_answer": "POC فیسیں USD میں درج ہیں اور NICOP کے برعکس عالمی سطح پر معیاری لگتی ہیں جس میں زون A اور Zone B کی قیمتیں ہیں۔ تاہم، اپنے مخصوص مقام کے لیے قریبی پاکستانی قونصل خانے سے تصدیق کریں۔"
+    },
+    {
+      "question": "What is the most cost-effective processing option for urgent needs?",
+      "answer": "For urgent needs, Urgent processing offers a middle-ground between Normal and Executive pricing. For example, CNIC urgent (PKR 1,150) vs Executive (PKR 2,150) saves PKR 1,000.",
+      "urdu_question": "فوری ضروریات کے لیے سب سے زیادہ سرمایہ کاری مؤثر طریقہ کار کیا ہے؟",
+      "urdu_answer": "فوری ضروریات کے لیے، ارجنٹ پروسیسنگ نارمل اور ایگزیکٹیو قیمتوں کے درمیان درمیانی بنیاد فراہم کرتی ہے۔ مثال کے طور پر، CNIC ارجنٹ (PKR 1,150) بمقابلہ Executive (PKR 2,150) PKR 1,000 بچاتا ہے۔"
+    },
+    {
+      "question": "Can I pay NADRA fees using international credit cards?",
+      "answer": "Credit cards are accepted payment modes. For international cards, confirm with the NADRA center about acceptance and any additional processing considerations.",
+      "urdu_question": "کیا میں بین الاقوامی کریڈٹ کارڈز کے ذریعے نادرا کی فیس ادا کر سکتا ہوں؟",
+      "urdu_answer": "کریڈٹ کارڈ ادائیگی کے طریقوں کو قبول کیا جاتا ہے۔ بین الاقوامی کارڈز کے لیے، قبولیت اور کسی بھی اضافی پروسیسنگ تحفظات کے بارے میں نادرا سینٹر سے تصدیق کریں۔"
+    },
+    {
+      "question": "Is there a fee for receiving SMS updates about my application?",
+      "answer": "The fee structure doesn't mention SMS charges. Communication-related fees, if any, would be separate from the main service charges listed.",
+      "urdu_question": "کیا میری درخواست کے بارے میں SMS اپ ڈیٹس حاصل کرنے کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "فیس کے ڈھانچے میں ایس ایم ایس چارجز کا ذکر نہیں ہے۔ کمیونیکیشن سے متعلقہ فیس، اگر کوئی ہے، درج کردہ اہم سروس چارجز سے الگ ہوگی۔"
+    },
+    {
+      "question": "What documents do I need to show for fee verification?",
+      "answer": "Always request an official receipt for your payment. The receipt should match the official fee structure rates. Keep payment receipts for your records and any potential disputes.",
+      "urdu_question": "فیس کی تصدیق کے لیے مجھے کون سے دستاویزات دکھانے کی ضرورت ہے؟",
+      "urdu_answer": "ہمیشہ اپنی ادائیگی کی سرکاری رسید کی درخواست کریں۔ رسید سرکاری فیس کے ڈھانچے کی شرحوں سے مماثل ہونی چاہئے۔ اپنے ریکارڈ اور کسی بھی ممکنہ تنازعات کے لیے ادائیگی کی رسیدیں رکھیں۔"
+    },
+    {
+      "question": "Are there seasonal or promotional discounts on NADRA fees?",
+      "answer": "The fee structure shows standard rates. Any promotional offers or seasonal discounts would be announced separately by NADRA and updated on their official website.",
+      "urdu_question": "کیا نادرا کی فیسوں میں موسمی یا پروموشنل رعایتیں ہیں؟",
+      "urdu_answer": "فیس کا ڈھانچہ معیاری شرحوں کو ظاہر کرتا ہے۔ کسی بھی پروموشنل آفرز یا موسمی رعایت کا اعلان نادرا کے ذریعے الگ سے کیا جائے گا اور ان کی آفیشل ویب سائٹ پر اپ ڈیٹ کیا جائے گا۔"
+    },
+    {
+      "question": "What happens if I overpay the fees accidentally?",
+      "answer": "If you overpay, contact NADRA customer service immediately with your payment receipt. They should be able to guide you on refund procedures for overpayments.",
+      "urdu_question": "اگر میں غلطی سے زیادہ فیس ادا کر دوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ زائد ادائیگی کرتے ہیں تو اپنی ادائیگی کی رسید کے ساتھ فوری طور پر نادرا کسٹمر سروس سے رابطہ کریں۔ انہیں ضرورت سے زیادہ ادائیگیوں کے لیے رقم کی واپسی کے طریقہ کار پر آپ کی رہنمائی کرنے کے قابل ہونا چاہیے۔"
+    },
+    {
+      "question": "Can I get a fee waiver for financial hardship?",
+      "answer": "The standard fee structure doesn't mention hardship waivers. Contact NADRA directly to inquire about any available assistance programs for individuals facing financial difficulties.",
+      "urdu_question": "کیا مجھے مالی مشکلات کے لیے فیس میں چھوٹ مل سکتی ہے؟",
+      "urdu_answer": "معیاری فیس کا ڈھانچہ مشکل سے چھوٹ کا ذکر نہیں کرتا ہے۔ مالی مشکلات کا سامنا کرنے والے افراد کے لیے کسی بھی دستیاب امدادی پروگرام کے بارے میں دریافت کرنے کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "How do I verify if the fees I'm being charged are correct?",
+      "answer": "Always check the official NADRA website (https://www.nadra.gov.pk/fee-structure) for current rates, request itemized receipts, and refuse to pay any charges not listed in the official fee structure.",
+      "urdu_question": "میں اس بات کی تصدیق کیسے کروں کہ مجھ سے جو فیس لی جا رہی ہے وہ درست ہے؟",
+      "urdu_answer": "موجودہ نرخوں کے لیے ہمیشہ نادرا کی آفیشل ویب سائٹ (https://www.nadra.gov.pk/fee-structure) دیکھیں، آئٹمائزڈ رسیدوں کی درخواست کریں، اور سرکاری فیس کے ڈھانچے میں درج نہ ہونے والے کسی بھی چارجز کی ادائیگی سے انکار کریں۔"
+    },
+    {
+      "question": "Is there a fee for getting a letter confirming my application is in process?",
+      "answer": "The fee structure covers main services only. Administrative services like confirmation letters may have separate charges or be provided as part of customer service.",
+      "urdu_question": "کیا میری درخواست کی تصدیق کرنے والا خط حاصل کرنے کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ صرف اہم خدمات کا احاطہ کرتا ہے۔ انتظامی خدمات جیسے تصدیقی خطوط کے الگ الگ چارجز ہوسکتے ہیں یا انہیں کسٹمر سروس کے حصے کے طور پر فراہم کیا جاسکتا ہے۔"
+    },
+    {
+      "question": "What payment proof is provided after paying NADRA fees?",
+      "answer": "NADRA provides official receipts after payment. Ensure your receipt includes service details, amount paid, date, and official NADRA markings for future reference.",
+      "urdu_question": "نادرا فیس ادا کرنے کے بعد ادائیگی کا کیا ثبوت فراہم کیا جاتا ہے؟",
+      "urdu_answer": "نادرا ادائیگی کے بعد سرکاری رسیدیں فراہم کرتا ہے۔ یقینی بنائیں کہ آپ کی رسید میں خدمات کی تفصیلات، ادا کی گئی رقم، تاریخ، اور مستقبل کے حوالے کے لیے نادرا کے سرکاری نشانات شامل ہیں۔"
+    },
+    {
+      "question": "Are there different fees for online vs in-person applications?",
+      "answer": "The fee structure shows service-based pricing regardless of application method. However, confirm if any convenience fees apply for online services vs in-person applications.",
+      "urdu_question": "کیا آن لائن بمقابلہ ذاتی درخواستوں کے لیے مختلف فیسیں ہیں؟",
+      "urdu_answer": "فیس کا ڈھانچہ درخواست کے طریقہ کار سے قطع نظر سروس پر مبنی قیمتوں کو ظاہر کرتا ہے۔ تاہم، تصدیق کریں کہ آیا آن لائن خدمات بمقابلہ ذاتی درخواستوں کے لیے کوئی سہولت فیس لاگو ہوتی ہے۔"
+    },
+    {
+      "question": "Can I pay NADRA fees in installments?",
+      "answer": "The fee structure indicates lump-sum payments. Contact NADRA customer service to inquire if installment payment options are available for high-value services like Succession Certificates.",
+      "urdu_question": "کیا میں نادرا کی فیس قسطوں میں ادا کر سکتا ہوں؟",
+      "urdu_answer": "فیس کا ڈھانچہ یکمشت ادائیگیوں کی نشاندہی کرتا ہے۔ یہ دریافت کرنے کے لیے نادرا کی کسٹمر سروس سے رابطہ کریں کہ آیا جانشینی سرٹیفکیٹس جیسی اعلیٰ قیمت کی خدمات کے لیے قسط کی ادائیگی کے اختیارات دستیاب ہیں۔"
+    },
+    {
+      "question": "What is the fee for getting certified copies of my documents from NADRA?",
+      "answer": "The fee structure covers identity document services. Certified copy fees, if offered, would be separate and need to be confirmed with NADRA customer service.",
+      "urdu_question": "نادرا سے میرے دستاویزات کی مصدقہ کاپیاں حاصل کرنے کی فیس کیا ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ شناختی دستاویز کی خدمات کا احاطہ کرتا ہے۔ تصدیق شدہ کاپی کی فیس، اگر پیش کی جاتی ہے، الگ ہوگی اور نادرا کسٹمر سروس سے تصدیق کرنی ہوگی۔"
+    },
+    {
+      "question": "Is there a fee for changing my processing type after application submission?",
+      "answer": "The fee structure doesn't address processing changes post-submission. Contact NADRA to understand if upgrades (Normal to Urgent/Executive) are possible and what additional fees may apply.",
+      "urdu_question": "کیا درخواست جمع کرانے کے بعد میری پروسیسنگ کی قسم کو تبدیل کرنے کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ جمع کرانے کے بعد پروسیسنگ تبدیلیوں پر توجہ نہیں دیتا ہے۔ یہ سمجھنے کے لیے نادرا سے رابطہ کریں کہ کیا اپ گریڈ (نارمل سے ارجنٹ/ایگزیکٹو) ممکن ہیں اور کیا اضافی فیسیں لاگو ہو سکتی ہیں۔"
+    },
+    {
+      "question": "How can I ensure I'm not being charged unauthorized fees?",
+      "answer": "Only pay at official NADRA centers, verify rates against the official fee structure, demand itemized receipts, and report any suspicious charges to NADRA's complaint system.",
+      "urdu_question": "میں یہ کیسے یقینی بنا سکتا ہوں کہ مجھ سے غیر مجاز فیس نہیں لی جا رہی ہے؟",
+      "urdu_answer": "صرف نادرا کے سرکاری مراکز پر ادائیگی کریں، سرکاری فیس کے ڈھانچے کے خلاف شرحوں کی تصدیق کریں، آئٹمائزڈ رسیدوں کا مطالبہ کریں، اور کسی بھی مشکوک چارجز کی اطلاع نادرا کے شکایتی نظام کو دیں۔"
+    },
+    {
+      "question": "Are there group rates for organizations applying for multiple employees?",
+      "answer": "The fee structure shows individual rates. Organizations should contact NADRA directly to inquire about any available corporate or bulk processing rates for employee applications.",
+      "urdu_question": "کیا متعدد ملازمین کے لیے درخواست دینے والی تنظیموں کے لیے گروپ ریٹ ہیں؟",
+      "urdu_answer": "فیس کا ڈھانچہ انفرادی شرحوں کو ظاہر کرتا ہے۔ اداروں کو ملازمین کی درخواستوں کے لیے دستیاب کارپوریٹ یا بلک پروسیسنگ ریٹ کے بارے میں پوچھ گچھ کرنے کے لیے براہ راست نادرا سے رابطہ کرنا چاہیے۔"
+    },
+    {
+      "question": "What happens to my fees if NADRA systems are down during my visit?",
+      "answer": "If technical issues prevent service completion, retain your payment receipt and contact NADRA customer service for guidance on rescheduling and fee applicability.",
+      "urdu_question": "اگر میرے دورے کے دوران نادرا کا نظام خراب ہو جائے تو میری فیس کا کیا ہوگا؟",
+      "urdu_answer": "اگر تکنیکی مسائل سروس کی تکمیل کو روکتے ہیں، تو اپنی ادائیگی کی رسید برقرار رکھیں اور ری شیڈولنگ اور فیس کے اطلاق کے بارے میں رہنمائی کے لیے نادرا کسٹمر سروس سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I get a fee estimate before visiting the NADRA center?",
+      "answer": "Yes, use the official fee structure on NADRA's website (https://www.nadra.gov.pk/fee-structure) to calculate exact fees based on your required service and preferred processing type.",
+      "urdu_question": "کیا میں نادرا سینٹر جانے سے پہلے فیس کا تخمینہ حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، اپنی مطلوبہ سروس اور ترجیحی پروسیسنگ کی قسم کی بنیاد پر عین مطابق فیس کا حساب لگانے کے لیے نادرا کی ویب سائٹ (https://www.nadra.gov.pk/fee-structure) پر سرکاری فیس کا ڈھانچہ استعمال کریں۔"
+    },
+    {
+      "question": "Is there a maximum amount that can be paid by card vs cash?",
+      "answer": "The fee structure doesn't specify payment limits by method. Contact the NADRA center to confirm any restrictions on cash vs electronic payment amounts for your transaction.",
+      "urdu_question": "کیا زیادہ سے زیادہ رقم ہے جو کارڈ بمقابلہ نقد رقم کے ذریعے ادا کی جا سکتی ہے؟",
+      "urdu_answer": "فیس کا ڈھانچہ طریقہ کے لحاظ سے ادائیگی کی حد متعین نہیں کرتا ہے۔ اپنے لین دین کے لیے نقد بمقابلہ الیکٹرانک ادائیگی کی رقم پر کسی پابندی کی تصدیق کے لیے نادرا سینٹر سے رابطہ کریں۔"
+    },
+    {
+      "question": "What is the fee for emergency processing in urgent circumstances?",
+      "answer": "The fastest available processing is Executive, with the highest fees. For true emergencies, contact NADRA directly to understand if any special emergency protocols exist beyond standard Executive processing.",
+      "urdu_question": "ہنگامی حالات میں ہنگامی کارروائی کی فیس کیا ہے؟",
+      "urdu_answer": "سب سے تیز دستیاب پروسیسنگ ایگزیکٹو ہے، سب سے زیادہ فیس کے ساتھ. حقیقی ہنگامی صورتحال کے لیے، نادرا سے براہ راست رابطہ کریں تاکہ یہ سمجھ سکیں کہ آیا معیاری ایگزیکٹو پروسیسنگ سے باہر کوئی خصوصی ایمرجنسی پروٹوکول موجود ہے۔"
+    },
+    {
+      "question": "Can relatives pay NADRA fees on behalf of applicants?",
+      "answer": "While relatives may be able to pay fees, the applicant typically needs to be present for biometric capture and verification. Confirm payment authorization requirements with the NADRA center.",
+      "urdu_question": "کیا رشتہ دار درخواست گزاروں کی جانب سے نادرا کی فیس ادا کر سکتے ہیں؟",
+      "urdu_answer": "اگرچہ رشتہ دار فیس ادا کرنے کے قابل ہوسکتے ہیں، درخواست دہندہ کو عام طور پر بائیو میٹرک کیپچر اور تصدیق کے لیے حاضر ہونا ضروری ہے۔ نادرا سینٹر کے ساتھ ادائیگی کی اجازت کی ضروریات کی تصدیق کریں۔"
+    },
+    {
+      "question": "Are NADRA fees tax-deductible or eligible for reimbursement?",
+      "answer": "NADRA fees may be business expenses for employment purposes. Consult with tax advisors or employers about reimbursement policies for identity document fees.",
+      "urdu_question": "کیا نادرا فیس ٹیکس میں کٹوتی کے قابل ہے یا ری ایمبرسمنٹ کے اہل ہیں؟",
+      "urdu_answer": "نادرا کی فیس روزگار کے مقاصد کے لیے کاروباری اخراجات ہو سکتے ہیں۔ شناختی دستاویز کی فیس کی ادائیگی کی پالیسیوں کے بارے میں ٹیکس مشیروں یا آجروں سے مشورہ کریں۔"
+    },
+    {
+      "question": "What should I do if I suspect fee fraud or overcharging?",
+      "answer": "Report suspected fraud immediately to NADRA's complaint system, document all evidence including receipts and witness information, and avoid paying any unauthorized amounts.",
+      "urdu_question": "اگر مجھے فیس میں دھوکہ دہی یا زائد چارجنگ کا شبہ ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "نادرا کے شکایتی نظام کو فوری طور پر مشتبہ فراڈ کی اطلاع دیں، تمام شواہد بشمول رسیدیں اور گواہوں کی معلومات کو دستاویز کریں، اور کسی بھی غیر مجاز رقم کی ادائیگی سے گریز کریں۔"
+    }
+  ]
+}

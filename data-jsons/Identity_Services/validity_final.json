@@ -1,0 +1,739 @@
+{
+  "file_name": "validity_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 150,
+  "qa_data": [
+    {
+      "question": "What is the validity period of a National Identity Card (CNIC)?",
+      "answer": "National Identity Card (CNIC) has a validity period of ten years. However, if a person's age is 53 or above, upon renewal of CNIC, their CNIC expiry will be lifetime.",
+      "urdu_question": "قومی شناختی کارڈ (CNIC) کی میعاد کی مدت کتنی ہے؟",
+      "urdu_answer": "قومی شناختی کارڈ (CNIC) کی میعاد دس سال ہوتی ہے۔ تاہم، اگر کسی شخص کی عمر 53 سال یا اس سے زیادہ ہے، CNIC کی تجدید کے بعد، اس کی CNIC کی میعاد تاحیات ہوگی۔"
+    },
+    {
+      "question": "What is the validity period of NICOP?",
+      "answer": "NICOP (National Identity Card for Overseas Pakistanis) has a validity period of ten years.",
+      "urdu_question": "NICOP کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "NICOP (بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ) کی میعاد کی مدت دس سال ہے۔"
+    },
+    {
+      "question": "What is the validity period of a Juvenile Card?",
+      "answer": "Juvenile Card has a validity period of attaining 18 years or ten years, whichever comes first.",
+      "urdu_question": "جووینائل کارڈ کی میعاد کتنی ہے؟",
+      "urdu_answer": "جووینائل کارڈ کی میعاد کی مدت 18 سال یا دس سال ہے، جو بھی پہلے آئے۔"
+    },
+    {
+      "question": "What is the validity period of POC?",
+      "answer": "POC (Pakistan Origin Card) has a validity period of seven years.",
+      "urdu_question": "POC کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "POC (پاکستان اوریجن کارڈ) کی میعاد سات سال ہے۔"
+    },
+    {
+      "question": "At what age does CNIC become lifetime valid?",
+      "answer": "If a person's age is 53 or above, upon renewal of CNIC, their CNIC expiry will be lifetime and they won't need to renew it again.",
+      "urdu_question": "کس عمر میں CNIC تاحیات درست ہو جاتا ہے؟",
+      "urdu_answer": "اگر کسی شخص کی عمر 53 سال یا اس سے زیادہ ہے، CNIC کی تجدید کے بعد، اس کی CNIC کی میعاد پوری زندگی کے لیے رہے گی اور اسے دوبارہ تجدید کرنے کی ضرورت نہیں ہوگی۔"
+    },
+    {
+      "question": "Do all NADRA identity cards have the same validity period?",
+      "answer": "No, different identity cards have different validity periods: National Identity Card (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until 18 years or 10 years, whichever comes first), and POC (7 years).",
+      "urdu_question": "کیا نادرا کے تمام شناختی کارڈز کی مدت ایک ہی ہے؟",
+      "urdu_answer": "نہیں، مختلف شناختی کارڈز کی مدت مختلف ہوتی ہے: قومی شناختی کارڈ (10 سال، عمر بھر 53+)، NICOP (10 سال)، جوینائل کارڈ (18 سال یا 10 سال تک، جو بھی پہلے آئے) اور POC (7 سال)۔"
+    },
+    {
+      "question": "Which NADRA card has the longest validity period?",
+      "answer": "CNIC for people aged 53 and above has the longest validity as it becomes lifetime valid upon renewal.",
+      "urdu_question": "نادرا کے کس کارڈ کی میعاد سب سے زیادہ ہے؟",
+      "urdu_answer": "53 سال اور اس سے زیادہ عمر کے لوگوں کے لیے CNIC کی مدت سب سے طویل ہے کیونکہ یہ تجدید کے بعد تاحیات کارآمد ہو جاتا ہے۔"
+    },
+    {
+      "question": "Which NADRA card has the shortest validity period?",
+      "answer": "POC (Pakistan Origin Card) has the shortest validity period of seven years among the regular identity cards.",
+      "urdu_question": "نادرا کے کس کارڈ کی میعاد سب سے کم ہے؟",
+      "urdu_answer": "باقاعدہ شناختی کارڈز میں POC (پاکستان اوریجن کارڈ) کی مدت سات سال کی کم ترین مدت ہے۔"
+    },
+    {
+      "question": "How long is a Juvenile Card valid for?",
+      "answer": "A Juvenile Card is valid until the holder attains 18 years of age or for ten years, whichever comes first.",
+      "urdu_question": "جوینائل کارڈ کب تک کارآمد ہے؟",
+      "urdu_answer": "جووینائل کارڈ اس وقت تک درست ہے جب تک کہ حامل کی عمر 18 سال یا دس سال تک نہ ہو، جو بھی پہلے آئے۔"
+    },
+    {
+      "question": "Are ID cards valid for the period mentioned on the card?",
+      "answer": "Yes, ID cards are valid for the period mentioned on the card and for the specific periods defined by NADRA regulations for each type of document.",
+      "urdu_question": "کیا شناختی کارڈ کارڈ پر درج مدت کے لیے درست ہیں؟",
+      "urdu_answer": "جی ہاں، شناختی کارڈ کارڈ پر مذکور مدت کے لیے اور ہر قسم کی دستاویز کے لیے نادرا کے ضوابط کے ذریعے متعین مخصوص مدت کے لیے درست ہیں۔"
+    },
+    {
+      "question": "What happens to Juvenile Card validity when a child turns 18?",
+      "answer": "When a child turns 18, the Juvenile Card becomes invalid as its validity period is until attaining 18 years or ten years, whichever comes first.",
+      "urdu_question": "جب بچہ 18 سال کا ہو جاتا ہے تو جووینائل کارڈ کی میعاد کا کیا ہوتا ہے؟",
+      "urdu_answer": "جب کوئی بچہ 18 سال کا ہو جاتا ہے تو جووینائل کارڈ غلط ہو جاتا ہے کیونکہ اس کی میعاد کی مدت 18 سال یا دس سال تک ہے، جو بھی پہلے آئے۔"
+    },
+    {
+      "question": "Do I need to renew my CNIC if I'm over 53 years old?",
+      "answer": "If you're 53 years or above, your CNIC becomes lifetime valid upon renewal, meaning you won't need to renew it again after that renewal.",
+      "urdu_question": "اگر میری عمر 53 سال سے زیادہ ہے تو کیا مجھے اپنے CNIC کی تجدید کرنے کی ضرورت ہے؟",
+      "urdu_answer": "اگر آپ کی عمر 53 سال یا اس سے زیادہ ہے، تو تجدید کے بعد آپ کا CNIC تاحیات کارآمد ہو جاتا ہے، یعنی آپ کو اس تجدید کے بعد اسے دوبارہ تجدید کرنے کی ضرورت نہیں پڑے گی۔"
+    },
+    {
+      "question": "Is there any difference in validity between CNIC and NICOP?",
+      "answer": "Both CNIC and NICOP have the same validity period of ten years. However, CNIC can become lifetime valid for people aged 53 and above upon renewal, while NICOP maintains its 10-year validity regardless of age.",
+      "urdu_question": "کیا CNIC اور NICOP کے درمیان درستگی میں کوئی فرق ہے؟",
+      "urdu_answer": "CNIC اور NICOP دونوں کی مدت دس سال کی ایک جیسی ہے۔ تاہم، تجدید کے بعد CNIC 53 سال اور اس سے زیادہ عمر کے لوگوں کے لیے تاحیات کارآمد ہو سکتا ہے، جبکہ NICOP عمر سے قطع نظر اپنی 10 سالہ میعاد برقرار رکھتا ہے۔"
+    },
+    {
+      "question": "What is the maximum validity period for any NADRA identity document?",
+      "answer": "The maximum validity period is lifetime, which applies to CNIC holders who are 53 years of age or above upon renewal.",
+      "urdu_question": "نادرا کی کسی بھی شناختی دستاویز کی زیادہ سے زیادہ میعاد کتنی ہے؟",
+      "urdu_answer": "زیادہ سے زیادہ میعاد زندگی بھر ہے، جس کا اطلاق CNIC ہولڈرز پر ہوتا ہے جن کی عمر تجدید کے وقت 53 سال یا اس سے زیادہ ہے۔"
+    },
+    {
+      "question": "How many years is POC valid compared to other identity cards?",
+      "answer": "POC is valid for seven years, which is shorter than CNIC and NICOP (10 years each) but may be longer than Juvenile Card depending on the holder's age.",
+      "urdu_question": "دوسرے شناختی کارڈز کے مقابلے POC کتنے سال درست ہے؟",
+      "urdu_answer": "POC سات سال کے لیے کارآمد ہے، جو CNIC اور NICOP (ہر ایک 10 سال) سے چھوٹا ہے لیکن ہولڈر کی عمر کے لحاظ سے جووینائل کارڈ سے زیادہ طویل ہو سکتا ہے۔"
+    },
+    {
+      "question": "Can a Juvenile Card be valid for the full 10 years?",
+      "answer": "A Juvenile Card can only be valid for the full 10 years if the holder doesn't turn 18 during that period, as the validity is whichever comes first - attaining 18 years or 10 years.",
+      "urdu_question": "کیا جووینائل کارڈ پورے 10 سال تک کارآمد ہو سکتا ہے؟",
+      "urdu_answer": "جووینائل کارڈ صرف پورے 10 سال کے لیے کارآمد ہو سکتا ہے اگر ہولڈر اس مدت کے دوران 18 سال کا نہیں ہوتا ہے، کیونکہ اس کی میعاد جو بھی پہلے آئے وہ ہے - 18 سال یا 10 سال تک۔"
+    },
+    {
+      "question": "What determines the validity period of NADRA identity documents?",
+      "answer": "The validity period is determined by the type of document and specific regulations: National Identity Card (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until 18 or 10 years), and POC (7 years).",
+      "urdu_question": "نادرا کی شناختی دستاویزات کی درستگی کی مدت کیا طے کرتی ہے؟",
+      "urdu_answer": "درستگی کی مدت کا تعین دستاویز کی قسم اور مخصوص ضوابط سے کیا جاتا ہے: قومی شناختی کارڈ (10 سال، عمر بھر 53+)، NICOP (10 سال)، جووینائل کارڈ (18 یا 10 سال تک) اور POC (7 سال)۔"
+    },
+    {
+      "question": "Are there any identity cards that never expire?",
+      "answer": "Yes, CNIC becomes lifetime valid (never expires) for holders who are 53 years of age or above upon renewal.",
+      "urdu_question": "کیا کوئی ایسے شناختی کارڈ ہیں جو کبھی ختم نہیں ہوتے؟",
+      "urdu_answer": "ہاں، تجدید کے بعد 53 سال یا اس سے زیادہ عمر کے حاملین کے لیے CNIC تاحیات درست (کبھی ختم نہیں ہوتا) ہو جاتا ہے۔"
+    },
+    {
+      "question": "Why does POC have a different validity period than other cards?",
+      "answer": "POC has a validity period of seven years, which is different from other cards, likely due to its specific purpose for foreign nationals of Pakistani origin and different regulatory requirements.",
+      "urdu_question": "دوسرے کارڈز کے مقابلے POC کی میعاد کی مدت مختلف کیوں ہے؟",
+      "urdu_answer": "POC کی معیاد سات سال ہے، جو کہ دوسرے کارڈز سے مختلف ہے، ممکنہ طور پر پاکستانی نژاد غیر ملکی شہریوں کے لیے اس کے مخصوص مقصد اور مختلف ریگولیٹری تقاضوں کی وجہ سے۔"
+    },
+    {
+      "question": "What should I know about validity periods when applying for NADRA documents?",
+      "answer": "You should know that validity periods vary by document type: CNIC (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until 18 or 10 years, whichever comes first), POC (7 years). The validity period mentioned on your card determines when you need to renew.",
+      "urdu_question": "نادرا دستاویزات کے لیے درخواست دیتے وقت مجھے میعاد کی مدت کے بارے میں کیا جاننا چاہیے؟",
+      "urdu_answer": "آپ کو معلوم ہونا چاہیے کہ میعاد کی مدت دستاویز کی قسم کے لحاظ سے مختلف ہوتی ہے: CNIC (10 سال، عمر بھر 53+)، NICOP (10 سال)، جووینائل کارڈ (18 یا 10 سال تک، جو بھی پہلے آئے)، POC (7 سال)۔ آپ کے کارڈ پر دی گئی میعاد کی مدت اس بات کا تعین کرتی ہے کہ آپ کو کب تجدید کرنے کی ضرورت ہے۔"
+    },
+    {
+      "question": "What is the validity period for Child Registration Certificate (CRC)?",
+      "answer": "CRC (Child Registration Certificate) is valid until the child reaches age 18, at which point it must be replaced with a CNIC.",
+      "urdu_question": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) اس وقت تک درست ہے جب تک کہ بچہ 18 سال کی عمر کو نہ پہنچ جائے، اس وقت اسے CNIC سے تبدیل کرنا ضروری ہے۔"
+    },
+    {
+      "question": "Does Family Registration Certificate (FRC) have an expiry date?",
+      "answer": "No, FRC (Family Registration Certificate) has no expiry date and remains valid indefinitely.",
+      "urdu_question": "کیا فیملی رجسٹریشن سرٹیفکیٹ (FRC) کی میعاد ختم ہونے کی تاریخ ہے؟",
+      "urdu_answer": "نہیں، FRC (فیملی رجسٹریشن سرٹیفکیٹ) کی کوئی میعاد ختم ہونے کی تاریخ نہیں ہے اور یہ غیر معینہ مدت تک کارآمد رہتا ہے۔"
+    },
+    {
+      "question": "What is the validity period for Succession Certificate?",
+      "answer": "Succession Certificate has no formal expiry date and remains valid unless legally challenged or requiring updates.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ کی کوئی باضابطہ میعاد ختم ہونے کی تاریخ نہیں ہے اور یہ درست رہتا ہے جب تک کہ قانونی طور پر چیلنج نہ کیا جائے یا اپ ڈیٹ کی ضرورت نہ ہو۔"
+    },
+    {
+      "question": "What is the validity period for NICOP for minors?",
+      "answer": "NICOP for minors (under 18) has a validity period of 5 years, which is shorter than the 10-year validity for adults.",
+      "urdu_question": "نابالغوں کے لیے NICOP کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "نابالغوں (18 سال سے کم) کے لیے NICOP کی میعاد 5 سال ہے، جو بالغوں کے لیے 10 سال کی میعاد سے کم ہے۔"
+    },
+    {
+      "question": "Which NADRA documents never expire?",
+      "answer": "FRC (Family Registration Certificate) never expires, CNIC for people 53+ has lifetime validity, and Succession Certificate has no formal expiry date.",
+      "urdu_question": "نادرا کی کون سی دستاویزات کبھی ختم نہیں ہوتیں؟",
+      "urdu_answer": "FRC (فیملی رجسٹریشن سرٹیفکیٹ) کی میعاد کبھی ختم نہیں ہوتی، 53+ لوگوں کے لیے CNIC کی تاحیات درستگی ہے، اور جانشینی کے سرٹیفکیٹ کی کوئی باضابطہ میعاد ختم ہونے کی تاریخ نہیں ہے۔"
+    },
+    {
+      "question": "What happens when my CNIC expires?",
+      "answer": "When your CNIC expires, it becomes invalid for official use. You need to renew it to continue using it for identification, banking, travel, and other official purposes.",
+      "urdu_question": "میرے CNIC کی میعاد ختم ہونے پر کیا ہوتا ہے؟",
+      "urdu_answer": "جب آپ کا CNIC ختم ہوجاتا ہے، تو یہ سرکاری استعمال کے لیے غلط ہو جاتا ہے۔ شناخت، بینکنگ، سفر اور دیگر سرکاری مقاصد کے لیے اس کا استعمال جاری رکھنے کے لیے آپ کو اس کی تجدید کرنی ہوگی۔"
+    },
+    {
+      "question": "Can I use an expired CNIC for any official purposes?",
+      "answer": "Generally, expired CNIC is not accepted for official purposes. Most institutions require valid, non-expired identity documents for transactions and services.",
+      "urdu_question": "کیا میں کسی سرکاری مقاصد کے لیے میعاد ختم ہونے والا CNIC استعمال کر سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، میعاد ختم ہونے والے CNIC کو سرکاری مقاصد کے لیے قبول نہیں کیا جاتا ہے۔ زیادہ تر اداروں کو لین دین اور خدمات کے لیے درست، غیر میعاد ختم ہونے والی شناختی دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "How can I check the expiry date of my NADRA document?",
+      "answer": "The expiry date is clearly printed on your NADRA identity document. For CNIC and NICOP, check the 'Valid Until' field. Juvenile Cards show expiry as turning 18 or the printed date, whichever comes first.",
+      "urdu_question": "میں اپنی نادرا دستاویز کی میعاد ختم ہونے کی تاریخ کیسے دیکھ سکتا ہوں؟",
+      "urdu_answer": "آپ کی نادرا شناختی دستاویز پر ختم ہونے کی تاریخ واضح طور پر چھپی ہوئی ہے۔ CNIC اور NICOP کے لیے، 'Valid Until' فیلڈ کو چیک کریں۔ نوجوانوں کے کارڈز کی میعاد 18 سال کی ہو رہی ہے یا پرنٹ شدہ تاریخ، جو بھی پہلے آئے دکھاتے ہیں۔"
+    },
+    {
+      "question": "What happens if I don't renew my NICOP before it expires?",
+      "answer": "If your NICOP expires, you'll lose visa-free entry to Pakistan and face difficulties with Pakistani services abroad. You'll need to renew it to restore these privileges.",
+      "urdu_question": "اگر میں اپنے NICOP کی میعاد ختم ہونے سے پہلے اس کی تجدید نہیں کرتا ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کے NICOP کی میعاد ختم ہو جاتی ہے، تو آپ پاکستان میں بغیر ویزا کے داخلے سے محروم ہو جائیں گے اور بیرون ملک پاکستانی خدمات میں مشکلات کا سامنا کرنا پڑے گا۔ ان مراعات کو بحال کرنے کے لیے آپ کو اس کی تجدید کرنی ہوگی۔"
+    },
+    {
+      "question": "Can I travel to Pakistan with an expired NICOP?",
+      "answer": "No, an expired NICOP will not provide visa-free entry to Pakistan. You may need to obtain a visa or renew your NICOP before travel.",
+      "urdu_question": "کیا میں ختم شدہ NICOP کے ساتھ پاکستان جا سکتا ہوں؟",
+      "urdu_answer": "نہیں، ایک میعاد ختم ہونے والا NICOP پاکستان میں ویزا فری داخلہ فراہم نہیں کرے گا۔ آپ کو سفر سے پہلے ویزا حاصل کرنے یا اپنے NICOP کی تجدید کی ضرورت پڑسکتی ہے۔"
+    },
+    {
+      "question": "What is the grace period for expired NADRA documents?",
+      "answer": "NADRA typically doesn't provide official grace periods for expired documents. It's important to renew before expiry to avoid service disruptions.",
+      "urdu_question": "نادرا کی میعاد ختم ہونے والی دستاویزات کی رعایتی مدت کتنی ہے؟",
+      "urdu_answer": "نادرا عام طور پر میعاد ختم ہونے والی دستاویزات کے لیے سرکاری رعایتی مدت فراہم نہیں کرتا ہے۔ سروس میں رکاوٹوں سے بچنے کے لیے میعاد ختم ہونے سے پہلے تجدید کرنا ضروری ہے۔"
+    },
+    {
+      "question": "How early can I renew my NADRA documents before expiry?",
+      "answer": "You can renew CNIC up to 1 month before expiry, while NICOP and POC can be renewed up to 6 months before expiry.",
+      "urdu_question": "میں اپنی نادرا دستاویزات کی میعاد ختم ہونے سے پہلے کتنی جلدی تجدید کر سکتا ہوں؟",
+      "urdu_answer": "آپ CNIC کی میعاد ختم ہونے سے 1 ماہ قبل تک تجدید کر سکتے ہیں، جبکہ NICOP اور POC کی میعاد ختم ہونے سے 6 ماہ پہلے تک تجدید کی جا سکتی ہے۔"
+    },
+    {
+      "question": "Why do different NADRA documents have different validity periods?",
+      "answer": "Different validity periods reflect the specific purposes and regulatory requirements of each document type, considering factors like security, international agreements, and administrative efficiency.",
+      "urdu_question": "نادرا کی مختلف دستاویزات کی مدت مختلف کیوں ہوتی ہے؟",
+      "urdu_answer": "سیکیورٹی، بین الاقوامی معاہدوں، اور انتظامی کارکردگی جیسے عوامل پر غور کرتے ہوئے، مختلف میعاد کی مدت ہر دستاویز کی قسم کے مخصوص مقاصد اور ریگولیٹری تقاضوں کی عکاسی کرتی ہے۔"
+    },
+    {
+      "question": "Can the validity period of NADRA documents be extended?",
+      "answer": "Validity periods are fixed by regulation and cannot be extended. You must renew the document before or after expiry according to standard procedures.",
+      "urdu_question": "کیا نادرا دستاویزات کی میعاد میں توسیع کی جا سکتی ہے؟",
+      "urdu_answer": "میعاد کی مدت ریگولیشن کے ذریعہ طے کی جاتی ہے اور اس میں توسیع نہیں کی جاسکتی ہے۔ آپ کو معیاری طریقہ کار کے مطابق میعاد ختم ہونے سے پہلے یا بعد میں دستاویز کی تجدید کرنی ہوگی۔"
+    },
+    {
+      "question": "What factors determine when I need to renew my NADRA document?",
+      "answer": "Renewal timing depends on the document's expiry date, your age (for CNIC lifetime validity at 53+), changes in personal information, and whether the document is lost, damaged, or stolen.",
+      "urdu_question": "کون سے عوامل اس بات کا تعین کرتے ہیں کہ مجھے اپنی نادرا دستاویز کی تجدید کی ضرورت کب ہے؟",
+      "urdu_answer": "تجدید کا وقت دستاویز کی میعاد ختم ہونے کی تاریخ، آپ کی عمر (53+ پر CNIC تاحیات درستگی کے لیے)، ذاتی معلومات میں تبدیلی، اور آیا دستاویز کے گم، خراب یا چوری ہونے پر منحصر ہے۔"
+    },
+    {
+      "question": "Are there any documents that become invalid before their printed expiry date?",
+      "answer": "Yes, Juvenile Cards become invalid when the holder turns 18, even if the printed expiry date hasn't been reached, as validity is 'until 18 years or 10 years, whichever comes first.'",
+      "urdu_question": "کیا کوئی ایسی دستاویزات ہیں جو اپنی پرنٹ شدہ میعاد ختم ہونے کی تاریخ سے پہلے غلط ہو جاتی ہیں؟",
+      "urdu_answer": "ہاں، جب ہولڈر 18 سال کا ہو جاتا ہے تو جووینائل کارڈز غلط ہو جاتے ہیں، چاہے پرنٹ شدہ میعاد ختم ہونے کی تاریخ تک نہ پہنچی ہو، کیونکہ میعاد '18 سال یا 10 سال تک، جو بھی پہلے آئے۔'"
+    },
+    {
+      "question": "What should I do if my document expires while I'm abroad?",
+      "answer": "Contact the nearest Pakistani consulate or embassy immediately. They can guide you through renewal procedures or provide emergency travel documents if needed.",
+      "urdu_question": "اگر میرے بیرون ملک رہتے ہوئے میری دستاویز کی میعاد ختم ہو جائے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "فوری طور پر قریبی پاکستانی قونصل خانے یا سفارت خانے سے رابطہ کریں۔ وہ تجدید کے طریقہ کار کے ذریعے آپ کی رہنمائی کر سکتے ہیں یا ضرورت پڑنے پر ہنگامی سفری دستاویزات فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Do validity periods differ for emergency or urgent documents?",
+      "answer": "No, validity periods remain the same regardless of whether you choose normal, urgent, or executive processing. Processing speed doesn't affect the document's validity duration.",
+      "urdu_question": "کیا ہنگامی یا فوری دستاویزات کے لیے میعاد کی مدت مختلف ہوتی ہے؟",
+      "urdu_answer": "نہیں، قطع نظر اس سے قطع نظر کہ آپ عام، فوری، یا ایگزیکٹو پروسیسنگ کا انتخاب کرتے ہیں۔ پروسیسنگ کی رفتار دستاویز کی درستگی کی مدت کو متاثر نہیں کرتی ہے۔"
+    },
+    {
+      "question": "Can I use multiple NADRA documents if one expires?",
+      "answer": "You can have multiple valid NADRA documents simultaneously (like CNIC and NICOP), but each must be individually valid. An expired document cannot substitute for a valid one.",
+      "urdu_question": "کیا میں نادرا کے متعدد دستاویزات استعمال کر سکتا ہوں اگر ایک کی میعاد ختم ہو جائے؟",
+      "urdu_answer": "آپ کے پاس نادرا کی متعدد درست دستاویزات بیک وقت ہو سکتی ہیں (جیسے CNIC اور NICOP)، لیکن ہر ایک کو انفرادی طور پر درست ہونا چاہیے۔ میعاد ختم ہونے والی دستاویز کسی درست دستاویز کا متبادل نہیں بن سکتی۔"
+    },
+    {
+      "question": "What happens to biometric data validity when documents expire?",
+      "answer": "Biometric data remains in NADRA's system even after document expiry, but the document itself becomes invalid. Renewal requires fresh biometric capture.",
+      "urdu_question": "دستاویزات کی میعاد ختم ہونے پر بائیو میٹرک ڈیٹا کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "بائیو میٹرک ڈیٹا دستاویز کی میعاد ختم ہونے کے بعد بھی نادرا کے سسٹم میں موجود رہتا ہے لیکن دستاویز خود ہی غلط ہو جاتی ہے۔ تجدید کے لیے تازہ بائیو میٹرک کیپچر درکار ہے۔"
+    },
+    {
+      "question": "Are there seasonal patterns in document expiry and renewal?",
+      "answer": "Document expiry dates are spread throughout the year based on individual issuance dates. However, renewal centers may experience higher volumes during certain periods like before major travel seasons.",
+      "urdu_question": "کیا دستاویز کی میعاد ختم ہونے اور تجدید میں موسمی نمونے ہیں؟",
+      "urdu_answer": "دستاویز کی میعاد ختم ہونے کی تاریخیں انفرادی اجراء کی تاریخوں کی بنیاد پر پورے سال میں پھیلی ہوئی ہیں۔ تاہم، تجدید کے مراکز بعض ادوار کے دوران زیادہ مقدار کا تجربہ کر سکتے ہیں جیسے کہ بڑے سفری موسموں سے پہلے۔"
+    },
+    {
+      "question": "How does document validity affect my legal status?",
+      "answer": "While document expiry doesn't change your citizenship or legal status, it affects your ability to prove identity and access services that require valid identification.",
+      "urdu_question": "دستاویز کی درستگی میری قانونی حیثیت کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "جب کہ دستاویز کی میعاد ختم ہونے سے آپ کی شہریت یا قانونی حیثیت تبدیل نہیں ہوتی ہے، لیکن یہ آپ کی شناخت ثابت کرنے اور خدمات تک رسائی کی اہلیت کو متاثر کرتی ہے جن کے لیے درست شناخت کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can I request a specific expiry date for my NADRA document?",
+      "answer": "No, expiry dates are automatically calculated based on issuance date and standard validity periods. You cannot request custom expiry dates.",
+      "urdu_question": "کیا میں اپنی نادرا دستاویز کے لیے مخصوص میعاد ختم ہونے کی تاریخ کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "نہیں، میعاد ختم ہونے کی تاریخوں کا خود بخود حساب جاری ہونے کی تاریخ اور معیاری میعاد کی مدت کی بنیاد پر کیا جاتا ہے۔ آپ اپنی مرضی کے مطابق ختم ہونے کی تاریخوں کی درخواست نہیں کر سکتے ہیں۔"
+    },
+    {
+      "question": "What happens if NADRA changes validity periods while my document is valid?",
+      "answer": "Existing documents typically remain valid until their printed expiry dates. Policy changes usually apply to newly issued documents after the change date.",
+      "urdu_question": "کیا ہوتا ہے اگر نادرا میری دستاویز کے درست ہونے کے دوران درستگی کی مدت میں تبدیلی کرتا ہے؟",
+      "urdu_answer": "موجودہ دستاویزات عام طور پر ان کی پرنٹ شدہ میعاد ختم ہونے کی تاریخ تک درست رہتی ہیں۔ پالیسی کی تبدیلیاں عام طور پر تبدیلی کی تاریخ کے بعد نئی جاری کردہ دستاویزات پر لاگو ہوتی ہیں۔"
+    },
+    {
+      "question": "Do smart cards have different validity periods than regular cards?",
+      "answer": "No, Smart CNIC, Smart NICOP, and Smart POC have the same validity periods as their regular counterparts. The 'smart' feature refers to chip technology, not validity duration.",
+      "urdu_question": "کیا سمارٹ کارڈز کی میعاد کی مدت ریگولر کارڈز سے مختلف ہوتی ہے؟",
+      "urdu_answer": "نہیں، Smart CNIC، Smart NICOP، اور Smart POC کی مدت ان کے باقاعدہ ہم منصبوں کی طرح ہے۔ 'سمارٹ' فیچر سے مراد چپ ٹیکنالوجی ہے، درستگی کی مدت نہیں۔"
+    },
+    {
+      "question": "How does age affect document validity calculations?",
+      "answer": "Age primarily affects CNIC validity (lifetime at 53+) and Juvenile Card validity (expires at 18). For other documents, age doesn't change standard validity periods.",
+      "urdu_question": "عمر دستاویز کی درستگی کے حساب کتاب کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "عمر بنیادی طور پر CNIC کی میعاد (53+ پر زندگی بھر) اور جووینائل کارڈ کی میعاد (18 سال پر ختم ہو جاتی ہے) کو متاثر کرتی ہے۔ دیگر دستاویزات کے لیے، عمر معیاری میعاد کی مدت کو تبدیل نہیں کرتی ہے۔"
+    },
+    {
+      "question": "Can medical conditions affect document validity periods?",
+      "answer": "Medical conditions don't change standard validity periods, but may affect renewal procedures or require special documentation during the renewal process.",
+      "urdu_question": "کیا طبی حالات دستاویز کی درستگی کی مدت کو متاثر کر سکتے ہیں؟",
+      "urdu_answer": "طبی حالات معیاری درستگی کی مدت کو تبدیل نہیں کرتے ہیں، لیکن تجدید کے طریقہ کار کو متاثر کر سکتے ہیں یا تجدید کے عمل کے دوران خصوصی دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What validity considerations apply to dual nationals?",
+      "answer": "Dual nationals typically use NICOP, which has 10-year validity regardless of age. They cannot get lifetime CNIC validity like domestic residents.",
+      "urdu_question": "دوہری شہریت کے حامل افراد پر کیا جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "دوہری شہریت رکھنے والے عام طور پر NICOP استعمال کرتے ہیں، جس کی عمر سے قطع نظر 10 سال کی میعاد ہوتی ہے۔ وہ گھریلو رہائشیوں کی طرح تاحیات CNIC کی میعاد حاصل نہیں کر سکتے۔"
+    },
+    {
+      "question": "How do court orders affect document validity?",
+      "answer": "Court orders may suspend or invalidate documents before their natural expiry, or may require specific renewal procedures. Legal issues can affect document validity.",
+      "urdu_question": "عدالتی احکامات دستاویز کی درستگی کو کیسے متاثر کرتے ہیں؟",
+      "urdu_answer": "عدالتی احکامات ان کی فطری میعاد ختم ہونے سے پہلے دستاویزات کو معطل یا باطل کر سکتے ہیں، یا تجدید کے مخصوص طریقہ کار کی ضرورت ہو سکتی ہے۔ قانونی مسائل دستاویز کی درستگی کو متاثر کر سکتے ہیں۔"
+    },
+    {
+      "question": "What happens to family documents when individual documents expire?",
+      "answer": "FRC remains valid indefinitely regardless of individual family members' document expiry. However, adding new members or making changes may require updated individual documents.",
+      "urdu_question": "جب انفرادی دستاویزات کی میعاد ختم ہو جاتی ہے تو خاندانی دستاویزات کا کیا ہوتا ہے؟",
+      "urdu_answer": "FRC غیر معینہ مدت تک درست رہتا ہے قطع نظر اس کے کہ خاندان کے انفرادی افراد کی دستاویز کی میعاد ختم ہو جائے۔ تاہم، نئے اراکین کو شامل کرنے یا تبدیلیاں کرنے کے لیے انفرادی دستاویزات کو اپ ڈیٹ کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Are there different validity periods for men and women?",
+      "answer": "No, NADRA documents have the same validity periods for men and women. Gender doesn't affect validity duration.",
+      "urdu_question": "کیا مردوں اور عورتوں کے لیے مختلف میعاد ہیں؟",
+      "urdu_answer": "نہیں، نادرا کی دستاویزات میں مردوں اور عورتوں کے لیے یکساں میعاد کی مدت ہوتی ہے۔ جنس درستگی کی مدت کو متاثر نہیں کرتی ہے۔"
+    },
+    {
+      "question": "How does marital status change affect document validity?",
+      "answer": "Marital status changes don't affect validity periods, but may require document modification during renewal to update information.",
+      "urdu_question": "ازدواجی حیثیت میں تبدیلی دستاویز کی درستگی کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "ازدواجی حیثیت میں تبدیلیاں درستگی کے دورانیے کو متاثر نہیں کرتی ہیں، لیکن معلومات کو اپ ڈیٹ کرنے کے لیے تجدید کے دوران دستاویز میں ترمیم کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can I get a longer validity period by paying higher fees?",
+      "answer": "No, validity periods are fixed by regulation and cannot be extended by paying additional fees. Processing speed (urgent/executive) doesn't affect validity duration.",
+      "urdu_question": "کیا میں زیادہ فیس ادا کر کے ایک طویل میعاد حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نہیں۔ پروسیسنگ کی رفتار (فوری/ایگزیکٹیو) درستگی کی مدت کو متاثر نہیں کرتی ہے۔"
+    },
+    {
+      "question": "What validity rules apply to documents for people with disabilities?",
+      "answer": "People with disabilities follow the same validity periods as other applicants. Special accommodations apply to the application process, not validity duration.",
+      "urdu_question": "معذور افراد کے لیے دستاویزات پر درستی کے کون سے اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "معذور افراد دوسرے درخواست دہندگان کے طور پر اسی میعاد کی پیروی کرتے ہیں۔ درخواست کے عمل پر خصوصی رہائش کا اطلاق ہوتا ہے، درستگی کی مدت نہیں۔"
+    },
+    {
+      "question": "How do address changes affect document validity?",
+      "answer": "Address changes don't affect validity periods, but you may choose to update your address during renewal or through modification services.",
+      "urdu_question": "ایڈریس کی تبدیلیاں دستاویز کی درستگی کو کیسے متاثر کرتی ہیں؟",
+      "urdu_answer": "ایڈریس کی تبدیلیاں میعاد کی مدت کو متاثر نہیں کرتی ہیں، لیکن آپ تجدید کے دوران یا ترمیم کی خدمات کے ذریعے اپنا پتہ اپ ڈیٹ کرنے کا انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "Are there different validity periods for different provinces?",
+      "answer": "No, NADRA document validity periods are standardized across all provinces and territories of Pakistan.",
+      "urdu_question": "کیا مختلف صوبوں کے لیے مختلف میعاد ہیں؟",
+      "urdu_answer": "نہیں، نادرا دستاویز کی درستگی کی مدت پاکستان کے تمام صوبوں اور علاقوں میں معیاری ہے۔"
+    },
+    {
+      "question": "What happens to document validity during system upgrades?",
+      "answer": "System upgrades don't affect existing document validity. Valid documents remain acceptable until their printed expiry dates.",
+      "urdu_question": "سسٹم اپ گریڈ کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "سسٹم اپ گریڈ موجودہ دستاویز کی درستگی کو متاثر نہیں کرتے ہیں۔ درست دستاویزات ان کی پرنٹ شدہ میعاد ختم ہونے تک قابل قبول رہیں گی۔"
+    },
+    {
+      "question": "Can I check my document's remaining validity online?",
+      "answer": "Yes, you can check document validity through PAK-ID mobile app, NADRA website portals, or by calculating from the expiry date printed on your document.",
+      "urdu_question": "کیا میں اپنے دستاویز کی بقیہ درستگی آن لائن چیک کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ PAK-ID موبائل ایپ، نادرا ویب سائٹ پورٹلز کے ذریعے یا اپنی دستاویز پر چھپی ہوئی میعاد ختم ہونے کی تاریخ سے حساب لگا کر دستاویز کی درستگی چیک کر سکتے ہیں۔"
+    },
+    {
+      "question": "How does document replacement affect validity periods?",
+      "answer": "When replacing lost or damaged documents, the new document typically has the same expiry date as the original, not a new full validity period.",
+      "urdu_question": "دستاویز کی تبدیلی کس طرح درستگی کی مدت کو متاثر کرتی ہے؟",
+      "urdu_answer": "کھوئے ہوئے یا خراب شدہ دستاویزات کو تبدیل کرتے وقت، نئی دستاویز میں عام طور پر وہی ختم ہونے کی تاریخ ہوتی ہے جو اصل کی ہوتی ہے، ایک نئی مکمل میعاد کی مدت نہیں۔"
+    },
+    {
+      "question": "What validity considerations apply to inherited documents?",
+      "answer": "Identity documents cannot be inherited. When someone dies, their documents should be cancelled, and heirs need their own separate documents.",
+      "urdu_question": "وراثت میں ملنے والی دستاویزات پر کون سے جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "شناختی دستاویزات وراثت میں نہیں مل سکتی ہیں۔ جب کوئی مر جاتا ہے، تو اس کے کاغذات منسوخ کر دیے جائیں، اور ورثاء کو اپنی علیحدہ دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Are there emergency extensions for document validity?",
+      "answer": "NADRA doesn't typically provide emergency validity extensions. Emergency situations may warrant expedited renewal processing instead.",
+      "urdu_question": "کیا دستاویز کی درستگی کے لیے ہنگامی توسیعات ہیں؟",
+      "urdu_answer": "نادرا عام طور پر ہنگامی میعاد کی توسیع فراہم نہیں کرتا ہے۔ ہنگامی حالات اس کے بجائے تیز رفتار تجدید پروسیسنگ کی ضمانت دے سکتے ہیں۔"
+    },
+    {
+      "question": "How do military service obligations affect document validity?",
+      "answer": "Military service doesn't change document validity periods, though military personnel may have access to special NADRA services at military facilities.",
+      "urdu_question": "فوجی خدمات کی ذمہ داریاں دستاویز کی درستگی کو کیسے متاثر کرتی ہیں؟",
+      "urdu_answer": "فوجی سروس دستاویز کی درستگی کی مدت کو تبدیل نہیں کرتی ہے، حالانکہ فوجی اہلکاروں کو فوجی تنصیبات پر نادرا کی خصوصی خدمات تک رسائی حاصل ہو سکتی ہے۔"
+    },
+    {
+      "question": "What happens to document validity if I change nationality?",
+      "answer": "Changing nationality may invalidate certain documents like CNIC or NICOP. You may need to surrender Pakistani documents and apply for appropriate documents based on your new status.",
+      "urdu_question": "اگر میں قومیت تبدیل کروں تو دستاویز کی درستگی کا کیا ہوگا؟",
+      "urdu_answer": "قومیت کو تبدیل کرنے سے کچھ دستاویزات جیسے CNIC یا NICOP کو کالعدم ہو سکتا ہے۔ آپ کو پاکستانی دستاویزات کے حوالے کرنے اور اپنی نئی حیثیت کی بنیاد پر مناسب دستاویزات کے لیے درخواست دینے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can document validity be suspended temporarily?",
+      "answer": "Yes, documents can be suspended due to legal issues, fraud investigations, or court orders, making them invalid before their natural expiry date.",
+      "urdu_question": "کیا دستاویز کی درستگی کو عارضی طور پر معطل کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، دستاویزات کو قانونی مسائل، دھوکہ دہی کی تحقیقات، یا عدالتی احکامات کی وجہ سے معطل کیا جا سکتا ہے، جس سے وہ اپنی فطری میعاد ختم ہونے کی تاریخ سے پہلے غلط ہو جاتے ہیں۔"
+    },
+    {
+      "question": "How does academic year timing affect Juvenile Card validity?",
+      "answer": "Juvenile Cards become invalid when the holder turns 18, regardless of academic year timing. Students must obtain CNIC upon turning 18.",
+      "urdu_question": "تعلیمی سال کا وقت نوجوانوں کے کارڈ کی میعاد کو کیسے متاثر کرتا ہے؟",
+      "urdu_answer": "تعلیمی سال کے وقت سے قطع نظر، ہولڈر کے 18 سال کے ہونے پر نوعمر کارڈز غلط ہو جاتے ہیں۔ طلباء کو 18 سال کے ہونے پر CNIC حاصل کرنا ضروری ہے۔"
+    },
+    {
+      "question": "What validity rules apply to adopted children's documents?",
+      "answer": "Adopted children follow the same validity rules as biological children. Juvenile Cards expire at 18 or 10 years, whichever comes first.",
+      "urdu_question": "گود لیے گئے بچوں کی دستاویزات پر کون سے قانونی اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "گود لینے والے بچے حیاتیاتی بچوں کی طرح درست اصولوں پر عمل کرتے ہیں۔ نوجوانوں کے کارڈ کی میعاد 18 یا 10 سال پر ختم ہو جاتی ہے، جو بھی پہلے آئے۔"
+    },
+    {
+      "question": "Are there different validity periods for urban vs rural applicants?",
+      "answer": "No, NADRA document validity periods are the same for all applicants regardless of their urban or rural residence.",
+      "urdu_question": "کیا شہری بمقابلہ دیہی درخواست دہندگان کے لیے مختلف میعاد ہیں؟",
+      "urdu_answer": "نہیں، نادرا کی دستاویز کی درستی کی مدت تمام درخواست دہندگان کے لیے یکساں ہے قطع نظر ان کی شہری یا دیہی رہائش۔"
+    },
+    {
+      "question": "How do diplomatic postings affect document validity?",
+      "answer": "Diplomatic postings don't change validity periods, but diplomats may use different channels for renewal and may need both CNIC and NICOP.",
+      "urdu_question": "سفارتی پوسٹنگ کس طرح دستاویز کی درستگی کو متاثر کرتی ہے؟",
+      "urdu_answer": "سفارتی پوسٹنگ درستگی کے دورانیے کو تبدیل نہیں کرتی ہیں، لیکن سفارت کار تجدید کے لیے مختلف چینلز استعمال کر سکتے ہیں اور انہیں CNIC اور NICOP دونوں کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens to document validity during legal proceedings?",
+      "answer": "Legal proceedings may affect document validity if courts order suspension or if the proceedings relate to identity fraud or citizenship issues.",
+      "urdu_question": "قانونی کارروائی کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "اگر عدالتیں معطلی کا حکم دیتی ہیں یا اگر کارروائی شناختی فراڈ یا شہریت کے مسائل سے متعلق ہوتی ہے تو قانونی کارروائیاں دستاویز کی درستگی کو متاثر کر سکتی ہیں۔"
+    },
+    {
+      "question": "Can I use an expired document as backup identification?",
+      "answer": "Expired documents are generally not accepted as valid identification. Some institutions may accept them as supporting documents alongside valid ID.",
+      "urdu_question": "کیا میں میعاد ختم ہونے والی دستاویز کو بیک اپ شناخت کے طور پر استعمال کر سکتا ہوں؟",
+      "urdu_answer": "میعاد ختم ہونے والی دستاویزات کو عام طور پر درست شناخت کے طور پر قبول نہیں کیا جاتا ہے۔ کچھ ادارے انہیں درست ID کے ساتھ معاون دستاویزات کے طور پر قبول کر سکتے ہیں۔"
+    },
+    {
+      "question": "How does document validity affect inheritance procedures?",
+      "answer": "Valid identification is required for inheritance procedures. Expired documents may not be accepted for legal inheritance processes.",
+      "urdu_question": "دستاویز کی درستگی وراثت کے طریقہ کار کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "وراثت کے طریقہ کار کے لیے درست شناخت درکار ہے۔ قانونی وراثت کے عمل کے لیے میعاد ختم ہونے والی دستاویزات کو قبول نہیں کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What validity considerations apply to business licensing?",
+      "answer": "Business licensing typically requires valid CNIC. Expired documents may invalidate business licenses or prevent renewal of business permits.",
+      "urdu_question": "کاروباری لائسنسنگ پر کون سے جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "کاروباری لائسنسنگ کے لیے عام طور پر درست CNIC کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات کاروباری لائسنس کو باطل کر سکتی ہیں یا کاروباری اجازت ناموں کی تجدید کو روک سکتی ہیں۔"
+    },
+    {
+      "question": "Are there special validity rules for government employees?",
+      "answer": "Government employees follow the same validity periods but may have access to special renewal facilities or priority processing at certain locations.",
+      "urdu_question": "کیا سرکاری ملازمین کے لیے کوئی خاص قانونی ضابطے ہیں؟",
+      "urdu_answer": "سرکاری ملازمین یکساں میعاد کی پیروی کرتے ہیں لیکن انہیں مخصوص مقامات پر تجدید کی خصوصی سہولیات یا ترجیحی کارروائی تک رسائی حاصل ہو سکتی ہے۔"
+    },
+    {
+      "question": "How does document validity affect pension payments?",
+      "answer": "Pension systems typically require valid identification. Expired documents may interrupt pension payments until renewed identification is provided.",
+      "urdu_question": "دستاویز کی درستگی پنشن کی ادائیگیوں کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "پنشن کے نظام کو عام طور پر درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات پنشن کی ادائیگیوں میں رکاوٹ بن سکتی ہیں جب تک کہ تجدید شدہ شناخت فراہم نہیں کی جاتی ہے۔"
+    },
+    {
+      "question": "What happens to document validity during natural disasters?",
+      "answer": "Natural disasters don't extend validity periods, but NADRA may provide special services for document replacement and expedited processing in affected areas.",
+      "urdu_question": "قدرتی آفات کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "قدرتی آفات کی مدت میں توسیع نہیں ہوتی، لیکن نادرا متاثرہ علاقوں میں دستاویز کی تبدیلی اور تیز رفتار کارروائی کے لیے خصوصی خدمات فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "Can I use photocopies of expired documents?",
+      "answer": "Photocopies of expired documents are generally not acceptable for official purposes. Valid original documents are required for most transactions.",
+      "urdu_question": "کیا میں میعاد ختم ہونے والی دستاویزات کی فوٹو کاپی استعمال کر سکتا ہوں؟",
+      "urdu_answer": "میعاد ختم ہونے والی دستاویزات کی فوٹو کاپیاں عام طور پر سرکاری مقاصد کے لیے قابل قبول نہیں ہیں۔ زیادہ تر لین دین کے لیے درست اصل دستاویزات درکار ہیں۔"
+    },
+    {
+      "question": "How does document validity affect medical treatment?",
+      "answer": "Many medical facilities require valid identification. Expired documents may cause delays in non-emergency medical treatment or insurance claims.",
+      "urdu_question": "دستاویز کی درستگی طبی علاج کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "بہت سی طبی سہولیات کو درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات غیر ہنگامی طبی علاج یا انشورنس کے دعووں میں تاخیر کا سبب بن سکتی ہیں۔"
+    },
+    {
+      "question": "What validity rules apply to documents for overseas births?",
+      "answer": "Children born overseas to Pakistani parents follow the same validity rules. Their documents expire based on standard periods regardless of birth location.",
+      "urdu_question": "بیرون ملک پیدائش کے لیے دستاویزات پر کون سے قانونی اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "پاکستانی والدین کے ہاں بیرون ملک پیدا ہونے والے بچے یکساں قانونی اصولوں پر عمل کرتے ہیں۔ پیدائش کے مقام سے قطع نظر معیاری ادوار کی بنیاد پر ان کی دستاویزات کی میعاد ختم ہو جاتی ہے۔"
+    },
+    {
+      "question": "Are there different validity periods for different income levels?",
+      "answer": "No, document validity periods are the same regardless of income level. Economic status doesn't affect validity duration.",
+      "urdu_question": "کیا مختلف آمدنی کی سطحوں کے لیے مختلف میعاد ہیں؟",
+      "urdu_answer": "نہیں، آمدنی کی سطح سے قطع نظر دستاویز کی درستگی کی مدت ایک جیسی ہے۔ اقتصادی حیثیت درستگی کی مدت کو متاثر نہیں کرتی ہے۔"
+    },
+    {
+      "question": "How does document validity affect property transactions?",
+      "answer": "Property transactions require valid identification. Expired documents may prevent property sales, purchases, or registration processes.",
+      "urdu_question": "دستاویز کی درستگی جائیداد کے لین دین کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "جائیداد کے لین دین کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات جائیداد کی فروخت، خریداری، یا رجسٹریشن کے عمل کو روک سکتی ہیں۔"
+    },
+    {
+      "question": "What happens to document validity if biometric data changes?",
+      "answer": "Biometric changes (due to injury, medical conditions) don't affect validity periods, but may require special procedures during renewal.",
+      "urdu_question": "بائیو میٹرک ڈیٹا تبدیل ہونے پر دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "بایومیٹرک تبدیلیاں (چوٹ، طبی حالات کی وجہ سے) معیاد کی مدت کو متاثر نہیں کرتی ہیں، لیکن تجدید کے دوران خاص طریقہ کار کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can I get advance notification of document expiry?",
+      "answer": "NADRA may send SMS notifications for document expiry reminders if your mobile number is registered in their system.",
+      "urdu_question": "کیا مجھے دستاویز کی میعاد ختم ہونے کی پیشگی اطلاع مل سکتی ہے؟",
+      "urdu_answer": "اگر آپ کا موبائل نمبر ان کے سسٹم میں رجسٹرڈ ہے تو نادرا دستاویز کی میعاد ختم ہونے کی یاد دہانی کے لیے ایس ایم ایس کی اطلاع بھیج سکتا ہے۔"
+    },
+    {
+      "question": "How does document validity affect tax obligations?",
+      "answer": "Tax authorities typically require valid identification. Expired documents may complicate tax filing, refunds, or business tax obligations.",
+      "urdu_question": "دستاویز کی درستگی ٹیکس کی ذمہ داریوں کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "ٹیکس حکام کو عام طور پر درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات ٹیکس فائلنگ، ریفنڈز، یا کاروباری ٹیکس کی ذمہ داریوں کو پیچیدہ بنا سکتی ہیں۔"
+    },
+    {
+      "question": "What validity considerations apply to joint family documents?",
+      "answer": "Family Registration Certificates (FRC) don't expire, but individual family members' documents have their own validity periods and requirements.",
+      "urdu_question": "جوائنٹ فیملی کے دستاویزات پر کون سے جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "فیملی رجسٹریشن سرٹیفکیٹ (FRC) کی میعاد ختم نہیں ہوتی ہے، لیکن خاندان کے انفرادی افراد کے دستاویزات کی اپنی درست مدت اور تقاضے ہوتے ہیں۔"
+    },
+    {
+      "question": "Are there seasonal renewal reminders for expiring documents?",
+      "answer": "NADRA may increase awareness campaigns during peak renewal seasons, but reminders are typically sent based on individual expiry dates.",
+      "urdu_question": "کیا میعاد ختم ہونے والی دستاویزات کے لیے موسمی تجدید یاد دہانیاں ہیں؟",
+      "urdu_answer": "نادرا چوٹی کی تجدید کے موسم کے دوران آگاہی مہم میں اضافہ کر سکتا ہے، لیکن یاد دہانیاں عام طور پر انفرادی میعاد ختم ہونے کی تاریخوں کی بنیاد پر بھیجی جاتی ہیں۔"
+    },
+    {
+      "question": "How does document validity affect employment verification?",
+      "answer": "Employers typically require valid identification for hiring and ongoing employment verification. Expired documents may affect employment status.",
+      "urdu_question": "دستاویز کی درستگی ملازمت کی تصدیق کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "آجروں کو عام طور پر ملازمت پر رکھنے اور جاری ملازمت کی تصدیق کے لیے درست شناخت درکار ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات ملازمت کی حیثیت کو متاثر کر سکتی ہیں۔"
+    },
+    {
+      "question": "What happens to document validity during passport applications?",
+      "answer": "Passport applications require valid CNIC or NICOP. Expired identity documents may prevent or delay passport issuance.",
+      "urdu_question": "پاسپورٹ کی درخواستوں کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "پاسپورٹ کی درخواستوں کے لیے درست CNIC یا NICOP کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی شناختی دستاویزات پاسپورٹ کے اجرا کو روک سکتی ہیں یا اس میں تاخیر کر سکتی ہیں۔"
+    },
+    {
+      "question": "Can technical errors affect document validity periods?",
+      "answer": "Technical errors in printing wrong expiry dates are corrected free of charge as office mistakes. The correct validity period applies regardless of printing errors.",
+      "urdu_question": "کیا تکنیکی خرابیاں دستاویز کی درستگی کی مدت کو متاثر کر سکتی ہیں؟",
+      "urdu_answer": "غلط میعاد ختم ہونے کی تاریخوں کو پرنٹ کرنے میں تکنیکی غلطیوں کو دفتری غلطیوں کے طور پر مفت میں درست کیا جاتا ہے۔ درست درستگی کی مدت پرنٹنگ کی غلطیوں سے قطع نظر لاگو ہوتی ہے۔"
+    },
+    {
+      "question": "How does document validity affect voting rights?",
+      "answer": "Voting registration requires valid identification. Expired documents may affect voter registration updates but don't automatically remove voting rights.",
+      "urdu_question": "دستاویز کی درستگی ووٹنگ کے حقوق کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "ووٹنگ رجسٹریشن کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات ووٹر کے اندراج کی تازہ کاریوں کو متاثر کر سکتی ہیں لیکن خود بخود ووٹنگ کے حقوق کو ختم نہیں کرتی ہیں۔"
+    },
+    {
+      "question": "What validity rules apply to documents for refugees?",
+      "answer": "Refugees may have different documentation with special validity rules. Contact NADRA directly for refugee-specific document validity information.",
+      "urdu_question": "پناہ گزینوں کے لیے دستاویزات پر کیا قانونی اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "پناہ گزینوں کے پاس خصوصی قانونی اصولوں کے ساتھ مختلف دستاویزات ہو سکتی ہیں۔ پناہ گزینوں کے لیے مخصوص دستاویز کی درستگی کی معلومات کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "Are there different validity periods for different card designs?",
+      "answer": "No, validity periods are based on document type, not card design. Old and new design cards of the same type have identical validity rules.",
+      "urdu_question": "کیا مختلف کارڈ ڈیزائن کے لیے مختلف میعاد کی مدت ہوتی ہے؟",
+      "urdu_answer": "نہیں، میعاد کی مدت دستاویز کی قسم پر مبنی ہے، کارڈ کے ڈیزائن پر نہیں۔ ایک ہی قسم کے پرانے اور نئے ڈیزائن والے کارڈز میں ایک جیسی درستگی کے اصول ہوتے ہیں۔"
+    },
+    {
+      "question": "How does document validity affect insurance claims?",
+      "answer": "Insurance companies typically require valid identification for claims processing. Expired documents may delay or complicate insurance claims.",
+      "urdu_question": "دستاویز کی درستگی انشورنس کے دعووں کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "انشورنس کمپنیوں کو عام طور پر دعووں کی کارروائی کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات انشورنس کے دعووں میں تاخیر یا پیچیدگی پیدا کر سکتی ہیں۔"
+    },
+    {
+      "question": "What happens to document validity during NADRA policy changes?",
+      "answer": "Existing documents remain valid until their printed expiry dates even when NADRA policies change. New policies typically apply to future issuances.",
+      "urdu_question": "نادرا کی پالیسی میں تبدیلی کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "موجودہ دستاویزات اس وقت تک درست رہتی ہیں جب تک کہ ان کی چھپی ہوئی میعاد ختم ہونے کی تاریخ نہ ہو یہاں تک کہ نادرا کی پالیسیوں میں تبدیلی کے باوجود۔ نئی پالیسیاں عام طور پر مستقبل کے اجراء پر لاگو ہوتی ہیں۔"
+    },
+    {
+      "question": "Can I appeal decisions about document validity?",
+      "answer": "Yes, you can appeal decisions about document validity through NADRA's grievance mechanism by contacting 1777 or visiting NADRA centers.",
+      "urdu_question": "کیا میں دستاویز کی درستگی کے بارے میں فیصلوں پر اپیل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ 1777 پر رابطہ کر کے یا نادرا کے مراکز پر جا کر نادرا کے شکایات کے طریقہ کار کے ذریعے دستاویزات کی درستگی کے بارے میں فیصلوں کے خلاف اپیل کر سکتے ہیں۔"
+    },
+    {
+      "question": "How does document validity affect university admissions?",
+      "answer": "Universities typically require valid identification for admissions. Expired documents may delay admission processes or scholarship applications.",
+      "urdu_question": "دستاویز کی درستگی یونیورسٹی کے داخلوں کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "یونیورسٹیوں کو عام طور پر داخلے کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات داخلہ کے عمل یا اسکالرشپ کی درخواستوں میں تاخیر کر سکتی ہیں۔"
+    },
+    {
+      "question": "What validity considerations apply to documents during pandemics?",
+      "answer": "During pandemics, NADRA may implement special procedures for renewal but generally doesn't extend validity periods. Check for temporary policy announcements.",
+      "urdu_question": "وبائی امراض کے دوران دستاویزات پر کون سے جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "وبائی امراض کے دوران، نادرا تجدید کے لیے خصوصی طریقہ کار کو لاگو کر سکتا ہے لیکن عام طور پر میعاد کی مدت میں توسیع نہیں کرتا ہے۔ عارضی پالیسی کے اعلانات کو چیک کریں۔"
+    },
+    {
+      "question": "Are there bulk validity checks available for organizations?",
+      "answer": "Organizations may access NADRA verification services to check document validity in bulk. Contact NADRA for enterprise verification services.",
+      "urdu_question": "کیا تنظیموں کے لیے بلک ویڈٹی چیک دستیاب ہیں؟",
+      "urdu_answer": "بڑی تعداد میں دستاویزات کی درستگی کو چیک کرنے کے لیے ادارے نادرا کی تصدیقی خدمات تک رسائی حاصل کر سکتے ہیں۔ انٹرپرائز تصدیقی خدمات کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "How does document validity affect international travel insurance?",
+      "answer": "Travel insurance typically requires valid identification. Expired documents may affect insurance validity or claims processing abroad.",
+      "urdu_question": "دستاویز کی درستگی بین الاقوامی سفری انشورنس کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "ٹریول انشورنس کے لیے عام طور پر درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات انشورنس کی درستگی یا بیرون ملک دعووں کی کارروائی کو متاثر کر سکتی ہیں۔"
+    },
+    {
+      "question": "What happens to document validity if I lose Pakistani citizenship?",
+      "answer": "Losing Pakistani citizenship invalidates Pakistani identity documents immediately, regardless of their printed expiry dates.",
+      "urdu_question": "اگر میں پاکستانی شہریت کھو دیتا ہوں تو دستاویز کی درستگی کا کیا ہوگا؟",
+      "urdu_answer": "پاکستانی شہریت سے محروم ہونا پاکستانی شناختی دستاویزات کو فوری طور پر باطل کر دیتا ہے، چاہے ان کی پرنٹ شدہ میعاد ختم ہونے کی تاریخیں کچھ بھی ہوں۔"
+    },
+    {
+      "question": "Can document validity be verified by third parties?",
+      "answer": "Yes, NADRA provides verification services for institutions to check document validity, but personal consent and proper authorization are required.",
+      "urdu_question": "کیا تیسرے فریق کے ذریعہ دستاویز کی درستگی کی تصدیق کی جا سکتی ہے؟",
+      "urdu_answer": "ہاں، نادرا اداروں کو دستاویزات کی درستگی کی جانچ کے لیے تصدیقی خدمات فراہم کرتا ہے، لیکن ذاتی رضامندی اور مناسب اجازت درکار ہے۔"
+    },
+    {
+      "question": "How does document validity affect digital services?",
+      "answer": "Many digital services require valid identification for account creation or verification. Expired documents may prevent access to online services.",
+      "urdu_question": "دستاویز کی درستگی ڈیجیٹل خدمات کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "بہت سی ڈیجیٹل سروسز کو اکاؤنٹ بنانے یا تصدیق کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات آن لائن خدمات تک رسائی کو روک سکتی ہیں۔"
+    },
+    {
+      "question": "What validity rules apply to documents for twins or multiple births?",
+      "answer": "Twins and multiple birth children follow the same individual validity rules. Each child needs their own document with standard validity periods.",
+      "urdu_question": "جڑواں بچوں یا ایک سے زیادہ پیدائش کے لیے دستاویزات پر درستی کے کون سے اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "جڑواں بچے اور ایک سے زیادہ پیدائشی بچے یکساں انفرادی قانونی اصولوں پر عمل کرتے ہیں۔ ہر بچے کو معیاری میعاد کے ساتھ اپنی دستاویز کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Are there validity considerations for cross-border workers?",
+      "answer": "Cross-border workers typically need valid NICOP for Pakistani identity abroad and may need valid documents for work permits in other countries.",
+      "urdu_question": "کیا سرحد پار کارکنوں کے لیے جائز تحفظات ہیں؟",
+      "urdu_answer": "سرحد پار کارکنوں کو عام طور پر بیرون ملک پاکستانی شناخت کے لیے درست NICOP کی ضرورت ہوتی ہے اور انہیں دوسرے ممالک میں ورک پرمٹ کے لیے درست دستاویزات کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "How does document validity affect charitable organization registration?",
+      "answer": "Charitable organization registration requires valid identification from key personnel. Expired documents may affect organization legal status.",
+      "urdu_question": "دستاویز کی درستگی خیراتی تنظیم کی رجسٹریشن کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "خیراتی تنظیم کی رجسٹریشن کے لیے کلیدی اہلکاروں سے درست شناخت درکار ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات تنظیم کی قانونی حیثیت کو متاثر کر سکتی ہیں۔"
+    },
+    {
+      "question": "What happens to document validity during address verification issues?",
+      "answer": "Address verification issues don't affect validity periods, but may require resolution during renewal or modification processes.",
+      "urdu_question": "ایڈریس کی تصدیق کے مسائل کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "ایڈریس کی توثیق کے مسائل درستگی کی مدت کو متاثر نہیں کرتے، لیکن تجدید یا ترمیم کے عمل کے دوران حل کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can I get document validity confirmation letters?",
+      "answer": "NADRA can provide verification letters confirming document validity status for official purposes upon request with proper documentation.",
+      "urdu_question": "کیا میں دستاویز کی درستگی کے تصدیقی خطوط حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نادرا مناسب دستاویزات کے ساتھ درخواست پر سرکاری مقاصد کے لیے دستاویز کی درستگی کی تصدیق کرنے والے تصدیقی خطوط فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "How does document validity affect professional licensing?",
+      "answer": "Professional licensing bodies typically require valid identification. Expired documents may affect professional license renewals or new applications.",
+      "urdu_question": "دستاویز کی درستگی پیشہ ورانہ لائسنسنگ کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "پیشہ ورانہ لائسنس دینے والے اداروں کو عام طور پر درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات پیشہ ورانہ لائسنس کی تجدید یا نئی درخواستوں کو متاثر کر سکتی ہیں۔"
+    },
+    {
+      "question": "What validity considerations apply to documents for stateless persons?",
+      "answer": "Stateless persons may have special documentation with different validity rules. Contact NADRA directly for stateless person document validity information.",
+      "urdu_question": "بے وطن افراد کے لیے دستاویزات پر کیا جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "بے وطن افراد کے پاس مختلف قانونی قوانین کے ساتھ خصوصی دستاویزات ہو سکتی ہیں۔ بے وطن افراد کی دستاویز کی درستگی کی معلومات کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "Are there environmental factors that affect document validity?",
+      "answer": "Environmental factors like humidity or heat don't change validity periods but may damage documents physically, requiring replacement before expiry.",
+      "urdu_question": "کیا ایسے ماحولیاتی عوامل ہیں جو دستاویز کی درستگی کو متاثر کرتے ہیں؟",
+      "urdu_answer": "ماحولیاتی عوامل جیسے نمی یا حرارت درستگی کے دورانیے کو تبدیل نہیں کرتے ہیں لیکن دستاویزات کو جسمانی طور پر نقصان پہنچا سکتے ہیں، جس کی میعاد ختم ہونے سے پہلے متبادل کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "How does document validity affect cryptocurrency transactions?",
+      "answer": "Cryptocurrency exchanges and platforms typically require valid identification for account verification. Expired documents may prevent crypto transactions.",
+      "urdu_question": "دستاویز کی درستگی کرپٹو کرنسی کے لین دین کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "کرپٹو کرنسی ایکسچینجز اور پلیٹ فارمز کو عام طور پر اکاؤنٹ کی تصدیق کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات کرپٹو لین دین کو روک سکتی ہیں۔"
+    },
+    {
+      "question": "What validity rules apply to documents for seafarers and maritime workers?",
+      "answer": "Maritime workers follow standard validity rules but may need valid documents for international maritime certification and travel.",
+      "urdu_question": "بحری جہازوں اور بحری کارکنوں کے لیے دستاویزات پر کون سے قانونی اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "میری ٹائم ورکرز معیاری درستگی کے اصولوں کی پیروی کرتے ہیں لیکن انہیں بین الاقوامی میری ٹائم سرٹیفیکیشن اور سفر کے لیے درست دستاویزات کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can document validity status be checked via blockchain or distributed systems?",
+      "answer": "NADRA's current verification systems are centralized. Future blockchain integration for validity verification may be possible but isn't currently available.",
+      "urdu_question": "کیا دستاویز کی درستگی کی حیثیت کو بلاکچین یا تقسیم شدہ نظام کے ذریعے چیک کیا جا سکتا ہے؟",
+      "urdu_answer": "نادرا کے موجودہ تصدیقی نظام سنٹرلائزڈ ہیں۔ درستگی کی تصدیق کے لیے مستقبل میں بلاکچین انضمام ممکن ہو سکتا ہے لیکن فی الحال دستیاب نہیں ہے۔"
+    },
+    {
+      "question": "How does document validity affect e-commerce and online shopping?",
+      "answer": "E-commerce platforms may require valid identification for high-value purchases, account verification, or delivery confirmation.",
+      "urdu_question": "دستاویز کی درستگی ای کامرس اور آن لائن شاپنگ کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "ای کامرس پلیٹ فارمز کو زیادہ قیمت کی خریداریوں، اکاؤنٹ کی تصدیق، یا ترسیل کی تصدیق کے لیے درست شناخت کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens to document validity during technological upgrades?",
+      "answer": "Technological upgrades to NADRA systems don't affect document validity periods. Valid documents remain acceptable regardless of system changes.",
+      "urdu_question": "تکنیکی اپ گریڈ کے دوران دستاویز کی درستگی کا کیا ہوتا ہے؟",
+      "urdu_answer": "نادرا سسٹمز میں تکنیکی اپ گریڈ دستاویزات کی درستگی کی مدت کو متاثر نہیں کرتے ہیں۔ سسٹم کی تبدیلیوں سے قطع نظر درست دستاویزات قابل قبول رہتی ہیں۔"
+    },
+    {
+      "question": "Are there validity considerations for documents in conflict zones?",
+      "answer": "Documents remain valid according to their expiry dates even in conflict areas, but renewal may require special arrangements or alternative procedures.",
+      "urdu_question": "کیا تنازعات والے علاقوں میں دستاویزات کی درستگی کے تحفظات ہیں؟",
+      "urdu_answer": "تنازعات والے علاقوں میں بھی دستاویزات اپنی میعاد ختم ہونے کی تاریخوں کے مطابق درست رہتی ہیں، لیکن تجدید کے لیے خصوصی انتظامات یا متبادل طریقہ کار کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "How does document validity affect social media verification?",
+      "answer": "Social media platforms may require valid identification for account verification or business verification, especially for monetization features.",
+      "urdu_question": "دستاویز کی درستگی سوشل میڈیا کی تصدیق کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "سوشل میڈیا پلیٹ فارمز کو اکاؤنٹ کی تصدیق یا کاروباری توثیق کے لیے درست شناخت کی ضرورت پڑ سکتی ہے، خاص طور پر منیٹائزیشن کی خصوصیات کے لیے۔"
+    },
+    {
+      "question": "What validity rules apply to documents for persons with intellectual disabilities?",
+      "answer": "Persons with intellectual disabilities follow the same validity periods, but may have guardians assist with renewal procedures.",
+      "urdu_question": "دانشورانہ معذوری کے حامل افراد کے لیے دستاویزات پر درستی کے کون سے اصول لاگو ہوتے ہیں؟",
+      "urdu_answer": "دانشورانہ معذوری والے افراد یکساں معیاد کی پیروی کرتے ہیں، لیکن ہو سکتا ہے کہ سرپرست تجدید کے طریقہ کار میں مدد کریں۔"
+    },
+    {
+      "question": "Can artificial intelligence be used to verify document validity?",
+      "answer": "NADRA may use AI for various verification processes, but official validity confirmation still requires access to NADRA's authorized systems.",
+      "urdu_question": "کیا دستاویز کی درستگی کی تصدیق کے لیے مصنوعی ذہانت کا استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "نادرا مختلف تصدیقی عمل کے لیے AI کا استعمال کر سکتا ہے، لیکن سرکاری تصدیق کے لیے پھر بھی نادرا کے مجاز نظاموں تک رسائی درکار ہے۔"
+    },
+    {
+      "question": "How does document validity affect participation in government programs?",
+      "answer": "Government programs typically require valid identification for enrollment and benefit distribution. Expired documents may interrupt program participation.",
+      "urdu_question": "دستاویز کی درستگی حکومتی پروگراموں میں شرکت کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "سرکاری پروگراموں میں عام طور پر اندراج اور فوائد کی تقسیم کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات پروگرام میں شرکت کو روک سکتی ہیں۔"
+    },
+    {
+      "question": "What validity considerations apply to documents for climate refugees?",
+      "answer": "Climate refugees follow applicable refugee or displaced person documentation rules. Contact NADRA for specific validity rules for climate-displaced persons.",
+      "urdu_question": "آب و ہوا کے پناہ گزینوں کے لیے دستاویزات پر کیا جائز تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "موسمیاتی پناہ گزین قابل اطلاق پناہ گزین یا بے گھر افراد کے دستاویزات کے قواعد پر عمل کرتے ہیں۔ موسمیاتی بے گھر افراد کے لیے مخصوص درستگی کے قوانین کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "Are there validity implications for documents in smart city initiatives?",
+      "answer": "Smart city services may require digital identity verification with valid documents. Expired documents may limit access to smart city services.",
+      "urdu_question": "کیا سمارٹ سٹی کے اقدامات میں دستاویزات کی درستگی کے مضمرات ہیں؟",
+      "urdu_answer": "اسمارٹ سٹی سروسز کو درست دستاویزات کے ساتھ ڈیجیٹل شناخت کی تصدیق کی ضرورت پڑسکتی ہے۔ میعاد ختم ہونے والی دستاویزات سمارٹ سٹی خدمات تک رسائی کو محدود کر سکتی ہیں۔"
+    },
+    {
+      "question": "How does document validity affect participation in clinical trials?",
+      "answer": "Clinical trials require valid identification for participant verification and safety tracking. Expired documents may prevent clinical trial participation.",
+      "urdu_question": "دستاویز کی درستگی کلینیکل ٹرائلز میں شرکت کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "کلینیکل ٹرائلز میں شریک کی تصدیق اور حفاظت سے باخبر رہنے کے لیے درست شناخت کی ضرورت ہوتی ہے۔ میعاد ختم ہونے والی دستاویزات کلینیکل ٹرائل میں شرکت کو روک سکتی ہیں۔"
+    }
+  ]
+}

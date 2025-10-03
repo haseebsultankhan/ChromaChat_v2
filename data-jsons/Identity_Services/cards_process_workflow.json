@@ -1,0 +1,217 @@
+{
+  "file_name": "cards_process_workflow.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 35,
+  "qa_data": [
+    {
+      "question": "What is the complete workflow for ID card processing at NADRA?",
+      "answer": "The ID card processing workflow involves 6 sequential steps: 1) Visit to NADRA Registration Center (NRC), 2) Q-Metic token issuance for queue management, 3) Data capturing (fee payment, photograph capture, fingerprint capture, personal data entry, application form printing), 4) Confirmation and data accuracy review, 5) Interview with NADRA officer, and 6) Data upload to central server for backend processing and validation.",
+      "urdu_question": "نادرا میں شناختی کارڈ پروسیسنگ کے لیے مکمل ورک فلو کیا ہے؟",
+      "urdu_answer": "شناختی کارڈ پروسیسنگ ورک فلو میں 6 ترتیب وار اقدامات شامل ہیں: 1) نادرا رجسٹریشن سینٹر (NRC) کا دورہ، 2) قطار کے انتظام کے لیے Q-Metic ٹوکن کا اجرا، 3) ڈیٹا کیپچرنگ (فیس کی ادائیگی، تصویر کی گرفتاری، فنگر پرنٹ کیپچر، ذاتی ڈیٹا انٹری، درخواست فارم کی پرنٹنگ)، 4) ڈیٹا کی تصدیق، 4) ڈیٹا ریویو، ڈیٹا ریویو، 5) ڈیٹا کی تصدیق اور 6) بیک اینڈ پروسیسنگ اور توثیق کے لیے مرکزی سرور پر ڈیٹا اپ لوڈ کریں۔"
+    },
+    {
+      "question": "What is the first step in the NADRA ID card application process?",
+      "answer": "The first step is to visit a NADRA Registration Center (NRC) to initiate the ID card application process.",
+      "urdu_question": "نادرا شناختی کارڈ کی درخواست کے عمل کا پہلا مرحلہ کیا ہے؟",
+      "urdu_answer": "شناختی کارڈ کی درخواست کے عمل کو شروع کرنے کے لیے پہلا قدم نادرا رجسٹریشن سینٹر (NRC) کا دورہ کرنا ہے۔"
+    },
+    {
+      "question": "What is a Q-Metic token and how does it work?",
+      "answer": "A Q-Metic token is a queue management system used at NADRA centers. When applicants arrive, they receive a Q-Metic token that assigns them a queue number for orderly service handling, ensuring systematic and fair processing of applications.",
+      "urdu_question": "Q-Metic ٹوکن کیا ہے اور یہ کیسے کام کرتا ہے؟",
+      "urdu_answer": "Q-Metic ٹوکن ایک قطار کے انتظام کا نظام ہے جو نادرا مراکز میں استعمال ہوتا ہے۔ جب درخواست دہندگان پہنچتے ہیں، تو انہیں ایک Q-Metic ٹوکن ملتا ہے جو انہیں منظم سروس ہینڈلنگ، درخواستوں کی منظم اور منصفانہ پروسیسنگ کو یقینی بنانے کے لیے ایک قطار نمبر تفویض کرتا ہے۔"
+    },
+    {
+      "question": "What happens during the data capturing stage?",
+      "answer": "During the data capturing stage, several processes occur in sequence: fee payment, photograph capture, fingerprint (biometric) capture, personal data entry, and application form printing. All these steps are completed when it's the applicant's turn based on their Q-Metic token number.",
+      "urdu_question": "ڈیٹا کیپچرنگ مرحلے کے دوران کیا ہوتا ہے؟",
+      "urdu_answer": "ڈیٹا کیپچرنگ کے مرحلے کے دوران، کئی عمل ترتیب وار ہوتے ہیں: فیس کی ادائیگی، تصویر کی گرفتاری، فنگر پرنٹ (بائیو میٹرک) کیپچر، ذاتی ڈیٹا کا اندراج، اور درخواست فارم کی پرنٹنگ۔ یہ تمام مراحل اس وقت مکمل ہو جاتے ہیں جب درخواست دہندہ کی باری ان کے Q-Metic ٹوکن نمبر کی بنیاد پر ہوتی ہے۔"
+    },
+    {
+      "question": "What types of biometric data are captured during the application process?",
+      "answer": "During the application process, two types of biometric data are captured: fingerprints (biometric capture) and a photograph of the applicant.",
+      "urdu_question": "درخواست کے عمل کے دوران کس قسم کا بائیو میٹرک ڈیٹا حاصل کیا جاتا ہے؟",
+      "urdu_answer": "درخواست کے عمل کے دوران، بائیو میٹرک ڈیٹا کی دو قسمیں حاصل کی جاتی ہیں: فنگر پرنٹس (بائیو میٹرک کیپچر) اور درخواست دہندہ کی تصویر۔"
+    },
+    {
+      "question": "What happens after the application form is printed?",
+      "answer": "After the application form is printed, the applicant must review and confirm the printed form details for accuracy. This confirmation step ensures all entered information is correct before proceeding further.",
+      "urdu_question": "درخواست فارم پرنٹ ہونے کے بعد کیا ہوتا ہے؟",
+      "urdu_answer": "درخواست فارم پرنٹ ہونے کے بعد، درخواست دہندہ کو درستگی کے لیے پرنٹ شدہ فارم کی تفصیلات کا جائزہ لینا اور اس کی تصدیق کرنی چاہیے۔ یہ تصدیقی مرحلہ اس بات کو یقینی بناتا ہے کہ آگے بڑھنے سے پہلے درج کردہ تمام معلومات درست ہیں۔"
+    },
+    {
+      "question": "What is the purpose of the interview in the NADRA process?",
+      "answer": "The interview is conducted by a NADRA officer to validate the submitted data and assess the applicant's eligibility. This in-person interview serves as a verification step to ensure the authenticity of the application and information provided.",
+      "urdu_question": "نادرا کے عمل میں انٹرویو کا مقصد کیا ہے؟",
+      "urdu_answer": "یہ انٹرویو نادرا افسر کے ذریعے جمع کرائے گئے ڈیٹا کی توثیق اور درخواست گزار کی اہلیت کا اندازہ لگانے کے لیے کیا جاتا ہے۔ یہ ذاتی انٹرویو درخواست اور فراہم کردہ معلومات کی صداقت کو یقینی بنانے کے لیے ایک تصدیقی قدم کے طور پر کام کرتا ہے۔"
+    },
+    {
+      "question": "What happens to the data after the interview is completed?",
+      "answer": "After the interview is completed, the collected data is uploaded to NADRA's central server for backend processing and further validation.",
+      "urdu_question": "انٹرویو مکمل ہونے کے بعد ڈیٹا کا کیا ہوتا ہے؟",
+      "urdu_answer": "انٹرویو مکمل ہونے کے بعد، جمع کردہ ڈیٹا کو بیک اینڈ پروسیسنگ اور مزید تصدیق کے لیے نادرا کے مرکزی سرور پر اپ لوڈ کر دیا جاتا ہے۔"
+    },
+    {
+      "question": "Who conducts the interview during the NADRA application process?",
+      "answer": "The interview is conducted by a NADRA officer who validates the submitted data and assesses the applicant's eligibility.",
+      "urdu_question": "نادرا کی درخواست کے عمل کے دوران انٹرویو کون کرتا ہے؟",
+      "urdu_answer": "انٹرویو نادرا کے ایک افسر کے ذریعے لیا جاتا ہے جو جمع کرائے گئے ڈیٹا کی توثیق کرتا ہے اور درخواست گزار کی اہلیت کا جائزہ لیتا ہے۔"
+    },
+    {
+      "question": "Is fee payment required during the NADRA application process?",
+      "answer": "Yes, fee payment is a mandatory step during the data capturing stage of the NADRA application process.",
+      "urdu_question": "کیا نادرا کی درخواست کے عمل کے دوران فیس کی ادائیگی ضروری ہے؟",
+      "urdu_answer": "جی ہاں، نادرا کی درخواست کے عمل کے ڈیٹا کیپچرنگ مرحلے کے دوران فیس کی ادائیگی ایک لازمی مرحلہ ہے۔"
+    },
+    {
+      "question": "Can I skip any steps in the NADRA ID card processing workflow?",
+      "answer": "No, the NADRA ID card processing workflow involves sequential steps that must be completed in order: visit to NRC, Q-Metic token, data capturing, confirmation, interview, and data upload. Each step is essential for proper processing.",
+      "urdu_question": "کیا میں نادرا شناختی کارڈ پروسیسنگ ورک فلو میں کوئی قدم چھوڑ سکتا ہوں؟",
+      "urdu_answer": "نہیں، نادرا شناختی کارڈ پروسیسنگ ورک فلو میں ترتیب وار اقدامات شامل ہیں جنہیں مکمل کرنا ضروری ہے: NRC کا دورہ، Q-Metic ٹوکن، ڈیٹا کیپچرنگ، تصدیق، انٹرویو، اور ڈیٹا اپ لوڈ۔ ہر قدم مناسب پروسیسنگ کے لیے ضروری ہے۔"
+    },
+    {
+      "question": "What is personal data entry in the NADRA process?",
+      "answer": "Personal data entry is part of the data capturing stage where the applicant's personal information, demographic details, and other required data are entered into the NADRA system.",
+      "urdu_question": "نادرا کے عمل میں ذاتی ڈیٹا انٹری کیا ہے؟",
+      "urdu_answer": "پرسنل ڈیٹا انٹری ڈیٹا کیپچرنگ اسٹیج کا حصہ ہے جہاں درخواست گزار کی ذاتی معلومات، آبادیاتی تفصیلات اور دیگر مطلوبہ ڈیٹا نادرا سسٹم میں داخل کیا جاتا ہے۔"
+    },
+    {
+      "question": "Why is data accuracy confirmation important?",
+      "answer": "Data accuracy confirmation is important because it allows the applicant to review and verify that all information on the printed application form is correct before final submission. This step helps prevent errors and ensures accurate records.",
+      "urdu_question": "ڈیٹا کی درستگی کی تصدیق کیوں ضروری ہے؟",
+      "urdu_answer": "ڈیٹا کی درستگی کی تصدیق ضروری ہے کیونکہ یہ درخواست دہندہ کو جائزہ لینے اور اس بات کی تصدیق کرنے کی اجازت دیتا ہے کہ حتمی جمع کرانے سے پہلے پرنٹ شدہ درخواست فارم پر موجود تمام معلومات درست ہیں۔ یہ قدم غلطیوں کو روکنے میں مدد کرتا ہے اور درست ریکارڈ کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What happens at NADRA's central server?",
+      "answer": "At NADRA's central server, the collected applicant data undergoes backend processing and further validation after being uploaded from the registration center.",
+      "urdu_question": "نادرا کے مرکزی سرور پر کیا ہوتا ہے؟",
+      "urdu_answer": "نادرا کے مرکزی سرور پر، جمع کردہ درخواست دہندگان کا ڈیٹا بیک اینڈ پروسیسنگ سے گزرتا ہے اور رجسٹریشن سینٹر سے اپ لوڈ ہونے کے بعد اس کی مزید تصدیق ہوتی ہے۔"
+    },
+    {
+      "question": "Do I need to bring anything for the photograph during the application?",
+      "answer": "No, the photograph is captured at the NADRA center during the data capturing stage as part of the application process. You don't need to bring passport photos.",
+      "urdu_question": "کیا مجھے درخواست کے دوران تصویر کے لیے کچھ لانے کی ضرورت ہے؟",
+      "urdu_answer": "نہیں، درخواست کے عمل کے حصے کے طور پر ڈیٹا کیپچرنگ کے مرحلے کے دوران تصویر نادرا سینٹر میں لی جاتی ہے۔ آپ کو پاسپورٹ کی تصاویر لانے کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "How does the queue system work at NADRA centers?",
+      "answer": "The queue system works through Q-Metic tokens. When you arrive at a NADRA Registration Center, you receive a Q-Metic token with a queue number. You wait for your turn based on this number, ensuring orderly and systematic service delivery.",
+      "urdu_question": "نادرا مراکز میں قطار کا نظام کیسے کام کرتا ہے؟",
+      "urdu_answer": "قطار کا نظام Q-Metic ٹوکن کے ذریعے کام کرتا ہے۔ جب آپ نادرا رجسٹریشن سینٹر پر پہنچتے ہیں، تو آپ کو قطار نمبر کے ساتھ Q-Metic ٹوکن ملتا ہے۔ آپ اس نمبر کی بنیاد پر اپنی باری کا انتظار کریں، منظم اور منظم سروس کی فراہمی کو یقینی بنائیں۔"
+    },
+    {
+      "question": "What validation occurs during the NADRA application process?",
+      "answer": "Validation occurs at two stages: during the in-person interview where a NADRA officer validates submitted data and assesses eligibility, and at the central server where backend processing and further validation of uploaded data takes place.",
+      "urdu_question": "نادرا کی درخواست کے عمل کے دوران کیا تصدیق ہوتی ہے؟",
+      "urdu_answer": "تصدیق دو مراحل پر ہوتی ہے: ذاتی انٹرویو کے دوران جہاں نادرا افسر جمع کرائے گئے ڈیٹا کی توثیق کرتا ہے اور اہلیت کا جائزہ لیتا ہے، اور مرکزی سرور پر جہاں بیک اینڈ پروسیسنگ اور اپ لوڈ کردہ ڈیٹا کی مزید توثیق ہوتی ہے۔"
+    },
+    {
+      "question": "Are there multiple NADRA Registration Centers available?",
+      "answer": "Yes, there are multiple NADRA Registration Centers (NRCs) available where applicants can visit to initiate their ID card application process.",
+      "urdu_question": "کیا نادرا کے متعدد رجسٹریشن مراکز دستیاب ہیں؟",
+      "urdu_answer": "ہاں، متعدد نادرا رجسٹریشن سینٹرز (NRCs) دستیاب ہیں جہاں درخواست دہندگان اپنے شناختی کارڈ کی درخواست کا عمل شروع کرنے کے لیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "How long does the complete ID card processing workflow take at the center?",
+      "answer": "The complete workflow typically takes 2-4 hours depending on crowd, queue position, and application complexity. Individual steps take: Q-Metic token (5 minutes), Data capturing (30-45 minutes), Confirmation (10 minutes), Interview (15-20 minutes), Data upload (5-10 minutes). Peak times may increase waiting periods.",
+      "urdu_question": "مرکز میں مکمل شناختی کارڈ پروسیسنگ ورک فلو میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "مکمل ورک فلو میں عام طور پر ہجوم، قطار کی پوزیشن، اور درخواست کی پیچیدگی کے لحاظ سے 2-4 گھنٹے لگتے ہیں۔ انفرادی اقدامات اٹھاتے ہیں: Q-Metic ٹوکن (5 منٹ)، ڈیٹا کیپچرنگ (30-45 منٹ)، تصدیق (10 منٹ)، انٹرویو (15-20 منٹ)، ڈیٹا اپ لوڈ (5-10 منٹ)۔ چوٹی کے اوقات انتظار کی مدت میں اضافہ کر سکتے ہیں۔"
+    },
+    {
+      "question": "What happens if there are technical issues during biometric capture?",
+      "answer": "If biometric capture fails: staff will attempt multiple captures using different techniques, clean the scanner and try again, use alternative fingers if some are damaged, escalate to technical support if needed, and document the issue for potential free re-capture later. The process may be paused until technical issues are resolved.",
+      "urdu_question": "اگر بائیو میٹرک کیپچر کے دوران تکنیکی مسائل ہوں تو کیا ہوتا ہے؟",
+      "urdu_answer": "اگر بائیو میٹرک کیپچر ناکام ہوجاتا ہے: عملہ مختلف تکنیکوں کا استعمال کرتے ہوئے متعدد کیپچر کرنے کی کوشش کرے گا، اسکینر کو صاف کرے گا اور دوبارہ کوشش کرے گا، اگر کچھ کو نقصان پہنچا ہے تو متبادل انگلیوں کا استعمال کریں، ضرورت پڑنے پر تکنیکی مدد کی طرف بڑھیں، اور بعد میں ممکنہ مفت دوبارہ کیپچر کے لیے مسئلے کو دستاویز کریں۔ تکنیکی مسائل کے حل ہونے تک عمل کو روکا جا سکتا ہے۔"
+    },
+    {
+      "question": "Can I leave the center between steps and return later?",
+      "answer": "No, the workflow is designed as a continuous process. Once you receive your Q-Metic token, you should remain at the center to complete all steps in sequence. Leaving may require restarting the entire process with a new token and queue number.",
+      "urdu_question": "کیا میں قدموں کے درمیان مرکز چھوڑ کر بعد میں واپس آ سکتا ہوں؟",
+      "urdu_answer": "نہیں، ورک فلو کو ایک مسلسل عمل کے طور پر ڈیزائن کیا گیا ہے۔ ایک بار جب آپ اپنا Q-Metic ٹوکن حاصل کر لیتے ہیں، تو آپ کو ترتیب میں تمام مراحل مکمل کرنے کے لیے مرکز میں رہنا چاہیے۔ چھوڑنے کے لیے پورے عمل کو نئے ٹوکن اور قطار نمبر کے ساتھ دوبارہ شروع کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What specific questions are asked during the NADRA interview?",
+      "answer": "The interview typically covers: verification of personal details on the form, confirmation of family information, explanation of any document discrepancies, address verification questions, purpose of application, relationship verification with family members, and assessment of document authenticity. The officer may ask for clarification on any inconsistencies.",
+      "urdu_question": "نادرا انٹرویو کے دوران کون سے مخصوص سوالات پوچھے جاتے ہیں؟",
+      "urdu_answer": "انٹرویو میں عام طور پر شامل ہوتا ہے: فارم پر ذاتی تفصیلات کی تصدیق، خاندانی معلومات کی تصدیق، کسی بھی دستاویز میں تضاد کی وضاحت، ایڈریس کی توثیق کے سوالات، درخواست کا مقصد، خاندان کے افراد کے ساتھ تعلقات کی تصدیق، اور دستاویز کی صداقت کا اندازہ۔ افسر کسی بھی عدم مطابقت پر وضاحت طلب کر سکتا ہے۔"
+    },
+    {
+      "question": "What happens after the data upload to central server?",
+      "answer": "After data upload: your application enters the backend processing queue, automated verification checks are performed, document authenticity is verified, biometric matching occurs, final approval or rejection decision is made, and your application status is updated in the system. You'll receive SMS/email notifications about progress.",
+      "urdu_question": "مرکزی سرور پر ڈیٹا اپ لوڈ ہونے کے بعد کیا ہوتا ہے؟",
+      "urdu_answer": "ڈیٹا اپ لوڈ کرنے کے بعد: آپ کی درخواست بیک اینڈ پروسیسنگ قطار میں داخل ہو جاتی ہے، خودکار تصدیقی جانچ پڑتال کی جاتی ہے، دستاویز کی صداقت کی تصدیق کی جاتی ہے، بائیو میٹرک میچنگ ہوتی ہے، حتمی منظوری یا مسترد ہونے کا فیصلہ کیا جاتا ہے، اور آپ کی درخواست کی حیثیت سسٹم میں اپ ڈیٹ ہو جاتی ہے۔ آپ کو پیش رفت کے بارے میں SMS/ای میل اطلاعات موصول ہوں گی۔"
+    },
+    {
+      "question": "Can family members be processed together in the same workflow?",
+      "answer": "Family members can apply together and may receive consecutive Q-Metic tokens, but each person must complete their individual workflow steps including separate biometric capture, data entry, confirmation, and interview. The process cannot be combined but can be coordinated.",
+      "urdu_question": "کیا فیملی ممبرز کو ایک ہی ورک فلو میں ایک ساتھ پروسیس کیا جا سکتا ہے؟",
+      "urdu_answer": "خاندان کے افراد مل کر درخواست دے سکتے ہیں اور لگاتار Q-Metic ٹوکن حاصل کر سکتے ہیں، لیکن ہر فرد کو اپنے انفرادی ورک فلو کے مراحل کو مکمل کرنا چاہیے جن میں علیحدہ بائیو میٹرک کیپچر، ڈیٹا انٹری، تصدیق، اور انٹرویو شامل ہیں۔ عمل کو یکجا نہیں کیا جا سکتا لیکن مربوط کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What if I make an error during the confirmation stage?",
+      "answer": "If you find errors during confirmation: immediately inform the staff before proceeding, corrections can be made during the data capturing stage, the form will be reprinted with correct information, you'll need to re-confirm the corrected form, and there's no additional fee for corrections made during the same visit.",
+      "urdu_question": "اگر میں تصدیق کے مرحلے کے دوران غلطی کروں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کو تصدیق کے دوران غلطیاں نظر آتی ہیں: آگے بڑھنے سے پہلے عملے کو فوری طور پر مطلع کریں، ڈیٹا کیپچرنگ کے مرحلے کے دوران تصحیح کی جا سکتی ہے، فارم کو درست معلومات کے ساتھ دوبارہ پرنٹ کیا جائے گا، آپ کو درست کیے گئے فارم کی دوبارہ تصدیق کرنی ہوگی، اور اسی دورے کے دوران کی گئی اصلاحات کے لیے کوئی اضافی فیس نہیں ہے۔"
+    },
+    {
+      "question": "Are there any accessibility accommodations in the workflow process?",
+      "answer": "NADRA provides accessibility accommodations including: priority queue for disabled persons and elderly, wheelchair accessible facilities, assistance from staff for form filling, alternative biometric methods if needed, family member assistance permission, and special seating arrangements during waiting periods.",
+      "urdu_question": "کیا ورک فلو کے عمل میں کوئی قابل رسائی جگہیں ہیں؟",
+      "urdu_answer": "نادرا قابل رسائی رہائش فراہم کرتا ہے بشمول: معذور افراد اور بزرگوں کے لیے ترجیحی قطار، وہیل چیئر تک رسائی کی سہولیات، فارم بھرنے کے لیے عملے کی مدد، ضرورت پڑنے پر متبادل بائیو میٹرک طریقے، فیملی ممبر کی مدد کی اجازت، اور انتظار کے دوران بیٹھنے کے خصوصی انتظامات۔"
+    },
+    {
+      "question": "What are the peak hours at NADRA centers and how can I avoid long queues?",
+      "answer": "Peak hours are typically 9 AM-12 PM and 2 PM-4 PM on weekdays. To avoid crowds: visit early morning (8 AM) or late afternoon (4-5 PM), avoid Mondays and days after holidays, consider visiting smaller centers, use appointment systems where available, and visit mid-week (Tuesday-Thursday) for shorter queues.",
+      "urdu_question": "نادرا مراکز میں اوقات کار کیا ہیں اور میں لمبی قطاروں سے کیسے بچ سکتا ہوں؟",
+      "urdu_answer": "کام کے اوقات عام طور پر 9 AM-12 PM اور 2 PM-4 PM ہفتے کے دنوں میں ہوتے ہیں۔ ہجوم سے بچنے کے لیے: صبح سویرے (8AM) یا دیر سے دوپہر (4-5 PM) تشریف لے جائیں، پیر اور تعطیلات کے بعد کے دنوں سے گریز کریں، چھوٹے مراکز پر جانے پر غور کریں، جہاں دستیاب ہوں اپوائنٹمنٹ سسٹم استعمال کریں، اور چھوٹی قطاروں کے لیے ہفتے کے وسط (منگل سے جمعرات) کا دورہ کریں۔"
+    },
+    {
+      "question": "Can I track my application status after completing the workflow?",
+      "answer": "Yes, you can track your application using: the tracking number provided after data upload, SMS service by sending your CNIC to designated short codes, PAK-ID mobile app, NADRA website tracking portal, calling NADRA helpline 1777, or visiting the center with your receipt number.",
+      "urdu_question": "کیا میں ورک فلو مکمل کرنے کے بعد اپنی درخواست کی حیثیت کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ اپنی درخواست کو اس طرح استعمال کر کے ٹریک کر سکتے ہیں: ڈیٹا اپ لوڈ کے بعد فراہم کردہ ٹریکنگ نمبر، مخصوص شارٹ کوڈز پر اپنا شناختی کارڈ بھیج کر ایس ایم ایس سروس، PAK-ID موبائل ایپ، نادرا ویب سائٹ ٹریکنگ پورٹل، نادرا ہیلپ لائن 1777 پر کال کرنا، یا اپنے رسید نمبر کے ساتھ سنٹر پر جا کر۔"
+    },
+    {
+      "question": "What backup procedures exist if the central server is down during data upload?",
+      "answer": "If the central server is down: data is temporarily stored locally at the center, you'll receive a temporary receipt, upload will occur automatically when connectivity is restored, you'll be notified via SMS when upload is complete, and no re-visit is required unless specifically requested by NADRA.",
+      "urdu_question": "ڈیٹا اپ لوڈ کے دوران مرکزی سرور بند ہونے کی صورت میں بیک اپ کے کیا طریقہ کار موجود ہیں؟",
+      "urdu_answer": "اگر مرکزی سرور ڈاؤن ہے: ڈیٹا عارضی طور پر مقامی طور پر مرکز میں محفوظ ہے، آپ کو ایک عارضی رسید موصول ہوگی، کنیکٹیویٹی بحال ہونے پر اپ لوڈ خود بخود ہو جائے گا، اپ لوڈ مکمل ہونے پر آپ کو SMS کے ذریعے مطلع کیا جائے گا، اور جب تک نادرا کی طرف سے خصوصی طور پر درخواست نہ کی گئی ہو، دوبارہ ملنے کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "Who else besides NADRA officers might I interact with during the workflow?",
+      "answer": "During the workflow you may interact with: reception staff for initial guidance, Q-Metic token issuer, fee collection personnel, biometric capture technicians, data entry operators, form printing staff, the interviewing NADRA officer, and security personnel. Each has specific roles in ensuring smooth processing.",
+      "urdu_question": "ورک فلو کے دوران میں نادرا افسران کے علاوہ اور کس سے بات چیت کر سکتا ہوں؟",
+      "urdu_answer": "ورک فلو کے دوران آپ ان کے ساتھ بات چیت کر سکتے ہیں: ابتدائی رہنمائی کے لیے استقبالیہ عملہ، Q-Metic ٹوکن جاری کرنے والا، فیس جمع کرنے والا عملہ، بائیو میٹرک کیپچر ٹیکنیشن، ڈیٹا انٹری آپریٹرز، فارم پرنٹنگ عملہ، انٹرویو لینے والا نادرا افسر، اور سیکیورٹی اہلکار۔ ہموار پروسیسنگ کو یقینی بنانے میں ہر ایک کا مخصوص کردار ہوتا ہے۔"
+    },
+    {
+      "question": "What privacy and security measures are in place during the workflow?",
+      "answer": "Security measures include: restricted access to processing areas, biometric data encryption, secure document handling protocols, limited staff access to personal information, CCTV monitoring for security, confidential interview areas, secure data transmission to central servers, and disposal protocols for any temporary documents.",
+      "urdu_question": "ورک فلو کے دوران رازداری اور حفاظتی اقدامات کیا ہیں؟",
+      "urdu_answer": "حفاظتی اقدامات میں شامل ہیں: پروسیسنگ ایریاز تک محدود رسائی، بائیو میٹرک ڈیٹا انکرپشن، محفوظ دستاویز ہینڈلنگ پروٹوکول، ذاتی معلومات تک عملے کی محدود رسائی، سیکیورٹی کے لیے CCTV مانیٹرنگ، خفیہ انٹرویو کے علاقے، مرکزی سرورز تک محفوظ ڈیٹا کی منتقلی، اور کسی بھی عارضی دستاویزات کے لیے ڈسپوزل پروٹوکول۔"
+    },
+    {
+      "question": "Are there any additional fees during the workflow process?",
+      "answer": "No additional fees are charged during the workflow process itself. The fee paid at the beginning covers all workflow steps including biometric capture, data entry, form printing, interview, and data upload. Additional fees only apply for optional services like expedited processing or delivery options.",
+      "urdu_question": "کیا ورک فلو کے عمل کے دوران کوئی اضافی فیس ہے؟",
+      "urdu_answer": "ورک فلو کے عمل کے دوران کوئی اضافی فیس نہیں لی جاتی ہے۔ شروع میں ادا کی گئی فیس میں ورک فلو کے تمام مراحل شامل ہیں جن میں بائیو میٹرک کیپچر، ڈیٹا انٹری، فارم پرنٹنگ، انٹرویو، اور ڈیٹا اپ لوڈ شامل ہیں۔ اضافی فیسیں صرف اختیاری خدمات جیسے تیز رفتار پروسیسنگ یا ترسیل کے اختیارات کے لیے لاگو ہوتی ہیں۔"
+    },
+    {
+      "question": "What should I do if I feel the interview process was unfair or biased?",
+      "answer": "If you experience unfair treatment: note the officer's name and time, request to speak with the supervisor immediately, file a formal complaint at the center, use NADRA's complaint portal online, call the helpline 1777 to report the incident, and request a different officer if available. NADRA takes fairness complaints seriously.",
+      "urdu_question": "اگر مجھے لگتا ہے کہ انٹرویو کا عمل غیر منصفانہ یا جانبدارانہ تھا تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو غیر منصفانہ سلوک کا سامنا کرنا پڑتا ہے: افسر کا نام اور وقت نوٹ کریں، فوری طور پر سپروائزر سے بات کرنے کی درخواست کریں، مرکز میں باضابطہ شکایت درج کریں، نادرا کا شکایتی پورٹل آن لائن استعمال کریں، واقعے کی اطلاع دینے کے لیے ہیلپ لائن 1777 پر کال کریں، اور اگر دستیاب ہو تو کسی دوسرے افسر سے درخواست کریں۔ نادرا انصاف کی شکایات کو سنجیدگی سے لیتا ہے۔"
+    },
+    {
+      "question": "Can I request a specific time slot for my workflow processing?",
+      "answer": "Some NADRA centers offer appointment systems for specific time slots, while others operate on first-come-first-served basis. Check with your local center for appointment availability, book online if the system is available, or visit during off-peak hours to reduce waiting time. Appointments may have limited slots per day.",
+      "urdu_question": "کیا میں اپنے ورک فلو پروسیسنگ کے لیے مخصوص ٹائم سلاٹ کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "نادرا کے کچھ مراکز مخصوص ٹائم سلاٹس کے لیے اپوائنٹمنٹ سسٹم پیش کرتے ہیں، جبکہ دیگر پہلے آئیے پہلے پائیے کی بنیاد پر کام کرتے ہیں۔ اپوائنٹمنٹ کی دستیابی کے لیے اپنے مقامی سینٹر سے چیک کریں، اگر سسٹم دستیاب ہے تو آن لائن بک کریں، یا انتظار کے وقت کو کم کرنے کے لیے آف پیک اوقات میں تشریف لائیں۔ تقرریوں میں فی دن محدود سلاٹ ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What quality checks are performed during the workflow to ensure accuracy?",
+      "answer": "Quality checks include: document verification against originals, biometric quality assessment during capture, data entry cross-checking, supervisor review of applications, automated system validations, interview-based verification, and final review before data upload. Multiple checkpoints ensure accuracy and prevent errors.",
+      "urdu_question": "درستگی کو یقینی بنانے کے لیے ورک فلو کے دوران کون سے معیار کی جانچ پڑتال کی جاتی ہے؟",
+      "urdu_answer": "کوالٹی چیکس میں شامل ہیں: اصلی کے خلاف دستاویز کی تصدیق، کیپچر کے دوران بائیو میٹرک معیار کا جائزہ، ڈیٹا انٹری کراس چیکنگ، درخواستوں کا نگران جائزہ، خودکار نظام کی توثیق، انٹرویو پر مبنی تصدیق، اور ڈیٹا اپ لوڈ کرنے سے پہلے حتمی جائزہ۔ متعدد چیک پوائنٹس درستگی کو یقینی بناتے ہیں اور غلطیوں کو روکتے ہیں۔"
+    }
+  ]
+}

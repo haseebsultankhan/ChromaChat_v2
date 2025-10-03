@@ -1,0 +1,385 @@
+{
+  "file_name": "eligibility_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 65,
+  "qa_data": [
+    {
+      "question": "What is the general requirement for registration with NADRA?",
+      "answer": "For registration, the applicant must first prove their eligibility for the specific ID card by providing the required original documentary evidence. It is important to note that as per Section 30 (1) of the NADRA Ordinance, it is a criminal offence to provide false or misleading information or fake documents.",
+      "urdu_question": "نادرا کے ساتھ رجسٹریشن کی عام ضرورت کیا ہے؟",
+      "urdu_answer": "رجسٹریشن کے لیے، درخواست دہندہ کو پہلے مطلوبہ اصل دستاویزی ثبوت فراہم کرکے مخصوص شناختی کارڈ کے لیے اپنی اہلیت کو ثابت کرنا ہوگا۔ یہ نوٹ کرنا ضروری ہے کہ نادرا آرڈیننس کے سیکشن 30 (1) کے مطابق غلط یا گمراہ کن معلومات یا جعلی دستاویزات فراہم کرنا مجرمانہ جرم ہے۔"
+    },
+    {
+      "question": "What are the eligibility criteria for a National Identity Card (NIC)?",
+      "answer": "To be eligible for a National Identity Card (NIC), the applicant must be a Pakistani Citizen who is 18 years or above. This is based on Section 10 of the NADRA Ordinance.",
+      "urdu_question": "قومی شناختی کارڈ (NIC) کے لیے اہلیت کے معیار کیا ہیں؟",
+      "urdu_answer": "قومی شناختی کارڈ (NIC) کے لیے اہل ہونے کے لیے، درخواست دہندہ کا پاکستانی شہری ہونا چاہیے جس کی عمر 18 سال یا اس سے زیادہ ہو۔ یہ نادرا آرڈیننس کے سیکشن 10 پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are required for a National Identity Card (NIC)?",
+      "answer": "Required documents for NIC include: Birth Certificate, Certificate of Citizenship, Blood Relative/Head of Family's National ID Card or other proof of citizenship. In exceptional cases, other documentary proof may suffice.",
+      "urdu_question": "قومی شناختی کارڈ (NIC) کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "این آئی سی کے لیے درکار دستاویزات میں شامل ہیں: پیدائش کا سرٹیفکیٹ، شہریت کا سرٹیفکیٹ، خون کا رشتہ دار/ خاندان کے سربراہ کا قومی شناختی کارڈ یا شہریت کا دوسرا ثبوت۔ غیر معمولی معاملات میں، دیگر دستاویزی ثبوت کافی ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Who is eligible for a Juvenile Card?",
+      "answer": "Pakistani Citizens who are under 18 years of age are eligible for a Juvenile Card. This is based on Section 9 of the NADRA Ordinance.",
+      "urdu_question": "جوینائل کارڈ کے لیے کون اہل ہے؟",
+      "urdu_answer": "پاکستانی شہری جن کی عمر 18 سال سے کم ہے وہ جووینائل کارڈ کے اہل ہیں۔ یہ نادرا آرڈیننس کے سیکشن 9 پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are needed for a Juvenile Card?",
+      "answer": "Required documents for Juvenile Card include: Birth Certificate or Child Registration Certificate (B-Form), Blood Relative/Head of Family's National ID Card. In exceptional cases, other proof such as pre-1979 government-issued documents may be accepted.",
+      "urdu_question": "جوینائل کارڈ کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "جووینائل کارڈ کے لیے درکار دستاویزات میں شامل ہیں: پیدائش کا سرٹیفکیٹ یا چائلڈ رجسٹریشن سرٹیفکیٹ (B-فارم)، خون کا رشتہ دار/ خاندان کا قومی شناختی کارڈ۔ غیر معمولی معاملات میں، دیگر ثبوت جیسے کہ 1979 سے پہلے کی حکومت کی طرف سے جاری کردہ دستاویزات کو قبول کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What is NICOP and who can apply for it?",
+      "answer": "NICOP (National Identity Card for Overseas Pakistanis) is for Non-Resident Pakistanis or those intending to reside abroad. This is based on Section 12 of the NADRA Ordinance.",
+      "urdu_question": "NICOP کیا ہے اور کون اس کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "NICOP (بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ) غیر مقیم پاکستانیوں یا بیرون ملک رہنے کا ارادہ رکھنے والوں کے لیے ہے۔ یہ نادرا آرڈیننس کے سیکشن 12 پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are required for NICOP?",
+      "answer": "Required documents for NICOP include: Birth Certificate, Blood Relative/Head of Family's National ID Card, Proof of overseas residence. In exceptional cases, pre-1979 official documents may be accepted.",
+      "urdu_question": "NICOP کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "NICOP کے لیے مطلوبہ دستاویزات میں شامل ہیں: پیدائش کا سرٹیفکیٹ، خون کے رشتہ دار/ خاندان کے سربراہ کا قومی شناختی کارڈ، بیرون ملک رہائش کا ثبوت۔ غیر معمولی معاملات میں، 1979 سے پہلے کے سرکاری دستاویزات کو قبول کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Who is eligible for a Child Registration Certificate (CRC)?",
+      "answer": "Pakistani Citizens who are under 18 years of age are eligible for a Child Registration Certificate (CRC). This is based on Section 9 of the NADRA Ordinance.",
+      "urdu_question": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کے لیے کون اہل ہے؟",
+      "urdu_answer": "پاکستانی شہری جن کی عمر 18 سال سے کم ہے وہ چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کے اہل ہیں۔ یہ نادرا آرڈیننس کے سیکشن 9 پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are required for a Child Registration Certificate (CRC)?",
+      "answer": "The only required document for CRC is a Birth Certificate.",
+      "urdu_question": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "CRC کے لیے واحد مطلوبہ دستاویز پیدائش کا سرٹیفکیٹ ہے۔"
+    },
+    {
+      "question": "Who can apply for a Pakistan Origin Card (POC)?",
+      "answer": "POC (Pakistan Origin Card) is available to a prescribed class of foreigners or dual nationals. This is based on Section 11 of the NADRA Ordinance.",
+      "urdu_question": "پاکستان اوریجن کارڈ (POC) کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "POC (پاکستان اوریجن کارڈ) ایک مقررہ طبقے کے غیر ملکیوں یا دوہری شہریوں کے لیے دستیاب ہے۔ یہ نادرا آرڈیننس کے سیکشن 11 پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are required for Pakistan Origin Card (POC)?",
+      "answer": "Required documents for POC include: Old Pakistani passport, MNIC, parent's ID documents, Foreign Passport, and Registered Marriage Certificate (if applicable).",
+      "urdu_question": "پاکستان اوریجن کارڈ (POC) کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "POC کے لیے مطلوبہ دستاویزات میں شامل ہیں: پرانا پاکستانی پاسپورٹ، MNIC، والدین کی شناختی دستاویزات، غیر ملکی پاسپورٹ، اور رجسٹرڈ میرج سرٹیفکیٹ (اگر قابل اطلاق ہو)۔"
+    },
+    {
+      "question": "Who is eligible for an Alien Registration Card?",
+      "answer": "Foreigners legally residing in Pakistan (except restricted nationalities) are eligible for Alien Registration Card. This is based on Section 13 and Section 14-D of the Foreigners Act 1946.",
+      "urdu_question": "ایلین رجسٹریشن کارڈ کے لیے کون اہل ہے؟",
+      "urdu_answer": "پاکستان میں قانونی طور پر مقیم غیر ملکی (محدود قومیتوں کے علاوہ) ایلین رجسٹریشن کارڈ کے اہل ہیں۔ یہ غیر ملکی ایکٹ 1946 کے سیکشن 13 اور سیکشن 14-D پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are required for Alien Registration Card?",
+      "answer": "Required documents for Alien Registration Card include: Foreign Passport and Valid Pakistani Visa.",
+      "urdu_question": "ایلین رجسٹریشن کارڈ کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "ایلین رجسٹریشن کارڈ کے لیے درکار دستاویزات میں شامل ہیں: غیر ملکی پاسپورٹ اور درست پاکستانی ویزا۔"
+    },
+    {
+      "question": "Who can apply for a Cancellation Certificate due to death?",
+      "answer": "Cancellation Certificate due to death can be applied for deceased Pakistani citizens who had a 13-digit registration number. This is based on Section 17 of the NADRA Ordinance.",
+      "urdu_question": "موت کی وجہ سے منسوخی کے سرٹیفکیٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "موت کی وجہ سے منسوخی کا سرٹیفکیٹ ان متوفی پاکستانی شہریوں کے لیے اپلائی کیا جا سکتا ہے جن کے پاس 13 ہندسوں کا رجسٹریشن نمبر تھا۔ یہ نادرا آرڈیننس کے سیکشن 17 پر مبنی ہے۔"
+    },
+    {
+      "question": "What documents are required for Cancellation Certificate due to death?",
+      "answer": "Required document is a Death certificate issued by Union Council or foreign authority.",
+      "urdu_question": "موت کی وجہ سے منسوخی کے سرٹیفکیٹ کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویز یونین کونسل یا غیر ملکی اتھارٹی کی طرف سے جاری کردہ موت کا سرٹیفکیٹ ہے۔"
+    },
+    {
+      "question": "What happens if someone provides false information or fake documents to NADRA?",
+      "answer": "As per Section 30 (1) of the NADRA Ordinance, providing false or misleading information or fake documents is a criminal offence and can result in legal prosecution.",
+      "urdu_question": "اگر کوئی نادرا کو غلط معلومات یا جعلی دستاویزات فراہم کرے تو کیا ہوگا؟",
+      "urdu_answer": "نادرا آرڈیننس کے سیکشن 30 (1) کے مطابق غلط یا گمراہ کن معلومات یا جعلی دستاویزات فراہم کرنا ایک مجرمانہ جرم ہے اور اس کے نتیجے میں قانونی کارروائی ہو سکتی ہے۔"
+    },
+    {
+      "question": "What constitutes 'exceptional cases' for documentary proof?",
+      "answer": "Exceptional cases refer to situations where standard required documents are not available, and alternative documentary proof may be accepted. For example, pre-1979 government-issued documents for Juvenile Cards or other official documents that can establish identity and citizenship.",
+      "urdu_question": "دستاویزی ثبوت کے لیے 'غیر معمولی کیسز' کیا ہیں؟",
+      "urdu_answer": "غیر معمولی معاملات ایسے حالات کا حوالہ دیتے ہیں جہاں معیاری مطلوبہ دستاویزات دستیاب نہیں ہیں، اور متبادل دستاویزی ثبوت کو قبول کیا جا سکتا ہے۔ مثال کے طور پر، 1979 سے پہلے کی حکومت کی طرف سے جاری کردہ جووینائل کارڈز یا دیگر سرکاری دستاویزات جو شناخت اور شہریت قائم کر سکتی ہیں۔"
+    },
+    {
+      "question": "What are pre-1979 government-issued documents and when are they accepted?",
+      "answer": "Pre-1979 government-issued documents are historical identification documents issued before 1979. They may be accepted in exceptional cases as alternative proof for Juvenile Card applications when standard documents are not available.",
+      "urdu_question": "1979 سے پہلے کی حکومت کے جاری کردہ دستاویزات کیا ہیں اور وہ کب قبول کیے جاتے ہیں؟",
+      "urdu_answer": "1979 سے پہلے کی حکومت کی طرف سے جاری کردہ دستاویزات 1979 سے پہلے جاری کردہ تاریخی شناختی دستاویزات ہیں۔ انہیں غیر معمولی معاملات میں جووینائل کارڈ کی درخواستوں کے متبادل ثبوت کے طور پر قبول کیا جا سکتا ہے جب معیاری دستاویزات دستیاب نہ ہوں۔"
+    },
+    {
+      "question": "What is the difference between eligibility for Juvenile Card and CRC?",
+      "answer": "Both Juvenile Card and Child Registration Certificate (CRC) have the same basic eligibility - Pakistani Citizens under 18 years of age, based on Section 9 of the NADRA Ordinance. However, they differ in required documentation, with CRC requiring only a Birth Certificate while Juvenile Card requires additional documents.",
+      "urdu_question": "جووینائل کارڈ اور سی آر سی کی اہلیت میں کیا فرق ہے؟",
+      "urdu_answer": "جووینائل کارڈ اور چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) دونوں کی ایک ہی بنیادی اہلیت ہے - نادرا آرڈیننس کے سیکشن 9 کی بنیاد پر 18 سال سے کم عمر کے پاکستانی شہری۔ تاہم، وہ مطلوبہ دستاویزات میں مختلف ہیں، CRC کے لیے صرف پیدائش کا سرٹیفکیٹ درکار ہوتا ہے جبکہ جووینائل کارڈ کے لیے اضافی دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can foreigners apply for Pakistani identity documents?",
+      "answer": "Foreigners can apply for specific identity documents: Alien Registration Card (for foreigners legally residing in Pakistan, except restricted nationalities) or Pakistan Origin Card (POC) if they belong to a prescribed class of foreigners or are dual nationals.",
+      "urdu_question": "کیا غیر ملکی پاکستانی شناختی دستاویزات کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "غیر ملکی مخصوص شناختی دستاویزات کے لیے درخواست دے سکتے ہیں: ایلین رجسٹریشن کارڈ (قانونی طور پر پاکستان میں مقیم غیر ملکیوں کے لیے، محدود قومیتوں کے علاوہ) یا پاکستان اوریجن کارڈ (POC) اگر وہ غیر ملکیوں کی ایک مقررہ طبقے سے تعلق رکھتے ہیں یا دوہری شہریت رکھتے ہیں۔"
+    },
+    {
+      "question": "What proof of overseas residence is needed for NICOP?",
+      "answer": "The eligibility criteria mention that proof of overseas residence is required for NICOP, though specific details of acceptable proof would need to be confirmed from NADRA's detailed documentation policy available at their website.",
+      "urdu_question": "NICOP کے لیے بیرون ملک رہائش کا کیا ثبوت درکار ہے؟",
+      "urdu_answer": "اہلیت کے معیار میں ذکر کیا گیا ہے کہ NICOP کے لیے بیرون ملک رہائش کا ثبوت درکار ہے، حالانکہ قابل قبول ثبوت کی مخصوص تفصیلات کی تصدیق نادرا کی ویب سائٹ پر دستیاب تفصیلی دستاویزی پالیسی سے کرنی ہوگی۔"
+    },
+    {
+      "question": "Are there any restrictions on which foreigners can get Alien Registration Cards?",
+      "answer": "Yes, Alien Registration Cards are available to foreigners legally residing in Pakistan, but there are exceptions for restricted nationalities. The specific restricted nationalities would be defined in the detailed policy.",
+      "urdu_question": "کیا ایسی کوئی پابندیاں ہیں جن پر غیر ملکی ایلین رجسٹریشن کارڈ حاصل کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، ایلین رجسٹریشن کارڈ پاکستان میں قانونی طور پر مقیم غیر ملکیوں کے لیے دستیاب ہیں، لیکن محدود قومیتوں کے لیے مستثنیات ہیں۔ مخصوص محدود قومیتوں کی وضاحت تفصیلی پالیسی میں کی جائے گی۔"
+    },
+    {
+      "question": "Can dual nationals apply for Pakistani identity documents?",
+      "answer": "Yes, dual nationals who belong to a prescribed class can apply for Pakistan Origin Card (POC) based on Section 11 of the NADRA Ordinance.",
+      "urdu_question": "کیا دوہری شہریت والے پاکستانی شناختی دستاویزات کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، دوہری شہریت رکھنے والے جو ایک مقررہ طبقے سے تعلق رکھتے ہیں وہ نادرا آرڈیننس کے سیکشن 11 کی بنیاد پر پاکستان اوریجن کارڈ (POC) کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "What is the legal basis for each type of NADRA identity document?",
+      "answer": "Each document has specific legal basis: National Identity Card (Section 10), Juvenile Card and CRC (Section 9), NICOP (Section 12), POC (Section 11), Alien Registration Card (Section 13 and Section 14-D of Foreigners Act 1946), and Cancellation Certificate (Section 17).",
+      "urdu_question": "ہر قسم کی نادرا شناختی دستاویز کی قانونی بنیاد کیا ہے؟",
+      "urdu_answer": "ہر دستاویز کی مخصوص قانونی بنیاد ہوتی ہے: قومی شناختی کارڈ (سیکشن 10)، جوینائل کارڈ اور سی آر سی (سیکشن 9)، این آئی سی او پی (سیکشن 12)، پی او سی (سیکشن 11)، ایلین رجسٹریشن کارڈ (فارنرز ایکٹ 1946 کا سیکشن 13 اور سیکشن 14-ڈی)، اور کینسلیشن 7)۔"
+    },
+    {
+      "question": "Where can I find detailed documentation policy for NADRA services?",
+      "answer": "For detailed documentation policy, you can visit: https://www.nadra.gov.pk/download/registration-policy/",
+      "urdu_question": "میں نادرا کی خدمات کے لیے تفصیلی دستاویزی پالیسی کہاں سے حاصل کر سکتا ہوں؟",
+      "urdu_answer": "تفصیلی دستاویزات کی پالیسی کے لیے، آپ ملاحظہ کر سکتے ہیں: https://www.nadra.gov.pk/download/registration-policy/"
+    },
+    {
+      "question": "What happens when a Pakistani citizen turns 18 - do they need to change their document?",
+      "answer": "Yes, when a Pakistani citizen turns 18, they must transition from child documents (CRC or Juvenile Card) to adult National Identity Card (NIC) as per Section 10 eligibility criteria requiring age 18 or above.",
+      "urdu_question": "جب ایک پاکستانی شہری 18 سال کا ہو جاتا ہے تو کیا ہوتا ہے - کیا اسے اپنا دستاویز تبدیل کرنے کی ضرورت ہے؟",
+      "urdu_answer": "ہاں، جب کوئی پاکستانی شہری 18 سال کا ہو جاتا ہے، تو اسے سیکشن 10 کی اہلیت کے معیار کے مطابق چائلڈ دستاویزات (CRC یا Juvenile Card) سے بالغوں کے قومی شناختی کارڈ (NIC) میں تبدیل ہونا ضروری ہے جس کی عمر 18 سال یا اس سے زیادہ درکار ہے۔"
+    },
+    {
+      "question": "Can someone have multiple types of NADRA identity documents simultaneously?",
+      "answer": "Generally, each person is eligible for one primary identity document based on their citizenship status and residency. However, specific policies may allow certain combinations, such as having both NIC and NICOP for different purposes.",
+      "urdu_question": "کیا کسی کے پاس بیک وقت متعدد قسم کی نادرا شناختی دستاویزات ہو سکتی ہیں؟",
+      "urdu_answer": "عام طور پر، ہر شخص اپنی شہریت کی حیثیت اور رہائش کی بنیاد پر ایک بنیادی شناختی دستاویز کے لیے اہل ہوتا ہے۔ تاہم، مخصوص پالیسیاں کچھ مجموعوں کی اجازت دے سکتی ہیں، جیسے کہ مختلف مقاصد کے لیے NIC اور NICOP دونوں کا ہونا۔"
+    },
+    {
+      "question": "What does 'prescribed class of foreigners' mean for POC eligibility?",
+      "answer": "The 'prescribed class of foreigners' refers to specific categories of foreign nationals defined in NADRA policies who are eligible for POC, typically including those of Pakistani origin or with family connections to Pakistan.",
+      "urdu_question": "POC اہلیت کے لیے 'غیر ملکیوں کی تجویز کردہ کلاس' کا کیا مطلب ہے؟",
+      "urdu_answer": "غیر ملکیوں کی 'مقرر کردہ کلاس' سے مراد نادرا کی پالیسیوں میں بیان کردہ غیر ملکی شہریوں کے مخصوص زمرے ہیں جو POC کے اہل ہیں، خاص طور پر پاکستانی نژاد یا پاکستان سے خاندانی تعلق رکھنے والے افراد سمیت۔"
+    },
+    {
+      "question": "Is Pakistani citizenship required for all NADRA identity documents?",
+      "answer": "No, Pakistani citizenship is required for NIC, Juvenile Card, CRC, and NICOP. However, POC is for prescribed classes of foreigners/dual nationals, and Alien Registration Card is specifically for non-Pakistani foreigners.",
+      "urdu_question": "کیا نادرا کی تمام شناختی دستاویزات کے لیے پاکستانی شہریت ضروری ہے؟",
+      "urdu_answer": "نہیں، NIC، جوینائل کارڈ، CRC، اور NICOP کے لیے پاکستانی شہریت درکار ہے۔ تاہم، POC غیر ملکیوں/دوہری شہریوں کی مقررہ کلاسوں کے لیے ہے، اور ایلین رجسٹریشن کارڈ خاص طور پر غیر پاکستانی غیر ملکیوں کے لیے ہے۔"
+    },
+    {
+      "question": "What constitutes 'Blood Relative/Head of Family' for document requirements?",
+      "answer": "Blood Relative/Head of Family typically includes parents, siblings, children, or the designated head of the family unit who can provide supporting identification documents to establish family relationships and citizenship.",
+      "urdu_question": "دستاویز کے تقاضوں کے لیے 'خون کے رشتہ دار/خاندان کا سربراہ' کیا ہے؟",
+      "urdu_answer": "خون کے رشتہ دار/خاندان کے سربراہ میں عام طور پر والدین، بہن بھائی، بچے، یا خاندانی یونٹ کا نامزد سربراہ شامل ہوتا ہے جو خاندانی تعلقات اور شہریت قائم کرنے کے لیے معاون شناختی دستاویزات فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "Can someone apply for NADRA documents if they don't have a Birth Certificate?",
+      "answer": "In exceptional cases, alternative documentary proof may suffice when Birth Certificates are not available. The specific alternatives depend on the type of document being applied for and individual circumstances.",
+      "urdu_question": "کیا کوئی نادرا دستاویزات کے لیے درخواست دے سکتا ہے اگر اس کے پاس پیدائش کا سرٹیفکیٹ نہیں ہے؟",
+      "urdu_answer": "غیر معمولی معاملات میں، پیدائش کے سرٹیفیکیٹس دستیاب نہ ہونے پر متبادل دستاویزی ثبوت کافی ہو سکتا ہے۔ مخصوص متبادلات کا انحصار اس دستاویز کی قسم پر ہے جس کے لیے درخواست دی جا رہی ہے اور انفرادی حالات۔"
+    },
+    {
+      "question": "What is the difference between Certificate of Citizenship and other proof of citizenship?",
+      "answer": "Certificate of Citizenship is a formal document proving Pakistani citizenship, while 'other proof of citizenship' may include documents like family member's NADRA cards, passports, or other official records that establish citizenship status.",
+      "urdu_question": "شہریت کے سرٹیفکیٹ اور شہریت کے دوسرے ثبوت میں کیا فرق ہے؟",
+      "urdu_answer": "شہریت کا سرٹیفکیٹ ایک رسمی دستاویز ہے جو پاکستانی شہریت کو ثابت کرتی ہے، جب کہ 'شہریت کے دوسرے ثبوت' میں خاندان کے رکن کے نادرا کارڈ، پاسپورٹ، یا شہریت کی حیثیت کو قائم کرنے والے دیگر سرکاری ریکارڈ جیسی دستاویزات شامل ہو سکتی ہیں۔"
+    },
+    {
+      "question": "Are there age restrictions for any NADRA identity documents besides NIC?",
+      "answer": "Yes, CRC and Juvenile Card are restricted to under 18 years (Section 9), while NIC requires 18 or above (Section 10). NICOP, POC, and Alien Registration Card don't have specific age restrictions mentioned in basic eligibility.",
+      "urdu_question": "کیا NIC کے علاوہ کسی نادرا کی شناختی دستاویزات کے لیے عمر کی پابندیاں ہیں؟",
+      "urdu_answer": "ہاں، سی آر سی اور جووینائل کارڈ 18 سال سے کم عمر (سیکشن 9) تک محدود ہیں، جبکہ این آئی سی کے لیے 18 یا اس سے اوپر کی عمر کی ضرورت ہے (سیکشن 10)۔ NICOP، POC، اور ایلین رجسٹریشن کارڈ میں بنیادی اہلیت میں عمر کی مخصوص پابندیاں نہیں ہیں۔"
+    },
+    {
+      "question": "What happens if eligibility requirements are not met for a NADRA document?",
+      "answer": "If eligibility requirements are not met, the application will be rejected. Applicants should ensure they meet all criteria and have proper documentary evidence before applying, or seek guidance on alternative documents in exceptional cases.",
+      "urdu_question": "اگر نادرا دستاویز کے لیے اہلیت کے تقاضے پورے نہ کیے جائیں تو کیا ہوگا؟",
+      "urdu_answer": "اگر اہلیت کے تقاضے پورے نہیں ہوتے ہیں تو درخواست مسترد کر دی جائے گی۔ درخواست دہندگان کو اس بات کو یقینی بنانا چاہیے کہ وہ درخواست دینے سے پہلے تمام معیارات پر پورا اتریں اور ان کے پاس مناسب دستاویزی ثبوت موجود ہوں، یا غیر معمولی معاملات میں متبادل دستاویزات کے بارے میں رہنمائی حاصل کریں۔"
+    },
+    {
+      "question": "Can eligibility criteria change over time?",
+      "answer": "Yes, eligibility criteria can be updated through amendments to the NADRA Ordinance or changes in policy. Applicants should refer to the current documentation policy on NADRA's website for the most up-to-date requirements.",
+      "urdu_question": "کیا اہلیت کے معیار وقت کے ساتھ بدل سکتے ہیں؟",
+      "urdu_answer": "ہاں، اہلیت کے معیار کو نادرا آرڈیننس میں ترمیم یا پالیسی میں تبدیلیوں کے ذریعے اپ ڈیٹ کیا جا سکتا ہے۔ درخواست دہندگان کو جدید ترین تقاضوں کے لیے نادرا کی ویب سائٹ پر موجودہ دستاویزات کی پالیسی سے رجوع کرنا چاہیے۔"
+    },
+    {
+      "question": "Is there an appeals process if someone disagrees with eligibility determination?",
+      "answer": "While not specifically mentioned in the basic eligibility criteria, NADRA typically has grievance redressal mechanisms. Applicants should contact NADRA offices or check their website for specific appeals procedures.",
+      "urdu_question": "اگر کوئی اہلیت کے تعین سے متفق نہیں ہے تو کیا اپیل کا عمل ہے؟",
+      "urdu_answer": "اگرچہ بنیادی اہلیت کے معیار میں خاص طور پر ذکر نہیں کیا گیا ہے، نادرا کے پاس عام طور پر شکایات کے ازالے کا طریقہ کار ہوتا ہے۔ درخواست دہندگان کو اپیل کے مخصوص طریقہ کار کے لیے نادرا دفاتر سے رابطہ کرنا چاہیے یا اپنی ویب سائٹ چیک کرنا چاہیے۔"
+    },
+    {
+      "question": "Do eligibility requirements differ for urgent or emergency applications?",
+      "answer": "The basic eligibility criteria remain the same regardless of processing urgency. However, emergency situations may have special procedures for document verification, though fundamental eligibility must still be established.",
+      "urdu_question": "کیا فوری یا ہنگامی درخواستوں کے لیے اہلیت کے تقاضے مختلف ہیں؟",
+      "urdu_answer": "پروسیسنگ کی فوری ضرورت سے قطع نظر بنیادی اہلیت کے معیار ایک جیسے ہی رہتے ہیں۔ تاہم، ہنگامی حالات میں دستاویز کی تصدیق کے لیے خصوصی طریقہ کار ہو سکتا ہے، حالانکہ بنیادی اہلیت ابھی بھی قائم ہونی چاہیے۔"
+    },
+    {
+      "question": "What is the significance of the 13-digit registration number mentioned for death certificates?",
+      "answer": "The 13-digit registration number refers to the unique identifier assigned to Pakistani citizens in NADRA's system. It's required for Cancellation Certificate applications to ensure the deceased person was registered in NADRA's database.",
+      "urdu_question": "ڈیتھ سرٹیفکیٹ کے لیے درج کردہ 13 ہندسوں کے رجسٹریشن نمبر کی کیا اہمیت ہے؟",
+      "urdu_answer": "13 ہندسوں کا رجسٹریشن نمبر نادرا کے نظام میں پاکستانی شہریوں کو تفویض کردہ منفرد شناخت کنندہ سے مراد ہے۔ منسوخی سرٹیفکیٹ کی درخواستوں کے لیے ضروری ہے کہ اس بات کو یقینی بنایا جائے کہ متوفی شخص نادرا کے ڈیٹا بیس میں رجسٹرڈ تھا۔"
+    },
+    {
+      "question": "Can foreign marriage certificates be used for any NADRA applications?",
+      "answer": "While not explicitly mentioned in basic eligibility criteria, foreign marriage certificates may be relevant for POC applications where registered marriage certificate is required, particularly for foreign spouses of Pakistani nationals.",
+      "urdu_question": "کیا نادرا کی کسی بھی درخواست کے لیے غیر ملکی نکاح نامہ استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "اگرچہ بنیادی اہلیت کے معیار میں واضح طور پر ذکر نہیں کیا گیا ہے، غیر ملکی شادی کے سرٹیفکیٹ POC درخواستوں کے لیے متعلقہ ہو سکتے ہیں جہاں رجسٹرڈ میرج سرٹیفکیٹ کی ضرورت ہوتی ہے، خاص طور پر پاکستانی شہریوں کے غیر ملکی میاں بیوی کے لیے۔"
+    },
+    {
+      "question": "What makes someone a 'Non-Resident Pakistani' for NICOP eligibility?",
+      "answer": "Non-Resident Pakistanis are Pakistani citizens who are living outside Pakistan or intending to reside abroad. NICOP is specifically designed for this category under Section 12 of the NADRA Ordinance.",
+      "urdu_question": "NICOP کی اہلیت کے لیے کیا چیز کسی کو 'غیر رہائشی پاکستانی' بناتی ہے؟",
+      "urdu_answer": "غیر مقیم پاکستانی پاکستانی شہری ہیں جو پاکستان سے باہر رہ رہے ہیں یا بیرون ملک رہنے کا ارادہ رکھتے ہیں۔ NICOP خاص طور پر نادرا آرڈیننس کے سیکشن 12 کے تحت اس زمرے کے لیے ڈیزائن کیا گیا ہے۔"
+    },
+    {
+      "question": "Are there any medical or health requirements for NADRA document eligibility?",
+      "answer": "The basic eligibility criteria don't mention specific medical requirements. However, biometric capture may require physical presence and ability to provide fingerprints and photographs as part of the application process.",
+      "urdu_question": "کیا نادرا دستاویز کی اہلیت کے لیے کوئی طبی یا صحت کے تقاضے ہیں؟",
+      "urdu_answer": "بنیادی اہلیت کے معیار میں مخصوص طبی ضروریات کا ذکر نہیں ہے۔ تاہم، بائیو میٹرک کیپچر کے لیے درخواست کے عمل کے حصے کے طور پر جسمانی موجودگی اور فنگر پرنٹس اور تصاویر فراہم کرنے کی صلاحیت کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can someone apply for NADRA documents if they have criminal background?",
+      "answer": "The eligibility criteria don't explicitly exclude individuals with criminal backgrounds, but providing false information is a criminal offense. Each case may be evaluated individually based on the nature of the background.",
+      "urdu_question": "اگر کوئی مجرمانہ پس منظر رکھتا ہو تو کیا نادرا دستاویزات کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "اہلیت کا معیار واضح طور پر مجرمانہ پس منظر والے افراد کو خارج نہیں کرتا، لیکن غلط معلومات فراہم کرنا ایک مجرمانہ جرم ہے۔ پس منظر کی نوعیت کی بنیاد پر ہر کیس کا انفرادی طور پر جائزہ لیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What is the difference between Pakistani citizenship and Pakistani origin for document eligibility?",
+      "answer": "Pakistani citizenship (required for NIC, CRC, Juvenile Card, NICOP) means being a legal citizen of Pakistan. Pakistani origin (relevant for POC) refers to having ancestral or family connections to Pakistan without necessarily being a current citizen.",
+      "urdu_question": "دستاویز کی اہلیت کے لیے پاکستانی شہریت اور پاکستانی نژاد میں کیا فرق ہے؟",
+      "urdu_answer": "پاکستانی شہریت (NIC, CRC, Juvenile Card, NICOP کے لیے درکار) کا مطلب ہے پاکستان کا قانونی شہری ہونا۔ پاکستانی نژاد (POC کے لیے متعلقہ) سے مراد موجودہ شہری ہونے کے بغیر پاکستان سے آبائی یا خاندانی تعلق ہونا ہے۔"
+    },
+    {
+      "question": "Can temporary residents in Pakistan apply for any NADRA documents?",
+      "answer": "Temporary residents who are foreigners can apply for Alien Registration Card if they meet the legal residency requirements under Section 13 and Section 14-D of the Foreigners Act 1946.",
+      "urdu_question": "کیا پاکستان میں عارضی طور پر رہنے والے کسی بھی نادرا دستاویزات کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "عارضی رہائشی جو غیر ملکی ہیں وہ ایلین رجسٹریشن کارڈ کے لیے درخواست دے سکتے ہیں اگر وہ غیر ملکی ایکٹ 1946 کے سیکشن 13 اور سیکشن 14-D کے تحت رہائش کے قانونی تقاضوں کو پورا کرتے ہیں۔"
+    },
+    {
+      "question": "Are there any financial requirements for establishing eligibility for NADRA documents?",
+      "answer": "The basic eligibility criteria don't mention financial requirements. However, applicants must pay prescribed fees for document processing, and some may need to demonstrate legal residence or relationships.",
+      "urdu_question": "کیا نادرا دستاویزات کے لیے اہلیت قائم کرنے کے لیے کوئی مالی ضروریات ہیں؟",
+      "urdu_answer": "بنیادی اہلیت کے معیار میں مالی ضروریات کا ذکر نہیں ہے۔ تاہم، درخواست دہندگان کو دستاویز کی کارروائی کے لیے مقررہ فیس ادا کرنی چاہیے، اور کچھ کو قانونی رہائش یا تعلقات کا مظاہرہ کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens to eligibility if someone's citizenship status changes?",
+      "answer": "Changes in citizenship status may affect eligibility for different document types. For example, if someone loses Pakistani citizenship, they may need to switch from NIC to POC or other appropriate documents based on their new status.",
+      "urdu_question": "اگر کسی کی شہریت کی حیثیت بدل جائے تو اہلیت کا کیا ہوگا؟",
+      "urdu_answer": "شہریت کی حیثیت میں تبدیلیاں مختلف دستاویزات کی اقسام کے لیے اہلیت کو متاثر کر سکتی ہیں۔ مثال کے طور پر، اگر کوئی پاکستانی شہریت کھو دیتا ہے، تو اسے اپنی نئی حیثیت کی بنیاد پر NIC سے POC یا دیگر مناسب دستاویزات میں تبدیل کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can adoptive family relationships be used for establishing eligibility?",
+      "answer": "While the criteria mention 'Blood Relative/Head of Family,' specific policies on adoptive relationships would need to be confirmed from detailed NADRA documentation policies, as legal adoption creates family relationships.",
+      "urdu_question": "کیا اہلیت کے قیام کے لیے گود لینے والے خاندانی تعلقات استعمال کیے جا سکتے ہیں؟",
+      "urdu_answer": "جب کہ معیار میں 'خون کے رشتہ دار/خاندان کے سربراہ' کا ذکر ہے، گود لینے والے رشتوں سے متعلق مخصوص پالیسیوں کی تصدیق نادرا کی تفصیلی دستاویزات کی پالیسیوں سے کرنی ہوگی، کیونکہ قانونی گود لینے سے خاندانی تعلقات بنتے ہیں۔"
+    },
+    {
+      "question": "Are there any residency duration requirements for Pakistani citizens applying for NADRA documents?",
+      "answer": "For Pakistani citizens applying for NIC, CRC, or Juvenile Card, there are no specific residency duration requirements mentioned. However, NICOP is specifically for those residing or intending to reside abroad.",
+      "urdu_question": "کیا نادرا دستاویزات کے لیے درخواست دینے والے پاکستانی شہریوں کے لیے رہائش کے دورانیے کی کوئی شرائط ہیں؟",
+      "urdu_answer": "NIC، CRC، یا جووینائل کارڈ کے لیے درخواست دینے والے پاکستانی شہریوں کے لیے، رہائش کے دورانیے کی کوئی مخصوص ضروریات کا ذکر نہیں کیا گیا ہے۔ تاہم، NICOP خاص طور پر ان لوگوں کے لیے ہے جو بیرون ملک مقیم ہیں یا رہنے کا ارادہ رکھتے ہیں۔"
+    },
+    {
+      "question": "What constitutes 'intending to reside abroad' for NICOP eligibility?",
+      "answer": "This refers to Pakistani citizens who plan to live outside Pakistan in the future. The specific documentation requirements for proving this intention would be detailed in NADRA's complete policy documentation.",
+      "urdu_question": "NICOP کی اہلیت کے لیے 'بیرون ملک رہنے کا ارادہ' کیا ہے؟",
+      "urdu_answer": "اس سے مراد وہ پاکستانی شہری ہیں جو مستقبل میں پاکستان سے باہر رہنے کا ارادہ رکھتے ہیں۔ اس ارادے کو ثابت کرنے کے لیے مخصوص دستاویزات کے تقاضے نادرا کی مکمل پالیسی دستاویزات میں تفصیل سے ہوں گے۔"
+    },
+    {
+      "question": "Can stateless persons apply for any NADRA identity documents?",
+      "answer": "The eligibility criteria require Pakistani citizenship for most documents. Stateless persons would need to establish their citizenship status first or may potentially qualify for specific categories under exceptional circumstances.",
+      "urdu_question": "کیا بے وطن افراد نادرا کی شناختی دستاویزات کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "اہلیت کا معیار زیادہ تر دستاویزات کے لیے پاکستانی شہریت کا تقاضا کرتا ہے۔ بے وطن افراد کو پہلے اپنی شہریت کی حیثیت کو قائم کرنے کی ضرورت ہوگی یا غیر معمولی حالات میں ممکنہ طور پر مخصوص زمروں کے لیے اہل ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Are there any educational requirements for NADRA document eligibility?",
+      "answer": "The basic eligibility criteria don't mention educational requirements. Eligibility is primarily based on citizenship, age, residency status, and supporting documentation rather than educational qualifications.",
+      "urdu_question": "کیا نادرا دستاویز کی اہلیت کے لیے کوئی تعلیمی تقاضے ہیں؟",
+      "urdu_answer": "بنیادی اہلیت کے معیار میں تعلیمی ضروریات کا ذکر نہیں ہے۔ اہلیت بنیادی طور پر تعلیمی قابلیت کے بجائے شہریت، عمر، رہائش کی حیثیت، اور معاون دستاویزات پر مبنی ہے۔"
+    },
+    {
+      "question": "What documentation is needed to prove family relationships for eligibility?",
+      "answer": "Family relationships are typically proven through Blood Relative/Head of Family's National ID Card, Birth Certificates showing parental information, Marriage Certificates, or other official documents that establish family connections.",
+      "urdu_question": "اہلیت کے لیے خاندانی تعلقات کو ثابت کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "خاندانی تعلقات عام طور پر خون کے رشتہ دار/ خاندان کے سربراہ کے قومی شناختی کارڈ، والدین کی معلومات دکھانے والے پیدائشی سرٹیفکیٹس، شادی کے سرٹیفیکیٹس، یا خاندانی روابط قائم کرنے والے دیگر سرکاری دستاویزات کے ذریعے ثابت ہوتے ہیں۔"
+    },
+    {
+      "question": "Can someone apply for multiple NADRA document types if they meet different eligibility criteria?",
+      "answer": "Depending on individual circumstances, someone might be eligible for different document types (e.g., Pakistani citizen living abroad might be eligible for both NIC and NICOP), but specific policies govern which combinations are allowed.",
+      "urdu_question": "کیا کوئی نادرا دستاویز کی متعدد اقسام کے لیے درخواست دے سکتا ہے اگر وہ مختلف اہلیت کے معیار پر پورا اترتے ہیں؟",
+      "urdu_answer": "انفرادی حالات پر منحصر ہے، کوئی شخص مختلف دستاویزات کی اقسام کے لیے اہل ہو سکتا ہے (مثال کے طور پر، بیرون ملک مقیم پاکستانی شہری NIC اور NICOP دونوں کے لیے اہل ہو سکتے ہیں)، لیکن مخصوص پالیسیاں ان پر عمل کرتی ہیں جن کے امتزاج کی اجازت ہے۔"
+    },
+    {
+      "question": "Are there any language requirements for NADRA document applications?",
+      "answer": "The eligibility criteria don't specify language requirements. However, documentation may need to be in Urdu or English, and translation services might be required for foreign documents.",
+      "urdu_question": "کیا نادرا دستاویز کی درخواستوں کے لیے کوئی زبان کے تقاضے ہیں؟",
+      "urdu_answer": "اہلیت کا معیار زبان کے تقاضوں کی وضاحت نہیں کرتا ہے۔ تاہم، دستاویزات اردو یا انگریزی میں ہونے کی ضرورت ہو سکتی ہے، اور غیر ملکی دستاویزات کے لیے ترجمے کی خدمات درکار ہو سکتی ہیں۔"
+    },
+    {
+      "question": "What verification process is used to confirm eligibility for NADRA documents?",
+      "answer": "NADRA verifies eligibility through document authentication, biometric verification, database checks, and validation of supporting evidence. The specific verification process may vary based on the type of document and individual circumstances.",
+      "urdu_question": "نادرا دستاویزات کی اہلیت کی تصدیق کے لیے کون سا تصدیقی عمل استعمال کیا جاتا ہے؟",
+      "urdu_answer": "نادرا دستاویزات کی تصدیق، بائیو میٹرک تصدیق، ڈیٹا بیس کی جانچ اور معاون ثبوتوں کی تصدیق کے ذریعے اہلیت کی تصدیق کرتا ہے۔ مخصوص تصدیقی عمل دستاویز کی قسم اور انفرادی حالات کی بنیاد پر مختلف ہو سکتا ہے۔"
+    },
+    {
+      "question": "Can religious minorities apply for all types of NADRA identity documents?",
+      "answer": "Yes, eligibility is based on citizenship, age, and residency status rather than religion. Pakistani citizens from all religious backgrounds can apply for appropriate NADRA documents based on their circumstances.",
+      "urdu_question": "کیا مذہبی اقلیتیں ہر قسم کی نادرا شناختی دستاویزات کے لیے درخواست دے سکتی ہیں؟",
+      "urdu_answer": "ہاں، اہلیت مذہب کی بجائے شہریت، عمر، اور رہائش کی حیثیت پر مبنی ہے۔ تمام مذہبی پس منظر سے تعلق رکھنے والے پاکستانی شہری اپنے حالات کی بنیاد پر مناسب نادرا دستاویزات کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "Are there any restrictions based on place of birth for NADRA document eligibility?",
+      "answer": "Place of birth is not mentioned as a restriction in basic eligibility criteria. Pakistani citizenship is the primary requirement, regardless of where the person was born, though birth certificates may be required as supporting documentation.",
+      "urdu_question": "کیا نادرا دستاویز کی اہلیت کے لیے جائے پیدائش کی بنیاد پر کوئی پابندیاں ہیں؟",
+      "urdu_answer": "بنیادی اہلیت کے معیار میں جگہ پیدائش کا ذکر پابندی کے طور پر نہیں کیا گیا ہے۔ پاکستانی شہریت بنیادی ضرورت ہے، قطع نظر اس کے کہ وہ شخص کہاں پیدا ہوا تھا، اگرچہ معاون دستاویزات کے طور پر پیدائشی سرٹیفکیٹ درکار ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What should someone do if they meet eligibility criteria but lack required documents?",
+      "answer": "In such cases, applicants should explore 'exceptional cases' provisions where alternative documentary proof may suffice, or contact NADRA offices for guidance on acceptable alternative documentation for their specific situation.",
+      "urdu_question": "کسی کو کیا کرنا چاہیے اگر وہ اہلیت کے معیار پر پورا اترتا ہے لیکن اس کے پاس مطلوبہ دستاویزات نہیں ہیں؟",
+      "urdu_answer": "ایسے معاملات میں، درخواست دہندگان کو 'غیر معمولی کیسز' کی دفعات کو تلاش کرنا چاہیے جہاں متبادل دستاویزی ثبوت کافی ہو، یا اپنی مخصوص صورتحال کے لیے قابل قبول متبادل دستاویزات کے بارے میں رہنمائی کے لیے نادرا کے دفاتر سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can someone whose eligibility was previously rejected reapply for NADRA documents?",
+      "answer": "While not explicitly stated in eligibility criteria, individuals whose applications were rejected can typically reapply once they address the reasons for rejection and provide proper documentation to meet eligibility requirements.",
+      "urdu_question": "کیا کوئی ایسا شخص جس کی اہلیت پہلے مسترد کی گئی تھی نادرا دستاویزات کے لیے دوبارہ درخواست دے سکتا ہے؟",
+      "urdu_answer": "اگرچہ اہلیت کے معیار میں واضح طور پر بیان نہیں کیا گیا ہے، وہ افراد جن کی درخواستیں مسترد کر دی گئی تھیں وہ عام طور پر دوبارہ درخواست دے سکتے ہیں جب وہ مسترد ہونے کی وجوہات کو حل کر لیں اور اہلیت کے تقاضوں کو پورا کرنے کے لیے مناسب دستاویزات فراہم کریں۔"
+    },
+    {
+      "question": "Are there any special eligibility provisions for overseas Pakistanis beyond NICOP?",
+      "answer": "NICOP is specifically designed for overseas Pakistanis. However, depending on their specific circumstances, overseas Pakistanis might also be eligible for other documents like POC if they hold dual nationality.",
+      "urdu_question": "کیا NICOP سے آگے بیرون ملک مقیم پاکستانیوں کے لیے اہلیت کی کوئی خصوصی شرائط ہیں؟",
+      "urdu_answer": "NICOP خاص طور پر بیرون ملک مقیم پاکستانیوں کے لیے ڈیزائن کیا گیا ہے۔ تاہم، اپنے مخصوص حالات کی بنیاد پر، بیرون ملک مقیم پاکستانی بھی دیگر دستاویزات جیسے POC کے اہل ہو سکتے ہیں اگر وہ دوہری شہریت رکھتے ہیں۔"
+    },
+    {
+      "question": "What is the relationship between NADRA eligibility and Pakistani passport eligibility?",
+      "answer": "While related, these are separate processes. NADRA documents often serve as foundational identity proof for passport applications, but each has its own eligibility criteria managed by different authorities.",
+      "urdu_question": "نادرا کی اہلیت اور پاکستانی پاسپورٹ کی اہلیت کے درمیان کیا تعلق ہے؟",
+      "urdu_answer": "جبکہ متعلقہ، یہ الگ الگ عمل ہیں۔ نادرا کی دستاویزات اکثر پاسپورٹ کی درخواستوں کے لیے بنیادی شناختی ثبوت کے طور پر کام کرتی ہیں، لیکن ہر ایک کی اپنی اہلیت کے معیارات ہوتے ہیں جن کا انتظام مختلف حکام کرتے ہیں۔"
+    },
+    {
+      "question": "Can foreign authorities issue documents that satisfy NADRA eligibility requirements?",
+      "answer": "Yes, certain foreign-issued documents are acceptable, such as foreign authority death certificates for cancellation certificates, foreign marriage certificates for POC, and valid foreign passports for Alien Registration Cards.",
+      "urdu_question": "کیا غیر ملکی حکام نادرا کی اہلیت کے تقاضوں کو پورا کرنے والی دستاویزات جاری کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، کچھ غیر ملکی جاری کردہ دستاویزات قابل قبول ہیں، جیسے منسوخی کے سرٹیفکیٹس کے لیے غیر ملکی اتھارٹی کے موت کے سرٹیفکیٹس، POC کے لیے غیر ملکی شادی کے سرٹیفکیٹ، اور ایلین رجسٹریشن کارڈز کے لیے درست غیر ملکی پاسپورٹ۔"
+    },
+    {
+      "question": "How do name variations affect eligibility for NADRA documents?",
+      "answer": "While not specifically addressed in basic eligibility criteria, name consistency across supporting documents is important. Variations may require additional documentation or explanations to establish identity continuity during the application process.",
+      "urdu_question": "نام کی تبدیلیاں نادرا دستاویزات کی اہلیت کو کیسے متاثر کرتی ہیں؟",
+      "urdu_answer": "اگرچہ بنیادی اہلیت کے معیار میں خاص طور پر توجہ نہیں دی گئی ہے، لیکن معاون دستاویزات میں نام کی مستقل مزاجی اہم ہے۔ مختلف حالتوں کو درخواست کے عمل کے دوران شناخت کا تسلسل قائم کرنے کے لیے اضافی دستاویزات یا وضاحت کی ضرورت پڑ سکتی ہے۔"
+    }
+  ]
+}

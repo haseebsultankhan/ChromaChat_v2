@@ -1,0 +1,679 @@
+{
+  "file_name": "chairman.json",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 150,
+  "qa_data": [
+    {
+      "question": "Who is the current Chairman of NADRA?",
+      "answer": "The current Chairman of the National Database and Registration Authority (NADRA) in Pakistan is Lieutenant General Muhammad Munir Afsar who assumed office on 2nd October 2023.",
+      "urdu_question": "نادرا کے موجودہ چیئرمین کون ہیں؟",
+      "urdu_answer": "پاکستان میں نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی (نادرا) کے موجودہ چیئرمین لیفٹیننٹ جنرل محمد منیر افسر ہیں جنہوں نے 2 اکتوبر 2023 کو عہدہ سنبھالا۔"
+    },
+    {
+      "question": "Who is Chairman?",
+      "answer": "The Chairman is the chief executive of the National Database and Registration Authority (NADRA) in Pakistan. Currently held by Lieutenant General Muhammad Munir Afsar. For more details, visit: https://www.nadra.gov.pk/chairmanNadra",
+      "urdu_question": "چیئرمین کون ہے؟",
+      "urdu_answer": "چیئرمین پاکستان میں نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی (نادرا) کے چیف ایگزیکٹو ہیں۔ اس وقت لیفٹیننٹ جنرل محمد منیر افسر کے پاس ہے۔ مزید تفصیلات کے لیے ملاحظہ کیجیے: https://www.nadra.gov.pk/chairmanNadra"
+    },
+    {
+      "question": "When did the current NADRA Chairman assume office?",
+      "answer": "Lieutenant General Muhammad Munir Afsar assumed office as NADRA Chairman on 2nd October 2023.",
+      "urdu_question": "نادرا کے موجودہ چیئرمین نے کب عہدہ سنبھالا؟",
+      "urdu_answer": "لیفٹیننٹ جنرل محمد منیر افسر نے 2 اکتوبر 2023 کو بطور چیئرمین نادرا عہدہ سنبھالا۔"
+    },
+    {
+      "question": "What is the alternative title for the NADRA Chairman?",
+      "answer": "The Chairman of NADRA is also called the Registrar General of Pakistan as per the NADRA Ordinance 2000.",
+      "urdu_question": "نادرا چیئرمین کا متبادل عنوان کیا ہے؟",
+      "urdu_answer": "نادرا کے چیئرمین کو نادرا آرڈیننس 2000 کے مطابق رجسٹرار جنرل آف پاکستان بھی کہا جاتا ہے۔"
+    },
+    {
+      "question": "Who appoints the Chairman of NADRA?",
+      "answer": "The Chairman of NADRA is appointed by the Federal Government through notification in the Official Gazette.",
+      "urdu_question": "نادرا کے چیئرمین کی تقرری کون کرتا ہے؟",
+      "urdu_answer": "نادرا کے چیئرمین کا تقرر وفاقی حکومت سرکاری گزٹ میں نوٹیفکیشن کے ذریعے کرتی ہے۔"
+    },
+    {
+      "question": "What are the qualification requirements for NADRA Chairman?",
+      "answer": "The Chairman shall be an eminent professional of known integrity and competence with substantial experience in the field of computer science, engineering, statistics, demography, law, business, management, finance, accounting, economics, civil or military administration, or the field of registration.",
+      "urdu_question": "نادرا چیئرمین کے لیے اہلیت کے تقاضے کیا ہیں؟",
+      "urdu_answer": "چیئرمین کمپیوٹر سائنس، انجینئرنگ، شماریات، ڈیموگرافی، قانون، کاروبار، مینجمنٹ، فنانس، اکاؤنٹنگ، معاشیات، سول یا ملٹری ایڈمنسٹریشن، یا رجسٹریشن کے میدان میں کافی تجربہ کے ساتھ معروف دیانت اور قابلیت کا ایک نامور پیشہ ور ہوگا۔"
+    },
+    {
+      "question": "What are the disqualifications for appointment as NADRA Chairman?",
+      "answer": "No person shall be appointed as Chairman if he has been declared insolvent, convicted for an offence involving moral turpitude, or declared to be disqualified from employment in, or dismissed from Government Service.",
+      "urdu_question": "نادرا چیئرمین کے طور پر تقرری کے لیے کیا نااہلیاں ہیں؟",
+      "urdu_answer": "کسی بھی شخص کو چیئرمین کے طور پر مقرر نہیں کیا جائے گا اگر اسے دیوالیہ قرار دیا گیا ہو، اخلاقی پستی کے جرم میں سزا دی گئی ہو، یا اسے ملازمت سے نااہل قرار دیا گیا ہو، یا سرکاری ملازمت سے برخاست کیا گیا ہو۔"
+    },
+    {
+      "question": "What is the term of office for NADRA Chairman?",
+      "answer": "The Chairman holds office for a term of three years and is eligible for reappointment for similar term or terms as the Federal Government may determine.",
+      "urdu_question": "نادرا چیئرمین کے عہدے کی مدت کیا ہے؟",
+      "urdu_answer": "چیئرمین تین سال کی مدت کے لیے عہدہ رکھتا ہے اور اسی طرح کی مدت یا شرائط کے لیے دوبارہ تقرری کا اہل ہے جیسا کہ وفاقی حکومت طے کر سکتی ہے۔"
+    },
+    {
+      "question": "What is the retirement age for NADRA Chairman?",
+      "answer": "The Chairman shall retire on attaining the age of sixty-five years.",
+      "urdu_question": "چیئرمین نادرا کی ریٹائرمنٹ کی عمر کتنی ہے؟",
+      "urdu_answer": "چیئرمین پینسٹھ سال کی عمر کو پہنچنے پر ریٹائر ہو جائیں گے۔"
+    },
+    {
+      "question": "How long does the Federal Government have to fill a vacancy in Chairman position?",
+      "answer": "In case of vacancy occurring due to death, resignation or removal of the Chairman, the Federal Government shall within a period not exceeding sixty days, appoint another qualified person to fill such vacancy.",
+      "urdu_question": "وفاقی حکومت کو چیئرمین کے عہدے کی خالی اسامی کو کب تک پُر کرنا ہے؟",
+      "urdu_answer": "چیئرمین کی وفات، استعفیٰ یا برطرفی کی وجہ سے اسامی خالی ہونے کی صورت میں، وفاقی حکومت ساٹھ دن سے زیادہ نہ ہونے کی مدت کے اندر، اس اسامی کو پر کرنے کے لیے کسی اور اہل شخص کو مقرر کرے گی۔"
+    },
+    {
+      "question": "Can the NADRA Chairman exercise powers of the Authority alone?",
+      "answer": "Yes, until the Authority is established, the Chairman may exercise the powers and perform the functions of the Authority as per the NADRA Ordinance provisions.",
+      "urdu_question": "کیا نادرا چیئرمین اکیلے اتھارٹی کے اختیارات استعمال کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، جب تک اتھارٹی قائم نہیں ہو جاتی، چیئرمین نادرا آرڈیننس کی دفعات کے مطابق اختیارات کا استعمال اور اتھارٹی کے فرائض سرانجام دے سکتا ہے۔"
+    },
+    {
+      "question": "Who presides over NADRA Authority meetings?",
+      "answer": "The meetings of the Authority shall be presided over by the Chairman and, in his absence, by the most senior member attending the meeting.",
+      "urdu_question": "نادرا اتھارٹی کے اجلاسوں کی صدارت کون کرتا ہے؟",
+      "urdu_answer": "اتھارٹی کے اجلاسوں کی صدارت چیئرمین اور ان کی غیر موجودگی میں میٹنگ میں شرکت کرنے والا سب سے سینئر ممبر کرے گا۔"
+    },
+    {
+      "question": "What constitutes a quorum for NADRA Authority meetings?",
+      "answer": "Three members shall constitute a quorum for a meeting of the Authority requiring a decision by the Authority.",
+      "urdu_question": "نادرا اتھارٹی کے اجلاسوں کا کورم کیا ہوتا ہے؟",
+      "urdu_answer": "اتھارٹی کے اجلاس کے لیے تین ممبران ایک کورم تشکیل دیں گے جس کے لیے اتھارٹی کے فیصلے کی ضرورت ہے۔"
+    },
+    {
+      "question": "How are decisions taken in NADRA Authority meetings?",
+      "answer": "The decisions of the Authority shall be taken by the majority of its members present, and in case of a tie, the member presiding the meeting (usually the Chairman) shall have a casting vote.",
+      "urdu_question": "نادرا اتھارٹی کے اجلاسوں میں فیصلے کیسے ہوتے ہیں؟",
+      "urdu_answer": "اتھارٹی کے فیصلے اس کے موجود اراکین کی اکثریت کی طرف سے کیے جائیں گے، اور برابری کی صورت میں، اجلاس کی صدارت کرنے والے رکن (عام طور پر چیئرمین) کو ووٹ کاسٹ کرنا ہوگا۔"
+    },
+    {
+      "question": "How must NADRA Authority decisions be documented?",
+      "answer": "All orders, determinations and decisions of the Authority shall be taken in writing and shall identify the determination or decision of the Chairman and each member separately.",
+      "urdu_question": "نادرا اتھارٹی کے فیصلوں کو کیسے دستاویزی شکل دی جائے؟",
+      "urdu_answer": "اتھارٹی کے تمام احکامات، تعین اور فیصلے تحریری طور پر لیے جائیں گے اور چیئرمین اور ہر رکن کے عزم یا فیصلے کی الگ الگ شناخت کریں گے۔"
+    },
+    {
+      "question": "How can the NADRA Chairman resign from office?",
+      "answer": "The Chairman may, by writing under his hand, resign from his office. However, his resignation shall not take effect until accepted by the Federal Government.",
+      "urdu_question": "چیئرمین نادرا عہدے سے استعفیٰ کیسے دے سکتے ہیں؟",
+      "urdu_answer": "چیئرمین اپنے ہاتھ سے لکھ کر اپنے عہدے سے استعفیٰ دے سکتا ہے۔ تاہم، ان کا استعفیٰ اس وقت تک نافذ العمل نہیں ہوگا جب تک کہ وفاقی حکومت اسے قبول نہیں کر لیتی۔"
+    },
+    {
+      "question": "Under what circumstances can the Federal Government remove the NADRA Chairman?",
+      "answer": "The Federal Government may remove the Chairman from office if: (a) upon an inquiry, he is found incapable of performing functions due to mental or physical incapacity or has been found guilty of misconduct; or (b) after his appointment he is disqualified from being so appointed as provided in the disqualification criteria.",
+      "urdu_question": "وفاقی حکومت کن حالات میں چیئرمین نادرا کو ہٹا سکتی ہے؟",
+      "urdu_answer": "وفاقی حکومت چیئرمین کو عہدے سے ہٹا سکتی ہے اگر: (الف) انکوائری پر، وہ ذہنی یا جسمانی نا اہلی کی وجہ سے کام کرنے کے قابل نہیں یا بدتمیزی کا مرتکب پایا گیا ہے۔ یا (b) اس کی تقرری کے بعد وہ نااہلی کے معیار میں فراہم کردہ اس طرح کی تقرری کے لیے نااہل قرار دیا گیا ہے۔"
+    },
+    {
+      "question": "Who determines the remuneration of NADRA Chairman?",
+      "answer": "The Chairman shall be paid such emoluments as may be determined by the Federal Government and shall not be varied to their disadvantage during their term of office.",
+      "urdu_question": "چیئرمین نادرا کے معاوضے کا تعین کون کرتا ہے؟",
+      "urdu_answer": "چیئرمین کو ایسی اجرتیں دی جائیں گی جن کا تعین وفاقی حکومت کی طرف سے کیا جا سکتا ہے اور ان کے عہدے کی مدت کے دوران ان کے نقصانات میں فرق نہیں کیا جائے گا۔"
+    },
+    {
+      "question": "What business restrictions apply to the NADRA Chairman during their term?",
+      "answer": "The Chairman shall not, during their term of office, engage in any other service, business, vocation or employment, or enter into employment of, or accept any advisory or consultancy relationship with any person or entity engaged in providing services or products to the Authority on any projects, schemes, proposals or plans undertaken by the Authority.",
+      "urdu_question": "نادرا کے چیئرمین پر ان کی مدت ملازمت کے دوران کون سی کاروباری پابندیاں لاگو ہوتی ہیں؟",
+      "urdu_answer": "چیئرمین، اپنے عہدے کی مدت کے دوران، کسی دوسری خدمت، کاروبار، پیشہ یا ملازمت میں شامل نہیں ہوں گے، یا اتھارٹی کی طرف سے شروع کیے گئے منصوبوں، اسکیموں، تجاویز یا منصوبوں پر اتھارٹی کو خدمات یا مصنوعات فراہم کرنے میں مصروف کسی بھی شخص یا ادارے کے ساتھ کوئی مشاورتی یا مشاورتی تعلق قبول نہیں کرے گا۔"
+    },
+    {
+      "question": "Can the NADRA Chairman have financial interests in entities dealing with NADRA?",
+      "answer": "No, the Chairman shall not have any direct or indirect financial interest, or have any connection with any person, entity or related undertaking engaged with the Authority for so long as he holds office.",
+      "urdu_question": "کیا نادرا کے چیئرمین کے نادرا کے ساتھ کام کرنے والے اداروں میں مالی مفادات ہوسکتے ہیں؟",
+      "urdu_answer": "نہیں، چیئرمین کا کوئی بالواسطہ یا بلاواسطہ مالی مفاد نہیں ہوگا، یا اتھارٹی کے ساتھ منسلک کسی بھی شخص، ادارے یا متعلقہ ادارے سے کوئی تعلق نہیں ہوگا جب تک وہ اپنے عہدے پر فائز ہے۔"
+    },
+    {
+      "question": "What is the legal status of the NADRA Chairman?",
+      "answer": "The Chairman, along with members, Registration Officers, staff, experts, consultants, advisors, and other officers and employees of the Authority shall be deemed to be public servants within the meaning of section 21 of the Pakistan Penal Code, 1860.",
+      "urdu_question": "چیئرمین نادرا کی قانونی حیثیت کیا ہے؟",
+      "urdu_answer": "چیئرمین کے ساتھ ممبران، رجسٹریشن آفیسرز، عملہ، ماہرین، کنسلٹنٹس، ایڈوائزرز اور اتھارٹی کے دیگر افسران اور ملازمین کو تعزیرات پاکستان 1860 کے سیکشن 21 کے تحت پبلک سرونٹ تصور کیا جائے گا۔"
+    },
+    {
+      "question": "Can the NADRA Authority delegate powers to the Chairman?",
+      "answer": "Yes, the Authority may by general or special order delegate to the Chairman or a member or a Registration Officer, or any member of its staff, any of its powers or functions under the Ordinance subject to such conditions as it may think fit.",
+      "urdu_question": "کیا نادرا اتھارٹی چیئرمین کو اختیارات دے سکتی ہے؟",
+      "urdu_answer": "ہاں، اتھارٹی عام یا خصوصی حکم کے ذریعے چیئرمین یا کسی رکن یا رجسٹریشن آفیسر، یا اس کے عملے کے کسی رکن کو آرڈیننس کے تحت اپنے اختیارات یا افعال میں سے کسی کو ایسی شرائط کے تحت تفویض کر سکتی ہے جو اسے مناسب سمجھیں۔"
+    },
+    {
+      "question": "How many members constitute the NADRA Authority including the Chairman?",
+      "answer": "The Authority shall consist of a Chairman and not less than five members to be appointed by the Federal Government. The Federal Government may increase or decrease the number of members by notification in the official Gazette.",
+      "urdu_question": "چیئرمین سمیت نادرا اتھارٹی کتنے ممبران پر مشتمل ہے؟",
+      "urdu_answer": "اتھارٹی ایک چیئرمین پر مشتمل ہوگی اور کم از کم پانچ ممبران پر مشتمل ہوگی جن کا تقرر وفاقی حکومت کرے گی۔ وفاقی حکومت سرکاری گزٹ میں نوٹیفکیشن کے ذریعے اراکین کی تعداد میں اضافہ یا کمی کر سکتی ہے۔"
+    },
+    {
+      "question": "What happens if there's a vacancy in the NADRA Authority?",
+      "answer": "No act or proceeding of the Authority shall be invalid by reason only of the existence of a vacancy in, or defect in the constitution of, the Authority.",
+      "urdu_question": "اگر نادرا اتھارٹی میں کوئی آسامی خالی ہو تو کیا ہوتا ہے؟",
+      "urdu_answer": "اتھارٹی کا کوئی عمل یا کارروائی صرف اس وجہ سے باطل نہیں ہوگی کہ اس میں خالی جگہ موجود ہو، یا اتھارٹی کے آئین میں خرابی ہو۔"
+    },
+    {
+      "question": "What notice requirements exist for NADRA Authority meetings?",
+      "answer": "The members shall have reasonable notice of the time and place of the meeting and the matters on which a decision by the Authority shall be taken in such meeting.",
+      "urdu_question": "نادرا اتھارٹی کے اجلاسوں کے لیے نوٹس کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "ممبران کو میٹنگ کے وقت اور جگہ اور ان معاملات کا معقول نوٹس ہوگا جن پر اتھارٹی کی طرف سے اس طرح کے اجلاس میں فیصلہ لیا جائے گا۔"
+    },
+    {
+      "question": "Can the NADRA Chairman appoint staff and officers?",
+      "answer": "Yes, to carry out the purposes of the Ordinance, the Authority (which the Chairman can represent) may appoint Registration Officers, members of its staff, experts, consultants, advisers and other officers and employees on such terms and conditions as it may deem fit.",
+      "urdu_question": "کیا نادرا چیئرمین سٹاف اور افسران کا تقرر کر سکتا ہے؟",
+      "urdu_answer": "جی ہاں، آرڈیننس کے مقاصد کو پورا کرنے کے لیے، اتھارٹی (جس کا چیئرمین نمائندگی کر سکتا ہے) رجسٹریشن افسران، اس کے عملے کے اراکین، ماہرین، مشیر، مشیر اور دیگر افسران اور ملازمین کو ایسی شرائط و ضوابط پر تعینات کر سکتا ہے جو اسے مناسب سمجھیں۔"
+    },
+    {
+      "question": "What reporting obligations does the NADRA Chairman have?",
+      "answer": "As part of the Authority, the Chairman is involved in providing reports to the Governments as required under the NADRA Ordinance, though specific reporting requirements would be detailed in regulations.",
+      "urdu_question": "نادرا چیئرمین کی رپورٹنگ کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "اتھارٹی کے حصے کے طور پر، چیئرمین نادرا آرڈیننس کے تحت ضرورت کے مطابق حکومتوں کو رپورٹیں فراہم کرنے میں ملوث ہے، حالانکہ رپورٹنگ کے مخصوص تقاضے ضوابط میں تفصیل سے ہوں گے۔"
+    },
+    {
+      "question": "Can powers delegated under previous legislation continue under the current Chairman?",
+      "answer": "Yes, any person to whom the powers of a Registration Officer stood delegated under the National Registration Act, 1973, immediately before the commencement of this Ordinance shall be deemed to have been delegated under this section unless revoked by the Authority.",
+      "urdu_question": "کیا سابقہ قانون سازی کے تحت تفویض اختیارات موجودہ چیئرمین کے تحت جاری رہ سکتے ہیں؟",
+      "urdu_answer": "ہاں، کوئی بھی شخص جس کو اس آرڈیننس کے آغاز سے فوراً پہلے نیشنل رجسٹریشن ایکٹ 1973 کے تحت رجسٹریشن آفیسر کے اختیارات تفویض کیے گئے ہوں گے اسے اس دفعہ کے تحت تفویض کیا گیا ہے جب تک کہ اتھارٹی کی طرف سے منسوخ نہ کیا جائے۔"
+    },
+    {
+      "question": "What regulatory powers does the NADRA Authority under the Chairman have?",
+      "answer": "The Authority may, by notification in the official Gazette, make regulations not inconsistent with the provisions of the Ordinance for carrying out its functions, including appointment of officers and employees and their terms and conditions of service.",
+      "urdu_question": "چیئرمین نادرا اتھارٹی کے پاس کیا ریگولیٹری اختیارات ہیں؟",
+      "urdu_answer": "اتھارٹی، سرکاری گزٹ میں نوٹیفکیشن کے ذریعے، افسران اور ملازمین کی تقرری اور ان کی شرائط و ضوابط سمیت اپنے افعال کی انجام دہی کے لیے آرڈیننس کی دفعات سے متصادم نہ ہوں۔"
+    },
+    {
+      "question": "Where can additional information about the NADRA Chairman be found?",
+      "answer": "For additional information about the NADRA Chairman, please visit the official NADRA website at: https://www.nadra.gov.pk/chairmanNadra",
+      "urdu_question": "نادرا چیئرمین کے بارے میں مزید معلومات کہاں سے مل سکتی ہیں؟",
+      "urdu_answer": "نادرا چیئرمین کے بارے میں اضافی معلومات کے لیے، براہ کرم نادرا کی آفیشل ویب سائٹ ملاحظہ کریں: https://www.nadra.gov.pk/chairmanNadra"
+    },
+    {
+      "question": "What is the background of the current NADRA Chairman?",
+      "answer": "Lieutenant General Muhammad Munir Afsar is a military officer who assumed the position of NADRA Chairman on 2nd October 2023, bringing military administration experience to the role.",
+      "urdu_question": "نادرا کے موجودہ چیئرمین کا پس منظر کیا ہے؟",
+      "urdu_answer": "لیفٹیننٹ جنرل محمد منیر افسر ایک فوجی افسر ہیں جنہوں نے 2 اکتوبر 2023 کو نادرا کے چیئرمین کا عہدہ سنبھالا، فوجی انتظامیہ کے تجربے کو کردار میں لایا۔"
+    },
+    {
+      "question": "How long can a NADRA Chairman serve in total?",
+      "answer": "A NADRA Chairman can serve multiple three-year terms as determined by the Federal Government, but must retire upon reaching the age of sixty-five years.",
+      "urdu_question": "نادرا کا چیئرمین مجموعی طور پر کتنی مدت تک خدمات انجام دے سکتا ہے؟",
+      "urdu_answer": "نادرا کا چیئرمین وفاقی حکومت کی طرف سے مقرر کردہ تین سال کی متعدد مدتوں پر کام کر سکتا ہے، لیکن پینسٹھ سال کی عمر کو پہنچنے پر اسے ریٹائر ہونا چاہیے۔"
+    },
+    {
+      "question": "What happens if the NADRA Chairman becomes temporarily incapacitated?",
+      "answer": "If the Chairman is temporarily absent or incapacitated, the most senior member attending the meeting shall preside over Authority meetings and exercise necessary functions.",
+      "urdu_question": "اگر نادرا کا چیئرمین عارضی طور پر نااہل ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر چیئرمین عارضی طور پر غیر حاضر یا نااہل ہے، تو اجلاس میں شرکت کرنے والا سب سے سینئر رکن اتھارٹی کے اجلاسوں کی صدارت کرے گا اور ضروری کام انجام دے گا۔"
+    },
+    {
+      "question": "Can the NADRA Chairman be reappointed after retirement?",
+      "answer": "The Chairman is eligible for reappointment for similar terms as the Federal Government may determine, but must retire permanently upon attaining sixty-five years of age.",
+      "urdu_question": "کیا نادرا کے چیئرمین کو ریٹائرمنٹ کے بعد دوبارہ تعینات کیا جا سکتا ہے؟",
+      "urdu_answer": "چیئرمین اسی طرح کی شرائط کے لیے دوبارہ تقرری کا اہل ہے جیسا کہ وفاقی حکومت طے کر سکتی ہے، لیکن پینسٹھ سال کی عمر کو پہنچنے پر اسے مستقل طور پر ریٹائر ہونا چاہیے۔"
+    },
+    {
+      "question": "What authority does the Chairman have in emergency situations?",
+      "answer": "While specific emergency powers aren't detailed, the Chairman can exercise the powers and functions of the Authority, especially when the full Authority is not established or in urgent decision-making situations.",
+      "urdu_question": "ہنگامی حالات میں چیئرمین کے پاس کیا اختیار ہے؟",
+      "urdu_answer": "اگرچہ مخصوص ہنگامی اختیارات کی تفصیل نہیں ہے، چیئرمین اتھارٹی کے اختیارات اور افعال کا استعمال کر سکتا ہے، خاص طور پر جب مکمل اتھارٹی قائم نہ ہو یا فوری فیصلہ سازی کے حالات میں۔"
+    },
+    {
+      "question": "Does the NADRA Chairman have judicial immunity?",
+      "answer": "The NADRA Ordinance provides indemnity provisions stating that no suit, prosecution or legal proceeding shall lie against any person exercising powers under the Ordinance for anything done in good faith.",
+      "urdu_question": "کیا نادرا کے چیئرمین کو عدالتی استثنیٰ حاصل ہے؟",
+      "urdu_answer": "نادرا آرڈیننس معاوضے کی دفعات فراہم کرتا ہے جس میں کہا گیا ہے کہ نیک نیتی سے کیے گئے کسی بھی کام کے لیے آرڈیننس کے تحت اختیارات استعمال کرنے والے کسی بھی شخص کے خلاف کوئی مقدمہ، استغاثہ یا قانونی کارروائی نہیں کی جائے گی۔"
+    },
+    {
+      "question": "What oversight mechanisms exist for the NADRA Chairman?",
+      "answer": "Oversight includes Federal Government authority to remove the Chairman for incapacity or misconduct, inquiry processes for performance evaluation, and requirements for written documentation of all decisions.",
+      "urdu_question": "نادرا چیئرمین کے لیے کون سے نگرانی کے طریقہ کار موجود ہیں؟",
+      "urdu_answer": "نگرانی میں چیئرمین کو نااہلی یا بدانتظامی کے لیے ہٹانے کا وفاقی حکومت کا اختیار، کارکردگی کی جانچ کے لیے انکوائری کا عمل، اور تمام فیصلوں کی تحریری دستاویزات کے تقاضے شامل ہیں۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish new offices?",
+      "answer": "Yes, the Authority under the Chairman may set up offices at such places as it deems appropriate, expanding NADRA's geographical reach as needed.",
+      "urdu_question": "کیا چیئرمین نادرا نئے دفاتر قائم کر سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، چیئرمین کے ماتحت اتھارٹی ایسی جگہوں پر دفاتر قائم کر سکتی ہے جہاں وہ مناسب سمجھے، نادرا کی جغرافیائی رسائی کو ضرورت کے مطابق بڑھائے۔"
+    },
+    {
+      "question": "What conflict of interest rules apply to the NADRA Chairman?",
+      "answer": "The Chairman cannot engage in other employment, business, or have financial interests in entities dealing with NADRA, and cannot accept advisory or consultancy relationships with such entities.",
+      "urdu_question": "نادرا چیئرمین پر مفادات کے کون سے تصادم کے قوانین لاگو ہوتے ہیں؟",
+      "urdu_answer": "چیئرمین نادرا کے ساتھ کام کرنے والے اداروں میں دیگر ملازمت، کاروبار یا مالی مفادات کا حامل نہیں ہو سکتا، اور ایسے اداروں کے ساتھ مشاورتی یا مشاورتی تعلقات کو قبول نہیں کر سکتا۔"
+    },
+    {
+      "question": "How does the Chairman's military background affect NADRA operations?",
+      "answer": "Military officers bring disciplined administration, strategic planning capabilities, and structured management approaches to civilian organizations like NADRA.",
+      "urdu_question": "چیئرمین کا عسکری پس منظر نادرا کی کارروائیوں کو کیسے متاثر کرتا ہے؟",
+      "urdu_answer": "فوجی افسران نادرا جیسی سویلین تنظیموں کے لیے نظم و ضبط، سٹریٹجک منصوبہ بندی کی صلاحیتیں، اور منظم انتظامی نقطہ نظر لاتے ہیں۔"
+    },
+    {
+      "question": "What succession planning exists for the Chairman position?",
+      "answer": "The Federal Government must appoint a replacement within sixty days of a vacancy, ensuring continuity of leadership and minimal disruption to NADRA operations.",
+      "urdu_question": "چیئرمین کے عہدے کے لیے جانشینی کی کیا منصوبہ بندی موجود ہے؟",
+      "urdu_answer": "وفاقی حکومت کو اسامی کے ساٹھ دنوں کے اندر متبادل کا تقرر کرنا چاہیے، قیادت کے تسلسل اور نادرا کی کارروائیوں میں کم سے کم رکاوٹ کو یقینی بناتے ہوئے"
+    },
+    {
+      "question": "Can the NADRA Chairman overrule Authority decisions?",
+      "answer": "No, decisions are taken by majority vote of Authority members present, with the Chairman having only a casting vote in case of ties, not veto power.",
+      "urdu_question": "کیا چیئرمین نادرا اتھارٹی کے فیصلوں کو کالعدم کر سکتے ہیں؟",
+      "urdu_answer": "نہیں۔"
+    },
+    {
+      "question": "What performance metrics apply to the NADRA Chairman?",
+      "answer": "Performance evaluation would include NADRA's achievement of objectives, service delivery improvements, technological advancement, and overall organizational effectiveness under the Chairman's leadership.",
+      "urdu_question": "نادرا چیئرمین پر کارکردگی کے کون سے معیارات لاگو ہوتے ہیں؟",
+      "urdu_answer": "کارکردگی کی جانچ میں چیئرمین کی قیادت میں نادرا کے مقاصد کا حصول، خدمات کی فراہمی میں بہتری، تکنیکی ترقی، اور مجموعی تنظیمی تاثیر شامل ہوگی۔"
+    },
+    {
+      "question": "Does the NADRA Chairman interact with international organizations?",
+      "answer": "As head of a national registration authority, the Chairman likely engages with international partners on identity management, technology cooperation, and best practices sharing.",
+      "urdu_question": "کیا نادرا کے چیئرمین کا بین الاقوامی اداروں سے رابطہ ہے؟",
+      "urdu_answer": "ایک قومی رجسٹریشن اتھارٹی کے سربراہ کے طور پر، چیئرمین ممکنہ طور پر بین الاقوامی شراکت داروں کے ساتھ شناخت کے انتظام، ٹیکنالوجی کے تعاون، اور بہترین طریقوں کے اشتراک پر مشغول ہوں گے۔"
+    },
+    {
+      "question": "What communication channels exist between the Chairman and citizens?",
+      "answer": "The Chairman participates in Khuli/e-Kacheri open forums each month via calls and social media platforms, directly addressing public grievances and concerns.",
+      "urdu_question": "چیئرمین اور شہریوں کے درمیان کون سے مواصلاتی ذرائع موجود ہیں؟",
+      "urdu_answer": "چیئرمین ہر ماہ کھلی/کچیری کے کھلے فورمز میں کالز اور سوشل میڈیا پلیٹ فارمز کے ذریعے شرکت کرتے ہیں، براہ راست عوامی شکایات اور خدشات کو دور کرتے ہیں۔"
+    },
+    {
+      "question": "Can the NADRA Chairman modify organizational structure?",
+      "answer": "Yes, the Authority under the Chairman can appoint staff, establish offices, delegate powers, and make organizational changes as needed to fulfill NADRA's mandate.",
+      "urdu_question": "کیا چیئرمین نادرا تنظیمی ڈھانچے میں ترمیم کر سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، چیئرمین کے ماتحت اتھارٹی نادرا کے مینڈیٹ کو پورا کرنے کے لیے عملے کی تقرری، دفاتر قائم، اختیارات تفویض اور ضرورت کے مطابق تنظیمی تبدیلیاں کر سکتی ہے۔"
+    },
+    {
+      "question": "What technology leadership role does the Chairman play?",
+      "answer": "Given NADRA's technological focus, the Chairman leads digital transformation initiatives, database management improvements, and adoption of new identification technologies.",
+      "urdu_question": "چیئرمین کس ٹیکنالوجی کی قیادت کا کردار ادا کرتا ہے؟",
+      "urdu_answer": "نادرا کی تکنیکی توجہ کے پیش نظر، چیئرمین ڈیجیٹل تبدیلی کے اقدامات، ڈیٹا بیس کے انتظام میں بہتری، اور نئی شناختی ٹیکنالوجیز کو اپنانے میں رہنمائی کرتے ہیں۔"
+    },
+    {
+      "question": "How does the Chairman ensure data security and privacy?",
+      "answer": "The Chairman oversees implementation of security regulations, confidentiality safeguards, and data protection measures as mandated by the NADRA Ordinance.",
+      "urdu_question": "چیئرمین ڈیٹا کی حفاظت اور رازداری کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "چیئرمین سیکیورٹی کے ضوابط، رازداری کے تحفظات، اور ڈیٹا کے تحفظ کے اقدامات کے نفاذ کی نگرانی کرتا ہے جیسا کہ نادرا آرڈیننس کے ذریعے لازمی قرار دیا گیا ہے۔"
+    },
+    {
+      "question": "What budgetary authority does the NADRA Chairman have?",
+      "answer": "The Chairman, as part of the Authority, is involved in budget preparation, expenditure planning, and financial management of NADRA operations.",
+      "urdu_question": "چیئرمین نادرا کے پاس بجٹ کا کون سا اختیار ہے؟",
+      "urdu_answer": "چیئرمین، اتھارٹی کے حصے کے طور پر، بجٹ کی تیاری، اخراجات کی منصوبہ بندی، اور نادرا کی کارروائیوں کے مالیاتی انتظام میں شامل ہوتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman enter into international agreements?",
+      "answer": "Major international agreements would require Federal Government approval, though the Chairman can engage in technical cooperation and information sharing within NADRA's mandate.",
+      "urdu_question": "کیا چیئرمین نادرا بین الاقوامی معاہدے کر سکتے ہیں؟",
+      "urdu_answer": "بڑے بین الاقوامی معاہدوں کے لیے وفاقی حکومت کی منظوری درکار ہوگی، حالانکہ چیئرمین نادرا کے مینڈیٹ کے اندر تکنیکی تعاون اور معلومات کے تبادلے میں مشغول ہوسکتے ہیں۔"
+    },
+    {
+      "question": "What role does the Chairman play in policy development?",
+      "answer": "The Chairman leads policy formulation for registration systems, database management, identity document issuance, and service delivery improvements.",
+      "urdu_question": "چیئرمین پالیسی کی ترقی میں کیا کردار ادا کرتا ہے؟",
+      "urdu_answer": "چیئرمین رجسٹریشن کے نظام، ڈیٹا بیس کے انتظام، شناختی دستاویز کے اجراء، اور خدمات کی فراہمی میں بہتری کے لیے پالیسی سازی کی رہنمائی کرتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman coordinate with other government agencies?",
+      "answer": "The Chairman ensures NADRA's coordination with user and feeder agencies, shares data as authorized, and maintains interface with various government departments.",
+      "urdu_question": "چیئرمین دیگر سرکاری اداروں کے ساتھ کس طرح رابطہ قائم کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کے صارف اور فیڈر ایجنسیوں کے ساتھ ہم آہنگی کو یقینی بناتا ہے، مجاز کے طور پر ڈیٹا شیئر کرتا ہے، اور مختلف سرکاری محکموں کے ساتھ انٹرفیس کو برقرار رکھتا ہے۔"
+    },
+    {
+      "question": "What crisis management responsibilities does the Chairman have?",
+      "answer": "During crises, the Chairman must ensure continuity of essential services, data security, emergency registration procedures, and coordination with relevant authorities.",
+      "urdu_question": "چیئرمین کے پاس بحران کے انتظام کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "بحران کے دوران، چیئرمین کو ضروری خدمات کے تسلسل، ڈیٹا کی حفاظت، ہنگامی رجسٹریشن کے طریقہ کار اور متعلقہ حکام کے ساتھ ہم آہنگی کو یقینی بنانا چاہیے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman be held personally liable for organizational decisions?",
+      "answer": "The Ordinance provides indemnity for actions taken in good faith, protecting the Chairman from personal liability for official decisions within legal bounds.",
+      "urdu_question": "کیا نادرا کے چیئرمین کو تنظیمی فیصلوں کے لیے ذاتی طور پر ذمہ دار ٹھہرایا جا سکتا ہے؟",
+      "urdu_answer": "آرڈیننس نیک نیتی سے کیے گئے اقدامات کے لیے معاوضہ فراہم کرتا ہے، چیئرمین کو قانونی حدود کے اندر سرکاری فیصلوں کے لیے ذاتی ذمہ داری سے بچاتا ہے۔"
+    },
+    {
+      "question": "What innovation initiatives can the Chairman pursue?",
+      "answer": "The Chairman can lead research initiatives, technology upgrades, service delivery innovations, and digital transformation projects to modernize NADRA operations.",
+      "urdu_question": "چیئرمین کون سے اختراعی اقدامات کر سکتے ہیں؟",
+      "urdu_answer": "چیئرمین نادرا کے آپریشنز کو جدید بنانے کے لیے تحقیقی اقدامات، ٹیکنالوجی کی اپ گریڈیشن، سروس ڈیلیوری کی اختراعات اور ڈیجیٹل تبدیلی کے منصوبوں کی قیادت کر سکتے ہیں۔"
+    },
+    {
+      "question": "How does the Chairman ensure service quality?",
+      "answer": "Through oversight of service standards, performance monitoring, customer feedback systems, and continuous improvement initiatives across all NADRA services.",
+      "urdu_question": "چیئرمین سروس کے معیار کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "سروس کے معیارات کی نگرانی، کارکردگی کی نگرانی، کسٹمر فیڈ بیک سسٹم، اور تمام نادرا سروسز میں مسلسل بہتری کے اقدامات کے ذریعے۔"
+    },
+    {
+      "question": "What procurement authority does the NADRA Chairman have?",
+      "answer": "The Chairman oversees procurement of technology, equipment, and services necessary for NADRA operations, following prescribed government procurement procedures.",
+      "urdu_question": "نادرا کے چیئرمین کے پاس کونسی پروکیورمنٹ اتھارٹی ہے؟",
+      "urdu_answer": "چیئرمین تجویز کردہ سرکاری خریداری کے طریقہ کار کے بعد نادرا کے آپریشنز کے لیے ضروری ٹیکنالوجی، آلات اور خدمات کی خریداری کی نگرانی کرتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish partnerships with private sector?",
+      "answer": "Yes, within regulatory frameworks, the Chairman can establish partnerships for technology solutions, service delivery, and operational improvements.",
+      "urdu_question": "کیا چیئرمین نادرا نجی شعبے کے ساتھ شراکت داری قائم کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، ریگولیٹری فریم ورک کے اندر، چیئرمین ٹیکنالوجی کے حل، خدمات کی فراہمی، اور آپریشنل بہتری کے لیے شراکت داری قائم کر سکتے ہیں۔"
+    },
+    {
+      "question": "What environmental responsibilities does the Chairman have?",
+      "answer": "The Chairman can promote environmentally sustainable practices in NADRA operations, including digital services, energy efficiency, and responsible resource management.",
+      "urdu_question": "چیئرمین کی ماحولیاتی ذمہ داریاں کیا ہیں؟",
+      "urdu_answer": "چیئرمین نادرا کی کارروائیوں میں ماحولیاتی طور پر پائیدار طریقوں کو فروغ دے سکتا ہے، بشمول ڈیجیٹل خدمات، توانائی کی کارکردگی، اور ذمہ دار وسائل کا انتظام۔"
+    },
+    {
+      "question": "How does the Chairman handle confidential information?",
+      "answer": "As a public servant under the Pakistan Penal Code, the Chairman is bound by strict confidentiality requirements and information security protocols.",
+      "urdu_question": "چیئرمین خفیہ معلومات کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "پاکستان پینل کوڈ کے تحت ایک عوامی ملازم کے طور پر، چیئرمین رازداری کے سخت تقاضوں اور انفارمیشن سیکیورٹی پروٹوکول کا پابند ہے۔"
+    },
+    {
+      "question": "What training and development authority does the Chairman have?",
+      "answer": "The Chairman oversees staff training programs, capacity building initiatives, and professional development activities to enhance NADRA's human resources.",
+      "urdu_question": "چیئرمین کے پاس کون سی تربیت اور ترقی کا اختیار ہے؟",
+      "urdu_answer": "چیئرمین نادرا کے انسانی وسائل کو بڑھانے کے لیے عملے کے تربیتی پروگراموں، صلاحیت سازی کے اقدامات اور پیشہ ورانہ ترقی کی سرگرمیوں کی نگرانی کرتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman modify service fees?",
+      "answer": "Fee modifications typically require regulatory approval and consultation with relevant authorities, as fees are prescribed in official schedules.",
+      "urdu_question": "کیا نادرا چیئرمین سروس فیس میں ردوبدل کر سکتا ہے؟",
+      "urdu_answer": "فیس میں ترمیم کے لیے عام طور پر ریگولیٹری منظوری اور متعلقہ حکام کے ساتھ مشاورت کی ضرورت ہوتی ہے، جیسا کہ فیس سرکاری شیڈول میں تجویز کی جاتی ہے۔"
+    },
+    {
+      "question": "What disaster recovery responsibilities does the Chairman have?",
+      "answer": "The Chairman ensures business continuity planning, data backup systems, disaster recovery procedures, and emergency service provision capabilities.",
+      "urdu_question": "چیئرمین کی ڈیزاسٹر ریکوری کی کون سی ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین کاروباری تسلسل کی منصوبہ بندی، ڈیٹا بیک اپ سسٹم، ڈیزاسٹر ریکوری کے طریقہ کار، اور ہنگامی خدمات کی فراہمی کی صلاحیتوں کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman promote transparency?",
+      "answer": "Through public reporting, open forums, website transparency, service delivery statistics, and responsive grievance handling mechanisms.",
+      "urdu_question": "چیئرمین شفافیت کو کیسے فروغ دیتا ہے؟",
+      "urdu_answer": "عوامی رپورٹنگ، اوپن فورمز، ویب سائٹ کی شفافیت، سروس ڈیلیوری کے اعداد و شمار، اور جوابدہ شکایات سے نمٹنے کے طریقہ کار کے ذریعے۔"
+    },
+    {
+      "question": "What quality assurance role does the Chairman play?",
+      "answer": "The Chairman oversees quality control systems, accuracy standards, service delivery benchmarks, and continuous improvement processes.",
+      "urdu_question": "چیئرمین کوالٹی ایشورنس کا کیا کردار ادا کرتا ہے؟",
+      "urdu_answer": "چیئرمین کوالٹی کنٹرول سسٹمز، درستگی کے معیارات، سروس ڈیلیوری کے معیارات، اور مسلسل بہتری کے عمل کی نگرانی کرتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish research centers?",
+      "answer": "Yes, the Authority can cause research, studies, and investigations to be made, allowing establishment of research facilities for NADRA's purposes.",
+      "urdu_question": "کیا نادرا چیئرمین تحقیقی مراکز قائم کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، اتھارٹی نادرا کے مقاصد کے لیے تحقیقی سہولیات کے قیام کی اجازت دیتے ہوئے تحقیق، مطالعہ اور تحقیقات کا سبب بن سکتی ہے۔"
+    },
+    {
+      "question": "What cybersecurity responsibilities does the Chairman have?",
+      "answer": "The Chairman ensures implementation of cybersecurity measures, data protection protocols, and secure technology infrastructure across NADRA systems.",
+      "urdu_question": "چیئرمین کی سائبرسیکیوریٹی کی کون سی ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین سائبر سیکیورٹی اقدامات، ڈیٹا پروٹیکشن پروٹوکولز، اور نادرا سسٹمز میں محفوظ ٹیکنالوجی انفراسٹرکچر کے نفاذ کو یقینی بناتے ہیں۔"
+    },
+    {
+      "question": "How does the Chairman handle public complaints?",
+      "answer": "Through oversight of complaint resolution systems, direct engagement in open forums, and ensuring timely resolution of citizen grievances.",
+      "urdu_question": "چیئرمین عوامی شکایات کو کیسے نمٹاتا ہے؟",
+      "urdu_answer": "شکایت کے حل کے نظام کی نگرانی، کھلے فورمز میں براہ راست شمولیت، اور شہریوں کی شکایات کے بروقت حل کو یقینی بنانے کے ذریعے۔"
+    },
+    {
+      "question": "What international representation does the Chairman provide?",
+      "answer": "The Chairman may represent NADRA in international conferences, technical cooperation initiatives, and knowledge sharing forums on identity management.",
+      "urdu_question": "چیئرمین کون سی بین الاقوامی نمائندگی فراہم کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کی بین الاقوامی کانفرنسوں، تکنیکی تعاون کے اقدامات اور شناخت کے انتظام کے بارے میں علم کے اشتراک کے فورمز میں نمائندگی کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can the NADRA Chairman modify operational procedures?",
+      "answer": "Yes, the Chairman can oversee procedural improvements, workflow optimization, and operational efficiency enhancements within regulatory frameworks.",
+      "urdu_question": "کیا نادرا چیئرمین آپریشنل طریقہ کار میں ترمیم کر سکتا ہے؟",
+      "urdu_answer": "ہاں، چیئرمین ریگولیٹری فریم ورک کے اندر طریقہ کار میں بہتری، ورک فلو کی اصلاح، اور آپریشنل کارکردگی میں اضافہ کی نگرانی کر سکتا ہے۔"
+    },
+    {
+      "question": "What social responsibility initiatives can the Chairman pursue?",
+      "answer": "The Chairman can promote inclusive service delivery, accessibility improvements, social welfare support, and community engagement programs.",
+      "urdu_question": "چیئرمین سماجی ذمہ داری کے کن اقدامات کو آگے بڑھا سکتے ہیں؟",
+      "urdu_answer": "چیئرمین جامع خدمات کی فراہمی، رسائی میں بہتری، سماجی بہبود کی حمایت، اور کمیونٹی کی شمولیت کے پروگراموں کو فروغ دے سکتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman ensure staff welfare?",
+      "answer": "Through oversight of employee policies, working conditions, professional development opportunities, and fair treatment of all NADRA personnel.",
+      "urdu_question": "چیئرمین عملے کی فلاح و بہبود کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "ملازمین کی پالیسیوں، کام کے حالات، پیشہ ورانہ ترقی کے مواقع، اور نادرا کے تمام اہلکاروں کے ساتھ منصفانہ سلوک کی نگرانی کے ذریعے۔"
+    },
+    {
+      "question": "What legacy planning responsibilities does the Chairman have?",
+      "answer": "The Chairman works on long-term institutional development, knowledge transfer systems, and sustainable improvements that outlast individual tenures.",
+      "urdu_question": "چیئرمین کے پاس کون سی میراثی منصوبہ بندی کی ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین طویل مدتی ادارہ جاتی ترقی، علم کی منتقلی کے نظام، اور پائیدار بہتریوں پر کام کرتے ہیں جو انفرادی مدتوں کو ختم کرتے ہیں۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish advisory committees?",
+      "answer": "Yes, the Chairman can appoint experts, consultants, and advisers, and can establish advisory bodies to support decision-making and specialized guidance.",
+      "urdu_question": "کیا چیئرمین نادرا ایڈوائزری کمیٹیاں بنا سکتے ہیں؟",
+      "urdu_answer": "ہاں، چیئرمین ماہرین، کنسلٹنٹس، اور مشیروں کا تقرر کر سکتا ہے، اور فیصلہ سازی اور خصوصی رہنمائی کی حمایت کے لیے مشاورتی ادارے قائم کر سکتا ہے۔"
+    },
+    {
+      "question": "What public communication responsibilities does the Chairman have?",
+      "answer": "The Chairman communicates NADRA policies, service updates, achievements, and addresses public concerns through various media and direct engagement.",
+      "urdu_question": "چیئرمین کے پاس عوامی رابطہ کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین نادرا کی پالیسیوں، سروس اپ ڈیٹس، کامیابیوں سے آگاہ کرتے ہیں اور مختلف میڈیا اور براہ راست مصروفیت کے ذریعے عوامی خدشات کو دور کرتے ہیں۔"
+    },
+    {
+      "question": "How does the Chairman promote digital inclusion?",
+      "answer": "Through initiatives to make NADRA services accessible to all segments of society, including rural populations, elderly citizens, and persons with disabilities.",
+      "urdu_question": "چیئرمین ڈیجیٹل شمولیت کو کیسے فروغ دیتا ہے؟",
+      "urdu_answer": "نادرا کی خدمات کو معاشرے کے تمام طبقات بشمول دیہی آبادی، بزرگ شہریوں اور معذور افراد تک رسائی کے لیے اقدامات کے ذریعے۔"
+    },
+    {
+      "question": "What performance reporting does the Chairman oversee?",
+      "answer": "The Chairman ensures preparation of annual reports to the Federal Government regarding NADRA's performance, achievements, and future plans.",
+      "urdu_question": "چیئرمین کس کارکردگی کی رپورٹنگ کی نگرانی کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کی کارکردگی، کامیابیوں اور مستقبل کے منصوبوں کے حوالے سے وفاقی حکومت کو سالانہ رپورٹس کی تیاری کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish international offices?",
+      "answer": "For overseas Pakistani services, the Chairman can coordinate with Pakistani missions abroad and establish service points as needed within diplomatic frameworks.",
+      "urdu_question": "کیا چیئرمین نادرا بین الاقوامی دفاتر قائم کر سکتے ہیں؟",
+      "urdu_answer": "بیرون ملک پاکستانی خدمات کے لیے چیئرمین بیرون ملک پاکستانی مشنز کے ساتھ رابطہ قائم کر سکتے ہیں اور سفارتی فریم ورک کے اندر ضرورت کے مطابق سروس پوائنٹس قائم کر سکتے ہیں۔"
+    },
+    {
+      "question": "What ethics standards apply to the NADRA Chairman?",
+      "answer": "High ethical standards including integrity, competence, conflict of interest avoidance, and adherence to public service values as required for the position.",
+      "urdu_question": "نادرا چیئرمین پر کون سے اخلاقی معیارات لاگو ہوتے ہیں؟",
+      "urdu_answer": "اعلیٰ اخلاقی معیارات بشمول دیانتداری، قابلیت، مفادات کے تصادم سے اجتناب، اور عوامی خدمت کی اقدار کی پابندی جیسا کہ عہدے کے لیے ضروری ہے۔"
+    },
+    {
+      "question": "How does the Chairman handle media relations?",
+      "answer": "Through official communication channels, press releases, interviews, and transparent information sharing about NADRA services and achievements.",
+      "urdu_question": "چیئرمین میڈیا تعلقات کو کیسے ہینڈل کرتے ہیں؟",
+      "urdu_answer": "آفیشل کمیونیکیشن چینلز، پریس ریلیز، انٹرویوز، اور نادرا کی خدمات اور کامیابیوں کے بارے میں شفاف معلومات کے تبادلے کے ذریعے۔"
+    },
+    {
+      "question": "What strategic planning role does the Chairman play?",
+      "answer": "The Chairman leads long-term strategic planning, vision development, goal setting, and roadmap creation for NADRA's future development.",
+      "urdu_question": "چیئرمین کیا حکمت عملی منصوبہ بندی کا کردار ادا کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کی مستقبل کی ترقی کے لیے طویل المدتی تزویراتی منصوبہ بندی، وژن کی ترقی، اہداف کی ترتیب، اور روڈ میپ بنانے کی رہنمائی کرتے ہیں۔"
+    },
+    {
+      "question": "Can the NADRA Chairman modify eligibility criteria for services?",
+      "answer": "Eligibility criteria are typically established by law and regulation, requiring proper legal processes and approvals for any modifications.",
+      "urdu_question": "کیا نادرا چیئرمین خدمات کے لیے اہلیت کے معیار میں ترمیم کر سکتا ہے؟",
+      "urdu_answer": "اہلیت کا معیار عام طور پر قانون اور ضابطے کے ذریعے قائم کیا جاتا ہے، جس میں کسی بھی ترمیم کے لیے مناسب قانونی عمل اور منظوری درکار ہوتی ہے۔"
+    },
+    {
+      "question": "What knowledge management responsibilities does the Chairman have?",
+      "answer": "The Chairman promotes knowledge sharing, best practices documentation, institutional memory preservation, and learning organization development.",
+      "urdu_question": "چیئرمین کے پاس کون سی علمی انتظامی ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین علم کے اشتراک، بہترین طریقوں کی دستاویزات، ادارہ جاتی یادداشت کے تحفظ، اور سیکھنے کی تنظیم کی ترقی کو فروغ دیتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman ensure legal compliance?",
+      "answer": "Through oversight of legal affairs, regulatory compliance, audit requirements, and adherence to all applicable laws and regulations.",
+      "urdu_question": "چیئرمین قانونی تعمیل کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "قانونی امور کی نگرانی، ریگولیٹری تعمیل، آڈٹ کی ضروریات، اور تمام قابل اطلاق قوانین اور ضوابط کی پابندی کے ذریعے۔"
+    },
+    {
+      "question": "What change management role does the Chairman play?",
+      "answer": "The Chairman leads organizational change initiatives, technology adoption, process improvements, and cultural transformation within NADRA.",
+      "urdu_question": "چیئرمین تبدیلی کے انتظام میں کیا کردار ادا کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کے اندر تنظیمی تبدیلی کے اقدامات، ٹیکنالوجی کو اپنانے، عمل میں بہتری اور ثقافتی تبدیلی کی قیادت کرتے ہیں۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish mobile services?",
+      "answer": "Yes, the Chairman can expand service delivery through mobile registration vans, outreach programs, and remote service provision to underserved areas.",
+      "urdu_question": "کیا چیئرمین نادرا موبائل سروس قائم کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، چیئرمین موبائل رجسٹریشن وین، آؤٹ ریچ پروگرامز، اور ریموٹ سروس پروویژن کے ذریعے غیر محفوظ علاقوں تک سروس کی فراہمی کو بڑھا سکتا ہے۔"
+    },
+    {
+      "question": "What customer service standards does the Chairman establish?",
+      "answer": "The Chairman sets service delivery standards, response time requirements, customer satisfaction targets, and quality benchmarks for all NADRA services.",
+      "urdu_question": "چیئرمین کسٹمر سروس کے کون سے معیارات قائم کرتا ہے؟",
+      "urdu_answer": "چیئرمین تمام نادرا سروسز کے لیے سروس ڈیلیوری کے معیارات، رسپانس ٹائم کے تقاضے، صارفین کے اطمینان کے اہداف اور معیار کے معیارات کا تعین کرتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman promote staff development?",
+      "answer": "Through training programs, skill development initiatives, career advancement opportunities, and professional growth support for NADRA employees.",
+      "urdu_question": "چیئرمین عملے کی ترقی کو کیسے فروغ دیتا ہے؟",
+      "urdu_answer": "تربیتی پروگراموں کے ذریعے، مہارت کی ترقی کے اقدامات، کیریئر میں ترقی کے مواقع، اور نادرا کے ملازمین کے لیے پیشہ ورانہ ترقی کی حمایت۔"
+    },
+    {
+      "question": "What risk management responsibilities does the Chairman have?",
+      "answer": "The Chairman oversees risk assessment, mitigation strategies, contingency planning, and security measures to protect NADRA operations and data.",
+      "urdu_question": "چیئرمین کے پاس رسک مینجمنٹ کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین خطرے کی تشخیص، تخفیف کی حکمت عملی، ہنگامی منصوبہ بندی، اور نادرا کے آپریشنز اور ڈیٹا کی حفاظت کے لیے حفاظتی اقدامات کی نگرانی کرتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish academic partnerships?",
+      "answer": "Yes, the Chairman can collaborate with universities and research institutions for technology development, research projects, and knowledge advancement.",
+      "urdu_question": "کیا نادرا چیئرمین تعلیمی شراکت داری قائم کر سکتا ہے؟",
+      "urdu_answer": "ہاں، چیئرمین ٹیکنالوجی کی ترقی، تحقیقی منصوبوں، اور علم کی ترقی کے لیے یونیورسٹیوں اور تحقیقی اداروں کے ساتھ تعاون کر سکتے ہیں۔"
+    },
+    {
+      "question": "What accessibility improvements can the Chairman implement?",
+      "answer": "The Chairman can enhance physical accessibility, digital accessibility, multilingual services, and special accommodations for persons with disabilities.",
+      "urdu_question": "چیئرمین کس قابل رسائی بہتری کو نافذ کر سکتے ہیں؟",
+      "urdu_answer": "چیئرمین جسمانی رسائی، ڈیجیٹل رسائی، کثیر لسانی خدمات، اور معذور افراد کے لیے خصوصی رہائش کو بڑھا سکتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman ensure data integrity?",
+      "answer": "Through oversight of data quality controls, accuracy verification systems, validation procedures, and database management protocols.",
+      "urdu_question": "چیئرمین ڈیٹا کی سالمیت کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "ڈیٹا کوالٹی کنٹرولز، درستگی کی تصدیق کے نظام، توثیق کے طریقہ کار، اور ڈیٹا بیس مینجمنٹ پروٹوکول کی نگرانی کے ذریعے۔"
+    },
+    {
+      "question": "What community outreach role does the Chairman play?",
+      "answer": "The Chairman promotes public awareness campaigns, community engagement programs, and educational initiatives about NADRA services.",
+      "urdu_question": "چیئر مین کمیونٹی آؤٹ ریچ کا کیا کردار ادا کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کی خدمات کے بارے میں عوامی آگاہی مہموں، کمیونٹی کی شمولیت کے پروگراموں اور تعلیمی اقدامات کو فروغ دیتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman modify processing timeframes?",
+      "answer": "The Chairman can work to improve efficiency and reduce processing times through operational improvements while maintaining quality standards.",
+      "urdu_question": "کیا نادرا چیئرمین پروسیسنگ ٹائم فریم میں ترمیم کر سکتا ہے؟",
+      "urdu_answer": "چیئرمین معیار کے معیار کو برقرار رکھتے ہوئے آپریشنل بہتری کے ذریعے کارکردگی کو بہتر بنانے اور پروسیسنگ کے اوقات کو کم کرنے کے لیے کام کر سکتا ہے۔"
+    },
+    {
+      "question": "What succession development does the Chairman oversee?",
+      "answer": "The Chairman ensures institutional continuity through leadership development, knowledge transfer systems, and organizational resilience building.",
+      "urdu_question": "چیئرمین کس جانشینی کی ترقی کی نگرانی کرتا ہے؟",
+      "urdu_answer": "چیئرمین قیادت کی ترقی، علم کی منتقلی کے نظام، اور تنظیمی لچک کی تعمیر کے ذریعے ادارہ جاتی تسلسل کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman handle technological obsolescence?",
+      "answer": "Through technology refresh programs, system upgrades, modern infrastructure adoption, and staying current with technological advances.",
+      "urdu_question": "چیئرمین تکنیکی فرسودگی کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "ٹیکنالوجی ریفریش پروگرامز، سسٹم اپ گریڈ، جدید انفراسٹرکچر کو اپنانے، اور تکنیکی ترقی کے ساتھ موجودہ رہنے کے ذریعے۔"
+    },
+    {
+      "question": "What inter-agency coordination does the Chairman manage?",
+      "answer": "The Chairman coordinates with multiple government agencies for data sharing, service integration, and collaborative service delivery initiatives.",
+      "urdu_question": "چیئرمین کس بین ایجنسی کوآرڈینیشن کا انتظام کرتا ہے؟",
+      "urdu_answer": "چیئرمین ڈیٹا شیئرنگ، سروس انٹیگریشن، اور تعاون پر مبنی خدمات کی فراہمی کے اقدامات کے لیے متعدد سرکاری ایجنسیوں کے ساتھ رابطہ کاری کرتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish emergency response procedures?",
+      "answer": "Yes, the Chairman can develop emergency protocols, crisis response procedures, and business continuity plans for various scenarios.",
+      "urdu_question": "کیا نادرا چیئرمین ایمرجنسی رسپانس کا طریقہ کار قائم کر سکتا ہے؟",
+      "urdu_answer": "ہاں، چیئرمین مختلف منظرناموں کے لیے ہنگامی پروٹوکول، بحران سے نمٹنے کے طریقہ کار، اور کاروباری تسلسل کے منصوبے تیار کر سکتے ہیں۔"
+    },
+    {
+      "question": "What innovation culture does the Chairman promote?",
+      "answer": "The Chairman encourages creative thinking, technological innovation, process improvement, and solution-oriented approaches throughout NADRA.",
+      "urdu_question": "چیئرمین کس اختراعی کلچر کو فروغ دیتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا میں تخلیقی سوچ، تکنیکی جدت، عمل میں بہتری، اور حل پر مبنی نقطہ نظر کی حوصلہ افزائی کرتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman ensure equitable service delivery?",
+      "answer": "Through fair access policies, non-discriminatory practices, inclusive service design, and equal treatment regardless of background or location.",
+      "urdu_question": "چیئرمین مساوی خدمات کی فراہمی کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "منصفانہ رسائی کی پالیسیوں، غیر امتیازی طرز عمل، جامع سروس ڈیزائن، اور پس منظر یا مقام سے قطع نظر مساوی سلوک کے ذریعے۔"
+    },
+    {
+      "question": "What capacity building initiatives does the Chairman lead?",
+      "answer": "The Chairman oversees infrastructure development, skill enhancement programs, technology capacity building, and organizational capability improvement.",
+      "urdu_question": "چیئرمین صلاحیت سازی کے کن اقدامات کی قیادت کرتے ہیں؟",
+      "urdu_answer": "چیئرمین انفراسٹرکچر کی ترقی، مہارت بڑھانے کے پروگرام، ٹیکنالوجی کی صلاحیت کی تعمیر، اور تنظیمی صلاحیت میں بہتری کی نگرانی کرتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish quality certification programs?",
+      "answer": "Yes, the Chairman can implement quality standards, certification processes, and excellence recognition programs for continuous improvement.",
+      "urdu_question": "کیا نادرا چیئرمین کوالٹی سرٹیفیکیشن پروگرام قائم کر سکتا ہے؟",
+      "urdu_answer": "ہاں، چیئرمین مسلسل بہتری کے لیے معیار کے معیارات، سرٹیفیکیشن کے عمل، اور عمدگی کی شناخت کے پروگراموں کو نافذ کر سکتا ہے۔"
+    },
+    {
+      "question": "What digital transformation leadership does the Chairman provide?",
+      "answer": "The Chairman leads digitization initiatives, online service development, automation projects, and technological modernization across NADRA operations.",
+      "urdu_question": "چیئرمین کونسی ڈیجیٹل تبدیلی کی قیادت فراہم کرتا ہے؟",
+      "urdu_answer": "چیئرمین نادرا کے آپریشنز میں ڈیجیٹلائزیشن کے اقدامات، آن لائن سروس کی ترقی، آٹومیشن پروجیکٹس، اور تکنیکی جدید کاری کی رہنمائی کرتے ہیں۔"
+    },
+    {
+      "question": "How does the Chairman promote citizen-centric services?",
+      "answer": "Through user experience improvements, customer feedback integration, service design thinking, and citizen satisfaction enhancement initiatives.",
+      "urdu_question": "چیئرمین کس طرح شہریوں پر مبنی خدمات کو فروغ دیتا ہے؟",
+      "urdu_answer": "صارف کے تجربے میں بہتری، کسٹمر فیڈ بیک انضمام، سروس ڈیزائن کی سوچ، اور شہریوں کے اطمینان کو بڑھانے کے اقدامات کے ذریعے۔"
+    },
+    {
+      "question": "What benchmarking responsibilities does the Chairman have?",
+      "answer": "The Chairman ensures performance measurement, international best practices adoption, comparative analysis, and continuous improvement based on benchmarks.",
+      "urdu_question": "چیئرمین کے پاس معیار سازی کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "چیئرمین کارکردگی کی پیمائش، بین الاقوامی بہترین طریقوں کو اپنانے، تقابلی تجزیہ اور معیارات کی بنیاد پر مسلسل بہتری کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman establish specialized units?",
+      "answer": "Yes, the Chairman can create specialized departments, task forces, and units to address specific challenges or serve particular population segments.",
+      "urdu_question": "کیا نادرا کے چیئرمین خصوصی یونٹس قائم کر سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، چیئرمین مخصوص چیلنجوں سے نمٹنے یا آبادی کے مخصوص حصوں کی خدمت کے لیے خصوصی محکمے، ٹاسک فورسز اور یونٹس تشکیل دے سکتے ہیں۔"
+    },
+    {
+      "question": "What cultural sensitivity does the Chairman promote?",
+      "answer": "The Chairman ensures respectful service delivery, cultural awareness, religious accommodations, and inclusive practices for Pakistan's diverse population.",
+      "urdu_question": "چیئرمین کس ثقافتی حساسیت کو فروغ دیتا ہے؟",
+      "urdu_answer": "چیئرمین پاکستان کی متنوع آبادی کے لیے باعزت خدمات کی فراہمی، ثقافتی آگاہی، مذہبی رہائش اور جامع طرز عمل کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman handle technological integration?",
+      "answer": "Through system integration projects, interoperability development, platform consolidation, and seamless technology ecosystem creation.",
+      "urdu_question": "چیئرمین تکنیکی انضمام کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "سسٹم انٹیگریشن پروجیکٹس، انٹرآپریبلٹی ڈیولپمنٹ، پلیٹ فارم کنسولیڈیشن، اور سیملیس ٹیکنالوجی ایکو سسٹم کی تخلیق کے ذریعے۔"
+    },
+    {
+      "question": "What future-proofing strategies does the Chairman implement?",
+      "answer": "The Chairman plans for emerging technologies, anticipates future needs, develops adaptable systems, and ensures long-term organizational sustainability.",
+      "urdu_question": "چیئرمین مستقبل کے حوالے سے کن حکمت عملیوں پر عمل درآمد کرتے ہیں؟",
+      "urdu_answer": "چیئرمین ابھرتی ہوئی ٹیکنالوجیز کے لیے منصوبہ بندی کرتا ہے، مستقبل کی ضروریات کا اندازہ لگاتا ہے، موافقت پذیر نظام تیار کرتا ہے، اور طویل مدتی تنظیمی پائیداری کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "Can the NADRA Chairman modify service delivery channels?",
+      "answer": "Yes, the Chairman can expand or modify service channels including online platforms, mobile services, partnerships, and alternative delivery methods.",
+      "urdu_question": "کیا نادرا چیئرمین سروس ڈیلیوری چینلز میں ترمیم کر سکتا ہے؟",
+      "urdu_answer": "ہاں، چیئرمین آن لائن پلیٹ فارمز، موبائل سروسز، پارٹنرشپس، اور متبادل ترسیل کے طریقوں سمیت سروس چینلز کو بڑھا یا تبدیل کر سکتا ہے۔"
+    },
+    {
+      "question": "What environmental sustainability does the Chairman promote?",
+      "answer": "The Chairman can implement green practices, paperless operations, energy efficiency measures, and environmentally responsible operational procedures.",
+      "urdu_question": "چیئرمین کس ماحولیاتی پائیداری کو فروغ دیتا ہے؟",
+      "urdu_answer": "چیئرمین گرین پریکٹسز، پیپر لیس آپریشنز، توانائی کی کارکردگی کے اقدامات، اور ماحولیاتی طور پر ذمہ دار آپریشنل طریقہ کار کو نافذ کر سکتا ہے۔"
+    },
+    {
+      "question": "How does the Chairman ensure operational excellence?",
+      "answer": "Through performance management systems, quality control processes, efficiency improvements, and excellence in all aspects of NADRA operations.",
+      "urdu_question": "چیئرمین آپریشنل فضیلت کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "کارکردگی کے انتظام کے نظام کے ذریعے، کوالٹی کنٹرول کے عمل، کارکردگی میں بہتری، اور نادرا کی کارروائیوں کے تمام پہلوؤں میں عمدہ کارکردگی۔"
+    }
+  ]
+}

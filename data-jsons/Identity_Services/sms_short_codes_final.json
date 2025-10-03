@@ -1,0 +1,553 @@
+{
+  "file_name": "sms_short_codes_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 120,
+  "qa_data": [
+    {
+      "question": "What SMS short codes does NADRA provide?",
+      "answer": "NADRA provides multiple SMS short codes for different services: 8400 (CNIC application tracking), 8009 (CNIC verification), 1777 (Call center service), 1166 (Covid-19 vaccination), 8300 (Vote verification for Election Commission of Pakistan), 8301 (Voter verification for Gilgit Baltistan), 8302 (Voter verification for Azad Jammu & Kashmir), 8500 (Sehat Card eligibility), 9780 (KP Health Sehat card), 7001 (Arms License Sindh), and 9888 (Broadcast Message Service).",
+      "urdu_question": "نادرا کون سے ایس ایم ایس شارٹ کوڈ فراہم کرتا ہے؟",
+      "urdu_answer": "نادرا مختلف خدمات کے لیے متعدد ایس ایم ایس شارٹ کوڈ فراہم کرتا ہے: 8400 (CNIC ایپلیکیشن ٹریکنگ)، 8009 (CNIC تصدیق)، 1777 (کال سینٹر سروس)، 1166 (COVID-19 ویکسینیشن)، 8300 (الیکشن کمیشن آف پاکستان کے لیے ووٹ کی تصدیق)، 8301 (ووٹرز کی تصدیق)، 8301 (ووٹر کی تصدیق) آزاد جموں و کشمیر کے لیے، 8500 (صحت کارڈ کی اہلیت)، 9780 (کے پی ہیلتھ کارڈ)، 7001 (اسلحہ لائسنس سندھ)، اور 9888 (براڈکاسٹ میسج سروس)۔"
+    },
+    {
+      "question": "How can I track my CNIC application via SMS?",
+      "answer": "You can track your CNIC application by sending an SMS to short code 8400. This is NADRA's CNIC application tracking SMS service.",
+      "urdu_question": "میں اپنی CNIC درخواست کو بذریعہ SMS کیسے ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "آپ شارٹ کوڈ 8400 پر ایک SMS بھیج کر اپنی CNIC ایپلیکیشن کو ٹریک کر سکتے ہیں۔ یہ نادرا کی CNIC ایپلیکیشن ٹریکنگ SMS سروس ہے۔"
+    },
+    {
+      "question": "What is the SMS code 8400 used for?",
+      "answer": "SMS short code 8400 is used for CNIC application tracking SMS service. You can use this to check the status of your CNIC application.",
+      "urdu_question": "ایس ایم ایس کوڈ 8400 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "SMS شارٹ کوڈ 8400 CNIC ایپلیکیشن ٹریکنگ SMS سروس کے لیے استعمال کیا جاتا ہے۔ آپ اسے اپنی CNIC درخواست کی حیثیت چیک کرنے کے لیے استعمال کر سکتے ہیں۔"
+    },
+    {
+      "question": "How can I verify CNIC information via SMS?",
+      "answer": "You can verify CNIC information by using SMS short code 8009, which provides CNIC verification service including verification of family tree.",
+      "urdu_question": "میں SMS کے ذریعے CNIC کی معلومات کی تصدیق کیسے کر سکتا ہوں؟",
+      "urdu_answer": "آپ ایس ایم ایس شارٹ کوڈ 8009 استعمال کرکے CNIC کی معلومات کی تصدیق کر سکتے ہیں، جو خاندانی درخت کی تصدیق سمیت CNIC کی تصدیق کی خدمت فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is the SMS code 8009 used for?",
+      "answer": "SMS short code 8009 is used for CNIC verification, specifically for verification of family tree information.",
+      "urdu_question": "ایس ایم ایس کوڈ 8009 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 8009 CNIC کی تصدیق کے لیے استعمال کیا جاتا ہے، خاص طور پر خاندانی درخت کی معلومات کی تصدیق کے لیے۔"
+    },
+    {
+      "question": "What is the SMS code 1777 for?",
+      "answer": "SMS short code 1777 is for NADRA's call center PRI based service, providing telephone support and assistance.",
+      "urdu_question": "ایس ایم ایس کوڈ 1777 کس کے لیے ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 1777 نادرا کے کال سینٹر پی آر آئی پر مبنی سروس کے لیے ہے، جو ٹیلی فون سپورٹ اور مدد فراہم کرتا ہے۔"
+    },
+    {
+      "question": "How can I get Covid-19 vaccination information via SMS?",
+      "answer": "You can get Covid-19 vaccination information by using SMS short code 1166, which provides enrollment and status updates on Covid-19 vaccination.",
+      "urdu_question": "میں SMS کے ذریعے CoVID-19 ویکسینیشن کی معلومات کیسے حاصل کر سکتا ہوں؟",
+      "urdu_answer": "آپ ایس ایم ایس شارٹ کوڈ 1166 استعمال کر کے کوویڈ 19 ویکسینیشن کی معلومات حاصل کر سکتے ہیں، جو کووڈ-19 ویکسینیشن پر اندراج اور اسٹیٹس اپ ڈیٹ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is the SMS code 1166 used for?",
+      "answer": "SMS short code 1166 is used for Covid-19 related services, specifically for enrollment and status updates on Covid-19 vaccination.",
+      "urdu_question": "ایس ایم ایس کوڈ 1166 کس لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 1166 کووڈ-19 سے متعلق خدمات کے لیے استعمال کیا جاتا ہے، خاص طور پر کووڈ-19 ویکسینیشن پر اندراج اور اسٹیٹس اپ ڈیٹس کے لیے۔"
+    },
+    {
+      "question": "How can I verify my vote via SMS?",
+      "answer": "For vote verification, you can use SMS short code 8300 for Election Commission of Pakistan services, 8301 for Election Commission of Gilgit Baltistan, or 8302 for Election Commission of Azad Jammu & Kashmir.",
+      "urdu_question": "میں SMS کے ذریعے اپنے ووٹ کی تصدیق کیسے کر سکتا ہوں؟",
+      "urdu_answer": "ووٹ کی تصدیق کے لیے، آپ الیکشن کمیشن آف پاکستان کی خدمات کے لیے ایس ایم ایس شارٹ کوڈ 8300، الیکشن کمیشن آف گلگت بلتستان کے لیے 8301، یا الیکشن کمیشن آف آزاد جموں و کشمیر کے لیے 8302 استعمال کر سکتے ہیں۔"
+    },
+    {
+      "question": "What is the SMS code 8300 used for?",
+      "answer": "SMS short code 8300 is used for vote verification service for Election Commission of Pakistan.",
+      "urdu_question": "ایس ایم ایس کوڈ 8300 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 8300 الیکشن کمیشن آف پاکستان کے لیے ووٹ کی تصدیق کی خدمت کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is the SMS code 8301 used for?",
+      "answer": "SMS short code 8301 is used for voter verification service for Election Commission of Gilgit Baltistan.",
+      "urdu_question": "ایس ایم ایس کوڈ 8301 کس لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 8301 الیکشن کمیشن آف گلگت بلتستان کے لیے ووٹر کی تصدیق کی خدمت کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is the SMS code 8302 used for?",
+      "answer": "SMS short code 8302 is used for voter verification service for Election Commission of Azad Jammu & Kashmir.",
+      "urdu_question": "ایس ایم ایس کوڈ 8302 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 8302 آزاد جموں و کشمیر کے الیکشن کمیشن کے لیے ووٹر کی تصدیق کی خدمت کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "How can I check Sehat Card eligibility via SMS?",
+      "answer": "You can check Sehat Card eligibility by using SMS short code 8500 for Prime Minister National Health program or SMS short code 9780 for KP Health (Khyber Pakhtunkhwa) Sehat card eligibility.",
+      "urdu_question": "میں SMS کے ذریعے صحت کارڈ کی اہلیت کی جانچ کیسے کر سکتا ہوں؟",
+      "urdu_answer": "آپ پرائم منسٹر نیشنل ہیلتھ پروگرام کے لیے ایس ایم ایس شارٹ کوڈ 8500 یا کے پی ہیلتھ (خیبر پختونخوا) صحت کارڈ کی اہلیت کے لیے ایس ایم ایس شارٹ کوڈ 9780 استعمال کرکے صحت کارڈ کی اہلیت چیک کرسکتے ہیں۔"
+    },
+    {
+      "question": "What is the SMS code 8500 used for?",
+      "answer": "SMS short code 8500 is used for Prime Minister National Health program to check eligibility for Sehat Card.",
+      "urdu_question": "ایس ایم ایس کوڈ 8500 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "صحت کارڈ کی اہلیت جانچنے کے لیے پرائم منسٹر نیشنل ہیلتھ پروگرام کے لیے SMS شارٹ کوڈ 8500 استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is the SMS code 9780 used for?",
+      "answer": "SMS short code 9780 is used for KP (Khyber Pakhtunkhwa) Health services to check eligibility for Sehat card.",
+      "urdu_question": "SMS کوڈ 9780 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 9780 صحت کارڈ کی اہلیت کی جانچ کرنے کے لیے کے پی (خیبر پختونخوا) کی صحت کی خدمات کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "How can I get Arms License information via SMS?",
+      "answer": "You can get Arms License information by using SMS short code 7001, which provides status updates for revalidation of Arms License in Sindh province.",
+      "urdu_question": "میں ایس ایم ایس کے ذریعے اسلحہ لائسنس کی معلومات کیسے حاصل کر سکتا ہوں؟",
+      "urdu_answer": "آپ ایس ایم ایس شارٹ کوڈ 7001 استعمال کرکے اسلحہ لائسنس کی معلومات حاصل کرسکتے ہیں، جو صوبہ سندھ میں اسلحہ لائسنس کی دوبارہ تصدیق کے لیے اسٹیٹس اپ ڈیٹ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is the SMS code 7001 used for?",
+      "answer": "SMS short code 7001 is used for Arms License Project Sindh, specifically for status updates on revalidation of Arms License.",
+      "urdu_question": "ایس ایم ایس کوڈ 7001 کس کے لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 7001 اسلحہ لائسنس پروجیکٹ سندھ کے لیے استعمال کیا جاتا ہے، خاص طور پر اسلحہ لائسنس کی دوبارہ تصدیق کے بارے میں اسٹیٹس اپ ڈیٹس کے لیے۔"
+    },
+    {
+      "question": "What is the SMS code 9888 used for?",
+      "answer": "SMS short code 9888 is used for Broadcast Message Service, which provides bulk message services.",
+      "urdu_question": "ایس ایم ایس کوڈ 9888 کس لیے استعمال ہوتا ہے؟",
+      "urdu_answer": "ایس ایم ایس شارٹ کوڈ 9888 براڈکاسٹ میسج سروس کے لیے استعمال کیا جاتا ہے، جو بلک میسج سروسز فراہم کرتی ہے۔"
+    },
+    {
+      "question": "Are there different SMS codes for different provinces for voting?",
+      "answer": "Yes, there are different SMS codes for voting verification in different regions: 8300 for Election Commission of Pakistan (general), 8301 for Election Commission of Gilgit Baltistan, and 8302 for Election Commission of Azad Jammu & Kashmir.",
+      "urdu_question": "کیا ووٹنگ کے لیے مختلف صوبوں کے لیے مختلف ایس ایم ایس کوڈز ہیں؟",
+      "urdu_answer": "ہاں، مختلف علاقوں میں ووٹنگ کی تصدیق کے لیے مختلف ایس ایم ایس کوڈز ہیں: الیکشن کمیشن آف پاکستان (جنرل) کے لیے 8300، گلگت بلتستان کے الیکشن کمیشن کے لیے 8301، اور آزاد جموں و کشمیر کے الیکشن کمیشن کے لیے 8302۔"
+    },
+    {
+      "question": "Can I get health-related information via NADRA SMS services?",
+      "answer": "Yes, NADRA provides health-related SMS services including: SMS code 1166 for Covid-19 vaccination enrollment/status, SMS code 8500 for Prime Minister National Health program Sehat Card eligibility, and SMS code 9780 for KP Health Sehat card eligibility.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کے ذریعے صحت سے متعلق معلومات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا صحت سے متعلق ایس ایم ایس خدمات فراہم کرتا ہے بشمول: کووڈ-19 ویکسینیشن انرولمنٹ/ اسٹیٹس کے لیے ایس ایم ایس کوڈ 1166، پرائم منسٹر نیشنل ہیلتھ پروگرام صحت کارڈ کی اہلیت کے لیے ایس ایم ایس کوڈ 8500، اور کے پی ہیلتھ صحت کارڈ کی اہلیت کے لیے ایس ایم ایس کوڈ 9780۔"
+    },
+    {
+      "question": "What government services can I access through NADRA SMS codes?",
+      "answer": "Through NADRA SMS codes, you can access: CNIC tracking (8400), CNIC verification (8009), call center support (1777), Covid-19 vaccination info (1166), voting verification (8300/8301/8302), health card eligibility (8500/9780), arms license updates (7001), and broadcast messages (9888).",
+      "urdu_question": "میں نادرا ایس ایم ایس کوڈز کے ذریعے کن سرکاری خدمات تک رسائی حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نادرا کے ایس ایم ایس کوڈز کے ذریعے، آپ رسائی حاصل کر سکتے ہیں: CNIC ٹریکنگ (8400)، CNIC تصدیق (8009)، کال سینٹر سپورٹ (1777)، Covid-19 ویکسینیشن کی معلومات (1166)، ووٹنگ کی تصدیق (8300/8301/8302)، ہیلتھ کارڈ کی اہلیت (8500/701)، لائسنس اور 901 اپ ڈیٹ، براڈکاسٹ پیغامات (9888)۔"
+    },
+    {
+      "question": "How many SMS short codes does NADRA operate?",
+      "answer": "NADRA operates 11 different SMS short codes: 8400, 8009, 1777, 1166, 8300, 8301, 8302, 8500, 9780, 7001, and 9888, each serving different purposes and government services.",
+      "urdu_question": "نادرا کتنے ایس ایم ایس شارٹ کوڈز کام کرتا ہے؟",
+      "urdu_answer": "نادرا 11 مختلف ایس ایم ایس شارٹ کوڈز چلاتا ہے: 8400, 8009, 1777, 1166, 8300, 8301, 8302, 8500, 9780, 7001, اور 9888, ہر ایک مختلف مقاصد اور سرکاری خدمات کو پورا کرتا ہے۔"
+    },
+    {
+      "question": "Is there a difference between Sehat Card SMS codes for different provinces?",
+      "answer": "Yes, there are different SMS codes for Sehat Card services: SMS code 8500 is for the federal Prime Minister National Health program, while SMS code 9780 is specifically for KP (Khyber Pakhtunkhwa) Health Sehat card eligibility.",
+      "urdu_question": "کیا مختلف صوبوں کے لیے صحت کارڈ کے ایس ایم ایس کوڈز میں کوئی فرق ہے؟",
+      "urdu_answer": "جی ہاں، صحت کارڈ کی خدمات کے لیے مختلف ایس ایم ایس کوڈز ہیں: ایس ایم ایس کوڈ 8500 وفاقی وزیر اعظم نیشنل ہیلتھ پروگرام کے لیے ہے، جبکہ ایس ایم ایس کوڈ 9780 خاص طور پر کے پی (خیبر پختونخوا) ہیلتھ صحت کارڈ کی اہلیت کے لیے ہے۔"
+    },
+    {
+      "question": "Can I contact NADRA call center via SMS?",
+      "answer": "Yes, you can access NADRA call center services by using SMS short code 1777, which provides call center PRI based service.",
+      "urdu_question": "کیا میں ایس ایم ایس کے ذریعے نادرا کال سینٹر سے رابطہ کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ ایس ایم ایس شارٹ کوڈ 1777 استعمال کرکے نادرا کال سینٹر کی خدمات تک رسائی حاصل کرسکتے ہیں، جو کال سینٹر پی آر آئی پر مبنی سروس فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is the purpose of the broadcast message service SMS code?",
+      "answer": "The broadcast message service (SMS code 9888) is used for bulk message services, allowing NADRA to send important announcements and updates to multiple recipients simultaneously.",
+      "urdu_question": "براڈکاسٹ میسج سروس ایس ایم ایس کوڈ کا مقصد کیا ہے؟",
+      "urdu_answer": "براڈکاسٹ میسج سروس (SMS کوڈ 9888) بلک میسج سروسز کے لیے استعمال کی جاتی ہے، جس سے نادرا ایک ساتھ متعدد وصول کنندگان کو اہم اعلانات اور اپ ڈیٹس بھیج سکتا ہے۔"
+    },
+    {
+      "question": "What format should I use when sending SMS to NADRA short codes?",
+      "answer": "The specific format for each SMS service may vary. For tracking services like 8400, you typically need to include your CNIC number or tracking ID. Check the specific instructions for each service or contact 1777 for format guidance.",
+      "urdu_question": "نادرا شارٹ کوڈ کو SMS بھیجتے وقت مجھے کون سا فارمیٹ استعمال کرنا چاہیے؟",
+      "urdu_answer": "ہر SMS سروس کا مخصوص فارمیٹ مختلف ہو سکتا ہے۔ 8400 جیسی ٹریکنگ سروسز کے لیے، آپ کو عام طور پر اپنا CNIC نمبر یا ٹریکنگ ID شامل کرنا ہوگا۔ ہر سروس کے لیے مخصوص ہدایات چیک کریں یا فارمیٹ رہنمائی کے لیے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Are NADRA SMS services available 24/7?",
+      "answer": "Most NADRA SMS services are available 24/7, including tracking and verification services. However, response times may vary depending on system load and maintenance schedules.",
+      "urdu_question": "کیا نادرا کی ایس ایم ایس سروسز 24/7 دستیاب ہیں؟",
+      "urdu_answer": "نادرا کی زیادہ تر ایس ایم ایس سروسز 24/7 دستیاب ہیں، بشمول ٹریکنگ اور تصدیق کی خدمات۔ تاہم، سسٹم کے بوجھ اور دیکھ بھال کے نظام الاوقات کے لحاظ سے ردعمل کے اوقات مختلف ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Do NADRA SMS services charge fees?",
+      "answer": "SMS charges may apply according to your mobile network operator's standard SMS rates. Check with your mobile service provider for specific charges for sending SMS to short codes.",
+      "urdu_question": "کیا نادرا ایس ایم ایس سروسز فیس وصول کرتی ہیں؟",
+      "urdu_answer": "SMS چارجز آپ کے موبائل نیٹ ورک آپریٹر کے معیاری SMS نرخوں کے مطابق لاگو ہو سکتے ہیں۔ مختصر کوڈز پر SMS بھیجنے کے لیے مخصوص چارجز کے لیے اپنے موبائل سروس فراہم کنندہ سے چیک کریں۔"
+    },
+    {
+      "question": "Which mobile networks support NADRA SMS services?",
+      "answer": "NADRA SMS services are generally supported by all major Pakistani mobile networks including Jazz, Telenor, Zong, and Ufone. If you experience issues, contact your network provider or NADRA at 1777.",
+      "urdu_question": "کون سے موبائل نیٹ ورکس نادرا ایس ایم ایس سروسز کو سپورٹ کرتے ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کو عام طور پر تمام بڑے پاکستانی موبائل نیٹ ورکس بشمول جاز، ٹیلی نار، زونگ، اور یوفون کے ذریعے سپورٹ کیا جاتا ہے۔ اگر آپ کو مسائل کا سامنا ہے تو اپنے نیٹ ورک فراہم کنندہ یا نادرا سے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "What should I do if I don't receive a response from NADRA SMS services?",
+      "answer": "If you don't receive a response: check your mobile network signal, ensure you're sending to the correct short code, verify your SMS format is correct, wait a few minutes for delayed responses, or contact NADRA helpline 1777 for assistance.",
+      "urdu_question": "اگر مجھے نادرا ایس ایم ایس سروسز سے جواب نہیں ملتا ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو کوئی جواب نہیں ملتا ہے: اپنے موبائل نیٹ ورک سگنل کو چیک کریں، یقینی بنائیں کہ آپ درست شارٹ کوڈ بھیج رہے ہیں، تصدیق کریں کہ آپ کا SMS فارمیٹ درست ہے، تاخیر سے جوابات کے لیے چند منٹ انتظار کریں، یا مدد کے لیے نادرا ہیلپ لائن 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services from outside Pakistan?",
+      "answer": "NADRA SMS services are primarily designed for domestic use within Pakistan. International SMS to these short codes may not work or may incur high charges. For overseas inquiries, use international helpline numbers or contact Pakistani consulates.",
+      "urdu_question": "کیا میں پاکستان سے باہر سے نادرا کی ایس ایم ایس سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز بنیادی طور پر پاکستان میں گھریلو استعمال کے لیے بنائی گئی ہیں۔ ان شارٹ کوڈز پر بین الاقوامی ایس ایم ایس کام نہیں کر سکتا یا اس پر زیادہ چارجز لگ سکتے ہیں۔ بیرون ملک پوچھ گچھ کے لیے بین الاقوامی ہیلپ لائن نمبر استعمال کریں یا پاکستانی قونصل خانوں سے رابطہ کریں۔"
+    },
+    {
+      "question": "How quickly do NADRA SMS services respond?",
+      "answer": "Response times for NADRA SMS services typically range from a few seconds to several minutes, depending on system load and the complexity of the query. During peak hours, responses may take longer.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کتنی جلدی جواب دیتی ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کے لیے جوابی اوقات عام طور پر چند سیکنڈ سے لے کر کئی منٹ تک ہوتے ہیں، یہ سسٹم کے بوجھ اور استفسار کی پیچیدگی پر منحصر ہوتا ہے۔ زیادہ وقت کے دوران، جوابات میں زیادہ وقت لگ سکتا ہے۔"
+    },
+    {
+      "question": "Can I send multiple queries to the same SMS short code?",
+      "answer": "Yes, you can send multiple queries to NADRA short codes, but avoid sending the same query repeatedly in a short time as this may be considered spam and could result in temporary blocking.",
+      "urdu_question": "کیا میں ایک ہی ایس ایم ایس شارٹ کوڈ پر متعدد سوالات بھیج سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ نادرا شارٹ کوڈز کو متعدد سوالات بھیج سکتے ہیں، لیکن ایک ہی سوال کو مختصر وقت میں بار بار بھیجنے سے گریز کریں کیونکہ یہ اسپام سمجھا جا سکتا ہے اور اس کے نتیجے میں عارضی طور پر بلاک ہو سکتا ہے۔"
+    },
+    {
+      "question": "What information do I need to provide for CNIC tracking via SMS 8400?",
+      "answer": "For CNIC tracking via SMS 8400, you typically need to provide your CNIC number or the tracking number provided when you submitted your application. Follow the specific format instructions for accurate results.",
+      "urdu_question": "مجھے SMS 8400 کے ذریعے CNIC ٹریکنگ کے لیے کون سی معلومات فراہم کرنے کی ضرورت ہے؟",
+      "urdu_answer": "SMS 8400 کے ذریعے CNIC ٹریکنگ کے لیے، آپ کو عام طور پر اپنا CNIC نمبر یا ٹریکنگ نمبر فراہم کرنے کی ضرورت ہوتی ہے جب آپ نے اپنی درخواست جمع کروائی تھی۔ درست نتائج کے لیے مخصوص فارمیٹ کی ہدایات پر عمل کریں۔"
+    },
+    {
+      "question": "Can I verify someone else's CNIC using SMS 8009?",
+      "answer": "CNIC verification via SMS 8009 is typically for verifying your own or family members' information for legitimate purposes. Unauthorized verification of others' CNIC data may violate privacy policies.",
+      "urdu_question": "کیا میں SMS 8009 کے ذریعے کسی اور کے CNIC کی تصدیق کر سکتا ہوں؟",
+      "urdu_answer": "ایس ایم ایس 8009 کے ذریعے سی این آئی سی کی توثیق عام طور پر جائز مقاصد کے لیے آپ کی اپنی یا خاندان کے افراد کی معلومات کی تصدیق کے لیے ہوتی ہے۔ دوسروں کے CNIC ڈیٹا کی غیر مجاز تصدیق رازداری کی پالیسیوں کی خلاف ورزی کر سکتی ہے۔"
+    },
+    {
+      "question": "What type of Covid-19 information can I get via SMS 1166?",
+      "answer": "Via SMS 1166, you can get information about Covid-19 vaccination enrollment, vaccination status updates, vaccination schedules, and related health program information.",
+      "urdu_question": "میں SMS 1166 کے ذریعے کس قسم کی کووِڈ-19 معلومات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ایس ایم ایس 1166 کے ذریعے، آپ کووڈ-19 ویکسینیشن انرولمنٹ، ویکسینیشن اسٹیٹس اپ ڈیٹس، ویکسینیشن شیڈولز، اور متعلقہ ہیلتھ پروگرام کی معلومات حاصل کر سکتے ہیں۔"
+    },
+    {
+      "question": "How do I know which voting verification code to use - 8300, 8301, or 8302?",
+      "answer": "Use SMS 8300 for general Election Commission of Pakistan services, SMS 8301 if you're registered in Gilgit Baltistan, and SMS 8302 if you're registered in Azad Jammu & Kashmir. Choose based on your voter registration location.",
+      "urdu_question": "میں کیسے جان سکتا ہوں کہ کون سا ووٹنگ تصدیقی کوڈ استعمال کرنا ہے - 8300، 8301، یا 8302؟",
+      "urdu_answer": "جنرل الیکشن کمیشن آف پاکستان کی خدمات کے لیے SMS 8300 استعمال کریں، اگر آپ گلگت بلتستان میں رجسٹرڈ ہیں تو SMS 8301، اور اگر آپ آزاد جموں و کشمیر میں رجسٹرڈ ہیں تو SMS 8302 استعمال کریں۔ اپنے ووٹر رجسٹریشن کے مقام کی بنیاد پر انتخاب کریں۔"
+    },
+    {
+      "question": "What happens if I send SMS to the wrong short code?",
+      "answer": "If you send SMS to the wrong short code, you may receive an error message or no response. Simply send your query to the correct short code. Standard SMS charges may still apply for the incorrect message.",
+      "urdu_question": "اگر میں غلط شارٹ کوڈ پر SMS بھیجوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ غلط شارٹ کوڈ پر SMS بھیجتے ہیں، تو آپ کو غلطی کا پیغام موصول ہو سکتا ہے یا کوئی جواب نہیں ملے گا۔ بس اپنی استفسار درست مختصر کوڈ پر بھیجیں۔ معیاری SMS چارجز اب بھی غلط پیغام کے لیے لاگو ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Can I get technical support for NADRA SMS services?",
+      "answer": "Yes, for technical support with NADRA SMS services, contact the main helpline at 1777. They can assist with SMS format issues, service problems, and alternative methods to access the information you need.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کے لیے تکنیکی مدد حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا ایس ایم ایس سروسز کے ساتھ تکنیکی مدد کے لیے، مرکزی ہیلپ لائن 1777 پر رابطہ کریں۔ وہ ایس ایم ایس فارمیٹ کے مسائل، سروس کے مسائل، اور آپ کی مطلوبہ معلومات تک رسائی کے متبادل طریقوں میں مدد کر سکتے ہیں۔"
+    },
+    {
+      "question": "Are NADRA SMS services secure?",
+      "answer": "NADRA implements security measures for SMS services, but avoid sending sensitive personal information via SMS. For detailed personal data queries, use secure channels like visiting NADRA centers or official online portals.",
+      "urdu_question": "کیا نادرا کی ایس ایم ایس سروسز محفوظ ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کے لیے حفاظتی اقدامات نافذ کرتا ہے، لیکن حساس ذاتی معلومات کو SMS کے ذریعے بھیجنے سے گریز کریں۔ تفصیلی ذاتی ڈیٹا کے سوالات کے لیے، محفوظ چینلز کا استعمال کریں جیسے نادرا مراکز یا سرکاری آن لائن پورٹلز کا دورہ۔"
+    },
+    {
+      "question": "What should I do if I receive an error message from NADRA SMS services?",
+      "answer": "If you receive an error message: check if you used the correct format, verify the short code number, ensure your query contains valid information, try again after a few minutes, or contact 1777 for assistance with the specific error.",
+      "urdu_question": "اگر مجھے نادرا ایس ایم ایس سروسز سے غلطی کا پیغام موصول ہوتا ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کو غلطی کا پیغام موصول ہوتا ہے: چیک کریں کہ آیا آپ نے درست فارمیٹ استعمال کیا ہے، مختصر کوڈ نمبر کی تصدیق کریں، یقینی بنائیں کہ آپ کے استفسار میں درست معلومات موجود ہیں، چند منٹوں کے بعد دوبارہ کوشش کریں، یا مخصوص غلطی کے لیے مدد کے لیے 1777 سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services if my phone doesn't support English?",
+      "answer": "NADRA SMS services primarily operate in English and may include some Urdu text. If your phone has language display issues, try using a phone with better Unicode support or contact 1777 for alternative assistance methods.",
+      "urdu_question": "اگر میرا فون انگریزی کو سپورٹ نہیں کرتا تو کیا میں نادرا کی ایس ایم ایس سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز بنیادی طور پر انگریزی میں کام کرتی ہیں اور اس میں کچھ اردو متن بھی شامل ہو سکتا ہے۔ اگر آپ کے فون میں زبان کے ڈسپلے کے مسائل ہیں تو بہتر یونی کوڈ سپورٹ والا فون استعمال کرنے کی کوشش کریں یا متبادل مدد کے طریقوں کے لیے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "How long are the responses from NADRA SMS services?",
+      "answer": "NADRA SMS responses are typically concise to fit within standard SMS length limits (160 characters). For detailed information that doesn't fit in SMS format, you may be directed to call 1777 or visit NADRA centers.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کے جوابات کب تک ہیں؟",
+      "urdu_answer": "نادرا کے ایس ایم ایس کے جوابات عام طور پر مختصر ہوتے ہیں تاکہ معیاری ایس ایم ایس کی لمبائی کی حد (160 حروف) میں فٹ ہوں۔ تفصیلی معلومات کے لیے جو ایس ایم ایس فارمیٹ میں فٹ نہیں ہے، آپ کو 1777 پر کال کرنے یا نادرا مراکز پر جانے کی ہدایت کی جا سکتی ہے۔"
+    },
+    {
+      "question": "Can I save responses from NADRA SMS services?",
+      "answer": "Yes, you can save SMS responses in your phone's message history for future reference. However, for official documentation purposes, you may need formal certificates or documents from NADRA centers.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز سے جوابات محفوظ کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ مستقبل کے حوالے کے لیے اپنے فون کی میسج ہسٹری میں SMS کے جوابات محفوظ کر سکتے ہیں۔ تاہم، سرکاری دستاویزات کے مقاصد کے لیے، آپ کو نادرا مراکز سے رسمی سرٹیفکیٹ یا دستاویزات کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What privacy measures protect my information when using NADRA SMS services?",
+      "answer": "NADRA follows data protection protocols for SMS services, but responses typically contain limited information for privacy. Detailed personal data is not transmitted via SMS for security reasons.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز استعمال کرتے وقت رازداری کے کون سے اقدامات میری معلومات کی حفاظت کرتے ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کے لیے ڈیٹا پروٹیکشن پروٹوکول کی پیروی کرتا ہے، لیکن جوابات میں عام طور پر رازداری کے لیے محدود معلومات ہوتی ہیں۔ سیکورٹی وجوہات کی بنا پر تفصیلی ذاتی ڈیٹا SMS کے ذریعے منتقل نہیں کیا جاتا ہے۔"
+    },
+    {
+      "question": "Are there daily limits on using NADRA SMS services?",
+      "answer": "While not explicitly stated, excessive use of SMS services may trigger spam protection measures. Use services reasonably and avoid sending duplicate queries in short time periods.",
+      "urdu_question": "کیا نادرا ایس ایم ایس سروسز کے استعمال پر روزانہ کی حدیں ہیں؟",
+      "urdu_answer": "اگرچہ واضح طور پر بیان نہیں کیا گیا ہے، ایس ایم ایس سروسز کا زیادہ استعمال سپیم سے بچاؤ کے اقدامات کو متحرک کر سکتا ہے۔ خدمات کو معقول طریقے سے استعمال کریں اور مختصر وقت میں ڈپلیکیٹ سوالات بھیجنے سے گریز کریں۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services during system maintenance?",
+      "answer": "During scheduled maintenance, some SMS services may be temporarily unavailable. NADRA typically announces maintenance schedules in advance. Try again later or contact 1777 for urgent matters during maintenance.",
+      "urdu_question": "کیا میں سسٹم مینٹیننس کے دوران نادرا کی ایس ایم ایس سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "طے شدہ دیکھ بھال کے دوران، کچھ SMS خدمات عارضی طور پر دستیاب نہیں ہوسکتی ہیں۔ نادرا عام طور پر دیکھ بھال کے نظام الاوقات کا پہلے سے اعلان کرتا ہے۔ بعد میں دوبارہ کوشش کریں یا دیکھ بھال کے دوران فوری معاملات کے لیے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "How do I report problems with NADRA SMS services?",
+      "answer": "Report SMS service problems by calling NADRA helpline 1777, visiting NADRA centers, or using official complaint channels. Provide details about the specific short code, message sent, and problem encountered.",
+      "urdu_question": "میں نادرا ایس ایم ایس سروسز میں مسائل کی اطلاع کیسے دوں؟",
+      "urdu_answer": "نادرا ہیلپ لائن 1777 پر کال کرکے، نادرا مراکز پر جاکر، یا سرکاری شکایتی چینلز کا استعمال کرکے SMS سروس کے مسائل کی اطلاع دیں۔ مخصوص شارٹ کوڈ، بھیجے گئے پیغام، اور درپیش مسئلہ کے بارے میں تفصیلات فراہم کریں۔"
+    },
+    {
+      "question": "Can I get historical information through NADRA SMS services?",
+      "answer": "NADRA SMS services typically provide current status information. For historical records or detailed past information, you may need to visit NADRA centers or use other official channels.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کے ذریعے تاریخی معلومات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز عام طور پر موجودہ صورتحال کی معلومات فراہم کرتی ہیں۔ تاریخی ریکارڈز یا ماضی کی تفصیلی معلومات کے لیے، آپ کو نادرا مراکز کا دورہ کرنے یا دیگر سرکاری چینلز استعمال کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Are NADRA SMS services available during holidays?",
+      "answer": "Most automated SMS services continue to operate during holidays, though response times may be affected. For immediate assistance during holidays, try alternative contact methods or wait for normal business hours.",
+      "urdu_question": "کیا چھٹیوں کے دوران نادرا کی ایس ایم ایس سروسز دستیاب ہیں؟",
+      "urdu_answer": "زیادہ تر خودکار ایس ایم ایس سروسز تعطیلات کے دوران کام کرتی رہتی ہیں، حالانکہ جوابی اوقات متاثر ہو سکتے ہیں۔ تعطیلات کے دوران فوری مدد کے لیے، رابطہ کے متبادل طریقے آزمائیں یا عام کاروباری اوقات کا انتظار کریں۔"
+    },
+    {
+      "question": "What should I do if my mobile number is blocked from NADRA SMS services?",
+      "answer": "If your number is blocked from SMS services, contact NADRA at 1777 to resolve the issue. Blocks may occur due to excessive usage, spam detection, or technical issues.",
+      "urdu_question": "اگر میرا موبائل نمبر نادرا ایس ایم ایس سروسز سے بلاک ہو جائے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کا نمبر ایس ایم ایس سروسز سے بلاک ہے تو مسئلہ حل کرنے کے لیے نادرا سے 1777 پر رابطہ کریں۔ ضرورت سے زیادہ استعمال، سپیم کا پتہ لگانے، یا تکنیکی مسائل کی وجہ سے بلاکس ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Can businesses use NADRA SMS services for verification purposes?",
+      "answer": "Business use of NADRA SMS services may have different requirements and limitations. Contact NADRA directly to discuss business verification needs and available enterprise services.",
+      "urdu_question": "کیا کاروبار تصدیقی مقاصد کے لیے نادرا کی ایس ایم ایس سروسز استعمال کر سکتے ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کے کاروباری استعمال میں مختلف ضروریات اور حدود ہو سکتی ہیں۔ کاروباری تصدیق کی ضروریات اور دستیاب انٹرپرائز خدمات پر بات کرنے کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "How accurate is the information provided by NADRA SMS services?",
+      "answer": "NADRA SMS services provide information based on current database records. For critical decisions, verify information through official NADRA centers or documents, especially for legal or official purposes.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کی فراہم کردہ معلومات کتنی درست ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز موجودہ ڈیٹا بیس ریکارڈ کی بنیاد پر معلومات فراہم کرتی ہیں۔ اہم فیصلوں کے لیے، نادرا کے سرکاری مراکز یا دستاویزات کے ذریعے معلومات کی تصدیق کریں، خاص طور پر قانونی یا سرکاری مقاصد کے لیے۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services for family members?",
+      "answer": "You can use SMS services for legitimate family verification purposes, but each person's consent and proper authorization may be required for accessing their personal information.",
+      "urdu_question": "کیا میں فیملی ممبرز کے لیے نادرا ایس ایم ایس سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "آپ جائز خاندانی تصدیق کے مقاصد کے لیے SMS سروسز استعمال کر سکتے ہیں، لیکن ان کی ذاتی معلومات تک رسائی کے لیے ہر فرد کی رضامندی اور مناسب اجازت درکار ہو سکتی ہے۔"
+    },
+    {
+      "question": "What alternatives exist if NADRA SMS services are not working?",
+      "answer": "Alternative methods include: calling 1777, using PAK-ID mobile app, visiting NADRA centers, using online portals at www.nadra.gov.pk, or accessing services through NADRA's official digital channels.",
+      "urdu_question": "اگر نادرا ایس ایم ایس سروسز کام نہیں کررہی ہیں تو کیا متبادل موجود ہیں؟",
+      "urdu_answer": "متبادل طریقوں میں شامل ہیں: 1777 پر کال کرنا، PAK-ID موبائل ایپ استعمال کرنا، نادرا مراکز کا دورہ کرنا، www.nadra.gov.pk پر آن لائن پورٹل استعمال کرنا، یا نادرا کے آفیشل ڈیجیٹل چینلز کے ذریعے خدمات تک رسائی حاصل کرنا۔"
+    },
+    {
+      "question": "Are NADRA SMS services integrated with other government systems?",
+      "answer": "Yes, NADRA SMS services are integrated with various government systems including health programs, election commissions, and other departmental databases to provide comprehensive information access.",
+      "urdu_question": "کیا نادرا کی ایس ایم ایس سروسز دوسرے سرکاری نظاموں کے ساتھ مربوط ہیں؟",
+      "urdu_answer": "جی ہاں، نادرا کی ایس ایم ایس سروسز کو جامع معلومات تک رسائی فراہم کرنے کے لیے مختلف حکومتی نظام بشمول ہیلتھ پروگرام، الیکشن کمیشن اور دیگر محکمانہ ڈیٹا بیس کے ساتھ مربوط کیا گیا ہے۔"
+    },
+    {
+      "question": "Can I get notifications about NADRA services through SMS?",
+      "answer": "Yes, NADRA provides notifications through SMS for application updates, service announcements, and important alerts via the broadcast service and other notification systems.",
+      "urdu_question": "کیا میں ایس ایم ایس کے ذریعے نادرا کی خدمات کے بارے میں اطلاعات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا براڈکاسٹ سروس اور دیگر نوٹیفکیشن سسٹم کے ذریعے ایپلیکیشن اپ ڈیٹس، سروس کے اعلانات، اور اہم الرٹس کے لیے SMS کے ذریعے اطلاعات فراہم کرتا ہے۔"
+    },
+    {
+      "question": "How do I update my mobile number for NADRA SMS notifications?",
+      "answer": "To update your mobile number for NADRA notifications, visit a NADRA center with proper identification, use PAK-ID app if available, or contact 1777 for guidance on the mobile number update process.",
+      "urdu_question": "میں نادرا کے ایس ایم ایس نوٹیفیکیشن کے لیے اپنا موبائل نمبر کیسے اپ ڈیٹ کروں؟",
+      "urdu_answer": "نادرا نوٹیفیکیشنز کے لیے اپنا موبائل نمبر اپ ڈیٹ کرنے کے لیے، مناسب شناخت کے ساتھ نادرا سنٹر پر جائیں، اگر دستیاب ہو تو PAK-ID ایپ استعمال کریں، یا موبائل نمبر اپ ڈیٹ کے عمل سے متعلق رہنمائی کے لیے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "What language options are available for NADRA SMS services?",
+      "answer": "NADRA SMS services primarily operate in English with some Urdu support. The specific language options may vary by service. Contact 1777 if you need assistance with language-related issues.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کے لیے کون سے زبان کے اختیارات دستیاب ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز بنیادی طور پر انگریزی میں کچھ اردو سپورٹ کے ساتھ کام کرتی ہیں۔ مخصوص زبان کے اختیارات سروس کے لحاظ سے مختلف ہو سکتے ہیں۔ اگر آپ کو زبان سے متعلق مسائل میں مدد کی ضرورت ہو تو 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Can I request custom information through NADRA SMS services?",
+      "answer": "NADRA SMS services provide predefined information types. For custom or specific information requests, contact 1777 or visit NADRA centers where staff can provide personalized assistance.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کے ذریعے اپنی مرضی کی معلومات کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز پہلے سے طے شدہ معلومات کی اقسام فراہم کرتی ہیں۔ اپنی مرضی کے مطابق یا مخصوص معلومات کی درخواستوں کے لیے، 1777 پر رابطہ کریں یا نادرا کے مراکز پر جائیں جہاں عملہ ذاتی مدد فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "How do NADRA SMS services handle network congestion?",
+      "answer": "During network congestion, SMS services may experience delays. NADRA systems queue messages and process them as network capacity allows. During peak times, responses may take longer than usual.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز نیٹ ورک کی بھیڑ کو کیسے سنبھالتی ہیں؟",
+      "urdu_answer": "نیٹ ورک کی بھیڑ کے دوران، SMS سروسز میں تاخیر ہو سکتی ہے۔ نادرا سسٹم پیغامات کو قطار میں لگاتا ہے اور نیٹ ورک کی صلاحیت کے مطابق ان پر کارروائی کرتا ہے۔ عروج کے اوقات میں، جوابات میں معمول سے زیادہ وقت لگ سکتا ہے۔"
+    },
+    {
+      "question": "Are there age restrictions for using NADRA SMS services?",
+      "answer": "While there are no specific age restrictions for SMS services, accessing personal CNIC information typically requires being 18+ or having parental consent for minors. Verify with 1777 for specific service requirements.",
+      "urdu_question": "کیا نادرا ایس ایم ایس سروسز استعمال کرنے کے لیے عمر کی پابندیاں ہیں؟",
+      "urdu_answer": "اگرچہ ایس ایم ایس سروسز کے لیے عمر کی کوئی خاص پابندی نہیں ہے، ذاتی CNIC معلومات تک رسائی حاصل کرنے کے لیے عام طور پر 18+ یا نابالغوں کے لیے والدین کی رضامندی کی ضرورت ہوتی ہے۔ مخصوص سروس کی ضروریات کے لیے 1777 سے تصدیق کریں۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services for urgent matters?",
+      "answer": "For urgent matters, SMS services can provide quick information access, but for immediate processing or emergency situations, calling 1777 or visiting NADRA centers may be more effective.",
+      "urdu_question": "کیا میں نادرا کی ایس ایم ایس سروسز کو فوری معاملات کے لیے استعمال کر سکتا ہوں؟",
+      "urdu_answer": "فوری معاملات کے لیے، ایس ایم ایس سروسز فوری معلومات تک رسائی فراہم کر سکتی ہیں، لیکن فوری کارروائی یا ہنگامی صورت حال کے لیے، 1777 پر کال کرنا یا نادرا مراکز کا دورہ کرنا زیادہ موثر ہو سکتا ہے۔"
+    },
+    {
+      "question": "What encryption or security measures protect NADRA SMS communications?",
+      "answer": "While SMS inherently has limited security, NADRA implements appropriate security measures for data transmission. For highly sensitive matters, use secure channels like official portals or in-person visits.",
+      "urdu_question": "کون سے خفیہ کاری یا حفاظتی اقدامات نادرا کے ایس ایم ایس مواصلات کی حفاظت کرتے ہیں؟",
+      "urdu_answer": "جبکہ ایس ایم ایس کی فطری طور پر محدود سیکیورٹی ہوتی ہے، نادرا ڈیٹا کی ترسیل کے لیے مناسب حفاظتی اقدامات نافذ کرتا ہے۔ انتہائی حساس معاملات کے لیے، محفوظ چینلز کا استعمال کریں جیسے کہ آفیشل پورٹل یا ذاتی طور پر دورہ۔"
+    },
+    {
+      "question": "How do I know if my SMS query was successful?",
+      "answer": "Successful SMS queries typically receive a response within minutes. If you don't receive a response or get an error message, the query may have failed. Try again or contact 1777 for assistance.",
+      "urdu_question": "مجھے کیسے پتہ چلے گا کہ آیا میرا SMS استفسار کامیاب تھا؟",
+      "urdu_answer": "کامیاب SMS سوالات کو عام طور پر منٹوں میں جواب موصول ہوتا ہے۔ اگر آپ کو کوئی جواب موصول نہیں ہوتا ہے یا آپ کو غلطی کا پیغام ملتا ہے تو، استفسار ناکام ہو سکتا ہے۔ دوبارہ کوشش کریں یا مدد کے لیے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Can I provide feedback about NADRA SMS services?",
+      "answer": "Yes, you can provide feedback about SMS services through NADRA's feedback channels including calling 1777, visiting centers, using online feedback forms, or through official complaint mechanisms.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کے بارے میں رائے دے سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ ایس ایم ایس سروسز کے بارے میں نادرا کے فیڈ بیک چینلز بشمول 1777 پر کال کرنے، مراکز کا دورہ کرنے، آن لائن فیڈ بیک فارمز کا استعمال کرتے ہوئے، یا سرکاری شکایت کے طریقہ کار کے ذریعے رائے دے سکتے ہیں۔"
+    },
+    {
+      "question": "Are NADRA SMS services accessible for people with disabilities?",
+      "answer": "SMS services provide text-based access which may be compatible with assistive technologies. For specific accessibility needs, contact 1777 to discuss alternative access methods or assistance options.",
+      "urdu_question": "کیا نادرا کی ایس ایم ایس سروسز معذور افراد کے لیے قابل رسائی ہیں؟",
+      "urdu_answer": "ایس ایم ایس سروسز ٹیکسٹ پر مبنی رسائی فراہم کرتی ہیں جو معاون ٹیکنالوجیز کے ساتھ ہم آہنگ ہو سکتی ہیں۔ رسائی کی مخصوص ضروریات کے لیے، رسائی کے متبادل طریقوں یا امداد کے اختیارات پر بات کرنے کے لیے 1777 سے رابطہ کریں۔"
+    },
+    {
+      "question": "What backup systems exist for NADRA SMS services?",
+      "answer": "NADRA maintains backup systems and redundancy for SMS services. If primary systems are unavailable, backup systems may handle requests, though responses might be delayed during system switches.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کے لیے کون سے بیک اپ سسٹم موجود ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کے لیے بیک اپ سسٹم اور فالتو پن کو برقرار رکھتا ہے۔ اگر پرائمری سسٹمز دستیاب نہیں ہیں، تو بیک اپ سسٹم درخواستوں کو سنبھال سکتے ہیں، حالانکہ سسٹم سوئچ کے دوران جوابات میں تاخیر ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services for legal verification purposes?",
+      "answer": "While SMS services provide helpful information, for legal verification purposes, obtain official documents and certificates from NADRA centers, as SMS responses may not constitute legal proof.",
+      "urdu_question": "کیا میں قانونی تصدیق کے مقاصد کے لیے نادرا کی ایس ایم ایس سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "جبکہ ایس ایم ایس سروسز مددگار معلومات فراہم کرتی ہیں، قانونی تصدیق کے مقاصد کے لیے، نادرا مراکز سے سرکاری دستاویزات اور سرٹیفکیٹ حاصل کریں، کیونکہ ایس ایم ایس کے جوابات قانونی ثبوت نہیں بن سکتے۔"
+    },
+    {
+      "question": "How do seasonal demands affect NADRA SMS services?",
+      "answer": "During peak seasons (like election periods or mass vaccination campaigns), SMS services may experience higher demand and slower response times. Plan accordingly and consider alternative methods during peak periods.",
+      "urdu_question": "موسمی مطالبات نادرا کی ایس ایم ایس سروسز کو کیسے متاثر کرتے ہیں؟",
+      "urdu_answer": "چوٹی کے موسموں کے دوران (جیسے انتخابی ادوار یا بڑے پیمانے پر ویکسینیشن مہم)، SMS سروسز کو زیادہ مانگ اور سست ردعمل کا سامنا کرنا پڑ سکتا ہے۔ اس کے مطابق منصوبہ بندی کریں اور چوٹی کے ادوار کے دوران متبادل طریقوں پر غور کریں۔"
+    },
+    {
+      "question": "What training do NADRA staff receive for SMS service support?",
+      "answer": "NADRA staff receive training on SMS service operations, troubleshooting, and customer support. For complex SMS-related issues, trained staff at 1777 can provide specialized assistance.",
+      "urdu_question": "ایس ایم ایس سروس سپورٹ کے لیے نادرا کا عملہ کیا تربیت حاصل کرتا ہے؟",
+      "urdu_answer": "نادرا کا عملہ ایس ایم ایس سروس آپریشنز، ٹربل شوٹنگ اور کسٹمر سپورٹ کے بارے میں تربیت حاصل کرتا ہے۔ ایس ایم ایس سے متعلق پیچیدہ مسائل کے لیے، 1777 پر تربیت یافتہ عملہ خصوصی مدد فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "Can I automate queries to NADRA SMS services?",
+      "answer": "Automated queries or bulk SMS sending to NADRA services may be restricted or blocked by spam protection measures. For business or automated needs, contact NADRA to discuss appropriate access methods.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کے سوالات کو خودکار کر سکتا ہوں؟",
+      "urdu_answer": "خودکار استفسارات یا نادرا سروسز کو بھیجے جانے والے بلک ایس ایم ایس کو سپیم سے بچاؤ کے اقدامات کے ذریعے محدود یا بلاک کیا جا سکتا ہے۔ کاروباری یا خودکار ضروریات کے لیے، مناسب رسائی کے طریقوں پر بات کرنے کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "How do NADRA SMS services handle data validation?",
+      "answer": "NADRA SMS services validate input data against database records and provide appropriate responses or error messages. Invalid or incorrectly formatted queries may receive error responses or no response.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز ڈیٹا کی تصدیق کیسے کرتی ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز ڈیٹا بیس ریکارڈ کے خلاف ان پٹ ڈیٹا کی توثیق کرتی ہیں اور مناسب جوابات یا غلطی کے پیغامات فراہم کرتی ہیں۔ غلط یا غلط فارمیٹ شدہ سوالات کو غلطی کے جوابات یا کوئی جواب نہیں مل سکتا ہے۔"
+    },
+    {
+      "question": "What future improvements are planned for NADRA SMS services?",
+      "answer": "NADRA continuously works on improving SMS services including faster response times, enhanced security, better integration, and expanded service offerings. Check official announcements for updates on new features.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کے لیے مستقبل میں کیا بہتری لانے کا منصوبہ ہے؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز کو بہتر بنانے کے لیے مسلسل کام کرتا ہے جس میں تیز تر رسپانس ٹائم، بہتر سیکیورٹی، بہتر انضمام، اور توسیعی خدمات کی پیشکش شامل ہیں۔ نئی خصوصیات کے بارے میں اپ ڈیٹس کے لیے سرکاری اعلانات دیکھیں۔"
+    },
+    {
+      "question": "Can I use NADRA SMS services through messaging apps like WhatsApp?",
+      "answer": "NADRA SMS services are designed for traditional SMS. For messaging app services, check if NADRA offers official WhatsApp or other messaging app channels, or use traditional SMS to the specified short codes.",
+      "urdu_question": "کیا میں واٹس ایپ جیسی میسجنگ ایپس کے ذریعے نادرا ایس ایم ایس سروسز استعمال کر سکتا ہوں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز روایتی ایس ایم ایس کے لیے ڈیزائن کی گئی ہیں۔ میسجنگ ایپ سروسز کے لیے، چیک کریں کہ آیا نادرا آفیشل واٹس ایپ یا دیگر میسجنگ ایپ چینلز پیش کرتا ہے، یا مخصوص شارٹ کوڈز پر روایتی SMS استعمال کریں۔"
+    },
+    {
+      "question": "How do NADRA SMS services comply with telecommunications regulations?",
+      "answer": "NADRA SMS services comply with Pakistani telecommunications regulations and work with licensed mobile operators. Services follow regulatory requirements for data protection and communication standards.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز ٹیلی کمیونیکیشن کے ضوابط کی تعمیل کیسے کرتی ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز پاکستانی ٹیلی کمیونیکیشن کے ضوابط کی تعمیل کرتی ہیں اور لائسنس یافتہ موبائل آپریٹرز کے ساتھ کام کرتی ہیں۔ خدمات ڈیٹا کے تحفظ اور مواصلات کے معیارات کے لیے ریگولیٹری تقاضوں کی پیروی کرتی ہیں۔"
+    },
+    {
+      "question": "What happens to my SMS data after I use NADRA services?",
+      "answer": "NADRA follows data protection policies for SMS communications. Query logs may be maintained for service improvement and security purposes, following applicable data retention and privacy regulations.",
+      "urdu_question": "نادرا کی خدمات استعمال کرنے کے بعد میرے SMS ڈیٹا کا کیا ہوتا ہے؟",
+      "urdu_answer": "نادرا ایس ایم ایس کمیونیکیشنز کے لیے ڈیٹا کے تحفظ کی پالیسیوں پر عمل کرتا ہے۔ قابل اطلاق ڈیٹا برقرار رکھنے اور رازداری کے ضوابط کی پیروی کرتے ہوئے، سروس میں بہتری اور حفاظتی مقاصد کے لیے استفسار کے لاگز کو برقرار رکھا جا سکتا ہے۔"
+    },
+    {
+      "question": "Can I request SMS format examples for each NADRA service?",
+      "answer": "Yes, you can request SMS format examples by calling 1777, visiting NADRA centers, or checking official documentation. Staff can provide specific format requirements for each short code service.",
+      "urdu_question": "کیا میں ہر نادرا سروس کے لیے ایس ایم ایس فارمیٹ کی مثالیں مانگ سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ 1777 پر کال کرکے، نادرا مراکز پر جاکر، یا سرکاری دستاویزات کی جانچ کرکے ایس ایم ایس فارمیٹ کی مثالوں کی درخواست کرسکتے ہیں۔ عملہ ہر مختصر کوڈ سروس کے لیے مخصوص فارمیٹ کی ضروریات فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "Are there special SMS services for emergency situations?",
+      "answer": "While regular SMS services continue during emergencies, NADRA may activate special communication protocols during major emergencies. Monitor official announcements for emergency-specific services.",
+      "urdu_question": "کیا ہنگامی حالات کے لیے خصوصی ایس ایم ایس خدمات ہیں؟",
+      "urdu_answer": "جب کہ ہنگامی حالات کے دوران باقاعدہ ایس ایم ایس خدمات جاری رہتی ہیں، نادرا بڑی ہنگامی صورتحال کے دوران خصوصی مواصلاتی پروٹوکول کو فعال کر سکتا ہے۔ ہنگامی مخصوص خدمات کے لیے سرکاری اعلانات کی نگرانی کریں۔"
+    },
+    {
+      "question": "How do NADRA SMS services integrate with the PAK-ID mobile app?",
+      "answer": "NADRA SMS services and PAK-ID app provide complementary access methods. While SMS offers quick queries, PAK-ID provides more comprehensive features. Both use the same underlying database systems.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز PAK-ID موبائل ایپ کے ساتھ کیسے ضم ہوتی ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز اور PAK-ID ایپ تکمیلی رسائی کے طریقے فراہم کرتے ہیں۔ جہاں SMS فوری سوالات پیش کرتا ہے، PAK-ID مزید جامع خصوصیات فراہم کرتا ہے۔ دونوں ایک ہی بنیادی ڈیٹا بیس سسٹم استعمال کرتے ہیں۔"
+    },
+    {
+      "question": "Can I opt out of NADRA broadcast SMS messages?",
+      "answer": "For broadcast messages via 9888, check if opt-out options are provided in the messages, or contact 1777 to discuss preference settings for non-essential notifications.",
+      "urdu_question": "کیا میں نادرا براڈکاسٹ SMS پیغامات سے آپٹ آؤٹ کر سکتا ہوں؟",
+      "urdu_answer": "9888 کے ذریعے نشر ہونے والے پیغامات کے لیے، چیک کریں کہ آیا پیغامات میں آپٹ آؤٹ کے اختیارات فراہم کیے گئے ہیں، یا غیر ضروری اطلاعات کے لیے ترجیحی ترتیبات پر بات کرنے کے لیے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "What quality assurance measures exist for NADRA SMS services?",
+      "answer": "NADRA implements quality assurance through system monitoring, response time tracking, accuracy verification, regular testing, and user feedback analysis to maintain service quality.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کے لیے کوالٹی ایشورنس کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "نادرا سروس کے معیار کو برقرار رکھنے کے لیے سسٹم کی نگرانی، رسپانس ٹائم ٹریکنگ، درستگی کی تصدیق، باقاعدہ جانچ، اور صارف کے تاثرات کے تجزیے کے ذریعے کوالٹی ایشورنس کا نفاذ کرتا ہے۔"
+    },
+    {
+      "question": "How do NADRA SMS services handle concurrent requests?",
+      "answer": "NADRA SMS systems are designed to handle concurrent requests through load balancing, queuing systems, and scalable infrastructure. During peak loads, responses may be slightly delayed but will be processed.",
+      "urdu_question": "نادرا کی ایس ایم ایس سروسز کنکرنٹ درخواستوں کو کیسے ہینڈل کرتی ہیں؟",
+      "urdu_answer": "نادرا کے ایس ایم ایس سسٹمز کو لوڈ بیلنسنگ، قطار میں کھڑا کرنے کے نظام، اور توسیع پذیر انفراسٹرکچر کے ذریعے ہم آہنگی کی درخواستوں کو ہینڈل کرنے کے لیے ڈیزائن کیا گیا ہے۔ زیادہ بوجھ کے دوران، جوابات میں تھوڑی تاخیر ہو سکتی ہے لیکن اس پر کارروائی کی جائے گی۔"
+    },
+    {
+      "question": "Can I get detailed error explanations for failed SMS queries?",
+      "answer": "SMS responses are typically brief due to character limits. For detailed error explanations and troubleshooting, contact 1777 where staff can provide comprehensive assistance and error analysis.",
+      "urdu_question": "کیا میں ناکام ایس ایم ایس سوالات کے لیے غلطی کی تفصیلی وضاحت حاصل کر سکتا ہوں؟",
+      "urdu_answer": "حروف کی حدود کی وجہ سے SMS کے جوابات عام طور پر مختصر ہوتے ہیں۔ خرابی کی تفصیلی وضاحت اور خرابیوں کا ازالہ کرنے کے لیے، 1777 سے رابطہ کریں جہاں عملہ جامع مدد اور غلطی کا تجزیہ فراہم کر سکتا ہے۔"
+    },
+    {
+      "question": "Are NADRA SMS services environmentally sustainable?",
+      "answer": "SMS services contribute to environmental sustainability by reducing paper usage and physical visits. Digital service delivery supports NADRA's efforts toward more sustainable operations.",
+      "urdu_question": "کیا نادرا کی ایس ایم ایس سروسز ماحولیاتی طور پر پائیدار ہیں؟",
+      "urdu_answer": "ایس ایم ایس سروسز کاغذ کے استعمال اور جسمانی دوروں کو کم کرکے ماحولیاتی پائیداری میں اپنا حصہ ڈالتی ہیں۔ ڈیجیٹل سروس کی فراہمی نادرا کی مزید پائیدار کارروائیوں کی کوششوں کی حمایت کرتی ہے۔"
+    },
+    {
+      "question": "What disaster recovery plans exist for NADRA SMS services?",
+      "answer": "NADRA maintains disaster recovery plans including backup systems, alternate communication channels, and restoration procedures to ensure SMS services remain available during emergencies or system failures.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز کے لیے ڈیزاسٹر ریکوری کے کون سے منصوبے موجود ہیں؟",
+      "urdu_answer": "نادرا ڈیزاسٹر ریکوری کے منصوبوں کو برقرار رکھتا ہے جس میں بیک اپ سسٹم، متبادل کمیونیکیشن چینلز، اور بحالی کے طریقہ کار شامل ہیں تاکہ یہ یقینی بنایا جا سکے کہ ایمرجنسی یا سسٹم کی خرابی کے دوران ایس ایم ایس سروسز دستیاب رہیں۔"
+    },
+    {
+      "question": "How do international standards affect NADRA SMS services?",
+      "answer": "NADRA SMS services follow international standards for telecommunications, data security, and digital government services, ensuring compatibility and security in line with global best practices.",
+      "urdu_question": "بین الاقوامی معیارات نادرا کی ایس ایم ایس سروسز کو کیسے متاثر کرتے ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز ٹیلی کمیونیکیشن، ڈیٹا سیکیورٹی، اور ڈیجیٹل سرکاری خدمات کے لیے بین الاقوامی معیارات کی پیروی کرتی ہیں، عالمی بہترین طریقوں کے مطابق مطابقت اور سیکیورٹی کو یقینی بناتی ہیں۔"
+    },
+    {
+      "question": "Can I contribute to improving NADRA SMS services?",
+      "answer": "Yes, you can contribute by providing feedback through official channels, reporting issues, suggesting improvements via 1777, and participating in user satisfaction surveys when available.",
+      "urdu_question": "کیا میں نادرا ایس ایم ایس سروسز کو بہتر بنانے میں اپنا حصہ ڈال سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ آفیشل چینلز کے ذریعے فیڈ بیک فراہم کر کے، مسائل کی اطلاع دے کر، 1777 کے ذریعے بہتری کی تجویز دے کر، اور دستیاب ہونے پر صارف کے اطمینان کے سروے میں حصہ لے کر اپنا حصہ ڈال سکتے ہیں۔"
+    },
+    {
+      "question": "What coordination exists between NADRA SMS services and other government departments?",
+      "answer": "NADRA SMS services coordinate with various government departments including health ministries, election commissions, and provincial governments to provide integrated service access through common platforms.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز اور دیگر سرکاری محکموں کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز مختلف سرکاری محکموں بشمول وزارت صحت، الیکشن کمیشنز، اور صوبائی حکومتوں کے ساتھ رابطہ کاری کرتی ہیں تاکہ مشترکہ پلیٹ فارمز کے ذریعے مربوط خدمات تک رسائی فراہم کی جا سکے۔"
+    },
+    {
+      "question": "How do NADRA SMS services ensure service continuity?",
+      "answer": "Service continuity is maintained through redundant systems, regular maintenance schedules, backup procedures, monitoring systems, and coordination with telecommunications providers to minimize service interruptions.",
+      "urdu_question": "نادرا ایس ایم ایس سروسز سروس کے تسلسل کو کیسے یقینی بناتی ہیں؟",
+      "urdu_answer": "سروس کے تسلسل کو بے کار نظاموں، باقاعدگی سے دیکھ بھال کے نظام الاوقات، بیک اپ کے طریقہ کار، نگرانی کے نظام، اور ٹیلی کمیونیکیشن فراہم کرنے والوں کے ساتھ رابطہ کاری کے ذریعے برقرار رکھا جاتا ہے تاکہ سروس میں رکاوٹوں کو کم کیا جا سکے۔"
+    },
+    {
+      "question": "What role do NADRA SMS services play in digital Pakistan initiatives?",
+      "answer": "NADRA SMS services support Digital Pakistan initiatives by providing accessible, technology-enabled government services, promoting digital inclusion, and enabling efficient citizen-government interaction through mobile platforms.",
+      "urdu_question": "ڈیجیٹل پاکستان کے اقدامات میں نادرا کی ایس ایم ایس سروسز کیا کردار ادا کرتی ہیں؟",
+      "urdu_answer": "نادرا ایس ایم ایس سروسز قابل رسائی، ٹیکنالوجی سے چلنے والی سرکاری خدمات فراہم کرنے، ڈیجیٹل شمولیت کو فروغ دینے، اور موبائل پلیٹ فارمز کے ذریعے موثر شہری حکومت کے تعامل کو فعال کرکے ڈیجیٹل پاکستان کے اقدامات کی حمایت کرتی ہیں۔"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "file_name": "application_status_tracking.json",
+  "domain": "Status_Help",
+  "total_qa_pairs": 36,
+  "qa_data": [
+    {
+      "question": "How can I track my NADRA application status?",
+      "answer": "For tracking your application status, you can use the PAK-ID mobile app OR contact NADRA directly. Have your Tracking ID and PIN code from the NADRA receipt ready.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nVisit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں اپنی نادرا درخواست کی حیثیت کو کیسے ٹریک کرسکتا ہوں؟",
+      "urdu_answer": "اپنی درخواست کی حیثیت کو ٹریک کرنے کے لیے، آپ PAK-ID موبائل ایپ استعمال کرسکتے ہیں یا نادرا سے براہ راست رابطہ کرسکتے ہیں۔ نادرا کی رسید سے اپنی ٹریکنگ آئی ڈی اور پن کوڈ تیار رکھیں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "What are the ways to check my NADRA application status?",
+      "answer": "For tracking your application status, you can use the PAK-ID mobile app OR contact NADRA directly. Have your Tracking ID and PIN code from the NADRA receipt ready.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nVisit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میری نادرا درخواست کی حیثیت کو چیک کرنے کے طریقے کیا ہیں؟",
+      "urdu_answer": "اپنی درخواست کی حیثیت کو ٹریک کرنے کے لیے، آپ PAK-ID موبائل ایپ استعمال کرسکتے ہیں یا نادرا سے براہ راست رابطہ کرسکتے ہیں۔ نادرا کی رسید سے اپنی ٹریکنگ آئی ڈی اور پن کوڈ تیار رکھیں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "How do I find the delivery or stage update for my application?",
+      "answer": "For tracking your application status, you can use the PAK-ID mobile app OR contact NADRA directly. Have your Tracking ID and PIN code from the NADRA receipt ready.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nVisit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں اپنی درخواست کے لیے ڈیلیوری یا اسٹیج اپ ڈیٹ کیسے تلاش کروں؟",
+      "urdu_answer": "اپنی درخواست کی حیثیت کو ٹریک کرنے کے لیے، آپ PAK-ID موبائل ایپ استعمال کرسکتے ہیں یا نادرا سے براہ راست رابطہ کرسکتے ہیں۔ نادرا کی رسید سے اپنی ٹریکنگ آئی ڈی اور پن کوڈ تیار رکھیں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "I want to check my application progress. What should I do?",
+      "answer": "For tracking your application status, you can use the PAK-ID mobile app OR contact NADRA directly. Have your Tracking ID and PIN code from the NADRA receipt ready.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nVisit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں اپنی درخواست کی پیشرفت چیک کرنا چاہتا ہوں۔ میں کیا کروں؟",
+      "urdu_answer": "اپنی درخواست کی حیثیت کو ٹریک کرنے کے لیے، آپ PAK-ID موبائل ایپ استعمال کرسکتے ہیں یا نادرا سے براہ راست رابطہ کرسکتے ہیں۔ نادرا کی رسید سے اپنی ٹریکنگ آئی ڈی اور پن کوڈ تیار رکھیں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "How do I check CNIC application status offline?",
+      "answer": "For tracking your application status offline, contact NADRA directly and provide your Tracking ID and PIN code from the receipt, or visit an NRC.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nVisit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں CNIC درخواست کی حیثیت کو آف لائن کیسے چیک کروں؟",
+      "urdu_answer": "اپنی درخواست کی حیثیت کو آف لائن ٹریک کرنے کے لیے، نادرا سے براہ راست رابطہ کریں اور رسید سے اپنا ٹریکنگ آئی ڈی اور پن کوڈ فراہم کریں، یا NRC ملاحظہ کریں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "Can I track NICOP status without using the app?",
+      "answer": "Yes. For tracking your application status offline, contact NADRA directly and provide your Tracking ID and PIN code from the receipt, or visit an NRC.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nVisit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "کیا میں ایپ استعمال کیے بغیر NICOP اسٹیٹس کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں اپنی درخواست کی حیثیت کو آف لائن ٹریک کرنے کے لیے، نادرا سے براہ راست رابطہ کریں اور رسید سے اپنا ٹریکنگ آئی ڈی اور پن کوڈ فراہم کریں، یا NRC ملاحظہ کریں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "How can I track my NADRA application status online?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "میں اپنی نادرا درخواست کی حیثیت کو آن لائن کیسے ٹریک کرسکتا ہوں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "How do I check my CNIC application status on the PAK-ID app?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "میں PAK-ID ایپ پر اپنی CNIC درخواست کی حیثیت کیسے چیک کروں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "Where do I track NICOP status in the PAK-ID mobile app?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "میں PAK-ID موبائل ایپ میں NICOP اسٹیٹس کو کہاں سے ٹریک کروں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "Can I check my POC application status online?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "کیا میں اپنی POC درخواست کی حیثیت آن لائن دیکھ سکتا ہوں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "How to view FRC request status in PAK-ID?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "PAK-ID میں FRC درخواست کی حیثیت کیسے دیکھیں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "How can I check CRC application status on PAK-ID?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "میں PAK-ID پر CRC درخواست کی حیثیت کیسے چیک کرسکتا ہوں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "I have a Tracking ID and PIN—how do I use PAK-ID to check status?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "میرے پاس ایک ٹریکنگ آئی ڈی اور پن ہے — اسٹیٹس چیک کرنے کے لیے میں PAK-ID کا استعمال کیسے کروں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "Steps to check application status using the PAK-ID app.",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "PAK-ID ایپ کا استعمال کرتے ہوئے درخواست کی حیثیت چیک کرنے کے اقدامات۔",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "Does PAK-ID show my delivery status and stage updates?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "کیا PAK-ID میری ڈیلیوری کی صورتحال اور اسٹیج اپ ڈیٹس دکھاتا ہے؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "How to log in and track my CNIC on PAK-ID?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "PAK-ID پر لاگ ان اور اپنے CNIC کو کیسے ٹریک کریں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "Do I need to sign up on PAK-ID before I can track my application?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "کیا مجھے اپنی درخواست کو ٹریک کرنے سے پہلے PAK-ID پر سائن اپ کرنے کی ضرورت ہے؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "Track application status via mobile app?",
+      "answer": "You can check your application status on the PAK-ID mobile app. Make sure you SIGN UP first. If you already have an account on PAK-ID, log in, tap on \"Tracking\", and enter your Tracking ID and PIN code found on your NADRA receipt.",
+      "urdu_question": "موبائل ایپ کے ذریعے درخواست کی حیثیت کو ٹریک کریں؟",
+      "urdu_answer": "آپ PAK-ID موبائل ایپ پر اپنی درخواست کی حیثیت چیک کر سکتے ہیں۔ اس بات کو یقینی بنائیں کہ آپ پہلے سائن اپ کریں۔ اگر آپ کا پہلے سے ہی PAK-ID پر اکاؤنٹ ہے، لاگ ان کریں، \"ٹریکنگ\" پر ٹیپ کریں، اور نادرا کی رسید پر موجود اپنی ٹریکنگ آئی ڈی اور پن کوڈ درج کریں۔"
+    },
+    {
+      "question": "I don’t know my Tracking ID or PIN—how can I check status?",
+      "answer": "Your Tracking ID and PIN code are printed on your NADRA receipt.",
+      "urdu_question": "مجھے اپنی ٹریکنگ آئی ڈی یا پن نہیں معلوم—میں اسٹیٹس کو کیسے چیک کرسکتا ہوں؟",
+      "urdu_answer": "آپ کی ٹریکنگ آئی ڈی اور پن کوڈ آپ کی نادرا کی رسید پر پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "Where can I find my NADRA Tracking ID and PIN code?",
+      "answer": "Your Tracking ID and PIN code are printed on your NADRA receipt.",
+      "urdu_question": "مجھے اپنا نادرا ٹریکنگ آئی ڈی اور پن کوڈ کہاں سے مل سکتا ہے؟",
+      "urdu_answer": "آپ کی ٹریکنگ آئی ڈی اور پن کوڈ آپ کی نادرا کی رسید پر پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "I forgot my tracking number—how do I get it?",
+      "answer": "Your Tracking ID and PIN code are printed on your NADRA receipt.",
+      "urdu_question": "میں اپنا ٹریکنگ نمبر بھول گیا — میں اسے کیسے حاصل کروں؟",
+      "urdu_answer": "آپ کی ٹریکنگ آئی ڈی اور پن کوڈ آپ کی نادرا کی رسید پر پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "My PIN code is missing—how can I retrieve it?",
+      "answer": "Your Tracking ID and PIN code are printed on your NADRA receipt.",
+      "urdu_question": "میرا PIN کوڈ غائب ہے—میں اسے کیسے بازیافت کر سکتا ہوں؟",
+      "urdu_answer": "آپ کی ٹریکنگ آئی ڈی اور پن کوڈ آپ کی نادرا کی رسید پر پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "How do I find the tracking details (Tracking ID, PIN) for my application?",
+      "answer": "Your Tracking ID and PIN code are printed on your NADRA receipt.",
+      "urdu_question": "میں اپنی درخواست کے لیے ٹریکنگ کی تفصیلات (ٹریکنگ آئی ڈی، پن) کیسے تلاش کروں؟",
+      "urdu_answer": "آپ کی ٹریکنگ آئی ڈی اور پن کوڈ آپ کی نادرا کی رسید پر پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "I can’t locate my tracking ID or PIN—what should I do?",
+      "answer": "Your Tracking ID and PIN code are printed on your NADRA receipt.",
+      "urdu_question": "میں اپنی ٹریکنگ آئی ڈی یا پن کا پتہ نہیں لگا سکتا — مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "آپ کی ٹریکنگ آئی ڈی اور پن کوڈ آپ کی نادرا کی رسید پر پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "I lost my NADRA receipt—how can I check my application status?",
+      "answer": "Since you don’t have your NADRA receipt/Tracking ID, please contact NADRA directly:\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں نے اپنی نادرا کی رسید کھو دی — میں اپنی درخواست کی حیثیت کیسے چیک کرسکتا ہوں؟",
+      "urdu_answer": "چونکہ آپ کے پاس نادرا کی رسید/ٹریکنگ آئی ڈی نہیں ہے، اس لیے براہ کرم نادرا سے براہ راست رابطہ کریں: اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "I misplaced the tracking slip—how do I get an update?",
+      "answer": "Since you don’t have your NADRA receipt/Tracking ID, please contact NADRA directly:\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں نے ٹریکنگ سلپ کو غلط جگہ دی — میں اپ ڈیٹ کیسے حاصل کروں؟",
+      "urdu_answer": "چونکہ آپ کے پاس نادرا کی رسید/ٹریکنگ آئی ڈی نہیں ہے، اس لیے براہ کرم نادرا سے براہ راست رابطہ کریں: اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "I wasn’t given a receipt at the center—how can I track my application?",
+      "answer": "Since you don’t have your NADRA receipt/Tracking ID, please contact NADRA directly:\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "مجھے مرکز میں رسید نہیں دی گئی تھی- میں اپنی درخواست کو کیسے ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "چونکہ آپ کے پاس نادرا کی رسید/ٹریکنگ آئی ڈی نہیں ہے، اس لیے براہ کرم نادرا سے براہ راست رابطہ کریں: اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "I forgot to take the receipt—how do I check status?",
+      "answer": "Since you don’t have your NADRA receipt/Tracking ID, please contact NADRA directly:\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میں رسید لینا بھول گیا—میں اسٹیٹس کو کیسے چیک کروں؟",
+      "urdu_answer": "چونکہ آپ کے پاس نادرا کی رسید/ٹریکنگ آئی ڈی نہیں ہے، اس لیے براہ کرم نادرا سے براہ راست رابطہ کریں: اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "My tracking slip is missing—how should I proceed to get my status?",
+      "answer": "Since you don’t have your NADRA receipt/Tracking ID, please contact NADRA directly:\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "میری ٹریکنگ سلپ غائب ہے — مجھے اپنا اسٹیٹس حاصل کرنے کے لیے کیسے آگے بڑھنا چاہیے؟",
+      "urdu_answer": "چونکہ آپ کے پاس نادرا کی رسید/ٹریکنگ آئی ڈی نہیں ہے، اس لیے براہ کرم نادرا سے براہ راست رابطہ کریں: اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "Someone didn’t give me the receipt—how can I track my application?",
+      "answer": "Since you don’t have your NADRA receipt/Tracking ID, please contact NADRA directly:\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "کسی نے مجھے رسید نہیں دی — میں اپنی درخواست کو کیسے ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "چونکہ آپ کے پاس نادرا کی رسید/ٹریکنگ آئی ڈی نہیں ہے، اس لیے براہ کرم نادرا سے براہ راست رابطہ کریں: اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "Is there a phone number to track my NADRA application?",
+      "answer": "Yes. You can contact NADRA directly and provide your Tracking ID and PIN code from the receipt.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "کیا میری نادرا درخواست کو ٹریک کرنے کے لیے کوئی فون نمبر ہے؟",
+      "urdu_answer": "جی ہاں آپ نادرا سے براہ راست رابطہ کر سکتے ہیں اور رسید سے اپنا ٹریکنگ آئی ڈی اور پن کوڈ فراہم کر سکتے ہیں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "What is the NADRA helpline for application status?",
+      "answer": "You can contact NADRA directly and provide your Tracking ID and PIN code from the receipt.\nTimings: 24/7\nMobile: 1777\nHelpline: 051-111-786-100\nOr visit your nearest NADRA Registration Center (NRC).",
+      "urdu_question": "درخواست کی حیثیت کے لیے نادرا کی ہیلپ لائن کیا ہے؟",
+      "urdu_answer": "آپ نادرا سے براہ راست رابطہ کر سکتے ہیں اور رسید سے اپنا ٹریکنگ آئی ڈی اور پن کوڈ فراہم کر سکتے ہیں۔ اوقات: 24/7 موبائل: 1777 ہیلپ لائن: 051-111-786-100 یا اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جائیں۔"
+    },
+    {
+      "question": "Can I visit a center to ask about my application status?",
+      "answer": "Yes. You can visit your nearest NADRA Registration Center (NRC). If available, bring your NADRA receipt with the Tracking ID and PIN code.",
+      "urdu_question": "کیا میں اپنی درخواست کی حیثیت کے بارے میں پوچھنے کے لیے کسی مرکز کا دورہ کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں آپ اپنے قریبی نادرا رجسٹریشن سینٹر (NRC) پر جا سکتے ہیں۔ اگر دستیاب ہو تو، ٹریکنگ آئی ڈی اور پن کوڈ کے ساتھ اپنی نادرا کی رسید لائیں۔"
+    }
+  ]
+}

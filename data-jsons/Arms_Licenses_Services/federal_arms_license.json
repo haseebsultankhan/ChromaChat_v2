@@ -1,0 +1,589 @@
+{
+  "file_name": "federal_arms_license.json",
+  "domain": "Arms_Licenses_Services",
+  "total_qa_pairs": 97,
+  "qa_data": [
+    {
+      "question": "What are the Pakistan Arms Rules 2023?",
+      "answer": "The Pakistan Arms Rules 2023 are federal rules made under the Pakistan Arms Ordinance 1965, notified on 11th June 2023. These rules govern the issuance, renewal, transfer, and cancellation of arms licenses throughout Pakistan, including personal arms licenses, institutional arms licenses, and business arms licenses.",
+      "urdu_question": "پاکستان آرمز رولز 2023 کیا ہیں؟",
+      "urdu_answer": "پاکستان آرمز رولز 2023 پاکستان آرمز آرڈیننس 1965 کے تحت بنائے گئے وفاقی قوانین ہیں، جنہیں 11 جون 2023 کو مطلع کیا گیا ہے۔ یہ قوانین پورے پاکستان میں اسلحہ لائسنسوں کے اجراء، تجدید، منتقلی اور منسوخی کو کنٹرول کرتے ہیں، بشمول ذاتی اسلحہ لائسنس، ادارہ جاتی اسلحہ لائسنس، اور کاروباری اسلحہ لائسنس۔"
+    },
+    {
+      "question": "What is the difference between prohibited bore (PB) and non-prohibited bore (NPB) weapons?",
+      "answer": "Prohibited bore (PB) weapons are weapons notified as such by the Federal Government and typically include higher caliber firearms. Non-prohibited bore (NPB) weapons are all weapons other than prohibited bore weapons and are also notified by the Federal Government. PB licenses have higher fees and stricter requirements than NPB licenses.",
+      "urdu_question": "ممنوعہ بور (PB) اور غیر ممنوعہ بور (NPB) ہتھیاروں میں کیا فرق ہے؟",
+      "urdu_answer": "ممنوعہ بور (PB) ہتھیار وہ ہتھیار ہیں جو وفاقی حکومت کے ذریعہ مطلع کیے گئے ہیں اور ان میں عام طور پر زیادہ صلاحیت والے آتشیں ہتھیار شامل ہوتے ہیں۔ غیر ممنوعہ بور (NPB) ہتھیار ممنوعہ بور کے ہتھیاروں کے علاوہ تمام ہتھیار ہیں اور وفاقی حکومت کی طرف سے بھی مطلع کیا جاتا ہے۔ PB لائسنسوں میں NPB لائسنسوں سے زیادہ فیس اور سخت تقاضے ہوتے ہیں۔"
+    },
+    {
+      "question": "Who can apply for personal arms licenses under federal rules?",
+      "answer": "Pakistani citizens who meet eligibility criteria can apply for personal arms licenses. The application must be made in writing to the Interior Division and requires documents including CNIC/NICOP, police character certificate, affidavit, tax return documents, and other specified documents.",
+      "urdu_question": "وفاقی قوانین کے تحت ذاتی اسلحہ لائسنس کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "پاکستانی شہری جو اہلیت کے معیار پر پورا اترتے ہیں ذاتی اسلحہ لائسنس کے لیے درخواست دے سکتے ہیں۔ درخواست داخلہ ڈویژن کو تحریری طور پر دی جانی چاہیے اور اس کے لیے دستاویزات درکار ہیں جن میں CNIC/NICOP، پولیس کریکٹر سرٹیفکیٹ، حلف نامہ، ٹیکس ریٹرن دستاویزات، اور دیگر مخصوص دستاویزات شامل ہیں۔"
+    },
+    {
+      "question": "What documents are required for personal arms license application?",
+      "answer": "Required documents include: signed application, attested CNIC/NICOP copy, original police character certificate, notarized affidavit, tax return documents from FBR (Rs. 100,000 ceiling for PB, Rs. 50,000 for NPB), active taxpayer status if applicable, weapon handling certificate (when notified), and any other documents specified by the issuing authority.",
+      "urdu_question": "ذاتی اسلحہ لائسنس کی درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات میں شامل ہیں: دستخط شدہ درخواست، تصدیق شدہ CNIC/NICOP کاپی، اصل پولیس کریکٹر سرٹیفکیٹ، نوٹریائزڈ حلف نامہ، FBR سے ٹیکس ریٹرن دستاویزات (PB کے لیے 100,000 روپے کی حد، NPB کے لیے 50,000 روپے)، فعال ٹیکس دہندہ کی حیثیت اگر قابل اطلاق ہو، ہتھیاروں سے نمٹنے کا سرٹیفکیٹ اور کسی بھی دستاویز کے ذریعے تصدیق شدہ دستاویز نہیں ہے۔"
+    },
+    {
+      "question": "What are the fees for federal arms licenses?",
+      "answer": "For 5-year licenses: PB New License Rs. 28,000 (Rs. 25,000 govt + Rs. 3,000 NADRA/FBR), NPB New License Rs. 14,000 (Rs. 12,500 govt + Rs. 1,500 NADRA). Renewal fees are lower. Tax filers get 50% discount on government fees. 10-year licenses cost double the 5-year rate.",
+      "urdu_question": "وفاقی اسلحہ لائسنس کی فیس کیا ہے؟",
+      "urdu_answer": "5 سالہ لائسنس کے لیے: PB نیا لائسنس روپے۔ 28,000 (25,000 روپے حکومت + 3,000 روپے نادرا/ایف بی آر)، این پی بی نیا لائسنس روپے 14,000 (12,500 روپے حکومت + 1,500 روپے نادرا)۔ تجدید کی فیسیں کم ہیں۔ ٹیکس فائلرز کو سرکاری فیس پر 50 فیصد رعایت ملتی ہے۔ 10 سالہ لائسنس کی قیمت 5 سالہ شرح سے دوگنی ہے۔"
+    },
+    {
+      "question": "How long do federal arms licenses remain valid?",
+      "answer": "Personal arms licenses may be granted for up to 5 years, or up to 10 years in sensitive cases as authorized by the Minister for Interior or Secretary Interior Division. Licenses may be renewed within one month of expiry (grace period) without late fees.",
+      "urdu_question": "وفاقی اسلحہ لائسنس کب تک درست رہتے ہیں؟",
+      "urdu_answer": "ذاتی اسلحہ لائسنس 5 سال تک، یا حساس کیسز میں 10 سال تک کے لیے دیے جا سکتے ہیں جیسا کہ وزیر داخلہ یا سیکریٹری داخلہ ڈویژن کے ذریعے اختیار کیا گیا ہے۔ لائسنسوں کی مدت ختم ہونے کے ایک ماہ کے اندر بغیر لیٹ فیس کے تجدید کی جا سکتی ہے۔"
+    },
+    {
+      "question": "What is the arms purchase requirement after license approval?",
+      "answer": "After license approval, the applicant must: (1) purchase arms of the approved type/category from an authorized dealer within 90 days, and (2) apply to the registrar for entry of the purchased arms in the license. Failure to do so within 6 months results in deemed withdrawal of approval.",
+      "urdu_question": "لائسنس کی منظوری کے بعد اسلحہ خریدنے کی کیا ضرورت ہے؟",
+      "urdu_answer": "لائسنس کی منظوری کے بعد، درخواست دہندہ کو لازمی ہے: (1) منظور شدہ قسم/کیٹیگری کے ہتھیار 90 دنوں کے اندر کسی مجاز ڈیلر سے خریدے، اور (2) لائسنس میں خریدے گئے اسلحے کے اندراج کے لیے رجسٹرار کو درخواست دیں۔ 6 ماہ کے اندر ایسا کرنے میں ناکامی کے نتیجے میں منظوری واپس لی جائے گی۔"
+    },
+    {
+      "question": "What are the limits on personal arms licenses?",
+      "answer": "A person cannot obtain more than four personal arms licenses, with a maximum of two being PB (prohibited bore) licenses. Additional licenses may be granted in exceptional cases with sufficient justification and approval from the competent authority.",
+      "urdu_question": "ذاتی اسلحہ لائسنس کی حدود کیا ہیں؟",
+      "urdu_answer": "ایک شخص چار سے زیادہ ذاتی اسلحہ لائسنس حاصل نہیں کر سکتا، زیادہ سے زیادہ دو PB (ممنوعہ بور) کے لائسنس ہیں۔ مجاز اتھارٹی سے کافی جواز اور منظوری کے ساتھ غیر معمولی معاملات میں اضافی لائسنس دیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "What is the cartridge limit for arms licenses?",
+      "answer": "The maximum limit is 500 cartridges or 100 bullets per license. The Secretary Interior Division or authorized Additional/Special Secretary may increase this limit upon written request with solid reasons, attested CNIC/NICOP copy, and attested license copy.",
+      "urdu_question": "اسلحہ لائسنس کے لیے کارتوس کی حد کیا ہے؟",
+      "urdu_answer": "زیادہ سے زیادہ حد 500 کارتوس یا 100 گولیاں فی لائسنس ہے۔ سیکرٹری داخلہ ڈویژن یا مجاز ایڈیشنل/سپیشل سیکرٹری ٹھوس وجوہات، تصدیق شدہ CNIC/NICOP کاپی، اور تصدیق شدہ لائسنس کاپی کے ساتھ تحریری درخواست پر اس حد کو بڑھا سکتے ہیں۔"
+    },
+    {
+      "question": "Can arms licenses be transferred?",
+      "answer": "Generally, arms licenses are non-transferable. However, they may be transferred in case of death of the licensee or under specific circumstances like incapacitation due to ill-health, old age, or other compelling circumstances, following prescribed procedures.",
+      "urdu_question": "کیا اسلحہ لائسنس منتقل کیے جا سکتے ہیں؟",
+      "urdu_answer": "عام طور پر اسلحہ لائسنس ناقابل منتقلی ہوتے ہیں۔ تاہم، انہیں لائسنس یافتہ کی موت کی صورت میں یا مخصوص حالات جیسے کہ خراب صحت، بڑھاپے، یا دیگر مجبوری حالات کی وجہ سے معذوری، مقررہ طریقہ کار کے بعد منتقل کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What happens if an arms license is lost or damaged?",
+      "answer": "A duplicate license may be issued upon application with prescribed fee, providing: police report (if lost), attested CNIC/NICOP copy, copy of lost/damaged license if available, notarized affidavit, and police report countersigned by sub-divisional police officer or the damaged license.",
+      "urdu_question": "اگر اسلحہ لائسنس کھو جائے یا خراب ہو جائے تو کیا ہوتا ہے؟",
+      "urdu_answer": "درخواست پر ایک ڈپلیکیٹ لائسنس مقررہ فیس کے ساتھ جاری کیا جا سکتا ہے، فراہم کرتے ہوئے: پولیس رپورٹ (اگر گم ہو جائے)، تصدیق شدہ CNIC/NICOP کاپی، اگر دستیاب ہو تو گم شدہ/خراب لائسنس کی کاپی، نوٹری شدہ حلف نامہ، اور پولیس رپورٹ جو سب ڈویژنل پولیس آفیسر یا خراب شدہ لائسنس کے جوابی دستخط شدہ ہو۔"
+    },
+    {
+      "question": "Under what circumstances can arms licenses be suspended?",
+      "answer": "Arms licenses may be suspended if: the licensee fails to comply with license conditions, arms are used for unlawful purposes, the licensee is involved in activities against public safety, or there are violations of the Arms Ordinance or rules. Suspension requires opportunity for hearing except in extraordinary circumstances.",
+      "urdu_question": "کن حالات میں اسلحہ لائسنس معطل کیا جا سکتا ہے؟",
+      "urdu_answer": "اسلحہ لائسنس معطل کیا جا سکتا ہے اگر: لائسنس دہندہ لائسنس کی شرائط کی تعمیل کرنے میں ناکام رہتا ہے، اسلحہ غیر قانونی مقاصد کے لیے استعمال ہوتا ہے، لائسنس دہندہ عوامی تحفظ کے خلاف سرگرمیوں میں ملوث ہوتا ہے، یا اسلحہ آرڈیننس یا قواعد کی خلاف ورزی کرتا ہے۔ معطلی کو غیر معمولی حالات کے علاوہ سماعت کا موقع درکار ہوتا ہے۔"
+    },
+    {
+      "question": "When can arms licenses be cancelled?",
+      "answer": "Licenses may be cancelled if: licensee fails to remove objections after hearing, repetition of acts causing suspension, arms used for criminal offenses, contravention of Ordinance/rules/conditions, or at the licensee's own request. The process requires communication to local police for arms confiscation.",
+      "urdu_question": "اسلحہ لائسنس کب منسوخ ہو سکتے ہیں؟",
+      "urdu_answer": "لائسنس منسوخ کیے جا سکتے ہیں اگر: لائسنس دہندہ سماعت کے بعد اعتراضات کو دور کرنے میں ناکام رہتا ہے، معطلی کا باعث بننے والی کارروائیوں کی تکرار، فوجداری جرائم کے لیے استعمال ہونے والا اسلحہ، آرڈیننس/قواعد/شرائط کی خلاف ورزی، یا لائسنس یافتہ کی اپنی درخواست پر۔ اس عمل کے لیے اسلحہ کی ضبطی کے لیے مقامی پولیس سے رابطے کی ضرورت ہے۔"
+    },
+    {
+      "question": "What are institutional arms licenses?",
+      "answer": "Institutional arms licenses are issued to eligible institutions or security companies to equip their security guards with firearms. Arms must be given to trained, security-cleared guards registered with local police, and used only for authorized purposes/premises.",
+      "urdu_question": "ادارہ جاتی اسلحہ لائسنس کیا ہیں؟",
+      "urdu_answer": "ادارہ جاتی اسلحہ لائسنس اہل اداروں یا سیکیورٹی کمپنیوں کو اپنے سیکیورٹی گارڈز کو آتشیں اسلحے سے لیس کرنے کے لیے جاری کیے جاتے ہیں۔ اسلحہ مقامی پولیس کے ساتھ رجسٹرڈ، تربیت یافتہ، سیکورٹی کلیئر گارڈز کو دیا جانا چاہیے، اور صرف مجاز مقاصد/ احاطے کے لیے استعمال کیا جانا چاہیے۔"
+    },
+    {
+      "question": "What are business arms licenses and their categories?",
+      "answer": "Business arms licenses are issued to natural or legal persons for: (a) manufacture of arms or ammunition, (b) repair of arms, (c) sale and purchase of arms or ammunition, and (d) storage of arms and ammunition. These are granted only to eligible applicants through auction.",
+      "urdu_question": "کاروباری اسلحہ لائسنس اور ان کے زمرے کیا ہیں؟",
+      "urdu_answer": "کاروباری اسلحہ لائسنس قدرتی یا قانونی افراد کے لیے جاری کیے جاتے ہیں: (a) اسلحہ یا گولہ بارود کی تیاری، (b) اسلحے کی مرمت، (c) اسلحہ یا گولہ بارود کی فروخت اور خریداری، اور (d) اسلحہ اور گولہ بارود کا ذخیرہ۔ یہ نیلامی کے ذریعے صرف اہل درخواست دہندگان کو دیے جاتے ہیں۔"
+    },
+    {
+      "question": "Who is exempt from standard documentation requirements?",
+      "answer": "High-ranking officials are exempt and need only CNIC/NICOP copy and covering letter from their organization: President, Prime Minister, Chairman Senate, Speaker National Assembly, Chief Justices and Judges of Supreme Court and High Courts, Governors, Chief Ministers, Federal Ministers, Assembly members, and BPS 19-22 officers.",
+      "urdu_question": "معیاری دستاویزات کے تقاضوں سے کون مستثنیٰ ہے؟",
+      "urdu_answer": "اعلیٰ عہدے دار مستثنیٰ ہیں اور انہیں اپنی تنظیم سے صرف CNIC/NICOP کاپی اور کورنگ لیٹر کی ضرورت ہے: صدر، وزیراعظم، چیئرمین سینیٹ، اسپیکر قومی اسمبلی، سپریم کورٹ اور ہائی کورٹس کے چیف جسٹسز اور ججز، گورنرز، وزرائے اعلیٰ، وفاقی وزراء، اسمبلی ممبران، اور BPS 19-22 افسران۔"
+    },
+    {
+      "question": "What is the validity scope of different license types?",
+      "answer": "Personal PB licenses approved under federal rules are valid throughout Pakistan. NPB licenses issued by Deputy Commissioner Islamabad are valid only for Islamabad Capital Territory. Provincial NPB licenses are valid only within that province. Business licenses for PB weapons are valid throughout Pakistan.",
+      "urdu_question": "لائسنس کی مختلف اقسام کی درستگی کا دائرہ کیا ہے؟",
+      "urdu_answer": "وفاقی قوانین کے تحت منظور شدہ ذاتی PB لائسنس پورے پاکستان میں درست ہیں۔ ڈپٹی کمشنر اسلام آباد کی طرف سے جاری کردہ NPB لائسنس صرف اسلام آباد کیپٹل ٹیریٹری کے لیے درست ہیں۔ صوبائی NPB لائسنس صرف اسی صوبے کے اندر درست ہیں۔ PB ہتھیاروں کے کاروباری لائسنس پورے پاکستان میں درست ہیں۔"
+    },
+    {
+      "question": "Are there training requirements for license holders?",
+      "answer": "Yes, every license holder or applicant must undergo training in weapon handling and usage as specified by the Government. This training must be obtained from certified institutions, with the requirement coming into effect on a notified date.",
+      "urdu_question": "کیا لائسنس ہولڈرز کے لیے تربیت کے تقاضے ہیں؟",
+      "urdu_answer": "جی ہاں، ہر لائسنس ہولڈر یا درخواست دہندہ کو حکومت کی طرف سے بیان کردہ ہتھیاروں سے نمٹنے اور استعمال کی تربیت سے گزرنا چاہیے۔ یہ تربیت تصدیق شدہ اداروں سے حاصل کی جانی چاہیے، اس شرط کے ساتھ کہ ایک مطلع شدہ تاریخ پر عمل درآمد ہوگا۔"
+    },
+    {
+      "question": "What is prohibited regarding professional agents in arms licensing?",
+      "answer": "Processing of arms license cases through professional agents or intermediaries is completely prohibited. Such professional agents or intermediaries will be proceeded against under the law.",
+      "urdu_question": "اسلحہ لائسنسنگ میں پیشہ ور ایجنٹوں کے حوالے سے کیا منع ہے؟",
+      "urdu_answer": "پیشہ ور ایجنٹوں یا بیچوانوں کے ذریعے اسلحہ لائسنس کے مقدمات کی کارروائی مکمل طور پر ممنوع ہے۔ ایسے پیشہ ور ایجنٹوں یا ثالثوں کے خلاف قانون کے تحت کارروائی کی جائے گی۔"
+    },
+    {
+      "question": "What appeal rights exist for arms license decisions?",
+      "answer": "Aggrieved persons may make representations: (1) to the Secretary Interior Division within 30 days for orders by subordinate officers, (2) to the Government within 30 days if declined by Secretary or for Minister's orders. These decisions are final.",
+      "urdu_question": "اسلحہ لائسنس کے فیصلوں کے لیے اپیل کے کیا حقوق موجود ہیں؟",
+      "urdu_answer": "متاثرہ افراد نمائندگی کر سکتے ہیں: (1) سیکرٹری داخلہ ڈویژن کو 30 دن کے اندر ماتحت افسران کے احکامات کے لیے، (2) اگر سیکرٹری یا وزیر کے احکامات کے لیے مسترد کر دیتے ہیں تو 30 دن کے اندر حکومت کو۔ یہ فیصلے حتمی ہیں۔"
+    },
+    {
+      "question": "What happens to non-computerized arms licenses?",
+      "answer": "All manual arms licenses issued by Interior Division and provincial governments that are not computerized stand cancelled, except those issued to Assembly members and BPS 19-22 federal officers. The Secretary Interior Division may authorize computerization of post-2002 license booklets.",
+      "urdu_question": "غیر کمپیوٹرائزڈ اسلحہ لائسنس کا کیا ہوتا ہے؟",
+      "urdu_answer": "داخلہ ڈویژن اور صوبائی حکومتوں کی طرف سے جاری کردہ تمام دستی اسلحہ لائسنس جو کمپیوٹرائزڈ نہیں ہیں، منسوخ کر دیے گئے ہیں، سوائے ان کے جو اسمبلی ممبران اور بی پی ایس 19-22 وفاقی افسران کو جاری کیے گئے ہیں۔ سیکرٹری داخلہ ڈویژن 2002 کے بعد کے لائسنس بکلیٹس کی کمپیوٹرائزیشن کی اجازت دے سکتا ہے۔"
+    },
+    {
+      "question": "What is the arms dealer management system?",
+      "answer": "When an automated system is notified by the Interior Division for buying, selling, or exchanging arms through authorized dealers, all dealers must use this system. It ensures authenticity of transactions and maintains data of licensees according to specified procedures.",
+      "urdu_question": "اسلحہ ڈیلر مینجمنٹ سسٹم کیا ہے؟",
+      "urdu_answer": "جب کسی خودکار نظام کو داخلہ ڈویژن کی طرف سے بااختیار ڈیلرز کے ذریعے اسلحہ خریدنے، بیچنے یا تبادلے کے لیے مطلع کیا جاتا ہے، تو تمام ڈیلرز کو اس نظام کو استعمال کرنا چاہیے۔ یہ لین دین کی صداقت کو یقینی بناتا ہے اور مخصوص طریقہ کار کے مطابق لائسنس دہندگان کے ڈیٹا کو برقرار رکھتا ہے۔"
+    },
+    {
+      "question": "How are firearms bureaus established and operated?",
+      "answer": "The Federal Government may direct Deputy Commissioner Islamabad to establish a firearms bureau containing unclaimed arms. Federal police forces deposit such arms there. Arms from the bureau may be sold at prescribed rates or given gratis to those entitled to gratis licenses.",
+      "urdu_question": "آتشیں اسلحہ کے بیورو کیسے قائم اور چلائے جاتے ہیں؟",
+      "urdu_answer": "وفاقی حکومت ڈپٹی کمشنر اسلام آباد کو غیر دعویدار اسلحے پر مشتمل آتشیں اسلحہ بیورو قائم کرنے کی ہدایت کر سکتی ہے۔ وفاقی پولیس کے دستے ایسے ہتھیار وہاں جمع کرتے ہیں۔ بیورو سے اسلحہ مقررہ نرخوں پر فروخت کیا جا سکتا ہے یا مفت لائسنس کے حقداروں کو مفت دیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What database requirements exist for arms licenses?",
+      "answer": "The registrar must prepare a database of all arms licenses issued. All databases must be merged into one databank hosted by the registrar. This ensures centralized record-keeping and monitoring of all arms licenses.",
+      "urdu_question": "اسلحہ لائسنس کے لیے کونسی ڈیٹا بیس کی ضروریات موجود ہیں؟",
+      "urdu_answer": "رجسٹرار کو جاری کردہ تمام اسلحہ لائسنسوں کا ڈیٹا بیس تیار کرنا ہوگا۔ تمام ڈیٹا بیسز کو رجسٹرار کے زیر اہتمام ایک ڈیٹا بینک میں ضم کیا جانا چاہیے۔ یہ تمام اسلحہ لائسنسوں کی مرکزی ریکارڈ رکھنے اور نگرانی کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What audit requirements apply to arms licenses?",
+      "answer": "Periodic audits of all arms license cases must be conducted to ascertain that licenses were issued on valid authority and that prescribed fees including renewal and duplicate fees have been credited to the relevant government account.",
+      "urdu_question": "اسلحہ لائسنس پر آڈٹ کے کیا تقاضے لاگو ہوتے ہیں؟",
+      "urdu_answer": "اسلحہ لائسنس کے تمام کیسز کا وقتاً فوقتاً آڈٹ کرایا جانا چاہیے تاکہ یہ معلوم کیا جا سکے کہ لائسنس درست اتھارٹی پر جاری کیے گئے تھے اور تجویز کردہ فیس بشمول تجدید اور ڈپلیکیٹ فیس متعلقہ سرکاری اکاؤنٹ میں جمع کر دی گئی ہے۔"
+    },
+    {
+      "question": "What penalties apply for late arms purchase after license approval?",
+      "answer": "If arms are not purchased within 90 days but within 6 months of license approval, a penalty of Rs. 1,000 per month applies. After 6 months, the license approval is deemed withdrawn and the process must restart.",
+      "urdu_question": "لائسنس کی منظوری کے بعد دیر سے اسلحے کی خریداری پر کیا جرمانے لاگو ہوتے ہیں؟",
+      "urdu_answer": "لائسنس کی منظوری کے 6 ماہ کے اندر اگر اسلحہ 90 دن کے اندر نہیں خریدا گیا تو 50 ہزار روپے جرمانہ ہوگا۔ 1,000 فی مہینہ لاگو ہوتا ہے۔ 6 ماہ کے بعد، لائسنس کی منظوری کو واپس لیا جائے گا اور عمل کو دوبارہ شروع کرنا ہوگا۔"
+    },
+    {
+      "question": "Can arms license validity periods be extended?",
+      "answer": "The Secretary Interior Division or authorized Deputy Secretary may extend the arms purchase and entry period upon submission of application, attested CNIC/NICOP copy, attested license copy, and justification for the extension.",
+      "urdu_question": "کیا اسلحہ لائسنس کی میعاد میں توسیع کی جا سکتی ہے؟",
+      "urdu_answer": "سیکرٹری داخلہ ڈویژن یا مجاز ڈپٹی سیکرٹری درخواست جمع کرانے، تصدیق شدہ CNIC/NICOP کاپی، تصدیق شدہ لائسنس کی کاپی، اور توسیع کے جواز کے بعد اسلحہ کی خریداری اور داخلے کی مدت میں توسیع کر سکتے ہیں۔"
+    },
+    {
+      "question": "What sources can be used to purchase licensed firearms?",
+      "answer": "Licensed weapons may be purchased from: Pakistan Ordinance Factory Wah Industries Limited, other authorized arms manufacturers, authorized arms dealers with valid manufacturing/selling licenses, imported NPB weapons per Import Policy Order, or obtained from federal/provincial firearms bureaus.",
+      "urdu_question": "لائسنس یافتہ آتشیں اسلحہ خریدنے کے لیے کون سے ذرائع استعمال کیے جا سکتے ہیں؟",
+      "urdu_answer": "لائسنس یافتہ ہتھیار یہاں سے خریدے جا سکتے ہیں: پاکستان آرڈیننس فیکٹری واہ انڈسٹریز لمیٹڈ، دیگر مجاز اسلحہ ساز، مجاز اسلحہ ڈیلر جن کے پاس درست مینوفیکچرنگ/فروخت کا لائسنس ہے، درآمدی پالیسی آرڈر کے مطابق درآمد شدہ NPB ہتھیار، یا وفاقی/صوبائی آتشیں اسلحہ بیورو سے حاصل کیے گئے ہیں۔"
+    },
+    {
+      "question": "How are institutional arms licenses managed and monitored?",
+      "answer": "Institutions must maintain proper issuance/receipt systems recording guard details, CNIC numbers, arms numbers, duty times/places, and issuance/return times. Registers are open to law enforcement inspection. Guards must carry attested license copies and authority letters.",
+      "urdu_question": "ادارہ جاتی اسلحہ لائسنسوں کا انتظام اور نگرانی کیسے کی جاتی ہے؟",
+      "urdu_answer": "اداروں کو چاہیے کہ وہ مناسب اجراء/رسید کے نظام کو برقرار رکھیں جو گارڈ کی تفصیلات، CNIC نمبر، اسلحہ نمبر، ڈیوٹی کے اوقات/مقامات، اور اجراء/واپسی کے اوقات کو ریکارڈ کریں۔ رجسٹر قانون نافذ کرنے والے معائنے کے لیے کھلے ہیں۔ گارڈز کے پاس لائسنس کی تصدیق شدہ کاپیاں اور اتھارٹی لیٹر لازمی ہیں۔"
+    },
+    {
+      "question": "What special provisions exist for serving military personnel?",
+      "answer": "Applications for PB or NPB weapons for serving armed forces personnel forwarded by Defence Division under relevant military regulations may be processed by Interior Division without the standard documentation requirements listed in the rules.",
+      "urdu_question": "فوجی اہلکاروں کی خدمت کے لیے کیا خصوصی دفعات موجود ہیں؟",
+      "urdu_answer": "متعلقہ فوجی ضوابط کے تحت دفاعی ڈویژن کی طرف سے پیش کی جانے والی مسلح افواج کے اہلکاروں کے لیے PB یا NPB ہتھیاروں کی درخواستوں پر داخلہ ڈویژن قواعد میں درج معیاری دستاویزات کی ضروریات کے بغیر کارروائی کر سکتا ہے۔"
+    },
+    {
+      "question": "How does the grace period work for license renewal?",
+      "answer": "Licenses may be renewed within one month of expiry (grace period) without paying late fees. After the grace period, renewal becomes more complex and may involve penalties depending on how much time has elapsed.",
+      "urdu_question": "لائسنس کی تجدید کے لیے رعایتی مدت کیسے کام کرتی ہے؟",
+      "urdu_answer": "لائسنسوں کی مدت ختم ہونے کے ایک ماہ کے اندر لیٹ فیس ادا کیے بغیر تجدید کی جا سکتی ہے۔ رعایتی مدت کے بعد، تجدید زیادہ پیچیدہ ہو جاتی ہے اور اس میں جرمانے شامل ہو سکتے ہیں اس پر منحصر ہے کہ کتنا وقت گزر چکا ہے۔"
+    },
+    {
+      "question": "What happens to arms when licenses are cancelled or suspended?",
+      "answer": "When licenses are cancelled, arms must be deposited in the strongroom in prescribed manner or with authorized dealers. Local police are immediately informed for record purposes and potential arms confiscation as required by applicable law.",
+      "urdu_question": "لائسنس منسوخ یا معطل ہونے پر اسلحہ کا کیا ہوتا ہے؟",
+      "urdu_answer": "لائسنس کینسل ہونے پر، اسلحہ کو اسٹرانگ روم میں مقررہ طریقے سے یا مجاز ڈیلروں کے پاس جمع کرانا چاہیے۔ مقامی پولیس کو ریکارڈ کے مقاصد اور ممکنہ ہتھیاروں کی ضبطی کے لیے فوری طور پر مطلع کیا جاتا ہے جیسا کہ قابل اطلاق قانون کی ضرورت ہے۔"
+    },
+    {
+      "question": "Can license holders apply for cancellation of their own licenses?",
+      "answer": "Yes, licensees or legal heirs of deceased licensees may apply in writing for cancellation of licenses. The competent authority will verify the application's genuineness and may require hearings with legal heirs before cancelling the license.",
+      "urdu_question": "کیا لائسنس ہولڈر اپنے لائسنس کی منسوخی کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، لائسنس دہندگان یا فوت شدہ لائسنس دہندگان کے قانونی ورثاء لائسنس کی منسوخی کے لیے تحریری درخواست دے سکتے ہیں۔ مجاز اتھارٹی درخواست کی اصلیت کی تصدیق کرے گی اور اسے لائسنس منسوخ کرنے سے پہلے قانونی ورثاء کے ساتھ سماعت کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What are the consequences of arms license violations?",
+      "answer": "Violations can result in license suspension or cancellation, arms confiscation, legal proceedings under the Arms Ordinance, and potential criminal charges. The severity depends on the nature of the violation and may include permanent disqualification from future licenses.",
+      "urdu_question": "اسلحہ لائسنس کی خلاف ورزیوں کے کیا نتائج ہوتے ہیں؟",
+      "urdu_answer": "خلاف ورزیوں کے نتیجے میں لائسنس کی معطلی یا منسوخی، اسلحہ کی ضبطی، اسلحہ آرڈیننس کے تحت قانونی کارروائی اور ممکنہ مجرمانہ الزامات ہو سکتے ہیں۔ شدت کا انحصار خلاف ورزی کی نوعیت پر ہے اور اس میں مستقبل کے لائسنسوں سے مستقل نااہلی بھی شامل ہو سکتی ہے۔"
+    },
+    {
+      "question": "How do tax filing status and exemptions affect arms license fees?",
+      "answer": "Tax filers meeting prescribed ceilings get 50% discount on government fees. Persons from tax-exempted areas (as notified by FBR) pay under the filer category. This provides financial incentives for tax compliance while ensuring broader access to legal arms ownership.",
+      "urdu_question": "ٹیکس فائل کرنے کی حیثیت اور استثنیٰ اسلحہ لائسنس کی فیس کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "مقررہ حدوں پر پورا اترنے والے ٹیکس فائلرز کو سرکاری فیس پر 50% رعایت ملتی ہے۔ ٹیکس سے مستثنیٰ علاقوں کے لوگ (جیسا کہ ایف بی آر نے مطلع کیا ہے) فائلر کے زمرے کے تحت ادائیگی کرتے ہیں۔ یہ قانونی ہتھیاروں کی ملکیت تک وسیع تر رسائی کو یقینی بناتے ہوئے ٹیکس کی تعمیل کے لیے مالی مراعات فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What rules were repealed by the Pakistan Arms Rules 2023?",
+      "answer": "The Pakistan Arms Rules 2022 were repealed by the 2023 rules. However, licenses issued under the repealed rules are deemed to have been issued under the new rules and will be extended and renewed according to the new provisions.",
+      "urdu_question": "پاکستان آرمز رولز 2023 کے ذریعے کن قوانین کو منسوخ کیا گیا؟",
+      "urdu_answer": "پاکستان آرمز رولز 2022 کو 2023 کے قوانین کے ذریعے منسوخ کر دیا گیا۔ تاہم، منسوخ شدہ قوانین کے تحت جاری کردہ لائسنس کو نئے قوانین کے تحت جاری کیا گیا سمجھا جاتا ہے اور نئی دفعات کے مطابق ان کی توسیع اور تجدید کی جائے گی۔"
+    },
+    {
+      "question": "Are there provisions for inherited arms licenses?",
+      "answer": "Yes, arms licenses can be transferred to legal heirs in case of the licensee's death, subject to prescribed procedures and fees. The inheritance transfer fee is Rs. 5,500 for PB licenses and Rs. 3,250 for NPB licenses, following the same structure as duplicate licenses.",
+      "urdu_question": "کیا وراثت میں ملنے والے اسلحہ لائسنسوں کی دفعات ہیں؟",
+      "urdu_answer": "ہاں، لائسنس یافتہ کی موت کی صورت میں اسلحہ کے لائسنس قانونی ورثاء کو منتقل کیے جا سکتے ہیں، مقررہ طریقہ کار اور فیس کے ساتھ۔ وراثت کی منتقلی کی فیس روپے ہے۔ PB لائسنس کے لیے 5,500 اور روپے۔ NPB لائسنسوں کے لیے 3,250، ڈپلیکیٹ لائسنسوں کے اسی ڈھانچے کے بعد۔"
+    },
+    {
+      "question": "What registration centers are involved in arms license processing?",
+      "answer": "Registration centers established by the registrar are responsible for maintenance of records and license fees. NADRA serves as the registrar for arms license data bank maintenance, ensuring computerized and centralized record-keeping.",
+      "urdu_question": "اسلحہ لائسنس کی کارروائی میں کون سے رجسٹریشن مراکز شامل ہیں؟",
+      "urdu_answer": "رجسٹرار کے ذریعہ قائم کردہ رجسٹریشن مراکز ریکارڈ اور لائسنس فیس کی دیکھ بھال کے ذمہ دار ہیں۔ نادرا اسلحہ لائسنس ڈیٹا بینک کی دیکھ بھال کے لیے رجسٹرار کے طور پر کام کرتا ہے، کمپیوٹرائزڈ اور سنٹرلائزڈ ریکارڈ کیپنگ کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How do provincial and federal arms license jurisdictions interact?",
+      "answer": "Federal PB licenses are valid throughout Pakistan. Federal NPB licenses for Islamabad are territory-specific. Provincial NPB licenses are valid only within their respective provinces. Federal business licenses for PB weapons have Pakistan-wide validity, while NPB business licenses are limited to Islamabad Capital Territory.",
+      "urdu_question": "صوبائی اور وفاقی اسلحہ لائسنس کے دائرہ اختیار کس طرح آپس میں تعامل کرتے ہیں؟",
+      "urdu_answer": "وفاقی PB لائسنس پورے پاکستان میں درست ہیں۔ اسلام آباد کے لیے وفاقی NPB لائسنس علاقے کے لیے مخصوص ہیں۔ صوبائی NPB لائسنس صرف ان کے متعلقہ صوبوں میں درست ہیں۔ PB ہتھیاروں کے لیے وفاقی کاروباری لائسنس پورے پاکستان میں درست ہیں، جبکہ NPB کے کاروباری لائسنس اسلام آباد کیپٹل ٹیریٹری تک محدود ہیں۔"
+    },
+    {
+      "question": "What constitutes compelling circumstances for license transfer?",
+      "answer": "Compelling circumstances that may justify arms license transfer include death of licensee, incapacitation due to ill-health or old age, or other extraordinary situations that prevent the original licensee from maintaining the license. Each case is evaluated individually by the competent authority.",
+      "urdu_question": "لائسنس کی منتقلی کے لیے مجبور حالات کیا ہیں؟",
+      "urdu_answer": "مجبور حالات جو اسلحہ لائسنس کی منتقلی کو جواز بنا سکتے ہیں ان میں لائسنس یافتہ کی موت، خرابی صحت یا بڑھاپے کی وجہ سے معذوری، یا دیگر غیر معمولی حالات شامل ہیں جو اصل لائسنس دہندہ کو لائسنس برقرار رکھنے سے روکتے ہیں۔ ہر کیس کا انفرادی طور پر مجاز اتھارٹی کے ذریعہ جائزہ لیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the different types of arms license classifications?",
+      "answer": "Arms licenses are classified as: Personal Arms Licenses (for individual protection/sports), Institutional Arms Licenses (for organizations/security companies), and Business Arms Licenses (for manufacture, repair, sale, purchase, or storage of arms and ammunition).",
+      "urdu_question": "اسلحہ لائسنس کی درجہ بندی کی مختلف اقسام کیا ہیں؟",
+      "urdu_answer": "اسلحہ لائسنسوں کی درجہ بندی اس طرح کی گئی ہے: ذاتی اسلحہ لائسنس (انفرادی تحفظ/کھیلوں کے لیے)، ادارہ جاتی اسلحہ لائسنس (تنظیموں/سیکیورٹی کمپنیوں کے لیے)، اور کاروباری اسلحہ لائسنس (اسلحہ اور گولہ بارود کی تیاری، مرمت، فروخت، خریداری یا ذخیرہ کرنے کے لیے)۔"
+    },
+    {
+      "question": "What is the definition of an authorized dealer?",
+      "answer": "An authorized dealer is an arms dealer having a license issued by the Federal Government or Provincial Government for sale and purchase of arms, authorized to sell weapons to license holders.",
+      "urdu_question": "مجاز ڈیلر کی تعریف کیا ہے؟",
+      "urdu_answer": "ایک مجاز ڈیلر اسلحہ ڈیلر ہوتا ہے جس کے پاس لائسنس ہولڈرز کو اسلحہ فروخت کرنے کا اختیار وفاقی حکومت یا صوبائی حکومت کی طرف سے اسلحہ کی خرید و فروخت کے لیے جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What constitutes an antique or vintage weapon?",
+      "answer": "An antique or vintage weapon is defined as a weapon at least seventy years old. These weapons may have different licensing requirements and procedures compared to modern firearms.",
+      "urdu_question": "قدیم یا ونٹیج ہتھیار کیا ہے؟",
+      "urdu_answer": "قدیم یا پرانے ہتھیار کی تعریف کم از کم ستر سال پرانے ہتھیار کے طور پر کی جاتی ہے۔ جدید آتشیں اسلحے کے مقابلے ان ہتھیاروں میں لائسنسنگ کی ضروریات اور طریقہ کار مختلف ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Who is considered a legal heir for arms license purposes?",
+      "answer": "A legal heir is the person who is entitled to inherit after the death of licensee, including spouse of the licensee, parents, children, brother and sister, etc. They may be eligible for license transfer upon the original licensee's death.",
+      "urdu_question": "اسلحہ لائسنس کے مقاصد کے لیے قانونی وارث کون سمجھا جاتا ہے؟",
+      "urdu_answer": "قانونی وارث وہ شخص ہوتا ہے جو لائسنس یافتہ کی موت کے بعد وراثت کا حقدار ہوتا ہے، بشمول لائسنس یافتہ کی شریک حیات، والدین، بچے، بھائی اور بہن وغیرہ۔ وہ اصل لائسنس دہندہ کی موت پر لائسنس کی منتقلی کے اہل ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What is a retainer in the context of arms licenses?",
+      "answer": "A retainer is the person authorized by the issuing authority under a license to look after and carry the arms of the licensee. A maximum of one retainership may be granted per licensed weapon to an otherwise eligible person.",
+      "urdu_question": "اسلحہ لائسنس کے تناظر میں رینٹینر کیا ہے؟",
+      "urdu_answer": "ایک برقرار رکھنے والا وہ شخص ہوتا ہے جسے لائسنس جاری کرنے والی اتھارٹی کے ذریعہ لائسنس یافتہ کے ہتھیاروں کی دیکھ بھال اور لے جانے کا اختیار دیا جاتا ہے۔ کسی دوسرے اہل شخص کو فی لائسنس یافتہ ہتھیار زیادہ سے زیادہ ایک ریٹینر شپ دی جا سکتی ہے۔"
+    },
+    {
+      "question": "What is a succession certificate in arms licensing context?",
+      "answer": "A succession certificate is a certificate issued by NADRA or a court of competent jurisdiction that establishes legal heirship for the purpose of arms license inheritance and transfer procedures.",
+      "urdu_question": "اسلحہ لائسنسنگ سیاق و سباق میں جانشینی کا سرٹیفکیٹ کیا ہے؟",
+      "urdu_answer": "جانشینی کا سرٹیفکیٹ نادرا یا مجاز دائرہ اختیار کی عدالت کی طرف سے جاری کردہ ایک سرٹیفکیٹ ہے جو اسلحہ لائسنس کی وراثت اور منتقلی کے طریقہ کار کے مقصد کے لیے قانونی وراثت قائم کرتا ہے۔"
+    },
+    {
+      "question": "What documentation requirements exist for institutional arms license applications?",
+      "answer": "Required documents include: application from CEO/head with CNIC/NICOP, company resolution, authorization letter if via agent, license/registration certificate with appropriate authority, details of owners/directors/office bearers, details of persons likely to carry arms, and any other documents required by Secretary Interior Division.",
+      "urdu_question": "ادارہ جاتی اسلحہ لائسنس کی درخواستوں کے لیے کیا دستاویزات کے تقاضے موجود ہیں؟",
+      "urdu_answer": "مطلوبہ دستاویزات میں شامل ہیں: CNIC/NICOP کے ساتھ CEO/سربراہ کی طرف سے درخواست، کمپنی کی قرارداد، اگر ایجنٹ کے ذریعے اجازت نامہ، مناسب اتھارٹی کے ساتھ لائسنس/رجسٹریشن سرٹیفکیٹ، مالکان/ڈائریکٹرز/آفیس بیئررز کی تفصیلات، اسلحہ رکھنے والے افراد کی تفصیلات، اور سیکرٹری داخلہ ڈویژن کو درکار دیگر دستاویزات۔"
+    },
+    {
+      "question": "How are business arms licenses awarded?",
+      "answer": "Business arms licenses are granted only to eligible applicants through auction. The auction process ensures fair competition and proper evaluation of applicants for manufacturing, repair, sale, purchase, or storage of arms and ammunition.",
+      "urdu_question": "کاروباری اسلحہ لائسنس کیسے دیئے جاتے ہیں؟",
+      "urdu_answer": "کاروباری اسلحہ لائسنس نیلامی کے ذریعے صرف اہل درخواست دہندگان کو دیے جاتے ہیں۔ نیلامی کا عمل اسلحے اور گولہ بارود کی تیاری، مرمت، فروخت، خریداری یا ذخیرہ کرنے کے لیے درخواست دہندگان کی منصفانہ مسابقت اور مناسب تشخیص کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What are the eligibility criteria for business arms licenses?",
+      "answer": "Business arms license eligibility includes fulfilling specific criteria for natural or legal persons as provided in the rules, demonstrating financial capacity, having proper facilities, meeting security requirements, and successfully participating in the auction process.",
+      "urdu_question": "کاروباری اسلحہ لائسنس کے لیے اہلیت کے معیار کیا ہیں؟",
+      "urdu_answer": "کاروباری اسلحہ لائسنس کی اہلیت میں قدرتی یا قانونی افراد کے لیے مخصوص معیارات کو پورا کرنا شامل ہے جیسا کہ قواعد میں فراہم کیا گیا ہے، مالی صلاحیت کا مظاہرہ کرنا، مناسب سہولیات کا ہونا، حفاظتی تقاضوں کو پورا کرنا، اور نیلامی کے عمل میں کامیابی سے حصہ لینا۔"
+    },
+    {
+      "question": "Can business arms licenses be transferred between parties?",
+      "answer": "Business arms licenses have specific transfer restrictions and procedures. Transfer may be possible under limited circumstances such as death of licensee or business succession, subject to approval by the competent authority and fulfillment of all eligibility criteria by the transferee.",
+      "urdu_question": "کیا کاروباری اسلحہ لائسنس فریقین کے درمیان منتقل کیے جا سکتے ہیں؟",
+      "urdu_answer": "کاروباری اسلحہ لائسنس میں منتقلی کی مخصوص پابندیاں اور طریقہ کار ہوتے ہیں۔ منتقلی محدود حالات میں ممکن ہو سکتی ہے جیسے لائسنس یافتہ کی موت یا کاروباری جانشینی، مجاز اتھارٹی کی منظوری اور منتقلی کے ذریعے اہلیت کے تمام معیارات کی تکمیل کے ساتھ۔"
+    },
+    {
+      "question": "What are the responsibilities of institutional license holders?",
+      "answer": "Institutional license holders must ensure arms are given only to trained, security-cleared guards registered with local police; maintain proper issuance/receipt records; limit use to authorized purposes/premises; provide identity cards to guards; and keep registers open for law enforcement inspection.",
+      "urdu_question": "ادارہ جاتی لائسنس ہولڈرز کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "ادارہ جاتی لائسنس ہولڈرز کو اس بات کو یقینی بنانا چاہیے کہ اسلحہ صرف تربیت یافتہ، سیکیورٹی کلیئر گارڈز کو دیا جائے جو مقامی پولیس میں رجسٹرڈ ہوں۔ مناسب اجراء/رسید کے ریکارڈ کو برقرار رکھنا؛ استعمال کو مجاز مقاصد / احاطے تک محدود کرنا؛ گارڈز کو شناختی کارڈ فراہم کرنا؛ اور قانون نافذ کرنے والے معائنے کے لیے رجسٹر کھلے رکھیں۔"
+    },
+    {
+      "question": "How are renewal applications processed for arms licenses?",
+      "answer": "Renewal applications must be submitted before license expiry with prescribed fees. Within the grace period (one month), no late fees apply. After the grace period, additional penalties and procedures may apply. The competent authority evaluates continued eligibility before approving renewal.",
+      "urdu_question": "اسلحہ لائسنس کی تجدید کی درخواستوں پر کیسے عمل کیا جاتا ہے؟",
+      "urdu_answer": "تجدید کی درخواستیں لائسنس کی میعاد ختم ہونے سے پہلے مقررہ فیس کے ساتھ جمع کرائی جائیں۔ رعایتی مدت (ایک ماہ) کے اندر، کوئی لیٹ فیس لاگو نہیں ہوتی۔ رعایتی مدت کے بعد، اضافی جرمانے اور طریقہ کار لاگو ہو سکتے ہیں۔ مجاز اتھارٹی تجدید کی منظوری دینے سے پہلے مسلسل اہلیت کا جائزہ لیتی ہے۔"
+    },
+    {
+      "question": "What happens to arms licenses of persons who become mentally incapacitated?",
+      "answer": "If a licensee becomes mentally incapacitated, the license may be suspended or cancelled for public safety reasons. The arms must be safely secured, and the license may be transferred to eligible legal heirs following prescribed procedures.",
+      "urdu_question": "ذہنی طور پر معذور افراد کے اسلحہ لائسنس کا کیا ہوتا ہے؟",
+      "urdu_answer": "اگر لائسنس دہندہ ذہنی طور پر معذور ہو جاتا ہے، تو عوامی حفاظت کی وجوہات کی بنا پر لائسنس معطل یا منسوخ کیا جا سکتا ہے۔ اسلحے کو محفوظ طریقے سے محفوظ کیا جانا چاہیے، اور لائسنس کو مقررہ طریقہ کار کے بعد اہل قانونی ورثاء کو منتقل کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Are there special provisions for law enforcement officers?",
+      "answer": "Law enforcement officers and other specified categories may have exemptions from certain documentation requirements or expedited processing, but they must still meet fundamental eligibility criteria and follow prescribed procedures for their specific category.",
+      "urdu_question": "کیا قانون نافذ کرنے والے افسران کے لیے خصوصی انتظامات ہیں؟",
+      "urdu_answer": "قانون نافذ کرنے والے افسران اور دیگر مخصوص کیٹیگریز کو کچھ دستاویزات کے تقاضوں یا تیز رفتار پروسیسنگ سے استثنیٰ حاصل ہو سکتا ہے، لیکن انہیں پھر بھی بنیادی اہلیت کے معیار پر پورا اترنا چاہیے اور اپنے مخصوص زمرے کے لیے مقررہ طریقہ کار پر عمل کرنا چاہیے۔"
+    },
+    {
+      "question": "What record-keeping requirements apply to arms dealers?",
+      "answer": "Arms dealers must maintain detailed records of all transactions, including buyer information, weapon details, license verification, and transaction dates. These records must be available for inspection by authorized officials and integrated with the arms dealer management system when notified.",
+      "urdu_question": "اسلحہ ڈیلروں پر ریکارڈ رکھنے کے کیا تقاضے لاگو ہوتے ہیں؟",
+      "urdu_answer": "اسلحہ ڈیلرز کو خریدار کی معلومات، ہتھیاروں کی تفصیلات، لائسنس کی تصدیق، اور لین دین کی تاریخوں سمیت تمام لین دین کا تفصیلی ریکارڈ برقرار رکھنا چاہیے۔ یہ ریکارڈز بااختیار اہلکاروں کے معائنے کے لیے دستیاب ہونا چاہیے اور مطلع ہونے پر اسلحہ ڈیلر مینجمنٹ سسٹم کے ساتھ مربوط ہونا چاہیے۔"
+    },
+    {
+      "question": "How are lost or stolen firearms reported and handled?",
+      "answer": "Lost or stolen firearms must be immediately reported to local police with a formal complaint. A police report is required for duplicate license applications. The incident may trigger investigation and could affect future license eligibility depending on circumstances.",
+      "urdu_question": "گمشدہ یا چوری شدہ آتشیں اسلحے کی اطلاع اور ہینڈل کیسے کی جاتی ہے؟",
+      "urdu_answer": "گمشدہ یا چوری شدہ آتشیں اسلحے کی فوری طور پر مقامی پولیس کو باضابطہ شکایت کے ساتھ اطلاع دی جانی چاہیے۔ ڈپلیکیٹ لائسنس کی درخواستوں کے لیے پولیس رپورٹ درکار ہے۔ یہ واقعہ تحقیقات کو متحرک کر سکتا ہے اور حالات کے لحاظ سے مستقبل کے لائسنس کی اہلیت کو متاثر کر سکتا ہے۔"
+    },
+    {
+      "question": "What are the storage requirements for licensed firearms?",
+      "answer": "Licensed firearms must be stored safely and securely when not in use. Improper storage that leads to theft, misuse, or accidents may result in license suspension or cancellation. Specific storage requirements may be prescribed by the competent authority.",
+      "urdu_question": "لائسنس یافتہ آتشیں اسلحے کے لیے ذخیرہ کرنے کی کیا ضروریات ہیں؟",
+      "urdu_answer": "لائسنس یافتہ آتشیں اسلحے کو محفوظ طریقے سے اور محفوظ طریقے سے ذخیرہ کیا جانا چاہیے جب وہ استعمال میں نہ ہوں۔ غلط اسٹوریج جو چوری، غلط استعمال، یا حادثات کا باعث بنتا ہے اس کے نتیجے میں لائسنس کی معطلی یا منسوخی ہو سکتی ہے۔ مخصوص سٹوریج کی ضروریات مجاز اتھارٹی کے ذریعہ تجویز کی جا سکتی ہیں۔"
+    },
+    {
+      "question": "Can foreign nationals obtain arms licenses in Pakistan?",
+      "answer": "The rules primarily apply to Pakistani citizens with CNIC/NICOP. Foreign nationals would need special authorization and would likely fall under different procedures and requirements, subject to approval by the competent authority on a case-by-case basis.",
+      "urdu_question": "کیا غیر ملکی شہری پاکستان میں اسلحہ لائسنس حاصل کر سکتے ہیں؟",
+      "urdu_answer": "اصول بنیادی طور پر CNIC/NICOP والے پاکستانی شہریوں پر لاگو ہوتے ہیں۔ غیر ملکی شہریوں کو خصوصی اجازت کی ضرورت ہوگی اور ممکنہ طور پر مختلف طریقہ کار اور تقاضوں کے تحت آئیں گے، ہر معاملے کی بنیاد پر مجاز اتھارٹی کی منظوری سے مشروط۔"
+    },
+    {
+      "question": "How are arms license fees calculated and collected?",
+      "answer": "License fees are calculated based on license type (PB/NPB), duration (5/10 years), and applicant's tax status. Government fees, NADRA fees, and FBR fees are separate components. Fees must be paid before license issuance and are credited to relevant government accounts.",
+      "urdu_question": "اسلحہ لائسنس کی فیس کا حساب اور جمع کیسے کیا جاتا ہے؟",
+      "urdu_answer": "لائسنس کی فیس کا حساب لائسنس کی قسم (PB/NPB)، مدت (5/10 سال) اور درخواست دہندہ کے ٹیکس کی حیثیت کی بنیاد پر کیا جاتا ہے۔ سرکاری فیس، نادرا فیس، اور ایف بی آر کی فیس الگ الگ اجزاء ہیں۔ فیس لائسنس جاری کرنے سے پہلے ادا کی جانی چاہیے اور متعلقہ سرکاری کھاتوں میں جمع کر دی جاتی ہے۔"
+    },
+    {
+      "question": "What inspection rights do authorities have regarding licensed arms?",
+      "answer": "Authorized officials have the right to inspect licensed firearms, associated records, storage facilities, and compliance with license conditions. Licensees must cooperate with inspections and provide access to arms and documentation when legally required.",
+      "urdu_question": "لائسنس یافتہ اسلحے کے حوالے سے حکام کے پاس معائنہ کے کیا حقوق ہیں؟",
+      "urdu_answer": "مجاز اہلکاروں کو لائسنس یافتہ آتشیں اسلحے، متعلقہ ریکارڈ، اسٹوریج کی سہولیات، اور لائسنس کی شرائط کی تعمیل کا معائنہ کرنے کا حق ہے۔ لائسنس یافتہ افراد کو معائنے کے ساتھ تعاون کرنا چاہیے اور قانونی طور پر ضرورت پڑنے پر اسلحہ اور دستاویزات تک رسائی فراہم کرنا چاہیے۔"
+    },
+    {
+      "question": "How are disputes regarding arms licenses resolved?",
+      "answer": "Disputes are resolved through the appeals process: representations to Secretary Interior Division within 30 days for subordinate officer orders, or to the Government within 30 days for Secretary/Minister decisions. These decisions are final, and legal proceedings may follow if necessary.",
+      "urdu_question": "اسلحہ لائسنس کے تنازعات کیسے حل ہوتے ہیں؟",
+      "urdu_answer": "تنازعات کو اپیل کے عمل کے ذریعے حل کیا جاتا ہے: ماتحت افسر کے احکامات کے لیے سیکرٹری داخلہ ڈویژن کو 30 دن کے اندر نمائندگی، یا سیکرٹری/وزیر کے فیصلوں کے لیے 30 دن کے اندر حکومت کو۔ یہ فیصلے حتمی ہیں، اور اگر ضروری ہوا تو قانونی کارروائی کی جا سکتی ہے۔"
+    },
+    {
+      "question": "What are the implications of criminal charges on arms license holders?",
+      "answer": "Criminal charges may result in immediate license suspension pending case resolution. Conviction for serious crimes typically results in license cancellation and permanent disqualification from future licenses. The severity of implications depends on the nature of the charges and conviction.",
+      "urdu_question": "اسلحہ لائسنس ہولڈرز پر مجرمانہ الزامات کے کیا اثرات ہیں؟",
+      "urdu_answer": "مجرمانہ الزامات کے نتیجے میں کیس کے حل کے لیے لائسنس کی فوری معطلی ہو سکتی ہے۔ سنگین جرائم کے لیے سزا عام طور پر لائسنس کی منسوخی اور مستقبل کے لائسنسوں سے مستقل نااہلی کی صورت میں نکلتی ہے۔ مضمرات کی شدت کا انحصار الزامات اور سزا کی نوعیت پر ہے۔"
+    },
+    {
+      "question": "How does the arms licensing system interface with other government databases?",
+      "answer": "The arms licensing system interfaces with NADRA for identity verification, FBR for tax status verification, police databases for character verification, and court systems for criminal record checks. This ensures comprehensive background verification and ongoing monitoring.",
+      "urdu_question": "اسلحہ لائسنسنگ سسٹم دوسرے سرکاری ڈیٹا بیس کے ساتھ کیسے انٹرفیس کرتا ہے؟",
+      "urdu_answer": "اسلحہ لائسنسنگ سسٹم شناخت کی تصدیق کے لیے نادرا، ٹیکس اسٹیٹس کی تصدیق کے لیے ایف بی آر، کردار کی تصدیق کے لیے پولیس ڈیٹا بیس اور مجرمانہ ریکارڈ کی جانچ پڑتال کے لیے عدالتی نظام کے ساتھ انٹرفیس کرتا ہے۔ یہ جامع پس منظر کی تصدیق اور جاری نگرانی کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What are the penalties for unauthorized arms manufacturing or dealing?",
+      "answer": "Unauthorized arms manufacturing or dealing without proper business licenses is prohibited and subject to severe penalties under the Arms Ordinance, including criminal prosecution, heavy fines, imprisonment, and confiscation of arms and equipment.",
+      "urdu_question": "غیر مجاز ہتھیاروں کی تیاری یا ڈیل کے لیے کیا سزائیں ہیں؟",
+      "urdu_answer": "غیر مجاز اسلحہ سازی یا مناسب کاروباری لائسنس کے بغیر ڈیل کرنا ممنوع ہے اور اسلحہ آرڈیننس کے تحت سخت سزاؤں کے ساتھ مشروط ہے، بشمول فوجداری مقدمہ، بھاری جرمانے، قید، اور اسلحہ اور سامان ضبط کرنا۔"
+    },
+    {
+      "question": "How are arms licenses affected during states of emergency?",
+      "answer": "During declared emergencies, additional restrictions may be imposed on arms licenses, including temporary suspension, enhanced monitoring, restricted movement, or special reporting requirements. The government may issue specific instructions for license holders during emergency periods.",
+      "urdu_question": "ہنگامی حالات میں اسلحہ لائسنس کیسے متاثر ہوتے ہیں؟",
+      "urdu_answer": "اعلان کردہ ہنگامی حالات کے دوران، ہتھیاروں کے لائسنسوں پر اضافی پابندیاں عائد کی جا سکتی ہیں، بشمول عارضی معطلی، بہتر نگرانی، محدود نقل و حرکت، یا خصوصی رپورٹنگ کی ضروریات۔ حکومت ہنگامی حالات کے دوران لائسنس ہولڈرز کے لیے مخصوص ہدایات جاری کر سکتی ہے۔"
+    },
+    {
+      "question": "What quality control measures exist for arms manufacturing licenses?",
+      "answer": "Arms manufacturing licenses require compliance with quality standards, safety protocols, government specifications, regular inspections, and adherence to manufacturing quotas. Manufactured weapons must meet prescribed standards and be properly marked and documented.",
+      "urdu_question": "اسلحہ سازی کے لائسنس کے لیے کوالٹی کنٹرول کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "اسلحہ سازی کے لائسنس کے لیے معیار کے معیارات، حفاظتی پروٹوکول، حکومتی تصریحات، باقاعدہ معائنہ اور مینوفیکچرنگ کوٹے کی پابندی کی ضرورت ہوتی ہے۔ تیار کردہ ہتھیاروں کو مقررہ معیارات پر پورا اترنا چاہیے اور انہیں مناسب طریقے سے نشان زد اور دستاویزی ہونا چاہیے۔"
+    },
+    {
+      "question": "How are cross-border movements of licensed firearms handled?",
+      "answer": "Cross-border movement of licensed firearms requires special permits, customs clearance, destination country authorization, and compliance with international agreements. Unauthorized cross-border movement is prohibited and subject to severe penalties.",
+      "urdu_question": "لائسنس یافتہ آتشیں اسلحے کی سرحد پار نقل و حرکت کو کس طرح سنبھالا جاتا ہے؟",
+      "urdu_answer": "لائسنس یافتہ آتشیں اسلحے کی سرحد پار نقل و حرکت کے لیے خصوصی اجازت نامے، کسٹم کلیئرنس، منزل مقصود ملک کی اجازت، اور بین الاقوامی معاہدوں کی تعمیل کی ضرورت ہوتی ہے۔ سرحد پار سے غیر مجاز نقل و حرکت ممنوع ہے اور سخت سزاؤں سے مشروط ہے۔"
+    },
+    {
+      "question": "What training institutions are authorized for weapons handling certification?",
+      "answer": "Training institutions for weapons handling certification must be notified and authorized by the Government. They must meet prescribed standards for instructors, facilities, curriculum, and certification procedures to ensure proper training of license holders.",
+      "urdu_question": "ہتھیاروں سے نمٹنے کے سرٹیفیکیشن کے لیے کون سے تربیتی ادارے مجاز ہیں؟",
+      "urdu_answer": "ہتھیاروں سے نمٹنے کے سرٹیفیکیشن کے تربیتی اداروں کو حکومت کی طرف سے مطلع اور مجاز ہونا چاہیے۔ لائسنس ہولڈرز کی مناسب تربیت کو یقینی بنانے کے لیے انہیں اساتذہ، سہولیات، نصاب، اور سرٹیفیکیشن کے طریقہ کار کے لیے مقررہ معیارات پر پورا اترنا چاہیے۔"
+    },
+    {
+      "question": "How are bulk ammunition purchases regulated for license holders?",
+      "answer": "Bulk ammunition purchases are subject to license limits (500 cartridges/100 bullets per license), dealer verification, record-keeping requirements, and may require special authorization for quantities exceeding standard limits. All purchases must be properly documented.",
+      "urdu_question": "لائسنس ہولڈرز کے لیے بڑی تعداد میں گولہ بارود کی خریداری کو کیسے منظم کیا جاتا ہے؟",
+      "urdu_answer": "بڑی تعداد میں گولہ بارود کی خریداری لائسنس کی حدود (500 کارتوس/100 گولیاں فی لائسنس)، ڈیلر کی توثیق، ریکارڈ رکھنے کے تقاضوں کے ساتھ مشروط ہے، اور معیاری حد سے زیادہ مقدار کے لیے خصوصی اجازت کی ضرورت ہو سکتی ہے۔ تمام خریداریوں کو مناسب طریقے سے دستاویزی ہونا ضروری ہے۔"
+    },
+    {
+      "question": "What are the environmental and safety requirements for arms storage facilities?",
+      "answer": "Arms storage facilities must meet safety standards for fire protection, security systems, environmental controls, access restrictions, and emergency procedures. Regular inspections ensure compliance with safety and security requirements.",
+      "urdu_question": "اسلحہ ذخیرہ کرنے کی سہولیات کے لیے ماحولیاتی اور حفاظتی تقاضے کیا ہیں؟",
+      "urdu_answer": "اسلحہ ذخیرہ کرنے کی سہولیات کو آگ سے تحفظ، حفاظتی نظام، ماحولیاتی کنٹرول، رسائی کی پابندیوں، اور ہنگامی طریقہ کار کے لیے حفاظتی معیارات پر پورا اترنا چاہیے۔ باقاعدہ معائنہ حفاظت اور حفاظتی تقاضوں کی تعمیل کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How are technological advances integrated into arms licensing systems?",
+      "answer": "Technological advances are integrated through automated dealer management systems, digital record-keeping, biometric verification, online application processing, and database integration. The government may notify new technological requirements as they become available.",
+      "urdu_question": "ہتھیاروں کی لائسنسنگ کے نظام میں تکنیکی ترقی کیسے ضم ہوتی ہے؟",
+      "urdu_answer": "تکنیکی ترقی خودکار ڈیلر مینجمنٹ سسٹمز، ڈیجیٹل ریکارڈ کیپنگ، بائیو میٹرک تصدیق، آن لائن ایپلیکیشن پروسیسنگ، اور ڈیٹا بیس انضمام کے ذریعے مربوط ہوتی ہے۔ حکومت نئی تکنیکی ضروریات کے دستیاب ہوتے ہی مطلع کر سکتی ہے۔"
+    },
+    {
+      "question": "What are the reporting requirements for arms dealers regarding sales?",
+      "answer": "Arms dealers must report all sales including buyer details, license verification, weapon specifications, transaction dates, and payment records. Reports must be submitted regularly to authorities and integrated with the centralized arms dealer management system.",
+      "urdu_question": "فروخت کے حوالے سے اسلحہ ڈیلروں کے لیے رپورٹنگ کے تقاضے کیا ہیں؟",
+      "urdu_answer": "اسلحہ ڈیلرز کو خریدار کی تفصیلات، لائسنس کی تصدیق، ہتھیاروں کی تفصیلات، لین دین کی تاریخوں اور ادائیگی کے ریکارڈ سمیت تمام فروخت کی اطلاع دینی چاہیے۔ رپورٹس کو باقاعدگی سے حکام کو پیش کیا جانا چاہیے اور سنٹرلائزڈ اسلحہ ڈیلر مینجمنٹ سسٹم کے ساتھ مربوط ہونا چاہیے۔"
+    },
+    {
+      "question": "How are arms license violations investigated and prosecuted?",
+      "answer": "Violations are investigated by designated authorities, police, and relevant agencies. Evidence gathering, witness statements, and documentation review determine the severity of violations. Prosecution follows standard legal procedures under the Arms Ordinance and related laws.",
+      "urdu_question": "اسلحہ لائسنس کی خلاف ورزیوں کی تحقیقات اور قانونی کارروائی کیسے کی جاتی ہے؟",
+      "urdu_answer": "خلاف ورزیوں کی تحقیقات نامزد حکام، پولیس اور متعلقہ ایجنسیاں کرتی ہیں۔ شواہد اکٹھا کرنا، گواہوں کے بیانات، اور دستاویزات کا جائزہ خلاف ورزیوں کی شدت کا تعین کرتا ہے۔ استغاثہ آرمز آرڈیننس اور متعلقہ قوانین کے تحت معیاری قانونی طریقہ کار کی پیروی کرتا ہے۔"
+    },
+    {
+      "question": "What are the procedures for voluntary surrender of arms licenses?",
+      "answer": "Voluntary surrender requires written application to the competent authority, submission of original license, proper disposal or transfer of firearms, clearance of any pending obligations, and formal acceptance by the authority. No penalties apply for genuine voluntary surrender.",
+      "urdu_question": "اسلحہ لائسنس رضاکارانہ طور پر سرنڈر کرنے کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "رضاکارانہ ہتھیار ڈالنے کے لیے مجاز اتھارٹی کو تحریری درخواست، اصل لائسنس جمع کروانا، آتشیں اسلحے کی مناسب تلفی یا منتقلی، کسی بھی زیر التواء ذمہ داریوں کی منظوری، اور اتھارٹی کی طرف سے باضابطہ منظوری کی ضرورت ہوتی ہے۔ حقیقی رضاکارانہ ہتھیار ڈالنے پر کوئی جرمانہ لاگو نہیں ہوتا ہے۔"
+    },
+    {
+      "question": "How are international best practices incorporated into Pakistan's arms licensing system?",
+      "answer": "International best practices are incorporated through policy reviews, technological upgrades, training programs, bilateral cooperation, and adherence to international agreements. The system evolves to meet global standards while addressing Pakistan's specific security needs.",
+      "urdu_question": "پاکستان کے اسلحہ لائسنس کے نظام میں بین الاقوامی بہترین طریقوں کو کیسے شامل کیا گیا ہے؟",
+      "urdu_answer": "بین الاقوامی بہترین طریقوں کو پالیسی کے جائزوں، تکنیکی اپ گریڈ، تربیتی پروگراموں، دو طرفہ تعاون، اور بین الاقوامی معاہدوں کی پابندی کے ذریعے شامل کیا جاتا ہے۔ یہ نظام پاکستان کی مخصوص سیکورٹی ضروریات کو پورا کرتے ہوئے عالمی معیارات پر پورا اترتا ہے۔"
+    },
+    {
+      "question": "What are the long-term policy objectives of the arms licensing system?",
+      "answer": "Long-term objectives include enhancing public safety, preventing illegal arms proliferation, improving law enforcement capabilities, modernizing licensing procedures, ensuring responsible gun ownership, and maintaining balance between security needs and citizens' rights.",
+      "urdu_question": "اسلحہ لائسنس کے نظام کے طویل مدتی پالیسی مقاصد کیا ہیں؟",
+      "urdu_answer": "طویل مدتی مقاصد میں عوامی تحفظ کو بڑھانا، غیر قانونی ہتھیاروں کے پھیلاؤ کو روکنا، قانون نافذ کرنے والے اداروں کی صلاحیتوں کو بہتر بنانا، لائسنسنگ کے طریقہ کار کو جدید بنانا، بندوق کی ذمہ دارانہ ملکیت کو یقینی بنانا، اور سیکورٹی کی ضروریات اور شہریوں کے حقوق کے درمیان توازن برقرار رکھنا شامل ہے۔"
+    },
+    {
+      "question": "How does the arms licensing system contribute to national security?",
+      "answer": "The system contributes to national security by maintaining comprehensive databases, preventing illegal arms trafficking, enabling legitimate defense needs, supporting law enforcement operations, tracking weapons movements, and providing legal framework for responsible arms ownership and trade.",
+      "urdu_question": "اسلحہ لائسنس کا نظام قومی سلامتی میں کیسے کردار ادا کرتا ہے؟",
+      "urdu_answer": "یہ نظام جامع ڈیٹا بیس کو برقرار رکھنے، غیر قانونی ہتھیاروں کی اسمگلنگ کو روکنے، جائز دفاعی ضروریات کو فعال کرنے، قانون نافذ کرنے والے آپریشنز میں معاونت، ہتھیاروں کی نقل و حرکت پر نظر رکھنے، اور ذمہ دار ہتھیاروں کی ملکیت اور تجارت کے لیے قانونی فریم ورک فراہم کر کے قومی سلامتی میں حصہ ڈالتا ہے۔"
+    },
+    {
+      "question": "Who has the authority to issue PB and NPB personal arms licences under the Pakistan Arms Rules, 2023?",
+      "answer": "For PB licences: Minister-in-charge/Secretary of the Interior Division. For NPB licences: Minister-in-charge/Secretary of the Interior Division, with authority delegated to Special Secretary or Additional Secretaries. For NPB licences valid for Islamabad Capital Territory only: Deputy Commissioner Islamabad for the approved period.",
+      "urdu_question": "پاکستان آرمز رولز 2023 کے تحت PB اور NPB ذاتی اسلحہ لائسنس جاری کرنے کا اختیار کس کے پاس ہے؟",
+      "urdu_answer": "PB لائسنسوں کے لیے: وزیر انچارج/ داخلہ ڈویژن کے سیکرٹری۔ این پی بی لائسنسوں کے لیے: وزیر انچارج/ داخلہ ڈویژن کے سیکریٹری، اسپیشل سیکریٹری یا ایڈیشنل سیکریٹریز کو اختیار کے ساتھ۔ NPB لائسنس کے لیے صرف اسلام آباد کیپٹل ٹیریٹری کے لیے درست: ڈپٹی کمشنر اسلام آباد منظور شدہ مدت کے لیے۔"
+    },
+    {
+      "question": "What are the age and tax requirements for eligibility for PB and NPB personal arms licences?",
+      "answer": "Applicants must be at least 25 years old. They must also be filers of income tax returns with an annual amount of not less than Rs. 100,000 for PB licences or Rs. 50,000 for NPB licences to qualify for partial exemption in licence fees.",
+      "urdu_question": "PB اور NPB ذاتی اسلحہ لائسنس کے لیے اہلیت کے لیے عمر اور ٹیکس کے تقاضے کیا ہیں؟",
+      "urdu_answer": "درخواست دہندگان کی عمر کم از کم 25 سال ہونی چاہیے۔ وہ انکم ٹیکس گوشوارے جمع کرنے والے بھی ہوں گے جن کی سالانہ رقم روپے سے کم نہ ہو۔ PB لائسنس کے لیے 100,000 یا روپے۔ NPB لائسنسوں کے لیے 50,000 لائسنس فیس میں جزوی چھوٹ حاصل کرنے کے لیے۔"
+    },
+    {
+      "question": "Who is ineligible to apply for arms licences under federal rules?",
+      "answer": "The following categories are ineligible: (a) persons convicted for offences of moral turpitude or as notified by Interior Division, (b) persons listed in Fourth Schedule to the Anti-Terrorism Act, 1997, (c) persons found guilty of possessing more than one CNIC, and (d) persons declared insane by a competent court.",
+      "urdu_question": "وفاقی قوانین کے تحت اسلحہ لائسنس کے لیے درخواست دینے کے لیے کون نااہل ہے؟",
+      "urdu_answer": "درج ذیل زمرے نااہل ہیں: (a) اخلاقی پستی کے جرائم کے لیے سزا یافتہ افراد یا داخلہ ڈویژن کی طرف سے مطلع کیا گیا، (b) انسداد دہشت گردی ایکٹ 1997 کے فورتھ شیڈول میں درج افراد، (c) ایک سے زیادہ CNIC رکھنے کے مجرم پائے گئے، اور (d) عدالت میں قرار دیا گیا۔"
+    },
+    {
+      "question": "What biometric verification is required during the arms licence process?",
+      "answer": "Applicants must authenticate their presence through biometric verification by the registrar before final approval of PB or NPB personal arms licences.",
+      "urdu_question": "اسلحہ لائسنس کے عمل کے دوران کون سی بائیو میٹرک تصدیق کی ضرورت ہے؟",
+      "urdu_answer": "درخواست دہندگان کو PB یا NPB ذاتی اسلحہ لائسنس کی حتمی منظوری سے پہلے رجسٹرار کے ذریعے بائیو میٹرک تصدیق کے ذریعے اپنی موجودگی کی تصدیق کرنی چاہیے۔"
+    },
+    {
+      "question": "What is the procedure for conversion of provincial NPB licences to All-Pakistan validity?",
+      "answer": "Applicants must apply for conversion by providing documents required under rule 6(2), unless exempted under rule 6(3). These include application, CNIC/NICOP copy, police certificate, affidavit, tax return documents, tax filer proof, and weapon handling certificate.",
+      "urdu_question": "صوبائی NPB لائسنسوں کو آل پاکستان میں تبدیل کرنے کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "درخواست دہندگان کو قاعدہ 6(2) کے تحت مطلوبہ دستاویزات فراہم کر کے تبدیلی کے لیے درخواست دینی چاہیے، جب تک کہ اصول 6(3) کے تحت استثنیٰ نہ دیا جائے۔ ان میں درخواست، CNIC/NICOP کاپی، پولیس سرٹیفکیٹ، حلف نامہ، ٹیکس ریٹرن کے دستاویزات، ٹیکس فائلر پروف، اور ہتھیار ہینڈلنگ سرٹیفکیٹ شامل ہیں۔"
+    },
+    {
+      "question": "What is the procedure for changing a defective or lost weapon on a licence?",
+      "answer": "For PB weapons: deposit defective weapon in district police Maikhana, submit receipt and application to Secretary Interior Division. For NPB weapons: sell to an authorized dealer or deposit in police Maikhana with receipt and verification. For lost/stolen weapons: notify Interior Division within 30 days, submit application, affidavit, and police report for replacement approval.",
+      "urdu_question": "لائسنس پر ناقص یا کھوئے ہوئے ہتھیار کو تبدیل کرنے کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "PB ہتھیاروں کے لیے: ڈسٹرکٹ پولیس میخانہ میں ناکارہ ہتھیار جمع کروائیں، رسید اور درخواست سیکرٹری داخلہ ڈویژن کو جمع کروائیں۔ NPB ہتھیاروں کے لیے: ایک مجاز ڈیلر کو فروخت کریں یا رسید اور تصدیق کے ساتھ پولیس میخانہ میں جمع کرائیں۔ گمشدہ/چوری شدہ ہتھیاروں کے لیے: 30 دنوں کے اندر داخلہ ڈویژن کو مطلع کریں، متبادل کی منظوری کے لیے درخواست، حلف نامہ، اور پولیس رپورٹ جمع کروائیں۔"
+    },
+    {
+      "question": "How can corrections be made in computerized arms licences?",
+      "answer": "Corrections to name, father's/spouse's name, address, picture, or clerical errors may be made by submitting an application specifying the correction, attested CNIC/NICOP copy, and attested licence copy. Authorized officers may approve modifications.",
+      "urdu_question": "کمپیوٹرائزڈ اسلحہ لائسنسوں میں تصحیح کیسے کی جا سکتی ہے؟",
+      "urdu_answer": "نام، والد/شریک حیات کا نام، پتہ، تصویر، یا کلیریکل غلطیوں میں تصحیح، تصدیق شدہ CNIC/NICOP کاپی، اور تصدیق شدہ لائسنس کی کاپی کے ساتھ درخواست جمع کروا کر کی جا سکتی ہے۔ مجاز افسران ترمیم کی منظوری دے سکتے ہیں۔"
+    },
+    {
+      "question": "What is the process for antique or vintage arms licences?",
+      "answer": "An antique or vintage weapon (at least 70 years old) may be kept with a permit issued by the Secretary Interior Division or an authorized Special Secretary of the Interior Division.",
+      "urdu_question": "قدیم یا پرانی ہتھیاروں کے لائسنس کے لیے کیا عمل ہے؟",
+      "urdu_answer": "ایک قدیم یا پرانا ہتھیار (کم از کم 70 سال پرانا) سیکرٹری داخلہ ڈویژن یا داخلہ ڈویژن کے مجاز خصوصی سیکرٹری کی طرف سے جاری کردہ اجازت نامے کے ساتھ رکھا جا سکتا ہے۔"
+    },
+    {
+      "question": "Which institutions are eligible for institutional arms licences?",
+      "answer": "Eligible institutions include: (a) registered security companies, (b) government-owned companies/entities, (c) government institutions established by law, and (d) corporations or companies established under companies law requiring arms for premises security.",
+      "urdu_question": "کون سے ادارے ادارہ جاتی اسلحہ لائسنس کے اہل ہیں؟",
+      "urdu_answer": "اہل اداروں میں شامل ہیں: (a) رجسٹرڈ سیکیورٹی کمپنیاں، (b) حکومت کی ملکیت والی کمپنیاں/ادارے، (c) قانون کے ذریعے قائم کردہ سرکاری ادارے، اور (d) کارپوریشنز یا کمپنیاں جو کمپنیوں کے قانون کے تحت قائم کی گئی ہیں جنہیں احاطے کی حفاظت کے لیے اسلحہ درکار ہے۔"
+    },
+    {
+      "question": "What are the eligibility conditions for institutional arms licences?",
+      "answer": "Conditions include: no authority figure in the institution convicted of offences, no links with proscribed organizations/persons, and valid registration for security companies. The number of licences is determined by a committee after checking police/agency reports.",
+      "urdu_question": "ادارہ جاتی اسلحہ لائسنس کے لیے اہلیت کی شرائط کیا ہیں؟",
+      "urdu_answer": "شرائط میں شامل ہیں: ادارے میں کوئی اتھارٹی کا فرد جرم کا مرتکب نہ ہو، ممنوعہ تنظیموں/افراد کے ساتھ کوئی تعلق نہ ہو، اور سیکورٹی کمپنیوں کے لیے درست رجسٹریشن ہو۔ لائسنسوں کی تعداد کا تعین ایک کمیٹی پولیس/ایجنسی کی رپورٹس کی جانچ کے بعد کرتی ہے۔"
+    },
+    {
+      "question": "What is the procedure for business arms licence applications?",
+      "answer": "Applications must be submitted to the Interior Division with attested documents including: CNIC/NICOP of CEO/partners, authorization letter if via agent, registration certificate, details of owners/directors/employees, list of persons likely to work as salesmen/repairmen, statement of accounts, proof of business space, property ownership/lease documents, and any other documents required.",
+      "urdu_question": "کاروباری اسلحہ لائسنس کی درخواستوں کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "درخواستیں داخلہ ڈویژن میں تصدیق شدہ دستاویزات کے ساتھ جمع کرائی جائیں جن میں شامل ہیں: CEO/ پارٹنرز کا CNIC/NICOP، ایجنٹ کے ذریعے اجازت نامہ، رجسٹریشن سرٹیفکیٹ، مالکان/ڈائریکٹرز/ملازمین کی تفصیلات، سیلز مین/مرمت کرنے والے کے طور پر کام کرنے والے افراد کی فہرست، اکاؤنٹس کا اسٹیٹمنٹ، کاروبار کی جگہ کا ثبوت، جائیداد کی ملکیت/لیز کی دیگر دستاویزات۔"
+    },
+    {
+      "question": "What penalties apply for late renewal of arms licences?",
+      "answer": "If renewed within 1 month: no penalty (grace period). After grace period but within 12 months: Rs. 500 per month. After 12 months but before 5 years: Rs. 2,000 per month starting from grace period. After 5 years: licence stands cancelled.",
+      "urdu_question": "اسلحہ لائسنسوں کی دیر سے تجدید کے لیے کیا جرمانے لاگو ہوتے ہیں؟",
+      "urdu_answer": "اگر 1 ماہ کے اندر تجدید کی جاتی ہے: کوئی جرمانہ نہیں (رعایتی مدت)۔ رعایتی مدت کے بعد لیکن 12 ماہ کے اندر: روپے۔ 500 فی مہینہ۔ 12 ماہ کے بعد لیکن 5 سال سے پہلے: روپے۔ رعایتی مدت سے شروع ہونے والے ماہانہ 2,000۔ 5 سال کے بعد: لائسنس منسوخ کر دیا گیا ہے۔"
+    },
+    {
+      "question": "Who is entitled to gratis arms licences based on civil awards?",
+      "answer": "Recipients include: Nishan-i-Pakistan (5 licences: pistol/revolver, rifle, .22 bore rifle, two shotguns), Hilal-i-Pakistan (3 licences), Sitara-i-Pakistan (2 licences), Hilal-i-Imtiaz (2 licences), Sitara-i-Imtiaz (1 licence), Tamgha-i-Imtiaz (1 licence).",
+      "urdu_question": "سول ایوارڈز کی بنیاد پر مفت اسلحہ لائسنس کا حقدار کون ہے؟",
+      "urdu_answer": "وصول کنندگان میں شامل ہیں: نشانِ پاکستان (5 لائسنس: پستول/ریوالور، رائفل، .22 بور رائفل، دو شاٹ گنز)، ہلالِ پاکستان (3 لائسنس)، ستارہِ پاکستان (2 لائسنس)، ہلالِ امتیاز (2 لائسنس)، امتیاز (1)، امتیاز (2) تمغہ امتیاز (1 لائسنس)۔"
+    },
+    {
+      "question": "Who is entitled to gratis arms licences based on military service or awards?",
+      "answer": "Eligible personnel include: General Officers (gifted arms on retirement), Retired Commissioned Officers (2 pistols/revolvers), Junior Commissioned Officers (1 pistol/revolver or 1 rifle), other ranks (1 pistol/revolver or 1 shotgun). Recipients of awards like Nishan-e-Haider, Nishan-e-Imtiaz (M) may get 5 licences, Tamgha-e-Imtiaz (M) 3 licences, Tamgha-e-Jurrat/Bisalat 2 licences, Imtiazi Sanad 1 licence.",
+      "urdu_question": "فوجی سروس یا ایوارڈز کی بنیاد پر مفت اسلحہ لائسنس کا حقدار کون ہے؟",
+      "urdu_answer": "اہل اہلکاروں میں شامل ہیں: جنرل آفیسرز (ریٹائرمنٹ پر تحفے میں دیئے گئے ہتھیار)، ریٹائرڈ کمیشنڈ آفیسرز (2 پستول/ریوالور)، جونیئر کمیشنڈ آفیسرز (1 پستول/ریوالور یا 1 رائفل)، دیگر رینک (1 پستول/ریوالور یا 1 شاٹ گن)۔ نشان حیدر، نشان امتیاز (M) جیسے ایوارڈز حاصل کرنے والوں کو 5 لائسنس، تمغہ امتیاز (M) 3 لائسنس، تمغہ جرات/ بسالت 2 لائسنس، امتیازی سند 1 لائسنس مل سکتے ہیں۔"
+    },
+    {
+      "question": "Can ordinary arms licences be converted to gratis licences?",
+      "answer": "Yes, eligible persons can apply for conversion by providing relevant details to the Interior Division. Approval is granted by the competent authority.",
+      "urdu_question": "کیا عام اسلحہ لائسنسوں کو مفت لائسنس میں تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، اہل افراد داخلہ ڈویژن کو متعلقہ تفصیلات فراہم کرکے تبدیلی کے لیے درخواست دے سکتے ہیں۔ مجاز اتھارٹی کی طرف سے منظوری دی جاتی ہے۔"
+    },
+    {
+      "question": "What is the procedure for restoration of suspended arms licences?",
+      "answer": "Suspended licences may be restored if the licensee proves suspension was based on misinformation or if the objection leading to suspension is removed to the satisfaction of the competent authority. Restoration is not a guaranteed right.",
+      "urdu_question": "معطل اسلحہ لائسنس کی بحالی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "معطل شدہ لائسنس بحال کیے جا سکتے ہیں اگر لائسنس دہندہ ثابت کرتا ہے کہ معطلی غلط معلومات کی بنیاد پر کی گئی تھی یا معطلی کا باعث بننے والے اعتراض کو مجاز اتھارٹی کے اطمینان کے لیے دور کر دیا جاتا ہے۔ بحالی ایک ضمانت یافتہ حق نہیں ہے۔"
+    },
+    {
+      "question": "What happens if a licence holder dies and heirs apply after one year?",
+      "answer": "Applications made after one year from the licensee’s death are not considered. However, the Secretary Interior Division may condone delays up to five years if reasons beyond the applicant’s control are proven.",
+      "urdu_question": "اگر لائسنس ہولڈر فوت ہو جائے اور ورثاء ایک سال کے بعد درخواست دیں تو کیا ہوگا؟",
+      "urdu_answer": "لائسنس یافتہ کی موت کے ایک سال بعد دی گئی درخواستوں پر غور نہیں کیا جاتا ہے۔ تاہم، اگر درخواست گزار کے قابو سے باہر وجوہات ثابت ہو جائیں تو سیکرٹری داخلہ ڈویژن پانچ سال تک کی تاخیر سے معذرت کر سکتے ہیں۔"
+    },
+    {
+      "question": "What are the rules for transfer of gratis licences to legal heirs?",
+      "answer": "If a legal heir is not eligible for a gratis licence, the licence is transferred as a non-gratis licence with applicable fees. If the heir is eligible for gratis, the licence may remain gratis upon request.",
+      "urdu_question": "قانونی ورثاء کو مفت لائسنس کی منتقلی کے کیا اصول ہیں؟",
+      "urdu_answer": "اگر قانونی وارث مفت لائسنس کے لیے اہل نہیں ہے، تو لائسنس کو قابل اطلاق فیس کے ساتھ غیر مفت لائسنس کے طور پر منتقل کیا جاتا ہے۔ اگر وارث مفت کے لیے اہل ہے، تو درخواست پر لائسنس مفت رہ سکتا ہے۔"
+    },
+    {
+      "question": "What is the validity of institutional arms licences?",
+      "answer": "Institutional arms licences are valid for five years, non-transferable, and only for the institution to which they were issued. They must be returned if the institution ceases to exist or function.",
+      "urdu_question": "ادارہ جاتی اسلحہ لائسنس کی کیا حیثیت ہے؟",
+      "urdu_answer": "ادارہ جاتی اسلحہ لائسنس پانچ سال کے لیے کارآمد ہیں، ناقابل منتقلی، اور صرف اس ادارے کے لیے جس کو وہ جاری کیے گئے تھے۔ اگر ادارے کا وجود یا کام ختم ہو جائے تو انہیں واپس کیا جانا چاہیے۔"
+    },
+    {
+      "question": "What fees are specified for retainership and gratis arms licences?",
+      "answer": "For 5-year licences: Retainership fee is Rs. 15,500 for PB (Rs. 12,500 govt + Rs. 3,000 NADRA) and Rs. 7,750 for NPB (Rs. 6,250 govt + Rs. 1,500 NADRA). Gratis licence fee is Rs. 3,000 for PB (NADRA) and Rs. 1,500 for NPB (NADRA). Government fee is Nil for gratis licences.",
+      "urdu_question": "رینٹینرشپ اور مفت اسلحہ لائسنس کے لیے کیا فیس متعین کی گئی ہے؟",
+      "urdu_answer": "5 سالہ لائسنس کے لیے: ریٹینر شپ فیس روپے ہے۔ PB کے لیے 15,500 روپے (12,500 روپے حکومت + 3,000 روپے نادرا) اور روپے۔ NPB کے لیے 7,750 روپے (6,250 روپے حکومت + 1,500 روپے نادرا)۔ مفت لائسنس فیس روپے ہے۔ پی بی (نادرا) کے لیے 3,000 اور روپے۔ NPB (نادرا) کے لیے 1,500۔ مفت لائسنس کے لیے سرکاری فیس صفر ہے۔"
+    }
+  ]
+}

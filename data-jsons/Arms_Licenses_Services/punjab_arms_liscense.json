@@ -1,0 +1,571 @@
+{
+  "file_name": "punjab_arms_liscense.json",
+  "domain": "Arms_Licenses_Services",
+  "total_qa_pairs": 94,
+  "qa_data": [
+    {
+      "question": "What are the Punjab Arms Rules 2023?",
+      "answer": "The Punjab Arms Rules 2023 are provincial rules made under the Punjab Arms Ordinance 1965, notified on October 24, 2023. These rules govern non-prohibited bore (NPB) weapons including personal arms licenses, institutional/security company licenses, and business arms licenses within Punjab province.",
+      "urdu_question": "پنجاب آرمز رولز 2023 کیا ہیں؟",
+      "urdu_answer": "پنجاب آرمز رولز 2023 پنجاب آرمز آرڈیننس 1965 کے تحت بنائے گئے صوبائی قوانین ہیں، جنہیں 24 اکتوبر 2023 کو مطلع کیا گیا تھا۔ یہ قوانین غیر ممنوعہ بور (NPB) ہتھیاروں بشمول ذاتی اسلحہ کے لائسنس، ادارہ جاتی/سیکیورٹی کمپنی کے لائسنس، اور صوبہ پنجاب کے اندر کاروباری اسلحہ لائسنس پر حکومت کرتے ہیں۔"
+    },
+    {
+      "question": "Who can apply for personal arms license in Punjab?",
+      "answer": "A personal arms license (NPB) may be issued to Pakistani citizens domiciled in Punjab for protection or sports purposes. Eligibility criteria include: valid CNIC/NICOP/POC, Punjab domicile, minimum age 20 years, active taxpayer status, no criminal record, not fugitive from law, not member of proscribed organization, physically/mentally fit with medical certificate, and submission of affidavit.",
+      "urdu_question": "پنجاب میں ذاتی اسلحہ لائسنس کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "تحفظ یا کھیلوں کے مقاصد کے لیے پنجاب میں مقیم پاکستانی شہریوں کو ذاتی اسلحہ لائسنس (NPB) جاری کیا جا سکتا ہے۔ اہلیت کے معیار میں شامل ہیں: درست CNIC/NICOP/POC، پنجاب ڈومیسائل، کم از کم عمر 20 سال، فعال ٹیکس دہندہ کی حیثیت، کوئی مجرمانہ ریکارڈ نہیں، قانون سے مفرور نہیں، ممنوعہ تنظیم کا رکن نہیں، طبی سرٹیفکیٹ کے ساتھ جسمانی/ذہنی طور پر فٹ، اور حلف نامہ جمع کرانا۔"
+    },
+    {
+      "question": "What is the application process for Punjab personal arms license?",
+      "answer": "Applicant applies online on Form-I through NADRA Registration Centre with prescribed fee payment. Authorized officer determines suitability and eligibility, approves license online. Demand note generated for 90 days for weapon purchase. License delivered to given address (if delivery available) or collected from NRC. License destroyed if not collected within one year.",
+      "urdu_question": "پنجاب کے ذاتی اسلحہ لائسنس کے لیے درخواست کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "درخواست دہندہ مقررہ فیس کی ادائیگی کے ساتھ نادرا رجسٹریشن سینٹر کے ذریعے فارم-I پر آن لائن درخواست دیتا ہے۔ مجاز افسر موزونیت اور اہلیت کا تعین کرتا ہے، آن لائن لائسنس کی منظوری دیتا ہے۔ ہتھیاروں کی خریداری کے لیے 90 دنوں کے لیے ڈیمانڈ نوٹ تیار کیا گیا۔ لائسنس دیے گئے پتے پر پہنچایا گیا (اگر ڈیلیوری دستیاب ہو) یا NRC سے جمع کیا گیا۔ ایک سال کے اندر جمع نہ ہونے کی صورت میں لائسنس تباہ کر دیا جائے گا۔"
+    },
+    {
+      "question": "What are the weapon purchase requirements in Punjab after license approval?",
+      "answer": "Within 90 days of approval, applicant must: purchase arms from licensed Punjab dealer (displayed on Home Department web-portal), upload online for weapon entry against license, and submit two fired test bullets to Punjab Forensic Science Agency as per notified procedure.",
+      "urdu_question": "لائسنس کی منظوری کے بعد پنجاب میں اسلحے کی خریداری کی کیا ضروریات ہیں؟",
+      "urdu_answer": "منظوری کے 90 دنوں کے اندر، درخواست دہندہ کو لازمی طور پر: لائسنس یافتہ پنجاب ڈیلر سے اسلحہ خریدنا ہوگا (محکمہ داخلہ کے ویب پورٹل پر دکھایا گیا ہے)، لائسنس کے خلاف ہتھیار کے اندراج کے لیے آن لائن اپ لوڈ کریں، اور مطلع شدہ طریقہ کار کے مطابق پنجاب فرانزک سائنس ایجنسی کو دو فائر شدہ ٹیسٹ گولیاں جمع کرائیں۔"
+    },
+    {
+      "question": "How can duplicate Punjab arms license be obtained?",
+      "answer": "Authorized officer may issue duplicate license for lost, destroyed, or damaged licenses upon online application on Form-I with prescribed fee. Application must include: police report (if lost), damaged license card (if damaged), or affidavit on oath.",
+      "urdu_question": "پنجاب کا ڈپلیکیٹ اسلحہ لائسنس کیسے حاصل کیا جا سکتا ہے؟",
+      "urdu_answer": "مجاز افسر مقررہ فیس کے ساتھ فارم-I پر آن لائن درخواست دینے پر گم شدہ، تباہ یا خراب شدہ لائسنس کے لیے ڈپلیکیٹ لائسنس جاری کر سکتا ہے۔ درخواست میں شامل ہونا چاہیے: پولیس رپورٹ (اگر گم ہو جائے)، خراب شدہ لائسنس کارڈ (اگر خراب ہو جائے)، یا حلف نامہ۔"
+    },
+    {
+      "question": "What are institutional or security company arms licenses in Punjab?",
+      "answer": "Arms licenses (NPB) may be issued to institutions or security companies registered under law, subject to eligibility criteria. Institution must be lawfully registered, registered in or operating substantially in Punjab, no previous cancellation, key personnel with clean records, and clearance from District Intelligence Committee.",
+      "urdu_question": "پنجاب میں ادارہ جاتی یا سیکیورٹی کمپنی کے اسلحہ لائسنس کیا ہیں؟",
+      "urdu_answer": "اہلیت کے معیار کے تحت قانون کے تحت رجسٹرڈ اداروں یا سیکیورٹی کمپنیوں کو اسلحہ لائسنس (NPB) جاری کیے جا سکتے ہیں۔ ادارہ قانونی طور پر رجسٹرڈ، رجسٹرڈ یا پنجاب میں کافی حد تک کام کر رہا ہو، کوئی سابقہ منسوخی نہ ہو، کلیدی ریکارڈ کے ساتھ کلیدی اہلکار، اور ڈسٹرکٹ انٹیلی جنس کمیٹی سے کلیئرنس ہو۔"
+    },
+    {
+      "question": "What documents are required for Punjab institutional arms license application?",
+      "answer": "Application on Form-III with: CNIC of applicant, authorization letter from institution head (if through agent), registration certificate/license, details of owners/partners/directors/employees, details of persons likely to carry arms under license authority.",
+      "urdu_question": "پنجاب کے ادارہ جاتی اسلحہ لائسنس کی درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "فارم III پر درخواست کے ساتھ: درخواست دہندہ کا CNIC، ادارہ کے سربراہ کی طرف سے اجازت نامہ (اگر ایجنٹ کے ذریعے)، رجسٹریشن سرٹیفکیٹ/لائسنس، مالکان/پارٹنرز/ڈائریکٹرز/ملازمین کی تفصیلات، لائسنس اتھارٹی کے تحت اسلحہ رکھنے والے افراد کی تفصیلات۔"
+    },
+    {
+      "question": "What are the license limits in Punjab?",
+      "answer": "Personal arms licenses: maximum 5 per person (pre-rule licenses unaffected). Monthly district quota may be specified by Home Department notification. Cartridges: minimum 50 bullets per new license, maximum 500 bullets per license. Previous sanctions above 500 bullets cancelled and treated as 500 only.",
+      "urdu_question": "پنجاب میں لائسنس کی حدود کیا ہیں؟",
+      "urdu_answer": "ذاتی اسلحہ لائسنس: زیادہ سے زیادہ 5 فی شخص (قواعد سے پہلے کے لائسنس غیر متاثر ہوتے ہیں)۔ محکمہ داخلہ کے نوٹیفکیشن کے ذریعے ماہانہ ضلعی کوٹہ متعین کیا جا سکتا ہے۔ کارتوس: کم از کم 50 گولیاں فی نیا لائسنس، زیادہ سے زیادہ 500 گولیاں فی لائسنس۔ 500 گولیوں سے اوپر کی پچھلی پابندیاں منسوخ کر کے صرف 500 کے طور پر سمجھا جاتا ہے۔"
+    },
+    {
+      "question": "What are gratis arms licenses in Punjab?",
+      "answer": "Persons in service of Pakistan pay only processing fee for issuance and renewal of personal arms license (NPB) if renewal submitted within stipulated time. Maximum two gratis licenses per person in Pakistan service. Recipients of civil awards and military personnel have specific entitlements.",
+      "urdu_question": "پنجاب میں مفت اسلحہ لائسنس کیا ہیں؟",
+      "urdu_answer": "پاکستان کی خدمت میں موجود افراد پرسنل آرمس لائسنس (NPB) کے اجراء اور تجدید کے لیے صرف پروسیسنگ فیس ادا کرتے ہیں اگر تجدید مقررہ وقت کے اندر جمع کرائی جاتی ہے۔ پاکستان سروس میں فی شخص زیادہ سے زیادہ دو مفت لائسنس۔ سول ایوارڈز کے وصول کنندگان اور فوجی اہلکار مخصوص حقدار ہوتے ہیں۔"
+    },
+    {
+      "question": "What are the gratis license entitlements for military award recipients in Punjab?",
+      "answer": "Nishan-e-Haider, Nishan-e-Imtiaz (M), Hilal-e-Jurrat, Hilal-e-Imtiaz (M), Sitara-e-Jurrat, Sitara-e-Imtiaz (M), Sitara-e-Bisalat: 1 pistol/revolver, 1 rifle, 1 .22 bore rifle, 2 shotguns. Tamgha-e-Imtiaz (M): 1 pistol/revolver, 1 shotgun, 1 .22 bore rifle. Tamgha-e-Jurrat/Bisalat: 1 pistol/revolver, 1 shotgun. Imtiaz Sanad: 1 shotgun.",
+      "urdu_question": "پنجاب میں فوجی اعزاز حاصل کرنے والوں کے لیے مفت لائسنس کے حقدار کیا ہیں؟",
+      "urdu_answer": "نشانِ حیدر، نشانِ امتیاز (م)، ہلالِ جرات، ہلالِ امتیاز (م)، ستارہِ جرات، ستارہِ امتیاز (م)، ستارہِ بسالت: 1 پستول/ریوالور، 1 رائفل، 2 گولیاں، 2 گولیاں۔ تمغہ امتیاز (ایم): 1 پستول/ریوالور، 1 شاٹ گن، 1.22 بور رائفل۔ تمغہ جرات/بصالت: 1 پستول/ریوالور، 1 شاٹ گن۔ امتیاز سناد: 1 شاٹ گن۔"
+    },
+    {
+      "question": "What are the gratis license entitlements for armed forces personnel in Punjab?",
+      "answer": "General Officers: all arms gifted on retirement. Retired Commissioned Officers: 2 pistols/revolvers. Junior Commissioned Officers: 1 pistol/revolver or 1 rifle (total 1). Retired JCOs: 1 pistol/revolver or 1 rifle (total 1). All other ranks: 1 pistol/revolver or 1 shotgun (total 1).",
+      "urdu_question": "پنجاب میں مسلح افواج کے اہلکاروں کے لیے مفت لائسنس کے حقدار کیا ہیں؟",
+      "urdu_answer": "جنرل آفیسرز: ریٹائرمنٹ پر تمام ہتھیار تحفے میں دیے گئے۔ ریٹائرڈ کمیشنڈ آفیسرز: 2 پستول/ریوالور۔ جونیئر کمیشنڈ آفیسرز: 1 پستول/ریوالور یا 1 رائفل (کل 1)۔ ریٹائرڈ JCOs: 1 پستول/ریوالور یا 1 رائفل (کل 1)۔ دیگر تمام رینک: 1 پستول/ریوالور یا 1 شاٹ گن (کل 1)۔"
+    },
+    {
+      "question": "Can Punjab personal arms licenses be transferred?",
+      "answer": "Personal arms licenses (NPB) are generally non-transferable but may be transferred in case of death or incapacitation due to ill-health, old age, or compelling circumstances. Transfer requires online application, eligibility verification of transferee, and prescribed fee payment.",
+      "urdu_question": "کیا پنجاب میں ذاتی اسلحہ لائسنس منتقل کیے جا سکتے ہیں؟",
+      "urdu_answer": "ذاتی اسلحہ لائسنس (NPB) عام طور پر ناقابل منتقلی ہوتے ہیں لیکن خرابی صحت، بڑھاپے، یا مجبور حالات کی وجہ سے موت یا معذوری کی صورت میں منتقل کیے جا سکتے ہیں۔ منتقلی کے لیے آن لائن درخواست، منتقلی کی اہلیت کی تصدیق، اور مقررہ فیس کی ادائیگی کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What is the transfer procedure for inherited Punjab arms licenses?",
+      "answer": "Authorized officer may transfer license to eligible legal heir with other heirs' acquiescence and prescribed fee. Online application on Form-I with: license copy, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate. Application not considered after 3 years (delay condoned maximum 5 years for reasons beyond control).",
+      "urdu_question": "پنجاب میں وراثت میں ملنے والے اسلحہ لائسنس کی منتقلی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "مجاز افسر دوسرے ورثاء کی رضامندی اور مقررہ فیس کے ساتھ اہل قانونی وارث کو لائسنس منتقل کر سکتا ہے۔ فارم-I پر آن لائن درخواست کے ساتھ: لائسنس کی کاپی، موت کا سرٹیفکیٹ، جانشینی کا سرٹیفکیٹ، قانونی ورثاء کا حلف نامہ، منتقلی کا CNIC/ڈومیسائل/فٹنس سرٹیفکیٹ۔ درخواست پر 3 سال کے بعد غور نہیں کیا گیا (قابو سے باہر وجوہات کی بناء پر زیادہ سے زیادہ 5 سال تک تاخیر کی جاتی ہے)۔"
+    },
+    {
+      "question": "How are gratis licenses transferred in Punjab?",
+      "answer": "Gratis license not transferred to legal heir not in Pakistan service (transfers as regular license with prescribed fee). Otherwise eligible legal heir in Pakistan service may apply for transfer of regular license as gratis license.",
+      "urdu_question": "پنجاب میں مفت لائسنس کیسے منتقل ہوتے ہیں؟",
+      "urdu_answer": "مفت لائسنس قانونی وارث کو منتقل نہیں کیا گیا جو پاکستان سروس میں نہیں ہے (مقرر شدہ فیس کے ساتھ باقاعدہ لائسنس کے طور پر منتقلی)۔ بصورت دیگر پاکستان سروس میں اہل قانونی وارث مفت لائسنس کے طور پر باقاعدہ لائسنس کی منتقلی کے لیے درخواست دے سکتا ہے۔"
+    },
+    {
+      "question": "What are retainership permissions in Punjab?",
+      "answer": "Licensee may apply online on Form-II for retainership of arms license. Maximum one retainer per license. Proposed retainer must fulfill eligibility criteria per rule 4. Licensee may terminate retainership anytime by online application on Form-II.",
+      "urdu_question": "پنجاب میں ریٹینر شپ کی اجازتیں کیا ہیں؟",
+      "urdu_answer": "لائسنس یافتہ اسلحہ لائسنس کی برقراری کے لیے فارم-II پر آن لائن درخواست دے سکتا ہے۔ فی لائسنس زیادہ سے زیادہ ایک ریٹینر۔ مجوزہ رینٹینر کو قاعدہ 4 کے مطابق اہلیت کے معیار کو پورا کرنا ہوگا۔ لائسنس یافتہ کسی بھی وقت فارم-II پر آن لائن درخواست کے ذریعے رینٹینرشپ ختم کر سکتا ہے۔"
+    },
+    {
+      "question": "What are the responsibilities for institutional arms usage in Punjab?",
+      "answer": "Arms may be handed to security guards who must be: trained in security functions by district police or notified institute, cleared by Special Branch, registered with local police. Institution must maintain registers with guard details, arms numbers, duty timings, issuance/return records for law enforcement inspection.",
+      "urdu_question": "پنجاب میں ادارہ جاتی اسلحہ کے استعمال کی ذمہ داریاں کیا ہیں؟",
+      "urdu_answer": "اسلحہ سیکورٹی گارڈز کے حوالے کیا جا سکتا ہے جن کا ہونا ضروری ہے: ضلعی پولیس یا مطلع شدہ انسٹی ٹیوٹ کے ذریعے حفاظتی کاموں میں تربیت یافتہ، اسپیشل برانچ کے ذریعے کلیئر، مقامی پولیس میں رجسٹرڈ۔ ادارے کو قانون نافذ کرنے والے اداروں کے معائنے کے لیے گارڈ کی تفصیلات، اسلحہ نمبر، ڈیوٹی کے اوقات، جاری کرنے/واپسی کے ریکارڈ کے ساتھ رجسٹر کو برقرار رکھنا چاہیے۔"
+    },
+    {
+      "question": "Under what circumstances can Punjab arms licenses be suspended?",
+      "answer": "Authorized officer/DC may suspend license if: licensee appears ineligible, acquired license by concealing information/fraud, fails to comply with license conditions, arms used unlawfully, licensee involved in activities against public safety, or violations of Ordinance/rules. Requires hearing except in extraordinary circumstances.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس کن حالات میں معطل کیے جا سکتے ہیں؟",
+      "urdu_answer": "مجاز افسر/DC لائسنس معطل کر سکتا ہے اگر: لائسنس دہندہ نااہل ظاہر ہوتا ہے، معلومات/دھوکہ دہی سے لائسنس حاصل کرتا ہے، لائسنس کی شرائط کی تعمیل کرنے میں ناکام رہتا ہے، اسلحہ غیر قانونی طور پر استعمال ہوتا ہے، لائسنس یافتہ عوامی تحفظ کے خلاف سرگرمیوں میں ملوث ہوتا ہے، یا آرڈیننس/قواعد کی خلاف ورزی کرتا ہے۔ غیر معمولی حالات کے علاوہ سماعت کی ضرورت ہے۔"
+    },
+    {
+      "question": "How can suspended Punjab arms licenses be restored?",
+      "answer": "Authorized officer/DC may restore suspended license online if licensee proves suspension based on misinformation or removes objection leading to suspension. Restoration not claimed as matter of right. Arms deposited in DC strong room during suspension.",
+      "urdu_question": "پنجاب کے معطل اسلحہ لائسنس کیسے بحال ہو سکتے ہیں؟",
+      "urdu_answer": "اگر لائسنس یافتہ غلط معلومات کی بنیاد پر معطلی کو ثابت کرتا ہے یا معطلی کا باعث بننے والے اعتراض کو دور کرتا ہے تو مجاز افسر/DC معطل شدہ لائسنس کو آن لائن بحال کر سکتا ہے۔ بحالی کا دعویٰ حق کے معاملے میں نہیں کیا گیا۔ معطلی کے دوران ڈی سی اسٹرانگ روم میں جمع اسلحہ۔"
+    },
+    {
+      "question": "When can Punjab arms licenses be cancelled?",
+      "answer": "Authorized officer/DC may cancel license if: licensee fails to remove objection or satisfy officer, repetition of suspension acts. Requires hearing except in extraordinary circumstances. Cancellation communicated online to DC, NADRA, law enforcement agencies, and licensee.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس کب منسوخ ہو سکتے ہیں؟",
+      "urdu_answer": "مجاز افسر/DC لائسنس منسوخ کر سکتا ہے اگر: لائسنس یافتہ اعتراض کو دور کرنے یا افسر کو مطمئن کرنے میں ناکام ہو جائے، معطلی کی کارروائیوں کو دہرایا جائے۔ غیر معمولی حالات کے علاوہ سماعت کی ضرورت ہے۔ منسوخی کے بارے میں ڈی سی، نادرا، قانون نافذ کرنے والے اداروں اور لائسنس دہندگان کو آن لائن اطلاع دی گئی۔"
+    },
+    {
+      "question": "What appeal rights exist for Punjab arms license decisions?",
+      "answer": "Person whose license cancelled or suspended may appeal to Chief Secretary Punjab within thirty days of receiving order copy. Chief Secretary's decision on appeal is final.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کے فیصلوں کے لیے اپیل کے کیا حقوق موجود ہیں؟",
+      "urdu_answer": "وہ شخص جس کا لائسنس منسوخ یا معطل کیا گیا ہو وہ آرڈر کاپی موصول ہونے کے تیس دن کے اندر چیف سیکرٹری پنجاب سے اپیل کر سکتا ہے۔ اپیل پر چیف سیکرٹری کا فیصلہ حتمی ہے۔"
+    },
+    {
+      "question": "What are the renewal requirements for Punjab arms licenses?",
+      "answer": "License must be renewed online on Form-II with prescribed fee before expiry. Authorized officer may seek reports and accord approval upon satisfaction. Processing fee charged separately. System maintains record of renewals and expiry dates.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کی تجدید کی شرائط کیا ہیں؟",
+      "urdu_answer": "لائسنس کی مدت ختم ہونے سے پہلے مقررہ فیس کے ساتھ فارم II پر آن لائن تجدید کرنا ضروری ہے۔ مجاز افسر رپورٹ طلب کر سکتا ہے اور اطمینان پر منظوری لے سکتا ہے۔ پروسیسنگ فیس الگ سے وصول کی جاتی ہے۔ نظام تجدید اور ختم ہونے کی تاریخوں کا ریکارڈ رکھتا ہے۔"
+    },
+    {
+      "question": "What happens if Punjab arms license is not collected?",
+      "answer": "Personal arms license destroyed if not collected within one year by applicant. License may be delivered to given address subject to delivery service availability with prescribed fee, otherwise collected from concerned NRC.",
+      "urdu_question": "پنجاب کا اسلحہ لائسنس جمع نہ ہوا تو کیا ہوگا؟",
+      "urdu_answer": "درخواست دہندہ کی طرف سے ایک سال کے اندر جمع نہ ہونے پر ذاتی اسلحہ لائسنس کو تباہ کر دیا جائے گا۔ لائسنس مقررہ فیس کے ساتھ ڈیلیوری سروس کی دستیابی سے مشروط دیئے گئے پتے پر پہنچایا جا سکتا ہے، بصورت دیگر متعلقہ NRC سے جمع کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the validity and extension provisions for Punjab arms licenses?",
+      "answer": "Licensees may apply online on Form-II for change of bore/category, increase in cartridges/bullets, sale of existing weapon, or extension of validity to whole Pakistan with prescribed fee. Authorized officer may seek agency reports and accord approval online upon satisfaction.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس کی میعاد اور توسیع کی شرائط کیا ہیں؟",
+      "urdu_answer": "لائسنس یافتہ بور/کیٹیگری کی تبدیلی، کارتوس/گولیوں میں اضافے، موجودہ ہتھیار کی فروخت، یا پورے پاکستان میں معینہ فیس کے ساتھ میعاد میں توسیع کے لیے فارم-II پر آن لائن درخواست دے سکتے ہیں۔ مجاز افسر ایجنسی کی رپورٹس طلب کر سکتا ہے اور اطمینان پر آن لائن منظوری لے سکتا ہے۔"
+    },
+    {
+      "question": "What verification and authentication requirements exist in Punjab?",
+      "answer": "Applicants submit online affidavit stating credentials to be verified for any discrepancy. Medical certificates required from concerned Medical Superintendent of Government Hospital with registered psychologist recommendation. Special Branch clearance required for institutional security guards.",
+      "urdu_question": "پنجاب میں تصدیق اور تصدیق کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "درخواست دہندگان آن لائن حلف نامہ جمع کراتے ہیں جس میں کسی بھی تضاد کی تصدیق کی جائے گی۔ رجسٹرڈ ماہر نفسیات کی سفارش کے ساتھ سرکاری ہسپتال کے متعلقہ میڈیکل سپرنٹنڈنٹ سے میڈیکل سرٹیفکیٹ درکار ہیں۔ ادارہ جاتی سیکورٹی گارڈز کے لیے اسپیشل برانچ کی کلیئرنس درکار ہے۔"
+    },
+    {
+      "question": "How are arms storage and disposal managed in Punjab?",
+      "answer": "DC establishes strong room for illegal/confiscated/returned arms. In absence of strong rooms, arms deposited in police station or district Malkhana temporarily. NADRA develops software for recording strong room and auction details. Stock register maintained with specifications and photographs.",
+      "urdu_question": "پنجاب میں اسلحہ کی ذخیرہ اندوزی اور ٹھکانے لگانے کا انتظام کیسے کیا جاتا ہے؟",
+      "urdu_answer": "ڈی سی غیر قانونی/ ضبط شدہ/ واپس کیے گئے اسلحے کے لیے مضبوط کمرے قائم کرتا ہے۔ اسٹرانگ رومز نہ ہونے کی صورت میں اسلحہ تھانہ یا ضلع ملخانہ میں عارضی طور پر جمع کرایا جاتا ہے۔ نادرا نے اسٹرانگ روم اور نیلامی کی تفصیلات ریکارڈ کرنے کے لیے سافٹ ویئر تیار کیا۔ سٹاک رجسٹر تصریحات اور تصاویر کے ساتھ برقرار ہے۔"
+    },
+    {
+      "question": "What are the eligibility criteria for Punjab business arms license for natural persons?",
+      "answer": "Natural persons must be: Pakistani citizen, valid CNIC/NICOP (excluding POC), Punjab domiciled, age 30+, filer on active taxpayers list, doesn't possess business license, reasonable financial means/space, no criminal record, no convictions, not proscribed organization member, physically/mentally fit with medical certificate, and submit affidavit.",
+      "urdu_question": "قدرتی افراد کے لیے پنجاب کے کاروباری اسلحہ لائسنس کے لیے اہلیت کے معیار کیا ہیں؟",
+      "urdu_answer": "قدرتی افراد کا ہونا ضروری ہے: پاکستانی شہری، درست CNIC/NICOP (POC کو چھوڑ کر)، پنجاب میں مقیم، عمر 30+، فعال ٹیکس دہندگان کی فہرست میں فائلر، کاروباری لائسنس نہیں، معقول مالی وسائل/جگہ، کوئی مجرمانہ ریکارڈ نہیں، کوئی سزا نہیں، تنظیم کا ممنوعہ رکن، جسمانی/ذہنی طور پر فٹ اور میڈیکل سرٹیفکیٹ کے ساتھ فٹ ہونا۔"
+    },
+    {
+      "question": "What are the eligibility criteria for Punjab business arms license for legal entities?",
+      "answer": "Legal entities must be: lawfully registered, registered in Punjab, on active taxpayers list, owners/partners/directors/employees don't possess same category license, no previous cancellation (except voluntary), no convictions for owners/partners, no proscribed organization relations, reasonable financial means, and submit affidavit stating credentials.",
+      "urdu_question": "قانونی اداروں کے لیے پنجاب کے کاروباری اسلحہ لائسنس کے لیے اہلیت کے معیار کیا ہیں؟",
+      "urdu_answer": "قانونی اداروں کا ہونا ضروری ہے: قانونی طور پر رجسٹرڈ، پنجاب میں رجسٹرڈ، فعال ٹیکس دہندگان کی فہرست میں، مالکان/پارٹنرز/ڈائریکٹرز/ملازمین کے پاس ایک ہی زمرے کا لائسنس نہیں ہے، کوئی سابقہ منسوخی نہیں ہے (رضاکارانہ کے علاوہ)، مالکان/شراکت داروں کے لیے کوئی سزا نہیں، کوئی ممنوعہ تنظیمی تعلقات، معقول مالی ذرائع، اور حلف نامہ جمع کرانا"
+    },
+    {
+      "question": "What is the application process for Punjab business arms license?",
+      "answer": "Online application on Form-IV. Authorized officer seeks reports from: DIG Special Branch/Counter Terrorism/District Police (credentials/conduct/record), DC (suitability/financial standing/sales volume/business place), Civil Defence Officer (safety aspects). Upon approval, applicant and proposed staff appear at NRC.",
+      "urdu_question": "پنجاب کے کاروباری اسلحہ لائسنس کے لیے درخواست کا عمل کیا ہے؟",
+      "urdu_answer": "فارم IV پر آن لائن درخواست۔ مجاز افسر ان سے رپورٹس طلب کرتا ہے: ڈی آئی جی اسپیشل برانچ/کاؤنٹر ٹیررازم/ڈسٹرکٹ پولیس (سند/نظم/ریکارڈ)، ڈی سی (مؤنثیت/مالی حیثیت/فروخت کا حجم/کاروباری جگہ)، سول ڈیفنس آفیسر (حفاظتی پہلو)۔ منظوری کے بعد، درخواست دہندہ اور مجوزہ عملہ NRC میں حاضر ہوتا ہے۔"
+    },
+    {
+      "question": "How are existing Punjab business arms licenses revalidated?",
+      "answer": "All existing business arms licenses must be revalidated online according to rules 33, 34, 35, and 36 for computerized license issuance. Licenses not revalidated within Home Department stipulated time deemed suspended. Suspended licenses subsequently cancelled after one year expiry.",
+      "urdu_question": "پنجاب کے موجودہ کاروباری اسلحہ لائسنسوں کی دوبارہ تصدیق کیسے کی جاتی ہے؟",
+      "urdu_answer": "کمپیوٹرائزڈ لائسنس کے اجراء کے لیے قوانین 33، 34، 35 اور 36 کے مطابق تمام موجودہ کاروباری اسلحہ لائسنسوں کی آن لائن دوبارہ تصدیق ہونی چاہیے۔ محکمہ داخلہ کے اندر لائسنسوں کی دوبارہ تصدیق نہیں کی گئی جس کو معطل سمجھا جاتا ہے۔ معطل شدہ لائسنس بعد میں ایک سال کی میعاد ختم ہونے کے بعد منسوخ کر دیے گئے۔"
+    },
+    {
+      "question": "What are the quota restrictions for Punjab business arms licenses?",
+      "answer": "Business licenses issued only if total district licenses (including new one) don't exceed Home Department-fixed permissible number. Permissible numbers notified from time to time. Licensees may sell/keep arms/ammunition as authorized under license.",
+      "urdu_question": "پنجاب کے کاروباری اسلحہ لائسنس کے کوٹہ کی کیا پابندیاں ہیں؟",
+      "urdu_answer": "کاروباری لائسنس صرف اس صورت میں جاری کیے جاتے ہیں جب کل ضلعی لائسنس (بشمول نئے) ہوم ڈیپارٹمنٹ کے مقرر کردہ قابل اجازت نمبر سے زیادہ نہ ہوں۔ قابل اجازت نمبروں کو وقتاً فوقتاً مطلع کیا جاتا ہے۔ لائسنس یافتہ اسلحہ/گولہ بارود فروخت کر سکتے ہیں جیسا کہ لائسنس کے تحت مجاز ہے۔"
+    },
+    {
+      "question": "How can Punjab business arms license quota be enhanced?",
+      "answer": "Licensee may apply online on Form-V through concerned DC for quota enhancement. Authorized officer may enhance quota with prescribed fee after ascertaining: demand genuineness, licensee suitability, and DC recommendation.",
+      "urdu_question": "پنجاب کے کاروباری اسلحہ لائسنس کا کوٹہ کیسے بڑھایا جا سکتا ہے؟",
+      "urdu_answer": "کوٹہ بڑھانے کے لیے لائسنس یافتہ متعلقہ ڈی سی کے ذریعے فارم-V پر آن لائن درخواست دے سکتا ہے۔ مجاز افسر اس بات کا تعین کرنے کے بعد مقررہ فیس کے ساتھ کوٹہ بڑھا سکتا ہے: مطالبہ کی صداقت، لائسنس کی مناسبیت، اور ڈی سی کی سفارش۔"
+    },
+    {
+      "question": "Can Punjab business arms licenses be transferred?",
+      "answer": "Business arms licenses generally non-transferable (subject to rules 43 and 44). May be transferred in case of licensee death to eligible legal heir with other heirs' acquiescence and prescribed fee. Also transferable for incapacitation due to ill-health, old age, or compelling circumstances.",
+      "urdu_question": "کیا پنجاب کے کاروباری اسلحہ لائسنسوں کو منتقل کیا جا سکتا ہے؟",
+      "urdu_answer": "کاروباری اسلحہ لائسنس عام طور پر ناقابل منتقلی (قواعد 43 اور 44 کے تابع ہیں)۔ لائسنس یافتہ کی موت کی صورت میں دوسرے ورثاء کی رضامندی اور مقررہ فیس کے ساتھ اہل قانونی وارث کو منتقل کیا جا سکتا ہے۔ خرابی صحت، بڑھاپے، یا مجبور حالات کی وجہ سے معذوری کے لیے بھی قابل منتقلی ہے۔"
+    },
+    {
+      "question": "What is the transfer procedure for inherited Punjab business licenses?",
+      "answer": "Online application on Form-V within one year of death with: license copy, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate. If not applied within one year, license suspended and premises sealed. After three years, license cancelled. One-time relaxation possible under special circumstances.",
+      "urdu_question": "وراثت میں ملنے والے پنجاب بزنس لائسنس کی منتقلی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "فارم-V پر موت کے ایک سال کے اندر آن لائن درخواست: لائسنس کی کاپی، موت کا سرٹیفکیٹ، جانشینی کا سرٹیفکیٹ، قانونی ورثاء کا حلف نامہ، منتقلی کا CNIC/ڈومیسائل/فٹنس سرٹیفکیٹ۔ ایک سال کے اندر درخواست نہ دینے پر لائسنس معطل اور احاطے کو سیل کر دیا جائے گا۔ تین سال بعد لائسنس منسوخ کر دیا گیا۔ خاص حالات میں ایک بار کی نرمی ممکن ہے۔"
+    },
+    {
+      "question": "Can place of business be changed under Punjab arms license?",
+      "answer": "Business place change requires online application on Form-V with prescribed fee. New place must meet all regulatory requirements including safety standards, security measures, and compliance with Civil Defence Officer recommendations.",
+      "urdu_question": "کیا پنجاب اسلحہ لائسنس کے تحت کاروبار کی جگہ تبدیل کی جا سکتی ہے؟",
+      "urdu_answer": "کاروباری جگہ کی تبدیلی کے لیے مقررہ فیس کے ساتھ فارم-V پر آن لائن درخواست درکار ہوتی ہے۔ نئی جگہ کو حفاظتی معیارات، حفاظتی اقدامات، اور سول ڈیفنس آفیسر کی سفارشات کی تعمیل سمیت تمام ریگولیٹری تقاضوں کو پورا کرنا ہوگا۔"
+    },
+    {
+      "question": "What transportation requirements exist for Punjab arms businesses?",
+      "answer": "Only licensee holding online revalidated business arms license eligible for transportation. Must obtain no objection certificate for inter-district and intra-district transportation. Dealers from other provinces apply online on Form-V through Punjab licensed dealer/manufacturer for NOC.",
+      "urdu_question": "پنجاب میں اسلحہ کے کاروبار کے لیے نقل و حمل کی کیا ضروریات موجود ہیں؟",
+      "urdu_answer": "صرف لائسنس دہندہ جو آن لائن دوبارہ تصدیق شدہ کاروباری اسلحہ لائسنس کے حامل ہیں نقل و حمل کے اہل ہیں۔ انٹر ڈسٹرکٹ اور انٹرا ڈسٹرکٹ ٹرانسپورٹیشن کے لیے نو آبجیکشن سرٹیفکیٹ حاصل کرنا ضروری ہے۔ دوسرے صوبوں کے ڈیلرز NOC کے لیے پنجاب کے لائسنس یافتہ ڈیلر/مینوفیکچرر کے ذریعے فارم-V پر آن لائن درخواست دیتے ہیں۔"
+    },
+    {
+      "question": "What are the storage requirements for Punjab arms businesses?",
+      "answer": "Licensed arms/ammunition/military stores must be stored at premises specified in license with approved safety measures. Storage must comply with Civil Defence Officer safety recommendations and be subject to inspection by authorized officers.",
+      "urdu_question": "پنجاب کے اسلحے کے کاروبار کے لیے ذخیرہ کرنے کی کیا ضروریات ہیں؟",
+      "urdu_answer": "لائسنس یافتہ اسلحہ/گولہ بارود/فوجی اسٹورز کو منظور شدہ حفاظتی اقدامات کے ساتھ لائسنس میں بیان کردہ احاطے میں ذخیرہ کیا جانا چاہیے۔ سٹوریج کو سول ڈیفنس آفیسر کی حفاظتی سفارشات کی تعمیل کرنی چاہیے اور مجاز افسران کے معائنہ سے مشروط ہونا چاہیے۔"
+    },
+    {
+      "question": "What maintenance of records requirements apply to Punjab business licenses?",
+      "answer": "Business license holders must maintain online records including: stock register with arms specifications, transaction records with purchaser details, sales/purchase logs, inspection reports. Records open to law enforcement inspection with proper authorization.",
+      "urdu_question": "پنجاب کے کاروباری لائسنسوں پر ریکارڈ کی کیا دیکھ بھال کی شرائط لاگو ہوتی ہیں؟",
+      "urdu_answer": "کاروباری لائسنس ہولڈرز کو آن لائن ریکارڈ برقرار رکھنا چاہیے جن میں شامل ہیں: اسلحہ کی تفصیلات کے ساتھ سٹاک رجسٹر، خریدار کی تفصیلات کے ساتھ لین دین کا ریکارڈ، سیلز/پرچیز لاگز، معائنہ رپورٹس۔ مناسب اجازت کے ساتھ قانون نافذ کرنے والے معائنے کے لیے کھلے ریکارڈ۔"
+    },
+    {
+      "question": "What safety measures are required for Punjab arms business establishments?",
+      "answer": "Minimum safety measures prescribed by Civil Defence Officer including: fire safety equipment, security systems, access controls, emergency procedures, proper ventilation, secure storage areas, and compliance with all safety regulations.",
+      "urdu_question": "پنجاب کے اسلحے کے کاروباری اداروں کے لیے کیا حفاظتی اقدامات کی ضرورت ہے؟",
+      "urdu_answer": "سول ڈیفنس آفیسر کی طرف سے تجویز کردہ کم سے کم حفاظتی اقدامات بشمول: فائر سیفٹی کا سامان، حفاظتی نظام، رسائی کے کنٹرول، ہنگامی طریقہ کار، مناسب وینٹیلیشن، محفوظ اسٹوریج ایریاز، اور تمام حفاظتی ضوابط کی تعمیل۔"
+    },
+    {
+      "question": "What inspection requirements apply to Punjab arms businesses?",
+      "answer": "Authorized officers may inspect business premises, records, stock, and operations. Inspections may be scheduled or surprise visits. Business must maintain registers open for inspection, comply with safety standards, and address any violations promptly.",
+      "urdu_question": "پنجاب کے اسلحے کے کاروبار پر معائنہ کے کیا تقاضے لاگو ہوتے ہیں؟",
+      "urdu_answer": "مجاز افسران کاروباری احاطے، ریکارڈ، اسٹاک اور آپریشنز کا معائنہ کر سکتے ہیں۔ معائنے طے شدہ یا اچانک دورے ہو سکتے ہیں۔ کاروبار کو لازمی طور پر معائنہ کے لیے کھلے رجسٹروں کو برقرار رکھنا چاہیے، حفاظتی معیارات کی تعمیل کرنا چاہیے، اور کسی بھی خلاف ورزی کو فوری طور پر حل کرنا چاہیے۔"
+    },
+    {
+      "question": "When are Punjab business arms licenses suspended?",
+      "answer": "Business licenses suspended if: operations violate license conditions, safety violations found, criminal activities detected, failure to maintain proper records, non-compliance with inspection requirements. Suspension communicated online and premises sealed immediately.",
+      "urdu_question": "پنجاب کے کاروباری اسلحہ لائسنس کب معطل ہوتے ہیں؟",
+      "urdu_answer": "کاروباری لائسنس معطل کیے جاتے ہیں اگر: آپریشنز لائسنس کی شرائط کی خلاف ورزی کرتے ہیں، حفاظتی خلاف ورزیاں پائی جاتی ہیں، مجرمانہ سرگرمیوں کا پتہ چلا، مناسب ریکارڈ برقرار رکھنے میں ناکامی، معائنہ کے تقاضوں کی عدم تعمیل۔ معطلی کا آن لائن مطلع کیا گیا اور احاطے کو فوری طور پر سیل کر دیا گیا۔"
+    },
+    {
+      "question": "How are suspended Punjab business licenses restored?",
+      "answer": "Restoration requires removing objections, correcting violations, payment of fees, compliance verification. During suspension, renewal not permitted. Upon restoration, licensee pays only renewal fee without late fee charges.",
+      "urdu_question": "پنجاب کے معطل کاروباری لائسنس کیسے بحال ہوتے ہیں؟",
+      "urdu_answer": "بحالی کے لیے اعتراضات کو دور کرنے، خلاف ورزیوں کو درست کرنے، فیس کی ادائیگی، تعمیل کی تصدیق کی ضرورت ہوتی ہے۔ معطلی کے دوران تجدید کی اجازت نہیں ہے۔ بحالی پر، لائسنس دہندہ صرف تجدید کی فیس ادا کرتا ہے بغیر لیٹ فیس چارجز کے۔"
+    },
+    {
+      "question": "What is the definition of authorized officer in Punjab arms licensing?",
+      "answer": "Authorized officer means the Additional Chief Secretary, Government of the Punjab, Home Department or any other officer notified for the purpose of administering Punjab Arms Rules 2023.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں مجاز افسر کی تعریف کیا ہے؟",
+      "urdu_answer": "مجاز افسر کا مطلب ہے ایڈیشنل چیف سیکرٹری، حکومت پنجاب، محکمہ داخلہ یا کوئی دوسرا افسر جسے پنجاب آرمز رولز 2023 کے انتظام کے مقصد سے مطلع کیا گیا ہے۔"
+    },
+    {
+      "question": "What are the different forms used in Punjab arms licensing?",
+      "answer": "Forms available online on Home Department web-portal: Form-I (personal license application/duplicate), Form-II (renewal/retainership/changes), Form-III (institutional license), Form-IV (business license application), Form-V (business quota enhancement/transfer/NOC). All applications processed online.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں استعمال ہونے والی مختلف شکلیں کیا ہیں؟",
+      "urdu_answer": "ہوم ڈیپارٹمنٹ کے ویب پورٹل پر آن لائن فارم دستیاب ہیں: فارم-I (ذاتی لائسنس کی درخواست/ڈپلیکیٹ)، فارم-II (تجدید/ریٹینر شپ/تبدیلیاں)، فارم-III (ادارہاتی لائسنس)، فارم-IV (کاروباری لائسنس کی درخواست)، فارم-V (کاروباری کوٹہ میں اضافہ/ٹرانسفر/NOC)۔ تمام درخواستوں پر آن لائن کارروائی کی جاتی ہے۔"
+    },
+    {
+      "question": "What is the role of District Intelligence Committee in Punjab arms licensing?",
+      "answer": "District Intelligence Committee provides clearance for institutional or security company arms licenses. Committee evaluates security implications, background verification of key personnel, and overall suitability before license approval.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں ڈسٹرکٹ انٹیلی جنس کمیٹی کا کیا کردار ہے؟",
+      "urdu_answer": "ڈسٹرکٹ انٹیلی جنس کمیٹی ادارہ جاتی یا سیکیورٹی کمپنی کے اسلحہ لائسنس کے لیے کلیئرنس فراہم کرتی ہے۔ کمیٹی لائسنس کی منظوری سے پہلے سیکورٹی کے مضمرات، اہم اہلکاروں کے پس منظر کی تصدیق، اور مجموعی طور پر موزوں ہونے کا جائزہ لیتی ہے۔"
+    },
+    {
+      "question": "How does Punjab Forensic Science Agency coordinate with arms licensing?",
+      "answer": "Punjab Forensic Science Agency receives two fired test bullets from each licensed weapon for ballistic database maintenance. This supports criminal investigations and maintains forensic records of all legally acquired weapons in Punjab.",
+      "urdu_question": "پنجاب فرانزک سائنس ایجنسی اسلحہ لائسنسنگ کے ساتھ کس طرح ہم آہنگی کرتی ہے؟",
+      "urdu_answer": "پنجاب فرانزک سائنس ایجنسی کو بیلسٹک ڈیٹا بیس کی دیکھ بھال کے لیے ہر لائسنس یافتہ ہتھیار سے دو فائر شدہ ٹیسٹ گولیاں ملتی ہیں۔ یہ مجرمانہ تحقیقات کی حمایت کرتا ہے اور پنجاب میں قانونی طور پر حاصل کیے گئے تمام ہتھیاروں کے فرانزک ریکارڈ کو برقرار رکھتا ہے۔"
+    },
+    {
+      "question": "What online systems and software are used in Punjab arms licensing?",
+      "answer": "Home Department maintains online web-portal for applications, approvals, renewals, and record-keeping. NADRA develops and deploys software in DC offices for strong room management and auction details. All processes conducted online for efficiency and transparency.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں کون سے آن لائن سسٹم اور سافٹ ویئر استعمال کیے جاتے ہیں؟",
+      "urdu_answer": "محکمہ داخلہ درخواستوں، منظوریوں، تجدیدات اور ریکارڈ رکھنے کے لیے آن لائن ویب پورٹل کو برقرار رکھتا ہے۔ نادرا مضبوط کمرے کے انتظام اور نیلامی کی تفصیلات کے لیے ڈی سی دفاتر میں سافٹ ویئر تیار اور تعینات کرتا ہے۔ کارکردگی اور شفافیت کے لیے تمام عمل آن لائن کیے جاتے ہیں۔"
+    },
+    {
+      "question": "What fee schedules apply to Punjab arms licenses?",
+      "answer": "Fees specified in Schedule-II of Punjab Arms Rules 2023 for: new applications, renewals, duplicates, transfers, quota enhancements, delivery services, NOCs, and processing charges. Fees vary by license type and service category.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنسوں پر کس فیس کے شیڈول کا اطلاق ہوتا ہے؟",
+      "urdu_answer": "پنجاب آرمز رولز 2023 کے شیڈول-II میں مخصوص کردہ فیسیں: نئی درخواستیں، تجدید، نقل، منتقلی، کوٹہ میں اضافہ، ترسیل کی خدمات، NOCs، اور پروسیسنگ چارجز۔ فیس لائسنس کی قسم اور سروس کے زمرے کے لحاظ سے مختلف ہوتی ہے۔"
+    },
+    {
+      "question": "How are cartridge purchases recorded in Punjab?",
+      "answer": "Cartridge/bullet purchase records maintained online in Home Department specified format. Records include purchaser details, quantity, date, dealer information, and license verification. System tracks compliance with quantity limits.",
+      "urdu_question": "پنجاب میں کارتوس کی خریداری کیسے ریکارڈ کی جاتی ہے؟",
+      "urdu_answer": "کارتوس/گولی کی خریداری کا ریکارڈ ہوم ڈیپارٹمنٹ کے مخصوص فارمیٹ میں آن لائن رکھا جاتا ہے۔ ریکارڈز میں خریدار کی تفصیلات، مقدار، تاریخ، ڈیلر کی معلومات، اور لائسنس کی تصدیق شامل ہے۔ نظام مقدار کی حدود کی تعمیل کو ٹریک کرتا ہے۔"
+    },
+    {
+      "question": "What taxpayer verification requirements exist for Punjab arms licenses?",
+      "answer": "Applicants must be on active taxpayers list and file tax returns. Business license applicants particularly scrutinized for financial standing and tax compliance. Gratis license holders still subject to verification requirements.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کے لیے ٹیکس دہندگان کی تصدیق کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "درخواست دہندگان کا فعال ٹیکس دہندگان کی فہرست میں ہونا اور ٹیکس ریٹرن فائل کرنا ضروری ہے۔ کاروباری لائسنس کے درخواست دہندگان کی مالی حیثیت اور ٹیکس کی تعمیل کے لیے خاص طور پر جانچ پڑتال کی گئی۔ مفت لائسنس ہولڈرز اب بھی تصدیق کے تقاضوں سے مشروط ہیں۔"
+    },
+    {
+      "question": "How are medical certificates obtained for Punjab arms licenses?",
+      "answer": "Medical certificates required from concerned Medical Superintendent of Government Hospital with clear recommendation from registered psychologist. Certificate verifies physical and mental fitness to handle firearms safely.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس کے لیے میڈیکل سرٹیفکیٹ کیسے حاصل کیے جاتے ہیں؟",
+      "urdu_answer": "رجسٹرڈ ماہر نفسیات کی واضح سفارش کے ساتھ سرکاری ہسپتال کے متعلقہ میڈیکل سپرنٹنڈنٹ سے میڈیکل سرٹیفکیٹ درکار ہے۔ سرٹیفکیٹ آتشیں اسلحہ کو محفوظ طریقے سے سنبھالنے کے لیے جسمانی اور ذہنی فٹنس کی تصدیق کرتا ہے۔"
+    },
+    {
+      "question": "What happens during Punjab arms license application review?",
+      "answer": "Authorized officer reviews application, verifies eligibility criteria, seeks reports from relevant agencies (Special Branch, District Police, Civil Defence), evaluates suitability, and makes approval decision. Process conducted online with digital documentation.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کی درخواست پر نظرثانی کے دوران کیا ہوتا ہے؟",
+      "urdu_answer": "مجاز افسر درخواست کا جائزہ لیتا ہے، اہلیت کے معیار کی تصدیق کرتا ہے، متعلقہ ایجنسیوں (اسپیشل برانچ، ڈسٹرکٹ پولیس، سول ڈیفنس) سے رپورٹ طلب کرتا ہے، مناسبیت کا جائزہ لیتا ہے، اور منظوری کا فیصلہ کرتا ہے۔ عمل ڈیجیٹل دستاویزات کے ساتھ آن لائن کیا گیا۔"
+    },
+    {
+      "question": "Can Punjab arms licenses be extended to whole Pakistan validity?",
+      "answer": "Licensees may apply online on Form-II for extension of validity to whole Pakistan with prescribed fee. Authorized officer may seek reports from relevant agencies and accord approval upon satisfaction with applicant's credentials and need.",
+      "urdu_question": "کیا پنجاب کے اسلحہ لائسنس کو پورے پاکستان تک بڑھایا جا سکتا ہے؟",
+      "urdu_answer": "لائسنس دہندگان مقررہ فیس کے ساتھ پورے پاکستان میں میعاد کی توسیع کے لیے فارم II پر آن لائن درخواست دے سکتے ہیں۔ مجاز افسر متعلقہ ایجنسیوں سے رپورٹ طلب کر سکتا ہے اور درخواست دہندہ کی اسناد اور ضرورت سے مطمئن ہونے پر منظوری لے سکتا ہے۔"
+    },
+    {
+      "question": "What coordination exists between Punjab and other provinces for arms licensing?",
+      "answer": "Dealers from other provinces must apply through Punjab licensed dealers/manufacturers for NOCs. Inter-provincial coordination for transportation, verification, and compliance with respective provincial regulations while maintaining security standards.",
+      "urdu_question": "اسلحہ لائسنس کے لیے پنجاب اور دیگر صوبوں کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "دوسرے صوبوں کے ڈیلرز کو NOCs کے لیے پنجاب کے لائسنس یافتہ ڈیلرز/مینوفیکچررز کے ذریعے درخواست دینی چاہیے۔ حفاظتی معیارات کو برقرار رکھتے ہوئے نقل و حمل، تصدیق، اور متعلقہ صوبائی ضوابط کی تعمیل کے لیے بین الصوبائی رابطہ۔"
+    },
+    {
+      "question": "How are Punjab arms license violations investigated?",
+      "answer": "Violations investigated by authorized officers, law enforcement agencies, and relevant departments. Process includes inspection, evidence collection, hearing opportunities, and coordination between Home Department, District administration, and police authorities.",
+      "urdu_question": "پنجاب میں اسلحہ لائسنس کی خلاف ورزیوں کی تحقیقات کیسے کی جاتی ہیں؟",
+      "urdu_answer": "مجاز افسران، قانون نافذ کرنے والے اداروں، اور متعلقہ محکموں کے ذریعے خلاف ورزیوں کی تحقیقات کی جاتی ہیں۔ اس عمل میں معائنہ، شواہد اکٹھا کرنا، سماعت کے مواقع، اور محکمہ داخلہ، ضلعی انتظامیہ اور پولیس حکام کے درمیان ہم آہنگی شامل ہے۔"
+    },
+    {
+      "question": "What quality control measures exist for Punjab arms license processing?",
+      "answer": "Quality control through multi-agency verification, online system checks, required agency reports, authorized officer review, digital documentation, audit trails, and systematic monitoring of all license-related activities.",
+      "urdu_question": "پنجاب اسلحہ لائسنس پروسیسنگ کے لیے کوالٹی کنٹرول کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "کثیر ایجنسی کی تصدیق، آن لائن سسٹم کی جانچ، مطلوبہ ایجنسی کی رپورٹس، مجاز افسر کا جائزہ، ڈیجیٹل دستاویزات، آڈٹ ٹریلز، اور لائسنس سے متعلق تمام سرگرمیوں کی منظم نگرانی کے ذریعے کوالٹی کنٹرول۔"
+    },
+    {
+      "question": "How are auction proceedings conducted for confiscated arms in Punjab?",
+      "answer": "Open public auctions conducted regularly for arms in strong rooms. Auction details recorded in software system maintained by NADRA. Proceeds handled per government financial procedures with proper documentation and transparency.",
+      "urdu_question": "پنجاب میں ضبط شدہ اسلحے کی نیلامی کی کارروائی کیسے کی جاتی ہے؟",
+      "urdu_answer": "اسٹرانگ رومز میں اسلحے کی کھلی عوامی نیلامی باقاعدگی سے کی جاتی ہے۔ نیلامی کی تفصیلات نادرا کے زیر انتظام سافٹ ویئر سسٹم میں درج ہیں۔ مناسب دستاویزات اور شفافیت کے ساتھ حکومتی مالیاتی طریقہ کار کے مطابق نمٹائی جانے والی رقم۔"
+    },
+    {
+      "question": "What are the responsibilities of Deputy Commissioners in Punjab arms licensing?",
+      "answer": "DCs establish and maintain strong rooms, coordinate with authorized officers, implement suspension orders by sealing premises, provide recommendations for business licenses, maintain local records, and ensure compliance with rules in their districts.",
+      "urdu_question": "اسلحہ لائسنسنگ پنجاب میں ڈپٹی کمشنرز کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "DCs اسٹرانگ رومز قائم کرتے ہیں اور ان کی دیکھ بھال کرتے ہیں، مجاز افسران کے ساتھ ہم آہنگی کرتے ہیں، احاطے کو سیل کرکے معطلی کے احکامات کو نافذ کرتے ہیں، کاروباری لائسنس کے لیے سفارشات فراہم کرتے ہیں، مقامی ریکارڈ کو برقرار رکھتے ہیں، اور اپنے اضلاع میں قواعد کی تعمیل کو یقینی بناتے ہیں۔"
+    },
+    {
+      "question": "How are emergency situations handled in Punjab arms licensing?",
+      "answer": "Emergency situations allow authorized officers to dispense with hearing requirements, take immediate suspension/cancellation actions, coordinate with law enforcement for urgent response, and implement extraordinary measures while maintaining proper documentation.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں ہنگامی حالات سے کیسے نمٹا جاتا ہے؟",
+      "urdu_answer": "ہنگامی حالات مجاز افسران کو سماعت کے تقاضوں کو پورا کرنے، فوری طور پر معطلی/منسوخی کے اقدامات کرنے، فوری ردعمل کے لیے قانون نافذ کرنے والے اداروں کے ساتھ ہم آہنگی پیدا کرنے، اور مناسب دستاویزات کو برقرار رکھتے ہوئے غیر معمولی اقدامات کو نافذ کرنے کی اجازت دیتے ہیں۔"
+    },
+    {
+      "question": "What training requirements exist for Punjab arms license holders?",
+      "answer": "Security guards must be trained in security functions by district police or notified institutes. Training includes weapon handling, safety procedures, legal responsibilities, and operational protocols with certification requirements.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس ہولڈرز کے لیے تربیت کے کیا تقاضے ہیں؟",
+      "urdu_answer": "سیکیورٹی گارڈز کو ضلعی پولیس یا مطلع شدہ اداروں کے ذریعہ حفاظتی کاموں میں تربیت دی جانی چاہئے۔ تربیت میں ہتھیاروں کو سنبھالنا، حفاظتی طریقہ کار، قانونی ذمہ داریاں، اور سرٹیفیکیشن کی ضروریات کے ساتھ آپریشنل پروٹوکول شامل ہیں۔"
+    },
+    {
+      "question": "How does Punjab ensure database security for arms licensing?",
+      "answer": "Database security maintained through NADRA systems, controlled access by authorized personnel, encrypted online transactions, audit trails, backup procedures, and coordination between Home Department and technical agencies.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ کے لیے ڈیٹا بیس کی حفاظت کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "نادرا سسٹمز کے ذریعے ڈیٹا بیس کی حفاظت، مجاز اہلکاروں کے ذریعے کنٹرول شدہ رسائی، خفیہ کردہ آن لائن لین دین، آڈٹ ٹریلز، بیک اپ طریقہ کار، اور محکمہ داخلہ اور تکنیکی ایجنسیوں کے درمیان کوآرڈینیشن۔"
+    },
+    {
+      "question": "What modernization initiatives exist in Punjab arms licensing?",
+      "answer": "Modernization includes complete online processing, digital documentation, automated workflows, integration with NADRA systems, web-portal access, electronic approvals, and software-based record management for improved efficiency.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں جدیدیت کے کون سے اقدامات موجود ہیں؟",
+      "urdu_answer": "جدید کاری میں مکمل آن لائن پروسیسنگ، ڈیجیٹل دستاویزات، خودکار ورک فلوز، نادرا سسٹم کے ساتھ انضمام، ویب پورٹل تک رسائی، الیکٹرانک منظوری، اور بہتر کارکردگی کے لیے سافٹ ویئر پر مبنی ریکارڈ کا انتظام شامل ہے۔"
+    },
+    {
+      "question": "How are inter-district arms movements regulated in Punjab?",
+      "answer": "Inter-district transportation requires no objection certificates from authorized dealers. Movements tracked through online systems, coordination between district authorities, and compliance with transportation regulations and safety requirements.",
+      "urdu_question": "پنجاب میں بین الاضلاعی اسلحہ کی نقل و حرکت کو کس طرح منظم کیا جاتا ہے؟",
+      "urdu_answer": "بین الاضلاعی نقل و حمل کے لیے مجاز ڈیلرز سے کوئی اعتراض نہیں سرٹیفکیٹ درکار ہے۔ آن لائن سسٹم کے ذریعے ٹریک کی جانے والی نقل و حرکت، ضلعی حکام کے درمیان ہم آہنگی، اور نقل و حمل کے ضوابط اور حفاظتی تقاضوں کی تعمیل۔"
+    },
+    {
+      "question": "What environmental and safety standards apply to Punjab arms businesses?",
+      "answer": "Environmental and safety standards include Civil Defence Officer recommendations, fire safety compliance, proper ventilation, waste disposal procedures, noise control measures, and adherence to industrial safety regulations.",
+      "urdu_question": "پنجاب کے اسلحہ کے کاروبار پر کون سے ماحولیاتی اور حفاظتی معیارات لاگو ہوتے ہیں؟",
+      "urdu_answer": "ماحولیاتی اور حفاظتی معیارات میں سول ڈیفنس آفیسر کی سفارشات، فائر سیفٹی کی تعمیل، مناسب وینٹیلیشن، فضلہ کو ٹھکانے لگانے کے طریقہ کار، شور پر قابو پانے کے اقدامات، اور صنعتی حفاظتی ضوابط کی پابندی شامل ہیں۔"
+    },
+    {
+      "question": "How are Punjab arms license statistics and reports generated?",
+      "answer": "Statistics generated through online systems including license issuance numbers, renewal rates, enforcement actions, district-wise data, category-wise analysis, and performance metrics for policy planning and administrative review.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس کے اعداد و شمار اور رپورٹس کیسے تیار کی جاتی ہیں؟",
+      "urdu_answer": "آن لائن سسٹمز کے ذریعے تیار کردہ اعدادوشمار بشمول لائسنس جاری کرنے کے نمبر، تجدید کی شرحیں، نفاذ کی کارروائیاں، ضلع وار ڈیٹا، زمرہ وار تجزیہ، اور پالیسی پلاننگ اور انتظامی جائزہ کے لیے کارکردگی کے میٹرکس۔"
+    },
+    {
+      "question": "What role does Special Branch play in Punjab arms licensing?",
+      "answer": "Special Branch provides security clearance for institutional security guards, conducts background verification, submits reports on applicant credentials and conduct, monitors security implications, and coordinates with intelligence agencies for comprehensive evaluation.",
+      "urdu_question": "اسپیشل برانچ پنجاب اسلحہ لائسنسنگ میں کیا کردار ادا کرتی ہے؟",
+      "urdu_answer": "اسپیشل برانچ ادارہ جاتی سیکورٹی گارڈز کے لیے سیکیورٹی کلیئرنس فراہم کرتی ہے، پس منظر کی تصدیق کرتی ہے، درخواست دہندگان کی اسناد اور طرز عمل سے متعلق رپورٹیں جمع کرتی ہے، سیکیورٹی کے مضمرات کی نگرانی کرتی ہے، اور جامع تشخیص کے لیے انٹیلی جنس ایجنسیوں کے ساتھ کوآرڈینیٹ کرتی ہے۔"
+    },
+    {
+      "question": "How are Punjab arms license fees collected and managed?",
+      "answer": "Fees collected through online payment systems, credited to government accounts, tracked through digital receipts, audited for transparency, and managed according to government financial rules with proper accounting procedures.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کی فیس کیسے جمع اور منظم کی جاتی ہے؟",
+      "urdu_answer": "آن لائن ادائیگی کے نظام کے ذریعے جمع کی جانے والی فیسیں، سرکاری کھاتوں میں جمع کی جاتی ہیں، ڈیجیٹل رسیدوں کے ذریعے ٹریک کی جاتی ہیں، شفافیت کے لیے آڈٹ کی جاتی ہیں، اور اکاؤنٹنگ کے مناسب طریقہ کار کے ساتھ حکومتی مالیاتی قواعد کے مطابق منظم ہوتی ہیں۔"
+    },
+    {
+      "question": "What dispute resolution mechanisms exist for Punjab arms licensing?",
+      "answer": "Disputes resolved through hearing procedures, appeal to Chief Secretary Punjab, administrative review processes, legal remedies through courts, and coordination between Home Department and judicial authorities for fair resolution.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ کے لیے تنازعات کے حل کا کون سا طریقہ کار موجود ہے؟",
+      "urdu_answer": "تنازعات کو سماعت کے طریقہ کار، چیف سیکرٹری پنجاب سے اپیل، انتظامی نظرثانی کے عمل، عدالتوں کے ذریعے قانونی علاج، اور منصفانہ حل کے لیے محکمہ داخلہ اور عدالتی حکام کے درمیان رابطہ کاری کے ذریعے حل کیا جاتا ہے۔"
+    },
+    {
+      "question": "How does Punjab coordinate with federal authorities on arms licensing?",
+      "answer": "Coordination includes compliance with federal regulations, sharing of intelligence information, coordination on cross-border movements, adherence to national security policies, and integration with federal database systems.",
+      "urdu_question": "اسلحے کے لائسنس کے حوالے سے پنجاب وفاقی حکام کے ساتھ کیسے رابطہ کرتا ہے؟",
+      "urdu_answer": "کوآرڈینیشن میں وفاقی ضوابط کی تعمیل، انٹیلی جنس معلومات کا اشتراک، سرحد پار نقل و حرکت پر ہم آہنگی، قومی سلامتی کی پالیسیوں کی پابندی، اور وفاقی ڈیٹا بیس سسٹم کے ساتھ انضمام شامل ہے۔"
+    },
+    {
+      "question": "What are the long-term policy objectives of Punjab arms licensing system?",
+      "answer": "Long-term objectives include enhanced public safety, prevention of illegal arms proliferation, improved law enforcement capabilities, modernized licensing procedures, responsible gun ownership promotion, and balance between security needs and citizens' rights.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنسنگ سسٹم کے طویل مدتی پالیسی مقاصد کیا ہیں؟",
+      "urdu_answer": "طویل مدتی مقاصد میں عوامی تحفظ کو بڑھانا، غیر قانونی ہتھیاروں کے پھیلاؤ کی روک تھام، قانون نافذ کرنے والے اداروں کی بہتر صلاحیتیں، جدید لائسنسنگ کے طریقہ کار، ذمہ دار بندوق کی ملکیت کو فروغ دینا، اور سیکورٹی کی ضروریات اور شہریوں کے حقوق کے درمیان توازن شامل ہیں۔"
+    },
+    {
+      "question": "How does Punjab handle technological advances in arms licensing?",
+      "answer": "Technological advances accommodated through system upgrades, software modernization, online platform enhancements, digital security improvements, and adoption of new technologies for better service delivery and security.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں تکنیکی ترقی کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "نظام کی اپ گریڈیشن، سافٹ ویئر کی جدید کاری، آن لائن پلیٹ فارم میں اضافہ، ڈیجیٹل سیکیورٹی میں بہتری، اور بہتر سروس کی فراہمی اور سیکیورٹی کے لیے نئی ٹیکنالوجیز کو اپنانے کے ذریعے تکنیکی ترقی کو ایڈجسٹ کیا گیا ہے۔"
+    },
+    {
+      "question": "What coordination exists with NADRA for Punjab arms licensing?",
+      "answer": "NADRA coordinates through Registration Centres for application processing, develops software for record management, maintains central databases, provides technical support, and ensures integration between provincial systems and national identity management.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس کے لیے نادرا کے ساتھ کیا رابطہ ہے؟",
+      "urdu_answer": "نادرا ایپلی کیشن پروسیسنگ کے لیے رجسٹریشن مراکز کے ذریعے رابطہ کاری کرتا ہے، ریکارڈ کے انتظام کے لیے سافٹ ویئر تیار کرتا ہے، مرکزی ڈیٹا بیس کو برقرار رکھتا ہے، تکنیکی مدد فراہم کرتا ہے، اور صوبائی نظام اور قومی شناخت کے انتظام کے درمیان انضمام کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How are Punjab arms license holders' rights protected?",
+      "answer": "Rights protected through due process requirements, hearing opportunities, appeal mechanisms, legal remedy access, transparent procedures, proper documentation, and adherence to constitutional protections while maintaining public safety.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنس ہولڈرز کے حقوق کیسے محفوظ ہیں؟",
+      "urdu_answer": "عوامی تحفظ کو برقرار رکھتے ہوئے مناسب عمل کی ضروریات، سماعت کے مواقع، اپیل کے طریقہ کار، قانونی علاج تک رسائی، شفاف طریقہ کار، مناسب دستاویزات، اور آئینی تحفظات کی پابندی کے ذریعے حقوق کا تحفظ کیا جاتا ہے۔"
+    },
+    {
+      "question": "What future developments are planned for Punjab arms licensing?",
+      "answer": "Future developments include further digitization, enhanced online services, improved integration between agencies, advanced security features, streamlined procedures, and adoption of emerging technologies for better governance and service delivery.",
+      "urdu_question": "پنجاب میں اسلحہ لائسنس کے حوالے سے مستقبل میں کیا منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "مستقبل کی پیشرفت میں مزید ڈیجیٹائزیشن، بہتر آن لائن خدمات، ایجنسیوں کے درمیان بہتر انضمام، جدید سیکورٹی خصوصیات، ہموار طریقہ کار، اور بہتر حکمرانی اور خدمات کی فراہمی کے لیے ابھرتی ہوئی ٹیکنالوجیز کو اپنانا شامل ہے۔"
+    },
+    {
+      "question": "How does Punjab ensure compliance with arms licensing conditions?",
+      "answer": "Compliance ensured through regular inspections, online monitoring systems, agency coordination, violation reporting mechanisms, enforcement actions, record verification, and systematic oversight by authorized officers and relevant departments.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کی شرائط کی تعمیل کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "باقاعدہ معائنہ، آن لائن مانیٹرنگ سسٹم، ایجنسی کوآرڈینیشن، خلاف ورزی کی اطلاع دینے کے طریقہ کار، نفاذ کے اقدامات، ریکارڈ کی تصدیق، اور مجاز افسران اور متعلقہ محکموں کی منظم نگرانی کے ذریعے تعمیل کو یقینی بنایا گیا۔"
+    },
+    {
+      "question": "What are the penalties for Punjab arms licensing violations?",
+      "answer": "Penalties include license suspension or cancellation, premises sealing, arms confiscation, legal proceedings under Punjab Arms Ordinance, fines as prescribed, and potential criminal charges depending on violation severity and circumstances.",
+      "urdu_question": "پنجاب میں اسلحہ لائسنس کی خلاف ورزی پر کیا سزائیں ہیں؟",
+      "urdu_answer": "سزاؤں میں لائسنس کی معطلی یا منسوخی، احاطے کو سیل کرنا، اسلحہ ضبط کرنا، پنجاب آرمز آرڈیننس کے تحت قانونی کارروائی، مقررہ جرمانے اور خلاف ورزی کی شدت اور حالات کی بنیاد پر ممکنہ مجرمانہ الزامات شامل ہیں۔"
+    },
+    {
+      "question": "How does Punjab handle confidential information in arms licensing?",
+      "answer": "Confidential information protected through restricted access, authorized personnel only, secure digital systems, data protection protocols, privacy safeguards, and compliance with information security standards while enabling legitimate law enforcement access.",
+      "urdu_question": "پنجاب اسلحہ لائسنسنگ میں خفیہ معلومات کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "خفیہ معلومات کو محدود رسائی کے ذریعے محفوظ کیا جاتا ہے، صرف مجاز اہلکار، محفوظ ڈیجیٹل سسٹمز، ڈیٹا پروٹیکشن پروٹوکول، پرائیویسی سیف گارڈز، اور قانون نافذ کرنے والے قانونی رسائی کو فعال کرتے ہوئے معلومات کے تحفظ کے معیارات کی تعمیل کرتے ہیں۔"
+    },
+    {
+      "question": "What role do Civil Defence Officers play in Punjab arms licensing?",
+      "answer": "Civil Defence Officers provide safety aspect reports for business license applications, conduct safety assessments of premises, recommend safety measures, inspect compliance with safety standards, and ensure adherence to fire safety and emergency protocols.",
+      "urdu_question": "سول ڈیفنس افسران پنجاب اسلحہ لائسنسنگ میں کیا کردار ادا کرتے ہیں؟",
+      "urdu_answer": "شہری دفاع کے افسران کاروباری لائسنس کی درخواستوں کے لیے حفاظتی پہلو کی رپورٹس فراہم کرتے ہیں، احاطے کی حفاظت کا جائزہ لیتے ہیں، حفاظتی اقدامات کی سفارش کرتے ہیں، حفاظتی معیارات کی تعمیل کا معائنہ کرتے ہیں، اور فائر سیفٹی اور ہنگامی پروٹوکول کی پابندی کو یقینی بناتے ہیں۔"
+    },
+    {
+      "question": "How are Punjab arms licensing procedures updated and revised?",
+      "answer": "Procedures updated through Home Department notifications, rule amendments, system upgrades, policy reviews, stakeholder consultations, and coordination with relevant agencies to ensure effectiveness, security, and compliance with evolving requirements.",
+      "urdu_question": "پنجاب میں اسلحہ لائسنس کے طریقہ کار کو کس طرح اپ ڈیٹ اور نظرثانی کیا جاتا ہے؟",
+      "urdu_answer": "ہوم ڈپارٹمنٹ کے نوٹیفکیشنز، قواعد میں ترامیم، سسٹم اپ گریڈ، پالیسی کے جائزوں، اسٹیک ہولڈرز کی مشاورت، اور متعلقہ ایجنسیوں کے ساتھ کوآرڈینیشن کے ذریعے اپ ڈیٹ کیے گئے طریقہ کار کو مؤثریت، تحفظ اور ابھرتی ہوئی ضروریات کی تعمیل کو یقینی بنانے کے لیے۔"
+    },
+    {
+      "question": "Is a personal arms licence (NPB) required in Punjab for decorative or obsolete weapons?",
+      "answer": "No, a personal arms licence (NPB) is not required for acquisition of a non-operational, non-functional and obsolete weapon for decorative purposes, subject to verification by an authorized arms dealer and the Punjab Fire Arms Bureau on recommendation of the Home Department.",
+      "urdu_question": "کیا پنجاب میں آرائشی یا فرسودہ ہتھیاروں کے لیے ذاتی اسلحہ لائسنس (NPB) کی ضرورت ہے؟",
+      "urdu_answer": "نہیں، آرائشی مقاصد کے لیے غیر فعال، غیر فعال اور متروک ہتھیار کے حصول کے لیے ذاتی اسلحہ لائسنس (NPB) کی ضرورت نہیں ہے، جو کہ محکمہ داخلہ کی سفارش پر ایک مجاز اسلحہ ڈیلر اور پنجاب فائر آرمز بیورو کی تصدیق سے مشروط ہے۔"
+    },
+    {
+      "question": "Can a Punjab arms licence holder carry a weapon in a concealed manner?",
+      "answer": "Yes, no permit is required for a valid personal arms licence (NPB) holder in Punjab to carry the weapon in a concealed manner.",
+      "urdu_question": "کیا پنجاب کا اسلحہ لائسنس ہولڈر چھپ کر ہتھیار لے جا سکتا ہے؟",
+      "urdu_answer": "ہاں، پنجاب میں ایک درست پرسنل آرمس لائسنس (NPB) ہولڈر کے لیے چھپے ہوئے طریقے سے ہتھیار لے جانے کے لیے کسی اجازت نامے کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What happens if a minor is a legal heir for transfer of a Punjab personal arms licence?",
+      "answer": "If the legal heir is a minor, the personal arms licence (NPB) shall be transferred when the heir reaches the age of twenty years, subject to fulfillment of eligibility criteria. The intervening period is considered suspended and no fee applies for that period.",
+      "urdu_question": "اگر کوئی نابالغ پنجاب کے ذاتی اسلحہ لائسنس کی منتقلی کا قانونی وارث ہو تو کیا ہوتا ہے؟",
+      "urdu_answer": "اگر قانونی وارث نابالغ ہے تو، پرسنل آرمز لائسنس (NPB) اس وقت منتقل کیا جائے گا جب وارث بیس سال کی عمر کو پہنچ جائے گا، اہلیت کے معیار کو پورا کرنے کے ساتھ۔ درمیانی مدت کو معطل سمجھا جاتا ہے اور اس مدت کے لیے کوئی فیس لاگو نہیں ہوتی ہے۔"
+    },
+    {
+      "question": "What are the rules for transfer of Punjab business arms licence to a minor heir?",
+      "answer": "In case of a minor legal heir, the guardian nominated by the court may appoint a sales and purchase agent for smooth business operations. The business arms licence (NPB) will be transferred to the heir when they reach 30 years of age, subject to eligibility criteria.",
+      "urdu_question": "پنجاب کے کاروباری اسلحہ لائسنس کی نابالغ وارث کو منتقلی کے کیا قوانین ہیں؟",
+      "urdu_answer": "ایک نابالغ قانونی وارث کی صورت میں، عدالت کی طرف سے نامزد کردہ سرپرست ہموار کاروباری کارروائیوں کے لیے سیلز اور پرچیز ایجنٹ کا تقرر کر سکتا ہے۔ کاروباری اسلحہ لائسنس (NPB) وارث کو منتقل کر دیا جائے گا جب وہ 30 سال کی عمر کو پہنچ جائیں گے، اہلیت کے معیار کے ساتھ۔"
+    },
+    {
+      "question": "Can the business name be changed under Punjab arms licensing?",
+      "answer": "No, the name of a business under Punjab arms licensing cannot be changed.",
+      "urdu_question": "کیا پنجاب اسلحہ لائسنسنگ کے تحت کاروبار کا نام تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "نہیں، پنجاب اسلحہ لائسنسنگ کے تحت کاروبار کا نام تبدیل نہیں کیا جا سکتا۔"
+    },
+    {
+      "question": "What are the rules for appointing a sales and purchase agent under Punjab business arms licence?",
+      "answer": "A licensee may apply online on Form-V with prescribed fee for appointing a sales and purchase agent. If approved, the agent can handle arms transactions on behalf of the licensee. The appointment is cancelled upon death of the licensee or on specific request of the licensee via affidavit.",
+      "urdu_question": "پنجاب بزنس اسلحہ لائسنس کے تحت سیلز اینڈ پرچیز ایجنٹ کی تقرری کے کیا اصول ہیں؟",
+      "urdu_answer": "ایک لائسنس یافتہ سیلز اور پرچیز ایجنٹ کی تقرری کے لیے مقررہ فیس کے ساتھ فارم-V پر آن لائن درخواست دے سکتا ہے۔ اگر منظور ہو جائے تو ایجنٹ لائسنس دہندہ کی جانب سے ہتھیاروں کے لین دین کو سنبھال سکتا ہے۔ لائسنس یافتہ کی موت یا حلف نامہ کے ذریعے لائسنس یافتہ کی مخصوص درخواست پر تقرری منسوخ کر دی جاتی ہے۔"
+    },
+    {
+      "question": "What happens if a Punjab business arms licence is suspended?",
+      "answer": "Suspended business arms licences result in immediate sealing of business premises by the Deputy Commissioner. The licence cannot be renewed during suspension, but upon restoration, only the renewal fee is payable without late fee.",
+      "urdu_question": "اگر پنجاب کے کاروباری اسلحہ لائسنس معطل کر دیا جائے تو کیا ہوگا؟",
+      "urdu_answer": "معطل شدہ کاروباری اسلحہ لائسنس کے نتیجے میں ڈپٹی کمشنر کی جانب سے کاروباری جگہوں کو فوری طور پر سیل کر دیا گیا ہے۔ معطلی کے دوران لائسنس کی تجدید نہیں کی جا سکتی، لیکن بحالی کے بعد، صرف تجدید کی فیس بغیر تاخیر کے قابل ادائیگی ہے۔"
+    },
+    {
+      "question": "What are the rules for transporting arms from airports or dry ports in Punjab?",
+      "answer": "Importers of arms and ammunition must obtain a no objection certificate from the authorized officer for transportation from airport or dry port to shop or store. Online extension of NOC for up to 90 days is possible with cogent reasons, and further extension requires fee payment.",
+      "urdu_question": "پنجاب میں ہوائی اڈوں یا ڈرائی پورٹ سے اسلحہ لے جانے کے کیا اصول ہیں؟",
+      "urdu_answer": "اسلحہ اور گولہ بارود کے درآمد کنندگان کو ہوائی اڈے یا ڈرائی پورٹ سے دکان یا سٹور تک نقل و حمل کے لیے مجاز افسر سے عدم اعتراض کا سرٹیفکیٹ حاصل کرنا چاہیے۔ 90 دنوں تک این او سی کی آن لائن توسیع معقول وجوہات کے ساتھ ممکن ہے، اور مزید توسیع کے لیے فیس کی ادائیگی کی ضرورت ہے۔"
+    },
+    {
+      "question": "How often are Punjab arms businesses inspected and reported?",
+      "answer": "Inspections of arms businesses and institutional/security company licences must be carried out at least once a year. A detailed report with recommendations must be submitted to the Deputy Commissioner within one week, and annual performance reports must be sent to the Home Department within three months after year-end.",
+      "urdu_question": "پنجاب میں اسلحے کے کاروبار کا کتنی بار معائنہ اور رپورٹ کیا جاتا ہے؟",
+      "urdu_answer": "ہتھیاروں کے کاروبار اور ادارہ جاتی/سیکیورٹی کمپنی کے لائسنسوں کا معائنہ سال میں کم از کم ایک بار کیا جانا چاہیے۔ سفارشات کے ساتھ ایک تفصیلی رپورٹ ایک ہفتے کے اندر ڈپٹی کمشنر کو پیش کی جانی چاہیے، اور سالانہ کارکردگی رپورٹ سال کے اختتام کے بعد تین ماہ کے اندر محکمہ داخلہ کو بھیجی جانی چاہیے۔"
+    },
+    {
+      "question": "What are the renewal rules for Punjab arms licences?",
+      "answer": "Personal, institutional, or security company arms licences (NPB) are valid until 31st December of the expiry year. Renewal must be applied online on Form-II/III, valid for one year, with grace period of 3 months without late fee. After grace, late fees apply. Business arms licences have similar rules but renew as a whole, and may allow one-time late renewal if delay not due to licensee’s fault.",
+      "urdu_question": "پنجاب کے اسلحہ لائسنسوں کی تجدید کے قوانین کیا ہیں؟",
+      "urdu_answer": "ذاتی، ادارہ جاتی، یا سیکورٹی کمپنی کے اسلحہ لائسنس (NPB) ایکسپائری سال کے 31 دسمبر تک کارآمد ہیں۔ تجدید کے لیے فارم-II/III پر آن لائن اپلائی کرنا ضروری ہے، جو ایک سال کے لیے درست ہے، لیٹ فیس کے بغیر 3 ماہ کی رعایتی مدت کے ساتھ۔ فضل کے بعد، لیٹ فیس لاگو ہوتی ہے۔ کاروباری ہتھیاروں کے لائسنسوں میں بھی اسی طرح کے اصول ہوتے ہیں لیکن مجموعی طور پر تجدید ہوتی ہے، اور اگر لائسنس یافتہ کی غلطی کی وجہ سے تاخیر نہ ہو تو ایک بار تاخیر سے تجدید کی اجازت دے سکتا ہے۔"
+    },
+    {
+      "question": "What is the registration fee for Punjab arms licences?",
+      "answer": "An online registration fee of PKR 1,200 applies for all kinds of licence processing as per Schedule-II.",
+      "urdu_question": "پنجاب اسلحہ لائسنس کی رجسٹریشن فیس کتنی ہے؟",
+      "urdu_answer": "شیڈول-II کے مطابق تمام قسم کے لائسنس پروسیسنگ کے لیے PKR 1,200 کی آن لائن رجسٹریشن فیس لاگو ہوتی ہے۔"
+    },
+    {
+      "question": "What are the fees for Punjab personal and institutional arms licences?",
+      "answer": "According to Schedule-II: Personal Arms Licence - PKR 50,000 (initial), PKR 5,000 (renewal); Institutional/Security Company Licence - PKR 50,000 (initial), PKR 5,000 (renewal). Additional fees: Retainer Inclusion PKR 10,000, Duplicate Licence PKR 5,000, Change of Bore/Weapon PKR 5,000, Transfer on Inheritance PKR 10,000, License Verification PKR 200, Home Delivery PKR 300, Demand Note Quarterly Renewal PKR 1,000.",
+      "urdu_question": "پنجاب کے ذاتی اور ادارہ جاتی اسلحہ لائسنس کی فیس کیا ہے؟",
+      "urdu_answer": "شیڈول II کے مطابق: ذاتی اسلحہ لائسنس - PKR 50,000 (ابتدائی), PKR 5,000 (تجدید)؛ ادارہ جاتی/سیکیورٹی کمپنی کا لائسنس - PKR 50,000 (ابتدائی), PKR 5,000 (تجدید)۔ اضافی فیس: ریٹینر انکلوژن PKR 10,000، ڈپلیکیٹ لائسنس PKR 5,000، بور/ہتھیار کی تبدیلی PKR 5,000، وراثت پر منتقلی PKR 10,000، لائسنس کی تصدیق PKR 200، ہوم ڈیلیوری PKR PKR، 300 روپے نہیں 1,000"
+    },
+    {
+      "question": "What are the fees for Punjab business arms licences?",
+      "answer": "According to Schedule-II: Dealers - PKR 2,000,000 (initial), PKR 100,000 (renewal); Manufacturers - PKR 1,000,000 (initial), PKR 500,000 (renewal); Repairers - PKR 100,000 (initial), PKR 50,000 (renewal). Additional: Processing Fee Dealer/Manufacturer PKR 10,000, Repairer PKR 2,500, Change of Business Place PKR 120,000, Duplicate Business Licence PKR 100,000, Inheritance Transfer PKR 100,000, Sales & Purchase Agent Appointment PKR 100,000.",
+      "urdu_question": "پنجاب کے کاروباری اسلحہ لائسنس کی فیس کیا ہے؟",
+      "urdu_answer": "شیڈول II کے مطابق: ڈیلرز - PKR 2,000,000 (ابتدائی), PKR 100,000 (تجدید)؛ مینوفیکچررز - PKR 1,000,000 (ابتدائی), PKR 500,000 (تجدید)؛ مرمت کرنے والے - PKR 100,000 (ابتدائی)، PKR 50,000 (تجدید)۔ اضافی: پروسیسنگ فیس ڈیلر/مینوفیکچرر PKR 10,000، ریپیرر PKR 2,500، کاروبار کی جگہ کی تبدیلی PKR 120,000، ڈپلیکیٹ بزنس لائسنس PKR 100,000، وراثت کی منتقلی PKR 100,000 PKR اور PKR A,000 PKR 100,000"
+    },
+    {
+      "question": "What are the fees for cartridge increase, quota enhancement, and NOCs in Punjab?",
+      "answer": "Cartridge increase: PKR 12 per cartridge. Quota enhancement: PKR 10 per bullet, PKR 500 per weapon. NOC/TL fee: PKR 10 per bullet, PKR 500 per weapon. NOC/TL extension fee: PKR 10 per bullet, PKR 500 per weapon.",
+      "urdu_question": "پنجاب میں کارتوس بڑھانے، کوٹہ بڑھانے اور این او سی کی فیس کیا ہے؟",
+      "urdu_answer": "کارتوس میں اضافہ: PKR 12 فی کارتوس۔ کوٹہ میں اضافہ: PKR 10 فی گولی، PKR 500 فی ہتھیار۔ NOC/TL فیس: PKR 10 فی گولی، PKR 500 فی ہتھیار۔ NOC/TL ایکسٹینشن فیس: PKR 10 فی گولی، PKR 500 فی ہتھیار۔"
+    },
+    {
+      "question": "What categories of weapons are prohibited under Punjab Arms Rules 2023?",
+      "answer": "Prohibited arms include: shotguns under 18-inch barrel, machine/automatic pistols, pistols with magazine capacity over 22, pistols/revolvers over 0.45 caliber, fully automatic rifles, rifles with under 18-inch barrels, rifles with magazine capacity over 30, all military bore weapons, artillery, mortars, submachine guns, silencers, anti-tank and recoilless rifles, bazookas, chemical/biological weapons, IEDs, nuclear weapons, guided missiles, flame throwers, and parts of cannons.",
+      "urdu_question": "پنجاب آرمز رولز 2023 کے تحت ہتھیاروں کی کن اقسام پر پابندی ہے؟",
+      "urdu_answer": "ممنوعہ اسلحے میں شامل ہیں: 18 انچ بیرل سے کم شاٹ گن، مشین/خودکار پستول، 22 سے زیادہ میگزین کی گنجائش والی پستول، 0.45 کیلیبر سے زیادہ کی پستول/ریوالور، مکمل خودکار رائفلیں، 18 انچ سے کم بیرل والی رائفلیں، تمام میگزین کی صلاحیت والی رائفلیں، میگزین 30 سے زائد فوجی، میگزین کی صلاحیت کے ساتھ رائفلیں مارٹر، سب مشین گن، سائلنسر، اینٹی ٹینک اور ریکوئل لیس رائفلز، بازوکا، کیمیائی/حیاتیاتی ہتھیار، آئی ای ڈیز، جوہری ہتھیار، گائیڈڈ میزائل، شعلہ پھینکنے والے، اور توپوں کے حصے۔"
+    },
+    {
+      "question": "What categories of weapons are non-prohibited under Punjab Arms Rules 2023?",
+      "answer": "Non-prohibited arms include: all types of shotguns (except fully automatic), semi-automatic/pump action shotguns with tube magazine capacity up to 9 cartridges, muzzle-loading shotguns, semi-automatic pistols/revolvers up to .45 caliber, manual/semi-automatic rifles up to 30-round magazines including .222, .223, 7mm, 8mm, 9mm, 303, muzzle-loading rifles, and hunting rifles up to 500 Nitro Express.",
+      "urdu_question": "پنجاب آرمز رولز 2023 کے تحت ہتھیاروں کی کون سی قسمیں غیر ممنوع ہیں؟",
+      "urdu_answer": "غیر ممنوعہ اسلحے میں شامل ہیں: تمام قسم کی شاٹ گنز (مکمل خودکار کے علاوہ)، نیم خودکار/پمپ ایکشن شاٹ گن جس میں ٹیوب میگزین کی گنجائش 9 کارتوس تک، مزل لوڈنگ شاٹ گن، نیم خودکار پستول/ریوالور .45 کیلیبر تک، مینوئل ٹومیٹک/30 عدد میگزینز بشمول .222, .223, 7mm, 8mm, 9mm, 303، muzzle-loading رائفلیں، اور 500 Nitro Express تک شکار کرنے والی رائفلیں۔"
+    }
+  ]
+}

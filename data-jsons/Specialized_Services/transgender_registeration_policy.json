@@ -1,0 +1,469 @@
+{
+  "file_name": "transgender_registeration_policy.json",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 80,
+  "qa_data": [
+    {
+      "question": "What is the purpose of NADRA's Transgender Registration Policy?",
+      "answer": "The policy aims to recognize the dignity and equal rights of every person as guaranteed by the Constitution of Pakistan and to acknowledge the fundamental principles of nondiscrimination and equal opportunities. It ensures the seamless registration of transgender persons with NADRA, establishing a transparent and easy process for their registration, ensuring their access to identification documents and associated benefits for social, economic and legal inclusion.",
+      "urdu_question": "نادرا کی ٹرانس جینڈر رجسٹریشن پالیسی کا مقصد کیا ہے؟",
+      "urdu_answer": "اس پالیسی کا مقصد ہر فرد کے وقار اور مساوی حقوق کو تسلیم کرنا ہے جیسا کہ پاکستان کے آئین کی ضمانت دی گئی ہے اور عدم امتیاز اور مساوی مواقع کے بنیادی اصولوں کو تسلیم کرنا ہے۔ یہ نادرا کے ساتھ ٹرانس جینڈر افراد کی بغیر کسی رکاوٹ کے اندراج کو یقینی بناتا ہے، ان کی رجسٹریشن کے لیے ایک شفاف اور آسان عمل قائم کرتا ہے، شناختی دستاویزات تک ان کی رسائی کو یقینی بناتا ہے اور سماجی، معاشی اور قانونی شمولیت کے لیے اس سے وابستہ فوائد کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What legal act reinforces transgender rights in Pakistan?",
+      "answer": "The Transgender Persons (Protection of Rights) Act, 2018 reinforces these rights and mandates the protection and facilitation of transgender persons in accessing identification and other public services.",
+      "urdu_question": "کون سا قانونی ایکٹ پاکستان میں خواجہ سراؤں کے حقوق کو تقویت دیتا ہے؟",
+      "urdu_answer": "ٹرانس جینڈر پرسنز (پروٹیکشن آف رائٹس) ایکٹ، 2018 ان حقوق کو تقویت دیتا ہے اور ٹرانس جینڈر افراد کو شناخت اور دیگر عوامی خدمات تک رسائی میں تحفظ اور سہولت فراہم کرنے کا حکم دیتا ہے۔"
+    },
+    {
+      "question": "What Supreme Court cases led to the formation of monitoring committees for transgender persons?",
+      "answer": "The Honorable Supreme Court of Pakistan, via judgments against Human Rights Case No. 32005-P of 2018 dated 18-06-2018 and 15-10-2018, constituted Provincial and District Level Monitoring Committees for facilitation of transgender persons regarding issuance of CNICs.",
+      "urdu_question": "سپریم کورٹ کے کن مقدمات کی وجہ سے خواجہ سراؤں کے لیے مانیٹرنگ کمیٹیاں تشکیل دی گئیں؟",
+      "urdu_answer": "پاکستان کی معزز سپریم کورٹ نے انسانی حقوق کے مقدمہ نمبر 32005-P کے 2018 مورخہ 18-06-2018 اور 15-10-2018 کے فیصلوں کے ذریعے سی آئی سی این کے اجراء کے حوالے سے خواجہ سراؤں کی سہولت کے لیے صوبائی اور ضلعی سطح کی مانیٹرنگ کمیٹیاں تشکیل دیں۔"
+    },
+    {
+      "question": "Who are the members of Provincial Level Monitoring Committees?",
+      "answer": "Provincial Level Committee comprises: Chief Secretary – President of Committee, Secretary Social Welfare – Member (Secretary of Committee), Concerned DG NADRA – Member, Other members as per Notification.",
+      "urdu_question": "صوبائی سطح کی مانیٹرنگ کمیٹیوں کے ممبران کون ہیں؟",
+      "urdu_answer": "صوبائی سطح کی کمیٹی پر مشتمل ہے: چیف سیکریٹری - کمیٹی کے صدر، سیکریٹری سوشل ویلفیئر - ممبر (کمیٹی کے سیکریٹری)، متعلقہ ڈی جی نادرا - ممبر، نوٹیفکیشن کے مطابق دیگر اراکین۔"
+    },
+    {
+      "question": "What are the main functions of Provincial Level Monitoring Committees?",
+      "answer": "Main functions of Provincial Level Committees are to monitor the progress of transgender persons' registration in their province and pass requisite directions to District Level Committees.",
+      "urdu_question": "صوبائی سطح کی مانیٹرنگ کمیٹیوں کے اہم کام کیا ہیں؟",
+      "urdu_answer": "صوبائی سطح کی کمیٹیوں کے اہم کام اپنے صوبے میں خواجہ سراؤں کی رجسٹریشن کی پیشرفت کی نگرانی کرنا اور ضلعی سطح کی کمیٹیوں کو مطلوبہ ہدایات دینا ہیں۔"
+    },
+    {
+      "question": "Who are the members of District Level Implementation Committees?",
+      "answer": "District Level Committee comprises: Deputy Commissioner – President of Committee, District Social Welfare Officer – Member (Secretary of Committee), Zonal Head – Member, Other members as per Notification.",
+      "urdu_question": "ضلعی سطح پر عمل درآمد کمیٹیوں کے ارکان کون ہیں؟",
+      "urdu_answer": "ضلعی سطح کی کمیٹی پر مشتمل ہے: ڈپٹی کمشنر - کمیٹی کے صدر، ڈسٹرکٹ سوشل ویلفیئر آفیسر - ممبر (کمیٹی کے سیکریٹری)، زونل ہیڈ - ممبر، نوٹیفکیشن کے مطابق دیگر ممبران۔"
+    },
+    {
+      "question": "What are the main functions of District Level Implementation Committees?",
+      "answer": "Main functions of District Level Committees are to raise awareness and identify transgender persons in the district, as well as facilitate their registration by NADRA.",
+      "urdu_question": "ضلعی سطح پر عمل درآمد کمیٹیوں کے اہم کام کیا ہیں؟",
+      "urdu_answer": "ضلعی سطح کی کمیٹیوں کے اہم کام ضلع میں خواجہ سراؤں کے بارے میں شعور اجاگر کرنا اور ان کی شناخت کرنا، نیز نادرا کے ذریعے ان کی رجسٹریشن میں سہولت فراہم کرنا ہے۔"
+    },
+    {
+      "question": "What are the two main living arrangements for transgender persons in Pakistan?",
+      "answer": "a. Living in families / having close interaction with family members: Few transgender persons either live with their families or maintain regular interactions with family members. b. Living in communities with Gurus: Most transgender persons reside in dedicated communities led by their mentors, known as 'GURU', who act as a central figure of these communities.",
+      "urdu_question": "پاکستان میں خواجہ سراؤں کے لیے رہنے کے دو اہم انتظامات کیا ہیں؟",
+      "urdu_answer": "a خاندانوں میں رہنا / خاندان کے ارکان کے ساتھ قریبی تعامل: بہت کم ٹرانس جینڈر افراد یا تو اپنے خاندانوں کے ساتھ رہتے ہیں یا خاندان کے ارکان کے ساتھ باقاعدہ تعامل برقرار رکھتے ہیں۔ ب گرو کے ساتھ کمیونٹیز میں رہنا: زیادہ تر ٹرانسجینڈر افراد اپنے سرپرستوں کی قیادت میں سرشار کمیونٹیز میں رہتے ہیں، جنہیں 'گرو' کہا جاتا ہے، جو ان کمیونٹیز کی مرکزی شخصیت کے طور پر کام کرتے ہیں۔"
+    },
+    {
+      "question": "How are transgender persons registered when living with family?",
+      "answer": "Such transgender persons shall be registered upon provision of Computerized Birth Certificates and parents' CNICs as per NADRA Registration Policy in vogue. Moreover, registration shall be carried out by mentioning the self-perceived gender of the applicants in light of the Transgender Persons (Protection of Rights) Act, 2018.",
+      "urdu_question": "خاندان کے ساتھ رہتے ہوئے ٹرانسجینڈر افراد کیسے رجسٹر ہوتے ہیں؟",
+      "urdu_answer": "ایسے ٹرانس جینڈر افراد کو کمپیوٹرائزڈ برتھ سرٹیفکیٹس اور والدین کے شناختی کارڈ کی فراہمی پر رجسٹر کیا جائے گا جو کہ نادرا کی رجسٹریشن پالیسی کے مطابق ہے۔ مزید برآں، ٹرانسجینڈر پرسنز (تحفظ حقوق) ایکٹ، 2018 کی روشنی میں درخواست دہندگان کی خود ساختہ جنس کا ذکر کرکے رجسٹریشن کی جائے گی۔"
+    },
+    {
+      "question": "What documents are required for Transgender GURU registration?",
+      "answer": "The following documents shall be submitted by the individual to District Social Welfare Officers for verification/scrutiny: CNIC, Written application addressed to District Social Welfare Officer (Format attached), An affidavit (Format attached) of Rs. 20/- or above attested by Oath Commissioner / Notary Public.",
+      "urdu_question": "ٹرانس جینڈر گرو رجسٹریشن کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مندرجہ ذیل دستاویزات فرد کی طرف سے تصدیق / جانچ پڑتال کے لیے ڈسٹرکٹ سوشل ویلفیئر افسران کو جمع کرائے جائیں گے: CNIC، ڈسٹرکٹ سوشل ویلفیئر آفیسر (فارمیٹ منسلک) کو تحریری درخواست، روپے کا حلف نامہ (فارمیٹ منسلک)۔ 20/- یا اس سے اوپر اوتھ کمشنر / نوٹری پبلک کے ذریعہ تصدیق شدہ۔"
+    },
+    {
+      "question": "Where is GURU registration carried out?",
+      "answer": "Guru's registration shall be carried out at HQ NADRA through its Regional Head Offices.",
+      "urdu_question": "گرو رجسٹریشن کہاں کی جاتی ہے؟",
+      "urdu_answer": "گرو کی رجسٹریشن ہیڈکوارٹر نادرا میں اس کے علاقائی ہیڈ آفس کے ذریعے کی جائے گی۔"
+    },
+    {
+      "question": "What is the role of District Social Welfare Officer in GURU registration?",
+      "answer": "District Social Welfare Officer will verify the request of GURU and submit the report along with the affidavit submitted by the applicant to NADRA for the registration of transgender persons as 'GURU' in the NADRA database.",
+      "urdu_question": "GURU رجسٹریشن میں ڈسٹرکٹ سوشل ویلفیئر آفیسر کا کیا کردار ہے؟",
+      "urdu_answer": "ڈسٹرکٹ سوشل ویلفیئر آفیسر گرو کی درخواست کی تصدیق کرے گا اور نادرا ڈیٹا بیس میں خواجہ سراؤں کی بطور 'گرو' رجسٹریشن کے لیے درخواست گزار کی جانب سے نادرا کو جمع کرائے گئے حلف نامے کے ساتھ رپورٹ جمع کرائے گا۔"
+    },
+    {
+      "question": "How are unregistered GURUs processed?",
+      "answer": "Unregistered GURUs shall be registered as 'GURU' after issuance of CNICs through the below-mentioned procedure for registration of transgender persons.",
+      "urdu_question": "غیر رجسٹرڈ گرو پر کارروائی کیسے کی جاتی ہے؟",
+      "urdu_answer": "غیر رجسٹرڈ گرو کو سی این آئی سی جاری کرنے کے بعد ٹرانس جینڈر افراد کی رجسٹریشن کے لیے درج ذیل طریقہ کار کے ذریعے 'گرو' کے طور پر رجسٹر کیا جائے گا۔"
+    },
+    {
+      "question": "What happens when new chailas are added to a GURU later?",
+      "answer": "In case of addition of chailas at a later stage, another affidavit mentioning details of new chailas shall be submitted to District Social Welfare Officers for verification/scrutiny.",
+      "urdu_question": "کیا ہوتا ہے جب بعد میں گرو میں نئے چیلوں کو شامل کیا جاتا ہے؟",
+      "urdu_answer": "بعد کے مرحلے پر چیلوں کے اضافے کی صورت میں، ایک اور حلف نامہ جس میں نئے چیلوں کی تفصیلات کا ذکر کیا جائے گا، تصدیق/سکروٹنی کے لیے ڈسٹرکٹ سوشل ویلفیئر افسران کو جمع کرایا جائے گا۔"
+    },
+    {
+      "question": "How are transgender persons with unknown parentage registered?",
+      "answer": "CNIC with unknown parentage shall be processed by selecting random parents' names from the database. Registered 'GURU' shall be made the head. Biometric verification of GURU shall also be carried out for processing the CNIC application.",
+      "urdu_question": "نامعلوم والدین کے ساتھ ٹرانس جینڈر افراد کیسے رجسٹر ہوتے ہیں؟",
+      "urdu_answer": "نامعلوم والدین کے ساتھ CNIC پر ڈیٹا بیس سے بے ترتیب والدین کے ناموں کو منتخب کرکے کارروائی کی جائے گی۔ رجسٹرڈ 'گرو' کو سربراہ بنایا جائے گا۔ CNIC درخواست پر کارروائی کے لیے GURU کی بائیو میٹرک تصدیق بھی کی جائے گی۔"
+    },
+    {
+      "question": "How are transgender persons with known parentage registered under GURU system?",
+      "answer": "In case of known parentage, the actual names of parents shall be entered. Registered 'GURU' shall be made the head. Biometric verification of GURU shall also be carried out for processing the CNIC application.",
+      "urdu_question": "GURU سسٹم کے تحت معلوم والدین کے ساتھ ٹرانس جینڈر افراد کیسے رجسٹر ہوتے ہیں؟",
+      "urdu_answer": "معلوم والدین کی صورت میں، والدین کے اصل نام درج کیے جائیں گے۔ رجسٹرڈ 'گرو' کو سربراہ بنایا جائے گا۔ CNIC درخواست پر کارروائی کے لیے GURU کی بائیو میٹرک تصدیق بھی کی جائے گی۔"
+    },
+    {
+      "question": "What is the processing time for transgender CNIC applications?",
+      "answer": "CNIC shall be issued to transgender persons free of cost (Teslin-based card) in the executive category, and the same shall be issued within seven (07) working days after submission of the CNIC application form.",
+      "urdu_question": "ٹرانسجینڈر CNIC درخواستوں کے لیے پروسیسنگ کا وقت کیا ہے؟",
+      "urdu_answer": "CNIC ایگزیکٹو زمرے میں ٹرانس جینڈر افراد کو مفت جاری کیا جائے گا (ٹیسلین پر مبنی کارڈ)، اور اسے CNIC درخواست فارم جمع کرانے کے بعد سات (07) کام کے دنوں کے اندر جاری کیا جائے گا۔"
+    },
+    {
+      "question": "Are mobile registration services available for transgender persons?",
+      "answer": "Services through Mobile Registration Vans / Manpack shall be provided as and when requested by the aforementioned community or desired by the District Level Implementation Committee.",
+      "urdu_question": "کیا ٹرانسجینڈر افراد کے لیے موبائل رجسٹریشن کی خدمات دستیاب ہیں؟",
+      "urdu_answer": "موبائل رجسٹریشن وینز/مین پیک کے ذریعے خدمات مذکورہ بالا کمیونٹی کی درخواست کے مطابق یا ضلعی سطح پر عمل درآمد کمیٹی کی طرف سے مطلوبہ طور پر فراہم کی جائیں گی۔"
+    },
+    {
+      "question": "What is a GURU in transgender community context?",
+      "answer": "GURU is a mentor who acts as a central figure of transgender communities. Most transgender persons reside in dedicated communities led by their mentors, known as 'GURU'.",
+      "urdu_question": "ٹرانسجینڈر کمیونٹی کے تناظر میں گرو کیا ہے؟",
+      "urdu_answer": "گرو ایک سرپرست ہیں جو ٹرانس جینڈر کمیونٹیز کی مرکزی شخصیت کے طور پر کام کرتے ہیں۔ زیادہ تر ٹرانسجینڈر افراد اپنے سرپرستوں کے زیرقیادت سرشار کمیونٹیز میں رہتے ہیں، جنہیں 'GURU' کہا جاتا ہے۔"
+    },
+    {
+      "question": "What are chailas in transgender community context?",
+      "answer": "Chailas are transgender persons who live under the guidance of a GURU in transgender communities. They can be registered with both known and unknown parentage.",
+      "urdu_question": "ٹرانسجینڈر کمیونٹی کے تناظر میں چالیس کیا ہیں؟",
+      "urdu_answer": "چیلا ٹرانس جینڈر افراد ہیں جو ٹرانس جینڈر کمیونٹیز میں ایک گرو کی رہنمائی میں رہتے ہیں۔ وہ معلوم اور نامعلوم دونوں والدین کے ساتھ رجسٹرڈ ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What is the minimum affidavit value required for GURU registration?",
+      "answer": "An affidavit of Rs. 20/- or above attested by Oath Commissioner / Notary Public is required for GURU registration.",
+      "urdu_question": "GURU رجسٹریشن کے لیے حلف نامے کی کم از کم قیمت کتنی ہے؟",
+      "urdu_answer": "روپے کا حلف نامہ GURU رجسٹریشن کے لیے اوتھ کمشنر/نوٹری پبلک کے ذریعے 20/- یا اس سے اوپر کی تصدیق درکار ہے۔"
+    },
+    {
+      "question": "Who attests the affidavit for GURU registration?",
+      "answer": "The affidavit must be attested by Oath Commissioner / Notary Public.",
+      "urdu_question": "GURU رجسٹریشن کے حلف نامہ کی تصدیق کون کرتا ہے؟",
+      "urdu_answer": "حلف نامہ اوتھ کمشنر/نوٹری پبلک سے تصدیق شدہ ہونا ضروری ہے۔"
+    },
+    {
+      "question": "What information must be complete in GURU registration affidavit?",
+      "answer": "Affidavit and application shall be filled with complete information required for this purpose.",
+      "urdu_question": "GURU رجسٹریشن حلف نامہ میں کون سی معلومات مکمل ہونی چاہیے؟",
+      "urdu_answer": "اس مقصد کے لیے درکار مکمل معلومات کے ساتھ حلف نامہ اور درخواست بھری جائے گی۔"
+    },
+    {
+      "question": "What happens after District Social Welfare Officer verifies GURU request?",
+      "answer": "District Social Welfare Officer will verify the request of GURU and submit the report along with the affidavit submitted by the applicant to NADRA for the registration of transgender persons as 'GURU' in the NADRA database.",
+      "urdu_question": "ڈسٹرکٹ سوشل ویلفیئر آفیسر کے گرو کی درخواست کی تصدیق کے بعد کیا ہوتا ہے؟",
+      "urdu_answer": "ڈسٹرکٹ سوشل ویلفیئر آفیسر گرو کی درخواست کی تصدیق کرے گا اور نادرا ڈیٹا بیس میں خواجہ سراؤں کی بطور 'گرو' رجسٹریشن کے لیے درخواست گزار کی جانب سے نادرا کو جمع کرائے گئے حلف نامے کے ساتھ رپورٹ جمع کرائے گا۔"
+    },
+    {
+      "question": "Can transgender persons apply for registration from any NADRA office?",
+      "answer": "Yes, transgender persons can apply for registration following the standard NADRA registration procedures, with special provisions for those living with families or in GURU-led communities.",
+      "urdu_question": "کیا خواجہ سرا کسی بھی نادرا آفس سے رجسٹریشن کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، ٹرانسجینڈر افراد نادرا رجسٹریشن کے معیاری طریقہ کار کے بعد رجسٹریشن کے لیے درخواست دے سکتے ہیں، ان لوگوں کے لیے خصوصی انتظامات جو خاندانوں کے ساتھ یا گرو کی زیر قیادت کمیونٹیز میں رہتے ہیں۔"
+    },
+    {
+      "question": "What constitutional principles support transgender registration?",
+      "answer": "The policy recognizes the dignity and equal rights of every person as guaranteed by the Constitution of Pakistan and acknowledges the fundamental principles of nondiscrimination and equal opportunities.",
+      "urdu_question": "کون سے آئینی اصول ٹرانس جینڈر رجسٹریشن کی حمایت کرتے ہیں؟",
+      "urdu_answer": "یہ پالیسی ہر فرد کے وقار اور مساوی حقوق کو تسلیم کرتی ہے جیسا کہ پاکستان کے آئین کی ضمانت دی گئی ہے اور عدم امتیاز اور مساوی مواقع کے بنیادی اصولوں کو تسلیم کیا گیا ہے۔"
+    },
+    {
+      "question": "What are the social benefits of transgender registration?",
+      "answer": "Registration ensures transgender persons' access to identification documents and associated benefits for social, economic and legal inclusion.",
+      "urdu_question": "ٹرانس جینڈر رجسٹریشن کے سماجی فوائد کیا ہیں؟",
+      "urdu_answer": "رجسٹریشن ٹرانسجینڈر افراد کی شناختی دستاویزات تک رسائی اور سماجی، معاشی اور قانونی شمولیت کے لیے منسلک فوائد کو یقینی بناتی ہے۔"
+    },
+    {
+      "question": "Is self-perceived gender respected in transgender registration?",
+      "answer": "Yes, registration shall be carried out by mentioning the self-perceived gender of the applicants in light of the Transgender Persons (Protection of Rights) Act, 2018.",
+      "urdu_question": "کیا ٹرانسجینڈر رجسٹریشن میں خود سمجھی جانے والی جنس کا احترام کیا جاتا ہے؟",
+      "urdu_answer": "ہاں، ٹرانسجینڈر پرسنز (پروٹیکشن آف رائٹس) ایکٹ، 2018 کی روشنی میں درخواست دہندگان کی خود ساختہ جنس کا ذکر کرکے رجسٹریشن کی جائے گی۔"
+    },
+    {
+      "question": "What category of CNIC is provided to transgender persons?",
+      "answer": "CNIC is issued in the executive category, which is typically a premium service level, but provided free of cost to transgender persons.",
+      "urdu_question": "خواجہ سراؤں کو کس زمرے کا CNIC فراہم کیا جاتا ہے؟",
+      "urdu_answer": "CNIC ایگزیکٹو کیٹیگری میں جاری کیا جاتا ہے، جو کہ عام طور پر ایک پریمیم سروس لیول ہے، لیکن ٹرانس جینڈر افراد کو مفت فراہم کیا جاتا ہے۔"
+    },
+    {
+      "question": "What type of card material is used for transgender CNICs?",
+      "answer": "Teslin-based card is used for transgender CNICs, which is the same high-quality material used for regular CNICs.",
+      "urdu_question": "ٹرانسجینڈر CNICs کے لیے کس قسم کا کارڈ میٹریل استعمال کیا جاتا ہے؟",
+      "urdu_answer": "ٹیسلین پر مبنی کارڈ ٹرانسجینڈر CNICs کے لیے استعمال کیا جاتا ہے، جو کہ وہی اعلیٰ معیار کا مواد ہے جو باقاعدہ CNICs کے لیے استعمال ہوتا ہے۔"
+    },
+    {
+      "question": "How are random parents selected for unknown parentage cases?",
+      "answer": "CNIC with unknown parentage shall be processed by selecting random parents' names from the database, ensuring the transgender person has a complete record while maintaining privacy.",
+      "urdu_question": "نامعلوم پیرنٹیج کیسز کے لیے بے ترتیب والدین کا انتخاب کیسے کیا جاتا ہے؟",
+      "urdu_answer": "نامعلوم والدین کے ساتھ CNIC پر ڈیٹا بیس سے بے ترتیب والدین کے ناموں کو منتخب کرکے کارروائی کی جائے گی، اس بات کو یقینی بناتے ہوئے کہ ٹرانسجینڈر شخص کا رازداری کو برقرار رکھتے ہوئے مکمل ریکارڈ موجود ہے۔"
+    },
+    {
+      "question": "Who becomes the head of family for transgender persons under GURU system?",
+      "answer": "Registered 'GURU' shall be made the head for both known and unknown parentage cases of transgender persons in their community.",
+      "urdu_question": "GURU نظام کے تحت خواجہ سراؤں کے لیے خاندان کا سربراہ کون بنتا ہے؟",
+      "urdu_answer": "رجسٹرڈ 'گرو' کو ان کی کمیونٹی میں ٹرانس جینڈر افراد کے والدین کے معلوم اور نامعلوم دونوں معاملات کا سربراہ بنایا جائے گا۔"
+    },
+    {
+      "question": "What verification is required from GURU during chaila registration?",
+      "answer": "Biometric verification of GURU shall also be carried out for processing the CNIC application of transgender persons under their guidance.",
+      "urdu_question": "چیلا رجسٹریشن کے دوران گرو سے کیا تصدیق کی ضرورت ہے؟",
+      "urdu_answer": "GURU کی بائیو میٹرک تصدیق بھی ان کی رہنمائی میں ٹرانس جینڈر افراد کی CNIC درخواست پر کارروائی کے لیے کی جائے گی۔"
+    },
+    {
+      "question": "Can District Level Implementation Committee request mobile services?",
+      "answer": "Yes, services through Mobile Registration Vans / Manpack shall be provided as desired by the District Level Implementation Committee.",
+      "urdu_question": "کیا ضلعی سطح پر عمل درآمد کمیٹی موبائل خدمات کی درخواست کر سکتی ہے؟",
+      "urdu_answer": "ہاں، موبائل رجسٹریشن وینز/مین پیک کے ذریعے خدمات ضلعی سطح پر عمل درآمد کمیٹی کی مرضی کے مطابق فراہم کی جائیں گی۔"
+    },
+    {
+      "question": "What is the relationship between GURU and NADRA database?",
+      "answer": "GURUs must be registered in the NADRA database first, and then they can facilitate the registration of transgender persons under their care.",
+      "urdu_question": "گرو اور نادرا ڈیٹا بیس کے درمیان کیا تعلق ہے؟",
+      "urdu_answer": "گرو کا پہلے نادرا ڈیٹا بیس میں رجسٹر ہونا ضروری ہے، اور پھر وہ اپنی نگہداشت کے تحت ٹرانس جینڈر افراد کی رجسٹریشن میں سہولت فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Are there specific formats for GURU registration documents?",
+      "answer": "Yes, there are specific formats attached for the written application and affidavit required for GURU registration.",
+      "urdu_question": "کیا GURU رجسٹریشن دستاویزات کے لیے مخصوص فارمیٹس ہیں؟",
+      "urdu_answer": "ہاں، GURU رجسٹریشن کے لیے ضروری تحریری درخواست اور حلف نامہ کے لیے مخصوص فارمیٹس منسلک ہیں۔"
+    },
+    {
+      "question": "What happens if a transgender person wants to add new chailas later?",
+      "answer": "Another affidavit mentioning details of new chailas shall be submitted to District Social Welfare Officers for verification/scrutiny.",
+      "urdu_question": "کیا ہوتا ہے اگر کوئی خواجہ سرا بعد میں نئے چیلوں کو شامل کرنا چاہے؟",
+      "urdu_answer": "ایک اور حلف نامہ جس میں نئے چیلوں کی تفصیلات کا ذکر کیا جائے گا، تصدیق/سکروٹنی کے لیے ڈسٹرکٹ سوشل ویلفیئر افسران کو جمع کرایا جائے گا۔"
+    },
+    {
+      "question": "What is the role of Regional Head Offices in transgender registration?",
+      "answer": "GURU registration is carried out at HQ NADRA through its Regional Head Offices, showing the importance given to this process.",
+      "urdu_question": "ٹرانس جینڈر رجسٹریشن میں علاقائی ہیڈ آفسز کا کیا کردار ہے؟",
+      "urdu_answer": "GURU رجسٹریشن ہیڈکوارٹر نادرا میں اس کے علاقائی ہیڈ آفس کے ذریعے کی جاتی ہے، جو اس عمل کو دی جانے والی اہمیت کو ظاہر کرتی ہے۔"
+    },
+    {
+      "question": "How does the policy ensure transparency in transgender registration?",
+      "answer": "The policy establishes a transparent and easy process involving multiple verification steps through District Social Welfare Officers and formal documentation requirements.",
+      "urdu_question": "پالیسی ٹرانس جینڈر رجسٹریشن میں شفافیت کو کیسے یقینی بناتی ہے؟",
+      "urdu_answer": "یہ پالیسی ایک شفاف اور آسان عمل کو قائم کرتی ہے جس میں ڈسٹرکٹ سوشل ویلفیئر آفیسرز کے ذریعے تصدیق کے متعدد مراحل اور باضابطہ دستاویزات کی ضروریات شامل ہیں۔"
+    },
+    {
+      "question": "What legal protections are provided under Transgender Persons Act 2018?",
+      "answer": "The Transgender Persons (Protection of Rights) Act, 2018 mandates the protection and facilitation of transgender persons in accessing identification and other public services.",
+      "urdu_question": "ٹرانس جینڈر پرسنز ایکٹ 2018 کے تحت کیا قانونی تحفظات فراہم کیے گئے ہیں؟",
+      "urdu_answer": "ٹرانس جینڈر پرسنز (پروٹیکشن آف رائٹس) ایکٹ، 2018 ٹرانسجینڈر افراد کو شناخت اور دیگر عوامی خدمات تک رسائی میں تحفظ اور سہولت فراہم کرتا ہے۔"
+    },
+    {
+      "question": "How does NADRA ensure equal treatment for transgender persons?",
+      "answer": "By providing free CNICs in executive category, reducing processing time to 7 days, providing mobile services, and respecting self-perceived gender identity.",
+      "urdu_question": "نادرا خواجہ سراؤں کے ساتھ مساوی سلوک کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "ایگزیکٹیو کیٹیگری میں مفت CNICs فراہم کرکے، پروسیسنگ کے وقت کو 7 دن تک کم کرکے، موبائل سروسز فراہم کرکے، اور خود سمجھی جانے والی صنفی شناخت کا احترام کرکے۔"
+    },
+    {
+      "question": "What documentation proves a transgender person's community membership?",
+      "answer": "The GURU's affidavit and registration in NADRA database serves as documentation for transgender persons' membership in the community.",
+      "urdu_question": "کون سی دستاویز ایک ٹرانس جینڈر شخص کی کمیونٹی کی رکنیت کو ثابت کرتی ہے؟",
+      "urdu_answer": "گرو کا حلف نامہ اور نادرا ڈیٹا بیس میں رجسٹریشن کمیونٹی میں خواجہ سراؤں کی رکنیت کے لیے دستاویز کا کام کرتا ہے۔"
+    },
+    {
+      "question": "Can a transgender person change their GURU after registration?",
+      "answer": "While not explicitly stated, changing GURU would likely require new documentation and verification through District Social Welfare Officers, similar to the initial registration process.",
+      "urdu_question": "کیا ایک ٹرانسجینڈر شخص رجسٹریشن کے بعد اپنے گرو کو تبدیل کر سکتا ہے؟",
+      "urdu_answer": "اگرچہ واضح طور پر نہیں کہا گیا ہے، GURU کو تبدیل کرنے کے لیے ممکنہ طور پر ابتدائی رجسٹریشن کے عمل کی طرح ڈسٹرکٹ سوشل ویلفیئر آفیسرز کے ذریعے نئے دستاویزات اور تصدیق کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "What happens if a GURU refuses to support a chaila's registration?",
+      "answer": "The policy doesn't specify this scenario, but transgender persons could potentially register through family connections if available, or seek assistance from District Level Implementation Committees for alternative arrangements.",
+      "urdu_question": "اگر کوئی گرو چیلہ کی رجسٹریشن کی حمایت کرنے سے انکار کردے تو کیا ہوگا؟",
+      "urdu_answer": "پالیسی اس منظر نامے کی وضاحت نہیں کرتی ہے، لیکن ٹرانس جینڈر افراد اگر دستیاب ہوں تو ممکنہ طور پر خاندانی رابطوں کے ذریعے رجسٹر ہو سکتے ہیں، یا متبادل انتظامات کے لیے ضلعی سطح پر عمل درآمد کمیٹیوں سے مدد حاصل کر سکتے ہیں۔"
+    },
+    {
+      "question": "Are there any age restrictions for GURU registration?",
+      "answer": "The policy doesn't specify age restrictions, but requires that the GURU must already have a CNIC, which implies they must be at least 18 years old or have proper identification.",
+      "urdu_question": "کیا گرو رجسٹریشن کے لیے عمر کی کوئی پابندیاں ہیں؟",
+      "urdu_answer": "پالیسی عمر کی پابندیوں کی وضاحت نہیں کرتی ہے، لیکن اس کے لیے ضروری ہے کہ گرو کے پاس پہلے سے ہی ایک CNIC ہونا چاہیے، جس سے یہ ظاہر ہوتا ہے کہ ان کی عمر کم از کم 18 سال ہونی چاہیے یا ان کی مناسب شناخت ہونی چاہیے۔"
+    },
+    {
+      "question": "How are disputes between transgender community members handled?",
+      "answer": "While not explicitly covered in the policy, disputes would likely be addressed through District Social Welfare Officers who verify GURU requests and oversee community registrations.",
+      "urdu_question": "ٹرانسجینڈر کمیونٹی کے ارکان کے درمیان تنازعات کو کیسے نمٹا جاتا ہے؟",
+      "urdu_answer": "پالیسی میں واضح طور پر شامل نہ ہونے کے باوجود، تنازعات کو ڈسٹرکٹ سوشل ویلفیئر آفیسرز کے ذریعے حل کیا جائے گا جو GURU کی درخواستوں کی تصدیق کرتے ہیں اور کمیونٹی رجسٹریشن کی نگرانی کرتے ہیں۔"
+    },
+    {
+      "question": "Can a transgender person be both a GURU and a chaila?",
+      "answer": "The policy structure suggests these are distinct roles - a GURU is a mentor and head of community, while chailas are those under GURU guidance. However, a chaila could potentially become a GURU through proper registration.",
+      "urdu_question": "کیا ایک ٹرانس جینڈر شخص گرو اور چیلہ دونوں ہو سکتا ہے؟",
+      "urdu_answer": "پالیسی کا ڈھانچہ بتاتا ہے کہ یہ الگ الگ کردار ہیں - ایک گرو ایک سرپرست اور کمیونٹی کا سربراہ ہوتا ہے، جبکہ چالیس وہ ہوتے ہیں جو گرو کی رہنمائی میں ہوتے ہیں۔ تاہم، مناسب رجسٹریشن کے ذریعے چیلا ممکنہ طور پر گرو بن سکتا ہے۔"
+    },
+    {
+      "question": "What training do District Social Welfare Officers receive for transgender registration?",
+      "answer": "While not specified in the policy, officers would need training on transgender rights, sensitivity, the Transgender Persons Act 2018, and NADRA's registration procedures for this community.",
+      "urdu_question": "ٹرانس جینڈر رجسٹریشن کے لیے ڈسٹرکٹ سوشل ویلفیئر آفیسرز کونسی تربیت حاصل کرتے ہیں؟",
+      "urdu_answer": "اگرچہ پالیسی میں اس کی وضاحت نہیں کی گئی ہے، افسران کو ٹرانس جینڈر کے حقوق، حساسیت، ٹرانس جینڈر پرسنز ایکٹ 2018، اور اس کمیونٹی کے لیے نادرا کے رجسٹریشن کے طریقہ کار کے بارے میں تربیت کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "How does the policy address privacy concerns for transgender persons?",
+      "answer": "The policy respects self-perceived gender identity and provides institutional support through GURU systems and official committees, ensuring dignity and confidentiality in the registration process.",
+      "urdu_question": "پالیسی ٹرانس جینڈر افراد کے لیے رازداری کے خدشات کو کیسے حل کرتی ہے؟",
+      "urdu_answer": "پالیسی خود سمجھی جانے والی صنفی شناخت کا احترام کرتی ہے اور رجسٹریشن کے عمل میں وقار اور رازداری کو یقینی بناتے ہوئے GURU سسٹمز اور آفیشل کمیٹیوں کے ذریعے ادارہ جاتی مدد فراہم کرتی ہے۔"
+    },
+    {
+      "question": "Are transgender persons required to undergo medical verification for registration?",
+      "answer": "No, the policy is based on self-perceived gender identity as per the Transgender Persons Act 2018, without requiring medical verification or certificates.",
+      "urdu_question": "کیا ٹرانسجینڈر افراد کو رجسٹریشن کے لیے طبی تصدیق کروانا ضروری ہے؟",
+      "urdu_answer": "نہیں۔"
+    },
+    {
+      "question": "What happens if a transgender person has no family support and no GURU?",
+      "answer": "Such persons can seek assistance from District Level Implementation Committees whose function includes identifying and facilitating registration of transgender persons in the district.",
+      "urdu_question": "کیا ہوتا ہے اگر ایک ٹرانس جینڈر شخص کو خاندانی تعاون اور کوئی گرو نہ ہو؟",
+      "urdu_answer": "ایسے افراد ضلعی سطح پر عمل درآمد کمیٹیوں سے مدد حاصل کر سکتے ہیں جن کے کام میں ضلع میں خواجہ سراؤں کی شناخت اور رجسٹریشن میں سہولت فراہم کرنا شامل ہے۔"
+    },
+    {
+      "question": "Can transgender persons from other countries register under this policy?",
+      "answer": "The policy applies to transgender persons seeking Pakistani CNICs, so eligibility would depend on their Pakistani citizenship status and compliance with general NADRA registration requirements.",
+      "urdu_question": "کیا دوسرے ممالک کے ٹرانس جینڈر افراد اس پالیسی کے تحت رجسٹر ہو سکتے ہیں؟",
+      "urdu_answer": "اس پالیسی کا اطلاق خواجہ سراؤں پر ہوتا ہے جو پاکستانی شناختی کارڈ کے حصول کے خواہاں ہیں، اس لیے اہلیت کا انحصار ان کی پاکستانی شہریت کی حیثیت اور نادرا کے اندراج کے عمومی تقاضوں کی تعمیل پر ہوگا۔"
+    },
+    {
+      "question": "How are transgender minors handled under this registration policy?",
+      "answer": "The policy doesn't specifically address minors, but they would likely follow family registration procedures or receive special consideration through District Level Implementation Committees.",
+      "urdu_question": "اس رجسٹریشن پالیسی کے تحت ٹرانس جینڈر نابالغوں کو کیسے ہینڈل کیا جاتا ہے؟",
+      "urdu_answer": "پالیسی خاص طور پر نابالغوں کو مخاطب نہیں کرتی ہے، لیکن وہ ممکنہ طور پر خاندان کے اندراج کے طریقہ کار پر عمل کریں گے یا ضلعی سطح پر عمل درآمد کمیٹیوں کے ذریعے خصوصی توجہ حاصل کریں گے۔"
+    },
+    {
+      "question": "What quality assurance measures exist for transgender registration processing?",
+      "answer": "Quality assurance includes multiple verification levels through District Social Welfare Officers, Regional Head Offices, biometric verification of GURUs, and oversight by Provincial and District Level Monitoring Committees.",
+      "urdu_question": "ٹرانسجینڈر رجسٹریشن پروسیسنگ کے لیے کوالٹی ایشورنس کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "کوالٹی اشورینس میں ڈسٹرکٹ سوشل ویلفیئر آفیسرز، ریجنل ہیڈ آفسز، گروز کی بائیو میٹرک تصدیق، اور صوبائی اور ضلعی سطح کی مانیٹرنگ کمیٹیوں کی نگرانی کے ذریعے متعدد تصدیقی درجات شامل ہیں۔"
+    },
+    {
+      "question": "Can Provincial Level Monitoring Committees override local decisions?",
+      "answer": "Yes, Provincial Level Committees monitor progress and pass requisite directions to District Level Committees, indicating they have supervisory authority over local implementation.",
+      "urdu_question": "کیا صوبائی سطح کی مانیٹرنگ کمیٹیاں مقامی فیصلوں کو زیر کر سکتی ہیں؟",
+      "urdu_answer": "ہاں، صوبائی سطح کی کمیٹیاں پیشرفت کی نگرانی کرتی ہیں اور ضلعی سطح کی کمیٹیوں کو مطلوبہ ہدایات دیتی ہیں، جس سے یہ ظاہر ہوتا ہے کہ ان کے پاس مقامی نفاذ پر نگران اختیار ہے۔"
+    },
+    {
+      "question": "How often do monitoring committees meet to review transgender registration progress?",
+      "answer": "The policy doesn't specify meeting frequency, but committees are established for ongoing monitoring, suggesting regular reviews of registration progress and identification of issues.",
+      "urdu_question": "ٹرانس جینڈر رجسٹریشن کی پیشرفت کا جائزہ لینے کے لیے مانیٹرنگ کمیٹیاں کتنی بار میٹنگ کرتی ہیں؟",
+      "urdu_answer": "پالیسی میٹنگ فریکوئنسی کی وضاحت نہیں کرتی ہے، لیکن کمیٹیاں جاری نگرانی کے لیے قائم کی گئی ہیں، جو رجسٹریشن کی پیشرفت اور مسائل کی نشاندہی کے باقاعدہ جائزے تجویز کرتی ہیں۔"
+    },
+    {
+      "question": "What happens if a GURU moves to a different district?",
+      "answer": "Since GURU registration is maintained at HQ NADRA through Regional Head Offices, the registration should remain valid across districts, though local District Social Welfare Officer verification may be needed for new chailas.",
+      "urdu_question": "اگر کوئی گرو کسی دوسرے ضلع میں چلا جائے تو کیا ہوگا؟",
+      "urdu_answer": "چونکہ GURU رجسٹریشن ہیڈکوارٹر نادرا میں ریجنل ہیڈ آفسز کے ذریعے برقرار رکھی جاتی ہے، اس لیے رجسٹریشن تمام اضلاع میں کارآمد رہے گی، حالانکہ نئے چیلوں کے لیے مقامی ڈسٹرکٹ سوشل ویلفیئر آفیسر کی تصدیق کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Are there any fees associated with GURU registration?",
+      "answer": "The policy mentions free CNIC issuance for transgender persons, and only requires a Rs. 20/- affidavit for GURU registration, making the process financially accessible.",
+      "urdu_question": "کیا GURU رجسٹریشن کے ساتھ کوئی فیس وابستہ ہے؟",
+      "urdu_answer": "پالیسی میں ٹرانس جینڈر افراد کے لیے مفت CNIC جاری کرنے کا ذکر ہے، اور اس کے لیے صرف روپے درکار ہیں۔ GURU رجسٹریشن کے لیے 20/- حلف نامہ، اس عمل کو مالی طور پر قابل رسائی بناتا ہے۔"
+    },
+    {
+      "question": "How does the policy integrate with other NADRA services?",
+      "answer": "The policy integrates with standard NADRA registration procedures while providing special provisions, ensuring transgender persons have access to all NADRA services including family registration and document services.",
+      "urdu_question": "پالیسی نادرا کی دیگر خدمات کے ساتھ کیسے ضم ہوتی ہے؟",
+      "urdu_answer": "یہ پالیسی نادرا رجسٹریشن کے معیاری طریقہ کار کے ساتھ مربوط ہے جبکہ خصوصی دفعات فراہم کرتے ہوئے اس بات کو یقینی بناتے ہوئے کہ خواجہ سراؤں کو خاندانی رجسٹریشن اور دستاویز کی خدمات سمیت نادرا کی تمام خدمات تک رسائی حاصل ہو۔"
+    },
+    {
+      "question": "What appeal process exists if transgender registration is denied?",
+      "answer": "While not explicitly stated, appeals could likely be made through District Level Implementation Committees, Provincial Level Monitoring Committees, or standard NADRA grievance procedures.",
+      "urdu_question": "اگر ٹرانسجینڈر رجسٹریشن سے انکار کر دیا جاتا ہے تو اپیل کا کیا عمل موجود ہے؟",
+      "urdu_answer": "اگرچہ واضح طور پر بیان نہیں کیا گیا ہے، ممکنہ طور پر ضلعی سطح پر عمل درآمد کمیٹیوں، صوبائی سطح کی مانیٹرنگ کمیٹیوں، یا نادرا کی شکایت کے معیاری طریقہ کار کے ذریعے اپیلیں کی جا سکتی ہیں۔"
+    },
+    {
+      "question": "How are name changes handled for transgender persons?",
+      "answer": "Name changes would follow standard NADRA modification procedures, with the policy ensuring that self-perceived gender identity is respected throughout the process.",
+      "urdu_question": "ٹرانس جینڈر افراد کے نام کی تبدیلیوں کو کیسے سنبھالا جاتا ہے؟",
+      "urdu_answer": "نام کی تبدیلیاں نادرا کی ترمیم کے معیاری طریقہ کار کی پیروی کریں گی، اس پالیسی کے ساتھ اس بات کو یقینی بنایا جائے گا کہ خود سمجھی جانے والی صنفی شناخت کا پورے عمل میں احترام کیا جائے۔"
+    },
+    {
+      "question": "Can transgender persons register if they live alone (not with family or GURU)?",
+      "answer": "Such cases may require special consideration through District Level Implementation Committees, who are tasked with identifying and facilitating registration of all transgender persons in their district.",
+      "urdu_question": "کیا ٹرانس جینڈر افراد رجسٹر کر سکتے ہیں اگر وہ اکیلے رہتے ہیں (خاندان یا گرو کے ساتھ نہیں)؟",
+      "urdu_answer": "ایسے معاملات پر ضلعی سطح پر عمل درآمد کمیٹیوں کے ذریعے خصوصی غور کرنے کی ضرورت ہو سکتی ہے، جنہیں ان کے ضلع میں تمام ٹرانس جینڈر افراد کی شناخت اور ان کی رجسٹریشن میں سہولت فراہم کرنے کا کام سونپا گیا ہے۔"
+    },
+    {
+      "question": "What coordination exists between different provinces for transgender registration?",
+      "answer": "Provincial Level Monitoring Committees in each province ensure standardized implementation, while HQ NADRA through Regional Head Offices maintains centralized GURU registration for consistency.",
+      "urdu_question": "ٹرانس جینڈر رجسٹریشن کے لیے مختلف صوبوں کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "ہر صوبے میں صوبائی سطح کی مانیٹرنگ کمیٹیاں معیاری عمل درآمد کو یقینی بناتی ہیں، جبکہ ہیڈکوارٹر نادرا ریجنل ہیڈ آفسز کے ذریعے سنٹرلائزڈ GURU رجسٹریشن کو برقرار رکھتا ہے۔"
+    },
+    {
+      "question": "How does the policy address intersex individuals?",
+      "answer": "While focused on transgender persons, the policy's emphasis on self-perceived gender identity and non-discrimination principles would likely extend to intersex individuals seeking registration.",
+      "urdu_question": "پالیسی انٹرسیکس افراد کو کیسے مخاطب کرتی ہے؟",
+      "urdu_answer": "ٹرانس جینڈر افراد پر توجہ مرکوز کرتے ہوئے، پالیسی کا زور خود سمجھی جانے والی صنفی شناخت اور غیر امتیازی اصولوں پر ممکنہ طور پر رجسٹریشن کے خواہاں انٹر جنس افراد تک پھیلے گا۔"
+    },
+    {
+      "question": "What documentation is provided to confirm GURU status?",
+      "answer": "GURU registration in NADRA database serves as official documentation, allowing GURUs to facilitate chaila registrations and serve as head of household for community members.",
+      "urdu_question": "گرو کی حیثیت کی تصدیق کے لیے کونسی دستاویزات فراہم کی جاتی ہیں؟",
+      "urdu_answer": "نادرا ڈیٹا بیس میں گرو کی رجسٹریشن سرکاری دستاویزات کے طور پر کام کرتی ہے، جس سے گرو کو چیلہ رجسٹریشن کی سہولت فراہم کی جاتی ہے اور کمیونٹی ممبران کے لیے گھر کے سربراہ کے طور پر کام کرتے ہیں۔"
+    },
+    {
+      "question": "Are there geographical limitations for GURU-chaila relationships?",
+      "answer": "The policy doesn't specify geographical limitations, suggesting GURU-chaila relationships can exist across districts, with verification handled through appropriate District Social Welfare Officers.",
+      "urdu_question": "کیا گرو-چائلہ تعلقات کے لیے جغرافیائی حدود ہیں؟",
+      "urdu_answer": "پالیسی جغرافیائی حدود کی وضاحت نہیں کرتی ہے، تجویز کرتی ہے کہ اضلاع میں GURU-chaila تعلقات موجود ہوسکتے ہیں، جس کی تصدیق مناسب ڈسٹرکٹ سوشل ویلفیئر آفیسرز کے ذریعے کی جاتی ہے۔"
+    },
+    {
+      "question": "How does the policy ensure culturally sensitive service delivery?",
+      "answer": "By recognizing traditional GURU-chaila community structures, providing dedicated committees with social welfare expertise, and emphasizing dignity and equal rights in service delivery.",
+      "urdu_question": "پالیسی ثقافتی طور پر حساس خدمات کی فراہمی کو کیسے یقینی بناتی ہے؟",
+      "urdu_answer": "گرو-چیلا کمیونٹی کے روایتی ڈھانچے کو تسلیم کرتے ہوئے، سماجی بہبود کی مہارت کے ساتھ وقف کمیٹیوں کو فراہم کرتے ہوئے، اور خدمت کی فراہمی میں وقار اور مساوی حقوق پر زور دیتے ہوئے"
+    },
+    {
+      "question": "What happens if community structures change over time?",
+      "answer": "The policy allows for addition of new chailas through additional affidavits, showing flexibility to accommodate changing community dynamics while maintaining proper documentation.",
+      "urdu_question": "اگر وقت کے ساتھ ساتھ کمیونٹی کے ڈھانچے بدل جائیں تو کیا ہوگا؟",
+      "urdu_answer": "یہ پالیسی اضافی حلف ناموں کے ذریعے نئے چیلوں کو شامل کرنے کی اجازت دیتی ہے، جو مناسب دستاویزات کو برقرار رکھتے ہوئے کمیونٹی کی تبدیلیوں کو ایڈجسٹ کرنے کے لیے لچک دکھاتی ہے۔"
+    },
+    {
+      "question": "Can international transgender persons benefit from this policy if residing in Pakistan?",
+      "answer": "The policy applies to those seeking Pakistani CNICs, so international transgender persons would need to meet standard Pakistani citizenship or residency requirements for NADRA registration.",
+      "urdu_question": "کیا بین الاقوامی ٹرانس جینڈر افراد اس پالیسی سے فائدہ اٹھا سکتے ہیں اگر پاکستان میں رہتے ہیں؟",
+      "urdu_answer": "یہ پالیسی ان لوگوں پر لاگو ہوتی ہے جو پاکستانی CNICs کے خواہاں ہیں، لہذا بین الاقوامی ٹرانس جینڈر افراد کو نادرا رجسٹریشن کے لیے معیاری پاکستانی شہریت یا رہائش کے تقاضوں کو پورا کرنے کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "How does the policy address emergency registration needs?",
+      "answer": "With 7-day processing times, executive category service, and mobile van services available on request, the policy provides relatively quick response to urgent registration needs.",
+      "urdu_question": "پالیسی ہنگامی رجسٹریشن کی ضروریات کو کیسے پورا کرتی ہے؟",
+      "urdu_answer": "درخواست پر دستیاب 7 دن کے پروسیسنگ اوقات، ایگزیکٹو کیٹیگری سروس، اور موبائل وین سروسز کے ساتھ، یہ پالیسی فوری رجسٹریشن کی ضروریات کے لیے نسبتاً فوری جواب فراہم کرتی ہے۔"
+    },
+    {
+      "question": "What role do 'Other members as per Notification' play in committees?",
+      "answer": "These members likely include community representatives, legal experts, or other stakeholders identified by government notifications to provide additional expertise and community representation.",
+      "urdu_question": "کمیٹیوں میں 'نوٹیفکیشن کے مطابق دیگر اراکین' کیا کردار ادا کرتے ہیں؟",
+      "urdu_answer": "ان اراکین میں ممکنہ طور پر کمیونٹی کے نمائندے، قانونی ماہرین، یا دیگر اسٹیک ہولڈرز شامل ہیں جن کی شناخت حکومتی اطلاعات کے ذریعے کی گئی ہے تاکہ اضافی مہارت اور کمیونٹی کی نمائندگی فراہم کی جا سکے۔"
+    },
+    {
+      "question": "How are success metrics defined for transgender registration initiatives?",
+      "answer": "While not explicitly stated, Provincial Level Monitoring Committees track progress, suggesting metrics include registration numbers, processing times, community satisfaction, and barrier identification.",
+      "urdu_question": "ٹرانسجینڈر رجسٹریشن کے اقدامات کے لیے کامیابی کے میٹرکس کی وضاحت کیسے کی جاتی ہے؟",
+      "urdu_answer": "اگرچہ واضح طور پر نہیں کہا گیا ہے، صوبائی سطح کی مانیٹرنگ کمیٹیاں پیشرفت کو ٹریک کرتی ہیں، تجویز کرنے والے میٹرکس میں رجسٹریشن نمبر، پروسیسنگ کے اوقات، کمیونٹی کا اطمینان، اور رکاوٹ کی شناخت شامل ہیں۔"
+    },
+    {
+      "question": "What safeguards exist against discrimination during the registration process?",
+      "answer": "Safeguards include dedicated monitoring committees, trained social welfare officers, emphasis on constitutional rights, legal backing from Transgender Persons Act 2018, and Supreme Court mandate for facilitation.",
+      "urdu_question": "رجسٹریشن کے عمل کے دوران امتیازی سلوک کے خلاف کیا تحفظات موجود ہیں؟",
+      "urdu_answer": "حفاظتی اقدامات میں وقف مانیٹرنگ کمیٹیاں، تربیت یافتہ سماجی بہبود کے افسران، آئینی حقوق پر زور، ٹرانس جینڈر پرسنز ایکٹ 2018 سے قانونی حمایت، اور سہولت کے لیے سپریم کورٹ کا مینڈیٹ شامل ہیں۔"
+    },
+    {
+      "question": "Can transgender persons access all NADRA services equally after registration?",
+      "answer": "Yes, once registered, transgender persons should have equal access to all NADRA services including document modifications, family registration certificates, and other identity-related services.",
+      "urdu_question": "کیا ٹرانسجینڈر افراد رجسٹریشن کے بعد نادرا کی تمام سروسز تک یکساں رسائی حاصل کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، ایک بار رجسٹر ہونے کے بعد، ٹرانس جینڈر افراد کو نادرا کی تمام سروسز بشمول دستاویزات میں ترمیم، فیملی رجسٹریشن سرٹیفکیٹ، اور شناخت سے متعلق دیگر خدمات تک مساوی رسائی حاصل ہونی چاہیے۔"
+    },
+    {
+      "question": "How does the policy address rural versus urban transgender populations?",
+      "answer": "Mobile Registration Vans/Manpack services and district-level implementation committees ensure rural areas are covered, while the policy applies uniformly across urban and rural settings.",
+      "urdu_question": "پالیسی دیہی بمقابلہ شہری ٹرانس جینڈر آبادی کو کیسے حل کرتی ہے؟",
+      "urdu_answer": "موبائل رجسٹریشن وین/مین پیک سروسز اور ضلعی سطح پر عمل درآمد کمیٹیاں دیہی علاقوں کا احاطہ کرنے کو یقینی بناتی ہیں، جبکہ یہ پالیسی شہری اور دیہی ترتیبات پر یکساں طور پر لاگو ہوتی ہے۔"
+    },
+    {
+      "question": "What ongoing support is provided after initial registration?",
+      "answer": "Ongoing support includes continued monitoring through established committees, access to mobile services when needed, and integration into standard NADRA service framework for future needs.",
+      "urdu_question": "ابتدائی رجسٹریشن کے بعد کون سی جاری مدد فراہم کی جاتی ہے؟",
+      "urdu_answer": "جاری تعاون میں قائم کمیٹیوں کے ذریعے مسلسل نگرانی، ضرورت پڑنے پر موبائل سروسز تک رسائی، اور مستقبل کی ضروریات کے لیے معیاری نادرا سروس فریم ورک میں انضمام شامل ہے۔"
+    },
+    {
+      "question": "How does this policy complement broader transgender rights legislation?",
+      "answer": "The policy operationalizes rights guaranteed under the Transgender Persons Act 2018 and Constitution of Pakistan, providing practical implementation of legal protections through accessible registration procedures.",
+      "urdu_question": "یہ پالیسی ٹرانسجینڈر حقوق کی وسیع تر قانون سازی کی تکمیل کیسے کرتی ہے؟",
+      "urdu_answer": "یہ پالیسی ٹرانس جینڈر پرسنز ایکٹ 2018 اور پاکستان کے آئین کے تحت ضمانت یافتہ حقوق کو عملی شکل دیتی ہے، جو قابل رسائی رجسٹریشن کے طریقہ کار کے ذریعے قانونی تحفظات کا عملی نفاذ فراہم کرتی ہے۔"
+    }
+  ]
+}

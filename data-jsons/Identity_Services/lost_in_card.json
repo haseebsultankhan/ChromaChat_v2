@@ -1,0 +1,307 @@
+{
+  "file_name": "lost_id_card.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 50,
+  "qa_data": [
+    {
+      "question": "What should I do if my ID card is lost or stolen?",
+      "answer": "If your ID card is lost or stolen, you can get a reprint of your card by providing your card number and biometrics for authentication. No further documentation is needed for this process.",
+      "urdu_question": "اگر میرا شناختی کارڈ گم یا چوری ہو جائے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کا شناختی کارڈ گم یا چوری ہو جاتا ہے، تو آپ تصدیق کے لیے اپنا کارڈ نمبر اور بائیو میٹرکس فراہم کر کے اپنے کارڈ کا دوبارہ پرنٹ حاصل کر سکتے ہیں۔ اس عمل کے لیے مزید دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "Do I need to provide documents for a lost ID card reprint?",
+      "answer": "No, you do not need to provide any documents for a lost ID card reprint. You only need to provide your card number and biometrics for authentication.",
+      "urdu_question": "کیا مجھے گمشدہ شناختی کارڈ کے دوبارہ پرنٹ کے لیے دستاویزات فراہم کرنے کی ضرورت ہے؟",
+      "urdu_answer": "نہیں، آپ کو گمشدہ شناختی کارڈ کے دوبارہ پرنٹ کے لیے کوئی دستاویزات فراہم کرنے کی ضرورت نہیں ہے۔ آپ کو تصدیق کے لیے صرف اپنا کارڈ نمبر اور بائیو میٹرکس فراہم کرنے کی ضرورت ہے۔"
+    },
+    {
+      "question": "What information do I need to provide for a lost ID card reprint?",
+      "answer": "You need to provide your card number and biometrics (for authentication purposes). No additional documentation is required.",
+      "urdu_question": "گمشدہ شناختی کارڈ کے دوبارہ پرنٹ کے لیے مجھے کون سی معلومات فراہم کرنے کی ضرورت ہے؟",
+      "urdu_answer": "آپ کو اپنا کارڈ نمبر اور بایومیٹرکس (تصدیق کے مقاصد کے لیے) فراہم کرنے کی ضرورت ہے۔ کسی اضافی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "How is my identity verified when applying for a lost ID card reprint?",
+      "answer": "Your identity is verified through biometrics authentication. The system will match your fingerprints and other biometric data to confirm your identity.",
+      "urdu_question": "گمشدہ شناختی کارڈ کے دوبارہ پرنٹ کے لیے درخواست دیتے وقت میری شناخت کی تصدیق کیسے کی جاتی ہے؟",
+      "urdu_answer": "آپ کی شناخت کی تصدیق بائیو میٹرکس کے ذریعے کی جاتی ہے۔ یہ سسٹم آپ کی شناخت کی تصدیق کے لیے آپ کے فنگر پرنٹس اور دیگر بائیو میٹرک ڈیٹا سے میل کرے گا۔"
+    },
+    {
+      "question": "Will my new ID card have the same expiration date as the lost one?",
+      "answer": "Yes, the newly issued ID card will have the same expiration date as the old one that was lost or stolen.",
+      "urdu_question": "کیا میرے نئے شناختی کارڈ کی میعاد ختم ہونے کی تاریخ وہی ہوگی جو گمشدہ ہے؟",
+      "urdu_answer": "جی ہاں، نئے جاری کردہ شناختی کارڈ کی میعاد ختم ہونے کی تاریخ وہی ہوگی جو پرانا گم یا چوری ہو گیا تھا۔"
+    },
+    {
+      "question": "Does the reprint process change my card's validity period?",
+      "answer": "No, the reprint process does not change your card's validity period. The new card will maintain the same expiration date as your original lost card.",
+      "urdu_question": "کیا دوبارہ پرنٹ کرنے کا عمل میرے کارڈ کی میعاد کو تبدیل کرتا ہے؟",
+      "urdu_answer": "نہیں، دوبارہ پرنٹ کرنے کا عمل آپ کے کارڈ کی میعاد کو تبدیل نہیں کرتا ہے۔ نیا کارڈ آپ کے اصل گمشدہ کارڈ کے طور پر ختم ہونے کی تاریخ کو برقرار رکھے گا۔"
+    },
+    {
+      "question": "Can I get a reprint if my ID card was stolen?",
+      "answer": "Yes, you can get a reprint whether your ID card was lost or stolen. The same process applies - provide your card number and biometrics for authentication.",
+      "urdu_question": "اگر میرا شناختی کارڈ چوری ہو گیا تو کیا میں دوبارہ پرنٹ کروا سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ دوبارہ پرنٹ کروا سکتے ہیں چاہے آپ کا شناختی کارڈ گم ہو گیا ہو یا چوری ہو گیا ہو۔ یہی عمل لاگو ہوتا ہے - تصدیق کے لیے اپنا کارڈ نمبر اور بائیو میٹرکس فراہم کریں۔"
+    },
+    {
+      "question": "Do I need to file a police report for a stolen ID card before getting a reprint?",
+      "answer": "Based on the reprint process, no police report is required for getting a reprint of a lost or stolen ID card. You only need your card number and biometric verification.",
+      "urdu_question": "کیا مجھے دوبارہ پرنٹ کروانے سے پہلے چوری شدہ شناختی کارڈ کے لیے پولیس رپورٹ درج کرنے کی ضرورت ہے؟",
+      "urdu_answer": "دوبارہ پرنٹ کرنے کے عمل کی بنیاد پر، گمشدہ یا چوری شدہ شناختی کارڈ کی دوبارہ پرنٹ حاصل کرنے کے لیے کسی پولیس رپورٹ کی ضرورت نہیں ہے۔ آپ کو صرف اپنے کارڈ نمبر اور بائیو میٹرک تصدیق کی ضرورت ہے۔"
+    },
+    {
+      "question": "What if I don't remember my card number for the reprint?",
+      "answer": "While the standard process requires your card number, you should contact NADRA directly if you don't remember it. Your biometric data may help them locate your record in their system.",
+      "urdu_question": "کیا ہوگا اگر مجھے دوبارہ پرنٹ کے لیے اپنا کارڈ نمبر یاد نہیں ہے؟",
+      "urdu_answer": "اگرچہ معیاری عمل کے لیے آپ کا کارڈ نمبر درکار ہے، لیکن اگر آپ کو یہ یاد نہیں ہے تو آپ کو براہ راست نادرا سے رابطہ کرنا چاہیے۔ آپ کا بائیو میٹرک ڈیٹا ان کے سسٹم میں آپ کا ریکارڈ تلاش کرنے میں ان کی مدد کر سکتا ہے۔"
+    },
+    {
+      "question": "Can someone else apply for a reprint of my lost ID card on my behalf?",
+      "answer": "No, since biometric authentication is required for verification, you must personally visit the NADRA center to apply for a reprint of your lost ID card.",
+      "urdu_question": "کیا کوئی اور میری طرف سے میرے کھوئے ہوئے شناختی کارڈ کے دوبارہ پرنٹ کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "نہیں، چونکہ تصدیق کے لیے بائیو میٹرک تصدیق کی ضرورت ہے، اس لیے آپ کو اپنے کھوئے ہوئے شناختی کارڈ کے دوبارہ پرنٹ کے لیے درخواست دینے کے لیے ذاتی طور پر نادرا سینٹر جانا چاہیے۔"
+    },
+    {
+      "question": "How long does it take to get a reprint of a lost ID card?",
+      "answer": "The processing time for a reprint would follow the standard NADRA processing categories: Normal (30 days), Urgent (12 days), or Executive (7 days), depending on which service level you choose.",
+      "urdu_question": "گمشدہ شناختی کارڈ کا دوبارہ پرنٹ کروانے میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "دوبارہ پرنٹ کے لیے پروسیسنگ کا وقت معیاری NADRA پروسیسنگ زمروں کی پیروی کرے گا: نارمل (30 دن)، ارجنٹ (12 دن)، یا ایگزیکٹو (7 دن)، اس پر منحصر ہے کہ آپ کس سروس لیول کا انتخاب کرتے ہیں۔"
+    },
+    {
+      "question": "Is there a fee for reprinting a lost ID card?",
+      "answer": "Yes, there is a fee for reprinting a lost ID card. The fee would be the same as the standard CNIC modification/duplicate fee according to the processing category you select.",
+      "urdu_question": "کیا گمشدہ شناختی کارڈ کو دوبارہ پرنٹ کرنے کی کوئی فیس ہے؟",
+      "urdu_answer": "جی ہاں، کھوئے ہوئے شناختی کارڈ کو دوبارہ پرنٹ کرنے کی فیس ہے۔ فیس آپ کے منتخب کردہ پروسیسنگ زمرے کے مطابق معیاری CNIC ترمیم/ڈپلیکیٹ فیس کے برابر ہوگی۔"
+    },
+    {
+      "question": "Can I use PAK-ID app to apply for a lost ID card reprint?",
+      "answer": "Yes, you can use the PAK-ID mobile application to apply for a reprint of your lost ID card, as it provides various NADRA services including document reprints.",
+      "urdu_question": "کیا میں کھوئے ہوئے شناختی کارڈ کے دوبارہ پرنٹ کے لیے درخواست دینے کے لیے PAK-ID ایپ استعمال کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ اپنے کھوئے ہوئے شناختی کارڈ کے دوبارہ پرنٹ کے لیے درخواست دینے کے لیے PAK-ID موبائل ایپلیکیشن استعمال کر سکتے ہیں، کیونکہ یہ نادرا کی مختلف خدمات فراہم کرتا ہے بشمول دستاویز کے دوبارہ پرنٹس۔"
+    },
+    {
+      "question": "What is the difference between a reprint and a duplicate card?",
+      "answer": "For lost or stolen cards, the process is essentially the same as getting a duplicate card. Both involve getting a replacement card with the same information and expiration date as the original.",
+      "urdu_question": "دوبارہ پرنٹ اور ڈپلیکیٹ کارڈ میں کیا فرق ہے؟",
+      "urdu_answer": "گمشدہ یا چوری شدہ کارڈز کے لیے، عمل بنیادی طور پر ڈپلیکیٹ کارڈ حاصل کرنے جیسا ہے۔ دونوں میں اصل معلومات اور میعاد ختم ہونے کی تاریخ کے ساتھ متبادل کارڈ حاصل کرنا شامل ہے۔"
+    },
+    {
+      "question": "Are there any security measures to prevent misuse of lost ID cards?",
+      "answer": "Yes, when you report your card as lost and get a reprint, the old card number may be flagged in the system to prevent misuse. The biometric verification requirement also adds security to the reprint process.",
+      "urdu_question": "کیا گمشدہ شناختی کارڈ کے غلط استعمال کو روکنے کے لیے کوئی حفاظتی اقدامات ہیں؟",
+      "urdu_answer": "ہاں، جب آپ اپنے کارڈ کے گم ہونے کی اطلاع دیتے ہیں اور دوبارہ پرنٹ کرواتے ہیں، تو غلط استعمال کو روکنے کے لیے پرانے کارڈ نمبر کو سسٹم میں جھنڈا لگایا جا سکتا ہے۔ بائیو میٹرک تصدیق کی ضرورت بھی دوبارہ پرنٹ کے عمل میں سیکیورٹی کا اضافہ کرتی ہے۔"
+    },
+    {
+      "question": "Will my new reprinted card have the same card number as the lost one?",
+      "answer": "While the reprint process gives you a replacement card, specific details about whether the card number remains the same would need to be confirmed with NADRA, as security protocols may involve issuing a new number.",
+      "urdu_question": "کیا میرے نئے دوبارہ پرنٹ شدہ کارڈ میں گم شدہ کارڈ نمبر جیسا ہی ہوگا؟",
+      "urdu_answer": "جب کہ دوبارہ پرنٹ کرنے کا عمل آپ کو ایک متبادل کارڈ فراہم کرتا ہے، اس بارے میں مخصوص تفصیلات کہ آیا کارڈ نمبر وہی رہتا ہے اس کی تصدیق نادرا سے کرانی ہوگی، کیونکہ سیکیورٹی پروٹوکول میں نیا نمبر جاری کرنا شامل ہوسکتا ہے۔"
+    },
+    {
+      "question": "Can I get a reprint for any type of NADRA identity document?",
+      "answer": "The reprint process applies to various NADRA documents including CNIC, SNIC, NICOP, and other identity cards. The same basic process of providing card number and biometrics authentication applies.",
+      "urdu_question": "کیا میں کسی بھی قسم کی نادرا شناختی دستاویز کے لیے دوبارہ پرنٹ حاصل کر سکتا ہوں؟",
+      "urdu_answer": "دوبارہ پرنٹ کرنے کا عمل نادرا کی مختلف دستاویزات بشمول CNIC، SNIC، NICOP، اور دیگر شناختی کارڈز پر لاگو ہوتا ہے۔ کارڈ نمبر فراہم کرنے اور بائیو میٹرکس کی توثیق کا ایک ہی بنیادی عمل لاگو ہوتا ہے۔"
+    },
+    {
+      "question": "What should I do immediately after discovering my ID card is lost?",
+      "answer": "You should visit the nearest NADRA center as soon as possible to apply for a reprint. Since no documents are required, you can start the process immediately by providing your card number and biometric verification.",
+      "urdu_question": "شناختی کارڈ کھو جانے کے فوراً بعد مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "دوبارہ پرنٹ کے لیے اپلائی کرنے کے لیے آپ کو جلد از جلد قریب ترین نادرا سینٹر جانا چاہیے۔ چونکہ کسی دستاویز کی ضرورت نہیں ہے، اس لیے آپ اپنا کارڈ نمبر اور بائیو میٹرک تصدیق فراہم کر کے فوری طور پر عمل شروع کر سکتے ہیں۔"
+    },
+    {
+      "question": "How many times can I get a reprint for lost ID cards?",
+      "answer": "While there's no specific limit mentioned, repeated requests for reprints due to lost cards may require additional verification or investigation to prevent potential misuse of the system.",
+      "urdu_question": "میں کھوئے ہوئے شناختی کارڈ کے لیے کتنی بار دوبارہ پرنٹ کروا سکتا ہوں؟",
+      "urdu_answer": "اگرچہ کوئی خاص حد کا ذکر نہیں کیا گیا ہے، گمشدہ کارڈز کی وجہ سے دوبارہ پرنٹس کی بار بار کی درخواستوں کے لیے سسٹم کے ممکنہ غلط استعمال کو روکنے کے لیے اضافی تصدیق یا تفتیش کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What happens to my old card number when I get a reprint?",
+      "answer": "When you report a card as lost and get a reprint, the old card information is likely flagged in the system to prevent its misuse if someone finds or attempts to use the original lost card.",
+      "urdu_question": "میرے پرانے کارڈ نمبر کا کیا ہوتا ہے جب میں دوبارہ پرنٹ کرتا ہوں؟",
+      "urdu_answer": "جب آپ کسی کارڈ کے گم ہونے کی اطلاع دیتے ہیں اور دوبارہ پرنٹ کرواتے ہیں تو، پرانے کارڈ کی معلومات کو ممکنہ طور پر سسٹم میں جھنڈا لگا دیا جاتا ہے تاکہ اس کے غلط استعمال کو روکنے کے لیے اگر کوئی اصل گمشدہ کارڈ تلاش کرتا ہے یا اسے استعمال کرنے کی کوشش کرتا ہے۔"
+    },
+    {
+      "question": "Can I track the status of my lost ID card reprint application?",
+      "answer": "Yes, you can track your reprint application status using NADRA's tracking systems including SMS services, PAK-ID app, website tracking portal, or by calling the helpline 1777.",
+      "urdu_question": "کیا میں اپنے کھوئے ہوئے شناختی کارڈ کے دوبارہ پرنٹ کی درخواست کی حیثیت کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ نادرا کے ٹریکنگ سسٹمز بشمول SMS سروسز، PAK-ID ایپ، ویب سائٹ ٹریکنگ پورٹل، یا ہیلپ لائن 1777 پر کال کرکے اپنی دوبارہ پرنٹ کی درخواست کی حیثیت کا پتہ لگاسکتے ہیں۔"
+    },
+    {
+      "question": "What if my biometrics are damaged or not readable for the reprint?",
+      "answer": "If your biometrics cannot be captured properly, NADRA staff may use alternative verification methods or refer your case for special handling. Contact the center for guidance on alternative authentication procedures.",
+      "urdu_question": "کیا ہوگا اگر میرے بایومیٹرکس خراب ہو جائیں یا دوبارہ پرنٹ کے لیے پڑھنے کے قابل نہ ہوں؟",
+      "urdu_answer": "اگر آپ کے بایومیٹرکس کو صحیح طریقے سے نہیں لیا جا سکتا تو نادرا کا عملہ تصدیق کے متبادل طریقے استعمال کر سکتا ہے یا آپ کے کیس کو خصوصی ہینڈلنگ کے لیے بھیج سکتا ہے۔ متبادل تصدیقی طریقہ کار پر رہنمائی کے لیے مرکز سے رابطہ کریں۔"
+    },
+    {
+      "question": "Do I need to update my address when getting a reprint of lost ID card?",
+      "answer": "A reprint maintains the same information as your original card. If you need to update your address, you would need to apply for a modification service separately, which requires additional documentation.",
+      "urdu_question": "کیا گمشدہ شناختی کارڈ کا دوبارہ پرنٹ کرواتے وقت مجھے اپنا پتہ اپ ڈیٹ کرنا ہوگا؟",
+      "urdu_answer": "دوبارہ پرنٹ آپ کے اصل کارڈ جیسی معلومات کو برقرار رکھتا ہے۔ اگر آپ کو اپنا پتہ اپ ڈیٹ کرنے کی ضرورت ہے، تو آپ کو ترمیمی سروس کے لیے الگ سے درخواست دینے کی ضرورت ہوگی، جس کے لیے اضافی دستاویزات درکار ہیں۔"
+    },
+    {
+      "question": "Can I get urgent processing for a lost ID card reprint?",
+      "answer": "Yes, you can opt for urgent processing categories (Urgent or Executive) for your reprint, which will expedite the process but involve higher fees according to the chosen processing speed.",
+      "urdu_question": "کیا میں گمشدہ شناختی کارڈ کے دوبارہ پرنٹ کے لیے فوری کارروائی کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ اپنے دوبارہ پرنٹ کے لیے فوری پروسیسنگ کے زمرے (ارجنٹ یا ایگزیکٹو) کا انتخاب کر سکتے ہیں، جو عمل کو تیز کرے گا لیکن منتخب شدہ پروسیسنگ کی رفتار کے مطابق زیادہ فیسیں شامل کرے گا۔"
+    },
+    {
+      "question": "What centers can process lost ID card reprints?",
+      "answer": "Lost ID card reprints can be processed at any NADRA Registration Center (NRC) or through Mobile Registration Vans (MRV) that offer the full range of NADRA services.",
+      "urdu_question": "کون سے مراکز گمشدہ شناختی کارڈ کے دوبارہ پرنٹ پر کارروائی کر سکتے ہیں؟",
+      "urdu_answer": "گمشدہ شناختی کارڈ کے دوبارہ پرنٹس پر کسی بھی نادرا رجسٹریشن سینٹر (NRC) یا موبائل رجسٹریشن وین (MRV) کے ذریعے کارروائی کی جا سکتی ہے جو نادرا کی خدمات کی مکمل رینج پیش کرتی ہیں۔"
+    },
+    {
+      "question": "Will I get a receipt for my lost ID card reprint application?",
+      "answer": "Yes, you will receive a receipt with tracking information after submitting your reprint application, which you can use to track the status and collect your new card when ready.",
+      "urdu_question": "کیا مجھے اپنے کھوئے ہوئے شناختی کارڈ کے دوبارہ پرنٹ کی درخواست کی رسید مل جائے گی؟",
+      "urdu_answer": "ہاں، آپ کو اپنی دوبارہ پرنٹ کی درخواست جمع کروانے کے بعد ٹریکنگ کی معلومات کے ساتھ ایک رسید ملے گی، جسے آپ سٹیٹس کو ٹریک کرنے اور تیار ہونے پر اپنا نیا کارڈ جمع کرنے کے لیے استعمال کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I collect my reprinted card from a different center than where I applied?",
+      "answer": "Collection procedures may vary by center. Check with NADRA about inter-center collection options, or choose delivery service if available for your location.",
+      "urdu_question": "کیا میں اپنا دوبارہ پرنٹ شدہ کارڈ کسی دوسرے مرکز سے جمع کر سکتا ہوں جہاں میں نے درخواست دی تھی؟",
+      "urdu_answer": "جمع کرنے کے طریقہ کار مرکز کے لحاظ سے مختلف ہو سکتے ہیں۔ انٹر سنٹر جمع کرنے کے اختیارات کے بارے میں نادرا سے رابطہ کریں، یا اگر آپ کے مقام کے لیے دستیاب ہو تو ڈیلیوری سروس کا انتخاب کریں۔"
+    },
+    {
+      "question": "What if someone finds and misuses my lost ID card?",
+      "answer": "Since your lost card gets flagged in the system when you apply for a reprint, any attempt to misuse the original lost card should be detected by verification systems. Report any suspected misuse to NADRA immediately.",
+      "urdu_question": "اگر کوئی میرا کھویا ہوا شناختی کارڈ ڈھونڈ کر غلط استعمال کرتا ہے تو کیا ہوگا؟",
+      "urdu_answer": "چونکہ آپ کے کھوئے ہوئے کارڈ کو جب آپ دوبارہ پرنٹ کے لیے درخواست دیتے ہیں تو سسٹم میں جھنڈا لگ جاتا ہے، اس لیے اصل گمشدہ کارڈ کے غلط استعمال کی کسی بھی کوشش کا تصدیقی نظام کو پتہ لگانا چاہیے۔ کسی بھی مشتبہ غلط استعمال کی اطلاع فوری طور پر نادرا کو دیں۔"
+    },
+    {
+      "question": "Is there a time limit for applying for a reprint after losing my card?",
+      "answer": "There's no specific time limit mentioned for applying for a reprint after losing your card. However, it's advisable to apply as soon as possible to prevent potential misuse and to restore your identity documentation.",
+      "urdu_question": "کیا میرا کارڈ کھونے کے بعد دوبارہ پرنٹ کے لیے درخواست دینے کی کوئی مدت ہے؟",
+      "urdu_answer": "آپ کا کارڈ کھونے کے بعد دوبارہ پرنٹ کے لیے درخواست دینے کے لیے کوئی مخصوص وقت کی حد نہیں ہے۔ تاہم، ممکنہ غلط استعمال کو روکنے اور اپنی شناختی دستاویزات کو بحال کرنے کے لیے جلد از جلد درخواست دینے کا مشورہ دیا جاتا ہے۔"
+    },
+    {
+      "question": "Can I apply for reprint if my card was damaged beyond recognition?",
+      "answer": "Yes, if your card is damaged beyond recognition, the same reprint process applies. You need to provide your card number (if you remember it) and biometric authentication for verification.",
+      "urdu_question": "کیا میں دوبارہ پرنٹ کے لیے درخواست دے سکتا ہوں اگر میرا کارڈ شناخت سے زیادہ خراب ہو گیا ہو؟",
+      "urdu_answer": "ہاں، اگر آپ کا کارڈ شناخت سے زیادہ خراب ہو گیا ہے، تو وہی دوبارہ پرنٹ کرنے کا عمل لاگو ہوتا ہے۔ تصدیق کے لیے آپ کو اپنا کارڈ نمبر (اگر آپ کو یاد ہے) اور بائیو میٹرک تصدیق فراہم کرنے کی ضرورت ہے۔"
+    },
+    {
+      "question": "What should I bring to the NADRA center for a lost card reprint?",
+      "answer": "You only need to bring yourself for biometric verification and your card number information. No documents are required for the lost card reprint process.",
+      "urdu_question": "گمشدہ کارڈ کے دوبارہ پرنٹ کے لیے مجھے نادرا سنٹر میں کیا لانا چاہیے؟",
+      "urdu_answer": "آپ کو صرف اپنے آپ کو بائیو میٹرک تصدیق اور اپنے کارڈ نمبر کی معلومات کے لیے لانے کی ضرورت ہے۔ گم شدہ کارڈ کے دوبارہ پرنٹ کے عمل کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "Can I get a reprint if my card was lost outside Pakistan?",
+      "answer": "Yes, you can apply for a reprint when you return to Pakistan or at Pakistani consulates abroad if they offer NADRA services. The same process of card number and biometric verification applies.",
+      "urdu_question": "اگر میرا کارڈ پاکستان سے باہر گم ہو جائے تو کیا میں دوبارہ پرنٹ کروا سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ پاکستان واپس آنے پر یا بیرون ملک پاکستانی قونصل خانوں میں دوبارہ پرنٹ کے لیے درخواست دے سکتے ہیں اگر وہ نادرا کی خدمات پیش کرتے ہیں۔ کارڈ نمبر اور بائیو میٹرک تصدیق کا ایک ہی عمل لاگو ہوتا ہے۔"
+    },
+    {
+      "question": "What is the difference between lost, stolen, and damaged card reprint procedures?",
+      "answer": "The reprint procedure is the same for lost, stolen, or damaged cards - you provide your card number and biometric authentication. No additional documentation is required regardless of how the card was lost or damaged.",
+      "urdu_question": "گم شدہ، چوری، اور خراب شدہ کارڈ کے دوبارہ پرنٹ کے طریقہ کار میں کیا فرق ہے؟",
+      "urdu_answer": "دوبارہ پرنٹ کرنے کا طریقہ کار گمشدہ، چوری شدہ یا خراب شدہ کارڈز کے لیے یکساں ہے - آپ اپنا کارڈ نمبر اور بائیو میٹرک تصدیق فراہم کرتے ہیں۔ کسی اضافی دستاویزات کی ضرورت نہیں ہے قطع نظر اس کے کہ کارڈ کیسے کھو گیا یا خراب ہوا۔"
+    },
+    {
+      "question": "Will my family members be notified when I apply for a lost card reprint?",
+      "answer": "The reprint process is an individual procedure. Family members are not automatically notified, though you may choose to inform them yourself for security and reference purposes.",
+      "urdu_question": "کیا میرے خاندان کے ارکان کو مطلع کیا جائے گا جب میں گمشدہ کارڈ کے دوبارہ پرنٹ کے لیے درخواست دیتا ہوں؟",
+      "urdu_answer": "دوبارہ پرنٹ کرنے کا عمل ایک انفرادی طریقہ کار ہے۔ خاندان کے ممبران کو خود بخود مطلع نہیں کیا جاتا ہے، حالانکہ آپ سیکورٹی اور حوالہ کے مقاصد کے لیے انہیں خود مطلع کرنے کا انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I apply for reprint online without visiting a center?",
+      "answer": "While PAK-ID app offers various NADRA services, biometric verification for lost card reprints typically requires physical presence. Check the app for current online service availability for reprints.",
+      "urdu_question": "کیا میں سنٹر کا دورہ کیے بغیر آن لائن دوبارہ پرنٹ کے لیے درخواست دے سکتا ہوں؟",
+      "urdu_answer": "جبکہ PAK-ID ایپ نادرا کی مختلف خدمات پیش کرتی ہے، گمشدہ کارڈ کے دوبارہ پرنٹس کی بائیو میٹرک تصدیق کے لیے عام طور پر جسمانی موجودگی کی ضرورت ہوتی ہے۔ ری پرنٹس کے لیے موجودہ آن لائن سروس کی دستیابی کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "What if there are changes in my biometrics since the original card was issued?",
+      "answer": "Minor changes in biometrics due to aging or minor injuries typically don't affect the verification process. If there are significant changes, NADRA staff can guide you through alternative verification methods.",
+      "urdu_question": "کیا ہوگا اگر اصل کارڈ جاری ہونے کے بعد سے میرے بائیو میٹرکس میں تبدیلیاں ہوں؟",
+      "urdu_answer": "عمر بڑھنے یا معمولی چوٹوں کی وجہ سے بائیو میٹرکس میں معمولی تبدیلیاں عام طور پر تصدیق کے عمل کو متاثر نہیں کرتی ہیں۔ اگر کوئی اہم تبدیلیاں ہوتی ہیں تو نادرا کا عملہ تصدیق کے متبادل طریقوں کے ذریعے آپ کی رہنمائی کر سکتا ہے۔"
+    },
+    {
+      "question": "Do I need my original application form for the reprint?",
+      "answer": "No, you do not need your original application form or any other documents for a lost card reprint. Only your card number and biometric verification are required.",
+      "urdu_question": "کیا مجھے دوبارہ پرنٹ کے لیے اپنا اصل درخواست فارم درکار ہے؟",
+      "urdu_answer": "نہیں، گم شدہ کارڈ کے دوبارہ پرنٹ کے لیے آپ کو اپنے اصل درخواست فارم یا کسی اور دستاویزات کی ضرورت نہیں ہے۔ صرف آپ کا کارڈ نمبر اور بائیو میٹرک تصدیق درکار ہے۔"
+    },
+    {
+      "question": "Can I request delivery service for my reprinted card?",
+      "answer": "Delivery services may be available depending on your location and the services offered at your NADRA center. Check with the center about delivery options and any additional fees.",
+      "urdu_question": "کیا میں اپنے دوبارہ پرنٹ شدہ کارڈ کے لیے ڈیلیوری سروس کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "آپ کے مقام اور آپ کے نادرا سینٹر میں پیش کی جانے والی خدمات کے لحاظ سے ڈیلیوری کی خدمات دستیاب ہو سکتی ہیں۔ ڈیلیوری کے اختیارات اور کسی بھی اضافی فیس کے بارے میں مرکز سے رابطہ کریں۔"
+    },
+    {
+      "question": "What happens if I find my original card after getting a reprint?",
+      "answer": "If you find your original card after getting a reprint, you should inform NADRA. The original card may have been deactivated in the system, so the new reprinted card should be your primary identity document.",
+      "urdu_question": "اگر دوبارہ پرنٹ کروانے کے بعد مجھے اپنا اصل کارڈ مل جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر دوبارہ پرنٹ کروانے کے بعد آپ کو اپنا اصل کارڈ مل جائے تو آپ کو نادرا کو مطلع کرنا چاہیے۔ ہو سکتا ہے اصل کارڈ سسٹم میں غیر فعال ہو گیا ہو، اس لیے دوبارہ پرنٹ شدہ کارڈ آپ کا بنیادی شناختی دستاویز ہونا چاہیے۔"
+    },
+    {
+      "question": "Can I get a reprint if my card was lost due to natural disaster?",
+      "answer": "Yes, the same reprint process applies regardless of how the card was lost, including natural disasters. NADRA may have special procedures or fee waivers for disaster-affected areas.",
+      "urdu_question": "کیا میں دوبارہ پرنٹ کروا سکتا ہوں اگر میرا کارڈ قدرتی آفت کی وجہ سے گم ہو گیا ہو؟",
+      "urdu_answer": "جی ہاں، دوبارہ پرنٹ کرنے کا وہی عمل لاگو ہوتا ہے قطع نظر اس کے کہ کارڈ کیسے کھو گیا، بشمول قدرتی آفات۔ نادرا کے پاس آفت سے متاثرہ علاقوں کے لیے خصوصی طریقہ کار یا فیس میں چھوٹ ہو سکتی ہے۔"
+    },
+    {
+      "question": "Are there any restrictions on who can apply for lost card reprints?",
+      "answer": "The cardholder themselves must apply for the reprint since biometric verification is required. No one else can apply on behalf of the cardholder due to security requirements.",
+      "urdu_question": "کیا اس پر کوئی پابندیاں ہیں کہ گم شدہ کارڈ کے دوبارہ پرنٹ کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "کارڈ ہولڈر کو خود ہی دوبارہ پرنٹ کے لیے درخواست دینی ہوگی کیونکہ بائیو میٹرک تصدیق کی ضرورت ہے۔ سیکورٹی کے تقاضوں کی وجہ سے کارڈ ہولڈر کی جانب سے کوئی اور درخواست نہیں دے سکتا۔"
+    },
+    {
+      "question": "Can I get a reprint if my card expired before it was lost?",
+      "answer": "If your card was expired when lost, you might need to apply for renewal rather than reprint. The reprint process is for valid cards that were lost. Check with NADRA for the appropriate procedure.",
+      "urdu_question": "کیا میں دوبارہ پرنٹ کروا سکتا ہوں اگر میرا کارڈ گم ہونے سے پہلے ختم ہو گیا ہو؟",
+      "urdu_answer": "اگر آپ کا کارڈ گم ہونے پر ختم ہو گیا تھا، تو آپ کو دوبارہ پرنٹ کرنے کے بجائے تجدید کے لیے درخواست دینے کی ضرورت پڑ سکتی ہے۔ دوبارہ پرنٹ کرنے کا عمل ان درست کارڈز کے لیے ہے جو گم ہو گئے تھے۔ مناسب طریقہ کار کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What quality checks are performed during the reprint process?",
+      "answer": "The reprint process includes biometric verification to confirm identity, system checks to validate the original card details, and standard quality control measures to ensure the new card is properly produced.",
+      "urdu_question": "دوبارہ پرنٹ کے عمل کے دوران کوالٹی کی کیا جانچیں کی جاتی ہیں؟",
+      "urdu_answer": "دوبارہ پرنٹ کرنے کے عمل میں شناخت کی تصدیق کے لیے بائیو میٹرک تصدیق، کارڈ کی اصل تفصیلات کی توثیق کرنے کے لیے سسٹم کی جانچ، اور نئے کارڈ کے صحیح طریقے سے تیار ہونے کو یقینی بنانے کے لیے معیاری کوالٹی کنٹرول کے اقدامات شامل ہیں۔"
+    },
+    {
+      "question": "Can I request special features or modifications during the reprint?",
+      "answer": "A reprint produces a card identical to the original. If you need modifications like address changes or other updates, you must apply for separate modification services which require additional documentation.",
+      "urdu_question": "کیا میں دوبارہ پرنٹ کے دوران خصوصی خصوصیات یا ترمیم کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "دوبارہ پرنٹ ایک کارڈ تیار کرتا ہے جو اصل سے ملتا ہے۔ اگر آپ کو ایڈریس کی تبدیلی یا دیگر اپ ڈیٹس جیسی ترمیم کی ضرورت ہے، تو آپ کو علیحدہ ترمیمی خدمات کے لیے درخواست دینی ہوگی جس کے لیے اضافی دستاویزات کی ضرورت ہے۔"
+    },
+    {
+      "question": "What should I do if the NADRA system shows my card as already reported lost by someone else?",
+      "answer": "If the system shows conflicting information about your card's status, contact NADRA security immediately. This could indicate potential fraud or identity theft that requires investigation.",
+      "urdu_question": "اگر نادرا سسٹم میرا کارڈ دکھاتا ہے جیسا کہ پہلے ہی کسی اور کے گمشدہ ہونے کی اطلاع ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر سسٹم آپ کے کارڈ کی حیثیت کے بارے میں متضاد معلومات دکھاتا ہے، تو فوری طور پر نادرا سیکیورٹی سے رابطہ کریں۔ یہ ممکنہ دھوکہ دہی یا شناخت کی چوری کی نشاندہی کر سکتا ہے جس کی تحقیقات کی ضرورت ہے۔"
+    },
+    {
+      "question": "Can I get a reprint for cards issued under old NADRA systems?",
+      "answer": "Yes, reprints are available for cards issued under previous systems. Your biometric data and card information should still be in NADRA's database regardless of when the original card was issued.",
+      "urdu_question": "کیا میں نادرا کے پرانے سسٹم کے تحت جاری کردہ کارڈز کا دوبارہ پرنٹ حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، پچھلے سسٹمز کے تحت جاری کردہ کارڈز کے لیے دوبارہ پرنٹس دستیاب ہیں۔ آپ کا بائیو میٹرک ڈیٹا اور کارڈ کی معلومات اب بھی نادرا کے ڈیٹا بیس میں ہونی چاہیے چاہے اصل کارڈ کب جاری کیا گیا ہو۔"
+    },
+    {
+      "question": "How does the reprint process verify I'm the legitimate cardholder?",
+      "answer": "The process uses biometric authentication (fingerprints and possibly facial recognition) to match against your original registration data in NADRA's secure database, ensuring only the legitimate cardholder can get a reprint.",
+      "urdu_question": "دوبارہ پرنٹ کرنے کا عمل اس بات کی تصدیق کیسے کرتا ہے کہ میں قانونی کارڈ ہولڈر ہوں؟",
+      "urdu_answer": "یہ عمل بائیو میٹرک تصدیق (فنگر پرنٹس اور ممکنہ طور پر چہرے کی شناخت) کا استعمال کرتا ہے تاکہ نادرا کے محفوظ ڈیٹا بیس میں آپ کے اصل رجسٹریشن ڈیٹا سے مماثل ہو، اس بات کو یقینی بناتے ہوئے کہ صرف جائز کارڈ ہولڈر ہی دوبارہ پرنٹ حاصل کر سکے۔"
+    },
+    {
+      "question": "What should I do if I'm traveling and need urgent proof of identity after losing my card?",
+      "answer": "For urgent travel situations, contact the nearest Pakistani consulate or embassy for temporary documentation. You can apply for a reprint when you return to Pakistan or at consulates offering NADRA services.",
+      "urdu_question": "اگر میں سفر کر رہا ہوں اور اپنا کارڈ کھو جانے کے بعد شناخت کے فوری ثبوت کی ضرورت ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "فوری سفری حالات کے لیے، عارضی دستاویزات کے لیے قریبی پاکستانی قونصل خانے یا سفارت خانے سے رابطہ کریں۔ آپ پاکستان واپس آنے پر یا نادرا کی خدمات پیش کرنے والے قونصل خانوں میں دوبارہ پرنٹ کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "Can the reprint process be expedited in emergency situations?",
+      "answer": "NADRA offers urgent and executive processing categories for faster service. In genuine emergencies, contact NADRA directly to discuss available options for expedited processing of your reprint.",
+      "urdu_question": "کیا ہنگامی حالات میں دوبارہ پرنٹ کے عمل کو تیز کیا جا سکتا ہے؟",
+      "urdu_answer": "نادرا تیز سروس کے لیے فوری اور ایگزیکٹو پروسیسنگ کیٹیگریز پیش کرتا ہے۔ حقیقی ہنگامی صورتحال میں، اپنے دوبارہ پرنٹ کی تیز رفتار کارروائی کے لیے دستیاب اختیارات پر بات کرنے کے لیے براہ راست نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What backup systems exist if the main NADRA database is unavailable during reprint?",
+      "answer": "NADRA has backup systems and alternative verification methods. If the main database is temporarily unavailable, you may receive a temporary receipt and be asked to return when systems are restored.",
+      "urdu_question": "اگر دوبارہ پرنٹ کے دوران مین نادرا ڈیٹا بیس دستیاب نہ ہو تو کون سا بیک اپ سسٹم موجود ہے؟",
+      "urdu_answer": "نادرا کے پاس بیک اپ سسٹم اور تصدیق کے متبادل طریقے ہیں۔ اگر مرکزی ڈیٹا بیس عارضی طور پر دستیاب نہیں ہے، تو آپ کو ایک عارضی رسید موصول ہو سکتی ہے اور سسٹم بحال ہونے پر آپ سے واپس جانے کے لیے کہا جا سکتا ہے۔"
+    }
+  ]
+}

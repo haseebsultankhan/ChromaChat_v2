@@ -1,0 +1,349 @@
+{
+  "file_name": "orphange_policy.json",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 55,
+  "qa_data": [
+    {
+      "question": "What is the purpose of the Orphanage Registration Policy?",
+      "answer": "The registration of orphans with NADRA is a critical step in safeguarding their fundamental rights and ensuring their inclusion in society. Through proper registration, these vulnerable children can secure a legal identity, which is the cornerstone of their recognition as equal citizens under the law, providing access to education, healthcare, and social protection.",
+      "urdu_question": "یتیم خانے کی رجسٹریشن پالیسی کا مقصد کیا ہے؟",
+      "urdu_answer": "نادرا کے ساتھ یتیموں کی رجسٹریشن ان کے بنیادی حقوق کے تحفظ اور معاشرے میں ان کی شمولیت کو یقینی بنانے کے لیے ایک اہم قدم ہے۔ مناسب رجسٹریشن کے ذریعے، یہ کمزور بچے ایک قانونی شناخت حاصل کر سکتے ہیں، جو کہ قانون کے تحت مساوی شہری کے طور پر ان کی پہچان کا بنیادی ستون ہے، جو تعلیم، صحت کی دیکھ بھال اور سماجی تحفظ تک رسائی فراہم کرتا ہے۔"
+    },
+    {
+      "question": "When was the Orphanage Registration Policy dated?",
+      "answer": "The Orphanage Registration Policy is dated 24/02/2016.",
+      "urdu_question": "یتیم خانے کی رجسٹریشن کی پالیسی کب کی گئی؟",
+      "urdu_answer": "یتیم خانہ کی رجسٹریشن کی پالیسی مورخہ 24/02/2016 ہے۔"
+    },
+    {
+      "question": "What legal endorsements support the Orphanage Registration Policy?",
+      "answer": "NADRA formulated the policy for registration of orphan children residing in Orphanages and Child Protection Institutes. The policy was presented to the Honorable Supreme Court of Pakistan in Human Rights Case No. 22607-S/2011 and was endorsed accordingly. Moreover, it was also presented before the Honorable Lahore High Court, Lahore in W.P. No. 20197/2014.",
+      "urdu_question": "کون سی قانونی توثیق یتیم خانے کی رجسٹریشن کی پالیسی کی حمایت کرتی ہے؟",
+      "urdu_answer": "نادرا نے یتیم خانوں اور چائلڈ پروٹیکشن انسٹی ٹیوٹ میں مقیم یتیم بچوں کی رجسٹریشن کے لیے پالیسی بنائی۔ یہ پالیسی انسانی حقوق کے مقدمہ نمبر 22607-S/2011 میں معزز سپریم کورٹ آف پاکستان میں پیش کی گئی اور اسی کے مطابق اس کی توثیق کی گئی۔ مزید یہ کہ اسے WP نمبر 20197/2014 میں معزز لاہور ہائی کورٹ، لاہور کے سامنے بھی پیش کیا گیا۔"
+    },
+    {
+      "question": "What are the two main portions of the Orphanage Registration Policy?",
+      "answer": "The policy for registration of orphans is comprised of the following two portions: a) Registration of Orphanages/Child Protection Institutes (CPIs), and b) Registration of Orphans/Children living in Orphanages/CPIs.",
+      "urdu_question": "یتیم خانہ کی رجسٹریشن پالیسی کے دو اہم حصے کیا ہیں؟",
+      "urdu_answer": "یتیموں کی رجسٹریشن کی پالیسی درج ذیل دو حصوں پر مشتمل ہے: a) یتیم خانوں/چائلڈ پروٹیکشن انسٹی ٹیوٹ (CPIs) کی رجسٹریشن، اور b) یتیم خانوں/CPIs میں رہنے والے یتیموں/بچوں کی رجسٹریشن۔"
+    },
+    {
+      "question": "What documents must Orphanages/CPIs submit to NADRA Regional Head Offices for registration?",
+      "answer": "Orphanages/CPIs must submit: Application for registration of Orphanage/CPI, Registration Certificate of Orphanage with concerned Federal/Provincial Government (Only for Orphanages), and Orphanage Registration Form on prescribed format (Annex-A), including details (name, CNIC, designation, and signatures) of designated guardian.",
+      "urdu_question": "یتیم خانوں/سی پی آئیز کو رجسٹریشن کے لیے نادرا کے ریجنل ہیڈ آفس میں کون سی دستاویزات جمع کرانی ہوں گی؟",
+      "urdu_answer": "یتیم خانے/سی پی آئیز کو جمع کرانا ضروری ہے: یتیم خانے/سی پی آئی کی رجسٹریشن کے لیے درخواست، متعلقہ وفاقی/صوبائی حکومت کے ساتھ یتیم خانے کا رجسٹریشن سرٹیفکیٹ (صرف یتیم خانوں کے لیے)، اور یتیم خانے کا رجسٹریشن فارم مقررہ فارمیٹ (Anex-A) پر، بشمول تفصیلات (نام، CNIC اور دستخط شدہ گارڈین کا عہدہ)۔"
+    },
+    {
+      "question": "What is the process flow for registering Orphanages/CPIs?",
+      "answer": "The process flow is: 1) Orphanages/CPIs submit required documents to NADRA Regional Head Offices, 2) NADRA Regional Head Offices forward the case to HQ NADRA after scrutiny, 3) HQ NADRA registers the Orphanage in the database after approval of the Chief Operating Officer/DG (Ops), 4) After registration, the orphanage name becomes available at DAUs for orphan registration.",
+      "urdu_question": "یتیم خانوں/سی پی آئیز کو رجسٹر کرنے کا عمل کیا ہے؟",
+      "urdu_answer": "عمل کا بہاؤ یہ ہے: 1) یتیم خانے/سی پی آئی مطلوبہ دستاویزات نادرا کے ریجنل ہیڈ آفسز میں جمع کرواتے ہیں، 2) نادرا کے علاقائی ہیڈ آفس کیس کو جانچ پڑتال کے بعد ہیڈکوارٹر نادرا کو بھیج دیتے ہیں، 3) ہیڈکوارٹر نادرا چیف آپریٹنگ آفیسر کی منظوری کے بعد یتیم خانے کو ڈیٹا بیس میں رجسٹر کرتا ہے، 4) ریجنل ہیڈ آفس یا ریجنل آفیسر (DG) کی منظوری کے بعد۔ یتیم کی رجسٹریشن کے لیے DAUs پر دستیاب ہے۔"
+    },
+    {
+      "question": "Who approves the registration of Orphanages in NADRA's database?",
+      "answer": "HQ NADRA registers the Orphanage in the database after approval of the Chief Operating Officer/DG (Ops).",
+      "urdu_question": "نادرا کے ڈیٹا بیس میں یتیم خانوں کی رجسٹریشن کی منظوری کون دیتا ہے؟",
+      "urdu_answer": "ہیڈکوارٹر نادرا چیف آپریٹنگ آفیسر/ڈی جی (آپس) کی منظوری کے بعد یتیم خانے کو ڈیٹا بیس میں رجسٹر کرتا ہے۔"
+    },
+    {
+      "question": "What happens after an Orphanage/CPI is registered with NADRA?",
+      "answer": "After registration, the name of the Orphanage/CPI will be available at DAUs (Data Acquisition Units) for registration of orphans residing therein. The concerned Regional Head Office will be informed accordingly for onward intimation to the Orphanage/CPI.",
+      "urdu_question": "یتیم خانہ/سی پی آئی نادرا میں رجسٹرڈ ہونے کے بعد کیا ہوتا ہے؟",
+      "urdu_answer": "رجسٹریشن کے بعد، یتیم خانہ/سی پی آئی کا نام ڈی اے یوز (ڈیٹا ایکوزیشن یونٹس) پر اس میں رہنے والے یتیموں کی رجسٹریشن کے لیے دستیاب ہوگا۔ متعلقہ علاقائی ہیڈ آفس کو اس کے مطابق یتیم خانہ/سی پی آئی کو آگے کی اطلاع کے لیے مطلع کیا جائے گا۔"
+    },
+    {
+      "question": "What types of identity cards can orphan children receive?",
+      "answer": "Orphan children residing in Orphanages/CPIs are eligible for registration in CRC (Child Registration Certificate) or Juvenile card depending on their age and circumstances.",
+      "urdu_question": "یتیم بچوں کو کس قسم کے شناختی کارڈ مل سکتے ہیں؟",
+      "urdu_answer": "یتیم خانوں/CPIs میں رہنے والے یتیم بچے اپنی عمر اور حالات کے لحاظ سے CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) یا جوینائل کارڈ میں رجسٹریشن کے اہل ہیں۔"
+    },
+    {
+      "question": "What are the basic requirements for registration of children in Orphanages/CPIs?",
+      "answer": "Requirements include: Every child is eligible for registration in CRC/Juvenile card, Presence of minor (for Juvenile card only), Registration Form of the child containing the child's particulars, Affidavit (Rs. 20/- or above) from In-charge Orphanage/CPI on prescribed format (Annex-B).",
+      "urdu_question": "یتیم خانوں/سی پی آئی میں بچوں کی رجسٹریشن کے لیے بنیادی ضروریات کیا ہیں؟",
+      "urdu_answer": "تقاضوں میں شامل ہیں: ہر بچہ CRC/جوینائل کارڈ میں رجسٹریشن کے لیے اہل ہے، نابالغ کی موجودگی (صرف جوینائل کارڈ کے لیے)، بچے کی تفصیلات پر مشتمل بچے کا رجسٹریشن فارم، انچارج یتیم خانہ/CPI سے حلف نامہ (20/- یا اس سے اوپر) مقررہ فارمیٹ پر (AnnexB-)۔"
+    },
+    {
+      "question": "What additional requirement exists for Child Protection Institutes (CPIs)?",
+      "answer": "In case of CPI, court orders issued in favor of CPI/any employee of CPI/private individual for custody is mandatory.",
+      "urdu_question": "چائلڈ پروٹیکشن انسٹی ٹیوٹ (سی پی آئی) کے لیے کون سی اضافی ضرورت موجود ہے؟",
+      "urdu_answer": "سی پی آئی کے معاملے میں، سی پی آئی کے حق میں جاری کردہ عدالتی احکامات/ سی پی آئی کے کسی بھی ملازم/ پرائیویٹ فرد کو حراست میں لینا لازمی ہے۔"
+    },
+    {
+      "question": "What optional documents can be provided for orphan registration?",
+      "answer": "Optional documents include: Child Registration Certificate (CRC)/Birth Certificate (if available), Biometric verification of any blood relative (if available) OR Attestation as per Regulation 9 (a–h) of NADRA Regulations, 2002.",
+      "urdu_question": "یتیم کی رجسٹریشن کے لیے کون سے اختیاری دستاویزات فراہم کیے جا سکتے ہیں؟",
+      "urdu_answer": "اختیاری دستاویزات میں شامل ہیں: چائلڈ رجسٹریشن سرٹیفکیٹ (CRC)/برتھ سرٹیفکیٹ (اگر دستیاب ہو)، خون کے کسی رشتہ دار کی بائیو میٹرک تصدیق (اگر دستیاب ہو) یا نادرا ریگولیشنز، 2002 کے ضابطہ 9 (a–h) کے مطابق تصدیق۔"
+    },
+    {
+      "question": "Is there any fee for orphan registration?",
+      "answer": "No, orphan registration shall be carried out free of cost under the Gratis reason 'Orphan Registration'.",
+      "urdu_question": "کیا یتیم کی رجسٹریشن کی کوئی فیس ہے؟",
+      "urdu_answer": "نہیں، یتیم کی رجسٹریشن مفت کی جائے گی مفت وجہ 'یتیم رجسٹریشن' کے تحت۔"
+    },
+    {
+      "question": "What is the minimum value required for the affidavit from the In-charge?",
+      "answer": "An affidavit of Rs. 20/- or above from In-charge of Orphanage/CPI, mentioning the particulars of all children, is required on prescribed format (Annex-B).",
+      "urdu_question": "انچارج سے حلف نامہ کے لیے کم از کم کتنی قیمت درکار ہے؟",
+      "urdu_answer": "روپے کا حلف نامہ 20/- یا اس سے اوپر یتیم خانہ/CPI کے انچارج سے، تمام بچوں کی تفصیلات کا ذکر کرنا، مقررہ فارمیٹ (Anex-B) پر درکار ہے۔"
+    },
+    {
+      "question": "Can one affidavit be used for multiple children in the same orphanage?",
+      "answer": "Yes, one affidavit (Rs. 20 or above) from In-charge of Orphanage/CPI, mentioning the particulars of all children, is sufficient for processing all cases of the same Orphanage/CPI under the same In-charge.",
+      "urdu_question": "کیا ایک ہی یتیم خانے میں ایک سے زیادہ بچوں کے لیے ایک حلف نامہ استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، یتیم خانہ/سی پی آئی کے انچارج کی طرف سے ایک حلف نامہ (20 روپے یا اس سے اوپر)، جس میں تمام بچوں کی تفصیلات کا ذکر کیا گیا ہے، ایک ہی انچارج کے تحت ایک ہی یتیم خانہ/سی پی آئی کے تمام معاملات پر کارروائی کے لیے کافی ہے۔"
+    },
+    {
+      "question": "What is the policy regarding biometric verification of mothers of orphan children?",
+      "answer": "Biometric verification of the mother of the orphan child may be sought if applicable or conveniently available. Orphanage/CPI shall not be insisted for biometric verification of the mother if she is deceased or not easily available.",
+      "urdu_question": "یتیم بچوں کی ماؤں کی بائیو میٹرک تصدیق کے حوالے سے کیا پالیسی ہے؟",
+      "urdu_answer": "اگر قابل اطلاق یا آسانی سے دستیاب ہو تو یتیم بچے کی ماں کی بائیو میٹرک تصدیق کی جا سکتی ہے۔ یتیم خانہ/سی پی آئی پر ماں کی بائیو میٹرک تصدیق کے لیے اصرار نہیں کیا جائے گا اگر وہ فوت ہو چکی ہے یا آسانی سے دستیاب نہیں ہے۔"
+    },
+    {
+      "question": "How is parentage handled for children with unknown parentage?",
+      "answer": "In case of unknown parentage, any name for parentage shall be randomly selected from the NADRA name library.",
+      "urdu_question": "نامعلوم پیرنٹیج والے بچوں کے لیے پیرنٹیج کیسے سنبھالا جاتا ہے؟",
+      "urdu_answer": "نامعلوم والدین کی صورت میں، والدین کے لیے کوئی بھی نام نادرا نام کی لائبریری سے تصادفی طور پر منتخب کیا جائے گا۔"
+    },
+    {
+      "question": "Can an unmarried person be designated as guardian for orphan children?",
+      "answer": "Yes, the designated guardian can be made the head of orphan children even with marital status as 'unmarried'.",
+      "urdu_question": "کیا غیر شادی شدہ شخص کو یتیم بچوں کا سرپرست مقرر کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نامزد سرپرست کو یتیم بچوں کا سربراہ بنایا جا سکتا ہے یہاں تک کہ ازدواجی حیثیت کے ساتھ 'غیر شادی شدہ'۔"
+    },
+    {
+      "question": "How is the guardian's name displayed on the orphan's identity card?",
+      "answer": "Guardian's name will be printed on the card as 'Guardian'.",
+      "urdu_question": "یتیم کے شناختی کارڈ پر سرپرست کا نام کیسے ظاہر ہوتا ہے؟",
+      "urdu_answer": "گارڈین کا نام کارڈ پر 'گارڈین' کے طور پر پرنٹ کیا جائے گا۔"
+    },
+    {
+      "question": "What is the difference between Orphanages and Child Protection Institutes (CPIs) in terms of requirements?",
+      "answer": "For Orphanages, a Registration Certificate with concerned Federal/Provincial Government is required. For CPIs, court orders issued in favor of CPI/any employee of CPI/private individual for custody is mandatory, but government registration certificate is not specifically mentioned.",
+      "urdu_question": "ضروریات کے لحاظ سے یتیم خانے اور چائلڈ پروٹیکشن انسٹی ٹیوٹ (سی پی آئی) میں کیا فرق ہے؟",
+      "urdu_answer": "یتیم خانوں کے لیے، متعلقہ وفاقی/صوبائی حکومت کے ساتھ رجسٹریشن سرٹیفکیٹ درکار ہے۔ CPIs کے لیے، CPI/CPI کے کسی بھی ملازم/نجی فرد کے حق میں جاری کیے گئے عدالتی احکامات لازمی ہیں، لیکن سرکاری رجسٹریشن سرٹیفکیٹ کا خاص طور پر ذکر نہیں کیا گیا ہے۔"
+    },
+    {
+      "question": "What format is used for Orphanage registration?",
+      "answer": "Orphanage Registration Form on prescribed format (Annex-A) is used, which includes details (name, CNIC, designation, and signatures) of designated guardian.",
+      "urdu_question": "یتیم خانہ کی رجسٹریشن کے لیے کون سا فارمیٹ استعمال کیا جاتا ہے؟",
+      "urdu_answer": "یتیم خانہ کا رجسٹریشن فارم مقررہ فارمیٹ (Anex-A) پر استعمال کیا جاتا ہے، جس میں نامزد سرپرست کی تفصیلات (نام، CNIC، عہدہ، اور دستخط) شامل ہوتے ہیں۔"
+    },
+    {
+      "question": "What format is used for the affidavit from Orphanage/CPI In-charge?",
+      "answer": "The affidavit from In-charge Orphanage/CPI must be on prescribed format (Annex-B) and should mention the particulars of all children.",
+      "urdu_question": "یتیم خانہ/سی پی آئی انچارج سے حلف نامے کے لیے کون سا فارمیٹ استعمال کیا جاتا ہے؟",
+      "urdu_answer": "انچارج یتیم خانہ/سی پی آئی کا حلف نامہ مقررہ فارمیٹ (اینیکس-بی) پر ہونا چاہیے اور اس میں تمام بچوں کی تفصیلات کا ذکر ہونا چاہیے۔"
+    },
+    {
+      "question": "Who can serve as a designated guardian in an orphanage?",
+      "answer": "The designated guardian is a person whose details (name, CNIC, designation, and signatures) are included in the Orphanage Registration Form and who can be made the head of orphan children regardless of their marital status.",
+      "urdu_question": "یتیم خانے میں نامزد سرپرست کے طور پر کون خدمات انجام دے سکتا ہے؟",
+      "urdu_answer": "نامزد سرپرست وہ شخص ہوتا ہے جس کی تفصیلات (نام، CNIC، عہدہ، اور دستخط) یتیم خانہ کے رجسٹریشن فارم میں شامل ہیں اور جسے یتیم بچوں کا سربراہ بنایا جا سکتا ہے چاہے ان کی ازدواجی حیثیت کچھ بھی ہو۔"
+    },
+    {
+      "question": "What happens at DAUs after orphanage registration?",
+      "answer": "After orphanage registration, the name of the Orphanage/CPI becomes available at DAUs (Data Acquisition Units) for registration of orphans residing therein, allowing staff to process individual orphan applications.",
+      "urdu_question": "یتیم خانے کی رجسٹریشن کے بعد DAUs میں کیا ہوتا ہے؟",
+      "urdu_answer": "یتیم خانے کی رجسٹریشن کے بعد، یتیم خانہ/سی پی آئی کا نام DAUs (ڈیٹا ایکوزیشن یونٹس) پر وہاں رہنے والے یتیموں کی رجسٹریشن کے لیے دستیاب ہو جاتا ہے، جس سے عملے کو انفرادی یتیم درخواستوں پر کارروائی کرنے کی اجازت ملتی ہے۔"
+    },
+    {
+      "question": "What is the role of NADRA Regional Head Offices in orphanage registration?",
+      "answer": "NADRA Regional Head Offices receive initial applications from Orphanages/CPIs, conduct scrutiny of submitted documents, forward cases to HQ NADRA for final approval, and receive information about successful registrations for onward intimation to the Orphanage/CPI.",
+      "urdu_question": "یتیم خانے کی رجسٹریشن میں نادرا کے علاقائی ہیڈ آفسز کا کیا کردار ہے؟",
+      "urdu_answer": "نادرا کے علاقائی ہیڈ آفس یتیم خانے/سی پی آئیز سے ابتدائی درخواستیں وصول کرتے ہیں، جمع کرائے گئے دستاویزات کی جانچ پڑتال کرتے ہیں، حتمی منظوری کے لیے کیسز ہیڈکوارٹر نادرا کو بھیجتے ہیں، اور یتیم خانے/سی پی آئی کو آگے کی اطلاع کے لیے کامیاب رجسٹریشن کے بارے میں معلومات حاصل کرتے ہیں۔"
+    },
+    {
+      "question": "Why are orphan children considered among the most vulnerable segments of society?",
+      "answer": "Orphan children are among the most vulnerable segments of society, often facing challenges such as lack of access to education, healthcare, and social protection. Without proper legal identity, they cannot access basic services and rights as citizens.",
+      "urdu_question": "یتیم بچوں کو معاشرے کے سب سے کمزور طبقات میں کیوں شمار کیا جاتا ہے؟",
+      "urdu_answer": "یتیم بچے معاشرے کے سب سے کمزور طبقات میں سے ہیں، جنہیں اکثر چیلنجز کا سامنا کرنا پڑتا ہے جیسے کہ تعلیم، صحت کی دیکھ بھال اور سماجی تحفظ تک رسائی کی کمی۔ مناسب قانونی شناخت کے بغیر، وہ بطور شہری بنیادی خدمات اور حقوق تک رسائی حاصل نہیں کر سکتے۔"
+    },
+    {
+      "question": "What legal framework supports the protection of orphan children's rights?",
+      "answer": "The policy is based on safeguarding fundamental rights and ensuring inclusion in society as guaranteed by law. It has been endorsed by the Honorable Supreme Court of Pakistan in Human Rights Case No. 22607-S/2011 and presented before the Honorable Lahore High Court, Lahore in W.P. No. 20197/2014.",
+      "urdu_question": "کون سا قانونی فریم ورک یتیم بچوں کے حقوق کے تحفظ کی حمایت کرتا ہے؟",
+      "urdu_answer": "یہ پالیسی بنیادی حقوق کے تحفظ اور قانون کے ذریعہ معاشرے میں شمولیت کو یقینی بنانے پر مبنی ہے۔ اس کی توثیق معزز سپریم کورٹ آف پاکستان نے ہیومن رائٹس کیس نمبر 22607-S/2011 میں کی ہے اور اسے WP نمبر 20197/2014 میں معزز لاہور ہائی کورٹ، لاہور کے سامنے پیش کیا گیا ہے۔"
+    },
+    {
+      "question": "What alternatives exist if biometric verification of blood relatives is not available?",
+      "answer": "If biometric verification of any blood relative is not available, attestation as per Regulation 9 (a–h) of NADRA Regulations, 2002 can be used as an alternative for orphan registration.",
+      "urdu_question": "اگر خون کے رشتہ داروں کی بائیو میٹرک تصدیق دستیاب نہ ہو تو کیا متبادل موجود ہیں؟",
+      "urdu_answer": "اگر خون کے کسی رشتہ دار کی بائیو میٹرک تصدیق دستیاب نہیں ہے تو، نادرا ریگولیشنز، 2002 کے ضابطہ 9 (a–h) کے مطابق تصدیق کو یتیم کی رجسٹریشن کے متبادل کے طور پر استعمال کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What is the significance of court orders for Child Protection Institutes?",
+      "answer": "For Child Protection Institutes (CPIs), court orders issued in favor of CPI/any employee of CPI/private individual for custody is mandatory, ensuring legal authorization for the care and custody of children in their protection.",
+      "urdu_question": "چائلڈ پروٹیکشن انسٹی ٹیوٹ کے لیے عدالتی احکامات کی کیا اہمیت ہے؟",
+      "urdu_answer": "چائلڈ پروٹیکشن انسٹی ٹیوٹ (CPIs) کے لیے، CPI/CPI کے کسی بھی ملازم/نجی فرد کے حق میں جاری کیے گئے عدالتی احکامات لازمی ہیں، جو بچوں کی دیکھ بھال اور ان کی حفاظت کے لیے قانونی اجازت کو یقینی بناتے ہیں۔"
+    },
+    {
+      "question": "How does the orphanage registration policy ensure legal identity for vulnerable children?",
+      "answer": "The policy ensures legal identity by providing a structured registration process that allows orphan children to obtain CRC or Juvenile cards free of cost, giving them official recognition as Pakistani citizens and access to fundamental rights and services, which is the cornerstone of their recognition as equal citizens under the law.",
+      "urdu_question": "یتیم خانے کی رجسٹریشن کی پالیسی کمزور بچوں کی قانونی شناخت کو کیسے یقینی بناتی ہے؟",
+      "urdu_answer": "یہ پالیسی ایک منظم رجسٹریشن کے عمل کو فراہم کرکے قانونی شناخت کو یقینی بناتی ہے جو یتیم بچوں کو مفت CRC یا نابالغ کارڈ حاصل کرنے کی اجازت دیتی ہے، انہیں پاکستانی شہری کے طور پر سرکاری شناخت اور بنیادی حقوق اور خدمات تک رسائی فراہم کرتی ہے، جو کہ قانون کے تحت مساوی شہری کے طور پر ان کی شناخت کی بنیاد ہے۔"
+    },
+    {
+      "question": "What happens if an orphanage changes its designated guardian?",
+      "answer": "If an orphanage changes its designated guardian, they must submit updated registration documents to NADRA Regional Head Offices with new guardian details (name, CNIC, designation, and signatures) on the prescribed format for approval and database update.",
+      "urdu_question": "اگر کوئی یتیم خانہ اپنے نامزد سرپرست کو تبدیل کرتا ہے تو کیا ہوتا ہے؟",
+      "urdu_answer": "اگر کوئی یتیم خانہ اپنے مقرر کردہ سرپرست کو تبدیل کرتا ہے، تو وہ نادرا کے علاقائی ہیڈ آفسز میں نئے سرپرست کی تفصیلات (نام، CNIC، عہدہ، اور دستخط) کے ساتھ رجسٹریشن کی تازہ ترین دستاویزات منظوری اور ڈیٹا بیس اپ ڈیٹ کے لیے مقررہ فارمیٹ پر جمع کرائیں۔"
+    },
+    {
+      "question": "How long does the orphanage registration process typically take?",
+      "answer": "The process involves scrutiny at Regional Head Offices, forwarding to HQ NADRA, and approval by Chief Operating Officer/DG (Ops). While specific timeframes aren't mentioned, the multi-level review process suggests it may take several weeks depending on document completeness and approval workflows.",
+      "urdu_question": "یتیم خانے کی رجسٹریشن کے عمل میں عام طور پر کتنا وقت لگتا ہے؟",
+      "urdu_answer": "اس عمل میں ریجنل ہیڈ آفسز میں جانچ پڑتال، ہیڈکوارٹر نادرا کو بھیجنا، اور چیف آپریٹنگ آفیسر/ڈی جی (آپس) کی منظوری شامل ہے۔ اگرچہ مخصوص ٹائم فریم کا تذکرہ نہیں کیا گیا ہے، کثیر سطحی جائزہ کے عمل سے پتہ چلتا ہے کہ دستاویز کی تکمیل اور منظوری کے ورک فلو کی بنیاد پر اس میں کئی ہفتے لگ سکتے ہیں۔"
+    },
+    {
+      "question": "Can orphanages register children who were not initially registered with them?",
+      "answer": "The policy refers to children 'against which child was first registered in orphanage,' suggesting children should be registered with the orphanage first. For children transferring from other institutions, proper transfer documentation and updated registration forms would be required.",
+      "urdu_question": "کیا یتیم خانے ان بچوں کو رجسٹر کر سکتے ہیں جو شروع میں ان کے ساتھ رجسٹرڈ نہیں تھے؟",
+      "urdu_answer": "پالیسی کا حوالہ ان بچوں سے ہے 'جس بچے کے خلاف یتیم خانے میں سب سے پہلے رجسٹرڈ کیا گیا تھا'، تجویز کرتی ہے کہ بچوں کو پہلے یتیم خانے میں رجسٹر کیا جائے۔ دوسرے اداروں سے منتقل ہونے والے بچوں کے لیے، منتقلی کی مناسب دستاویزات اور اپ ڈیٹ شدہ رجسٹریشن فارم درکار ہوں گے۔"
+    },
+    {
+      "question": "What training do NADRA staff receive for handling orphan registration cases?",
+      "answer": "While not specified in the policy, NADRA staff at DAUs would need training on the special procedures for orphan registration, including understanding court orders for CPIs, handling cases with unknown parentage, and processing gratis applications under the 'Orphan Registration' reason.",
+      "urdu_question": "نادرا کا عملہ یتیموں کی رجسٹریشن کے کیسوں کو سنبھالنے کے لیے کیا تربیت حاصل کرتا ہے؟",
+      "urdu_answer": "پالیسی میں واضح نہ ہونے کے باوجود، DAUs میں نادرا کے عملے کو یتیموں کی رجسٹریشن کے لیے خصوصی طریقہ کار پر تربیت کی ضرورت ہوگی، بشمول CPIs کے لیے عدالتی احکامات کو سمجھنا، نامعلوم والدین کے ساتھ مقدمات کو نمٹانا، اور 'یتیم رجسٹریشن' کی وجہ کے تحت مفت درخواستوں پر کارروائی کرنا۔"
+    },
+    {
+      "question": "Are there any age restrictions for orphan registration under this policy?",
+      "answer": "Every child is eligible for registration in CRC/Juvenile card. The presence of minor is required for Juvenile card only, suggesting age-appropriate documentation is issued based on the child's age, but no specific age restrictions are mentioned for eligibility.",
+      "urdu_question": "کیا اس پالیسی کے تحت یتیم کی رجسٹریشن کے لیے عمر کی کوئی پابندیاں ہیں؟",
+      "urdu_answer": "ہر بچہ CRC/جوینائل کارڈ میں رجسٹریشن کا اہل ہے۔ نابالغ کی موجودگی صرف جووینائل کارڈ کے لیے ضروری ہے، تجویز کرتا ہے کہ عمر کے لحاظ سے مناسب دستاویزات بچے کی عمر کی بنیاد پر جاری کی جائیں، لیکن اہلیت کے لیے عمر کی کوئی خاص پابندی نہیں ہے۔"
+    },
+    {
+      "question": "How does NADRA verify the authenticity of orphanage registration certificates?",
+      "answer": "NADRA Regional Head Offices conduct scrutiny of submitted documents including Registration Certificates with concerned Federal/Provincial Government for Orphanages, and court orders for CPIs, before forwarding cases to HQ NADRA for final verification and approval.",
+      "urdu_question": "نادرا یتیم خانے کے رجسٹریشن سرٹیفکیٹس کی صداقت کی تصدیق کیسے کرتا ہے؟",
+      "urdu_answer": "نادرا کے ریجنل ہیڈ آفسز جمع کرائے گئے دستاویزات کی جانچ پڑتال کرتے ہیں جن میں یتیم خانوں کے لیے متعلقہ وفاقی/صوبائی حکومت کے ساتھ رجسٹریشن سرٹیفکیٹ، اور CPIs کے لیے عدالتی احکامات، حتمی تصدیق اور منظوری کے لیے HQ NADRA کو بھیجنے سے پہلے۔"
+    },
+    {
+      "question": "What happens if an orphan child is adopted by a family?",
+      "answer": "While not explicitly covered in this policy, adoption would require following standard NADRA procedures for family inclusion, updating the child's records to reflect the new family structure, and potentially issuing new identity documents reflecting the adopted family relationships.",
+      "urdu_question": "اگر کسی یتیم بچے کو خاندان گود لے لے تو کیا ہوتا ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں واضح طور پر احاطہ نہیں کیا گیا ہے، گود لینے کے لیے خاندان کی شمولیت کے لیے نادرا کے معیاری طریقہ کار کی پیروی کرنا، خاندان کے نئے ڈھانچے کی عکاسی کرنے کے لیے بچے کے ریکارڈ کو اپ ڈیٹ کرنا، اور گود لیے گئے خاندانی رشتوں کی عکاسی کرنے والے نئے شناختی دستاویزات کو ممکنہ طور پر جاری کرنا ہوگا۔"
+    },
+    {
+      "question": "Can international orphanages operating in Pakistan use this policy?",
+      "answer": "International orphanages would need to meet the same requirements including Registration Certificate with concerned Federal/Provincial Government and compliance with Pakistani legal frameworks. Court orders for custody would be particularly important for international organizations.",
+      "urdu_question": "کیا پاکستان میں کام کرنے والے بین الاقوامی یتیم خانے اس پالیسی کو استعمال کر سکتے ہیں؟",
+      "urdu_answer": "بین الاقوامی یتیم خانوں کو انہی ضروریات کو پورا کرنے کی ضرورت ہوگی جس میں متعلقہ وفاقی/صوبائی حکومت کے ساتھ رجسٹریشن سرٹیفکیٹ اور پاکستانی قانونی فریم ورک کی تعمیل شامل ہے۔ حراست کے لیے عدالتی احکامات بین الاقوامی تنظیموں کے لیے خاص طور پر اہم ہوں گے۔"
+    },
+    {
+      "question": "How does NADRA handle children who leave orphanages after reaching adulthood?",
+      "answer": "Once children reach adulthood, they would transition to standard NADRA adult identity documents. Their orphanage-issued juvenile/CRC cards would be upgraded to regular CNICs following standard procedures for identity document updates upon reaching legal age.",
+      "urdu_question": "نادرا ایسے بچوں کو کیسے سنبھالتا ہے جو بالغ ہونے کے بعد یتیم خانے چھوڑ جاتے ہیں؟",
+      "urdu_answer": "ایک بار جب بچے بالغ ہو جائیں گے، وہ نادرا کے بالغ شناختی دستاویزات میں منتقل ہو جائیں گے۔ ان کے یتیم خانے سے جاری کردہ نابالغ/سی آر سی کارڈز کو قانونی عمر تک پہنچنے پر شناختی دستاویز کی تازہ کاری کے معیاری طریقہ کار کے بعد باقاعدہ CNICs میں اپ گریڈ کیا جائے گا۔"
+    },
+    {
+      "question": "What quality control measures exist for orphan registration?",
+      "answer": "Quality control includes multi-level scrutiny at Regional Head Offices, HQ NADRA review, approval by Chief Operating Officer/DG (Ops), prescribed formats for documentation (Annex-A and Annex-B), and systematic database registration before making names available at DAUs.",
+      "urdu_question": "یتیموں کی رجسٹریشن کے لیے کوالٹی کنٹرول کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "کوالٹی کنٹرول میں علاقائی ہیڈ آفسز میں ملٹی لیول اسکروٹنی، ہیڈکوارٹر نادرا کا جائزہ، چیف آپریٹنگ آفیسر/ڈی جی (آپس) کی منظوری، دستاویزات کے لیے تجویز کردہ فارمیٹس (اینیکس-اے اور اینیکس-بی)، اور ڈی اے یوز پر ناموں کو دستیاب کرنے سے پہلے منظم ڈیٹا بیس کی رجسٹریشن شامل ہے۔"
+    },
+    {
+      "question": "Are there any reporting requirements for orphanages after registration?",
+      "answer": "While not specified in the policy, orphanages would likely need to report changes in children's status, new admissions, transfers, adoptions, or changes in designated guardians to maintain accurate records in NADRA's database system.",
+      "urdu_question": "کیا رجسٹریشن کے بعد یتیم خانوں کے لیے رپورٹنگ کے کوئی تقاضے ہیں؟",
+      "urdu_answer": "اگرچہ پالیسی میں اس کی وضاحت نہیں کی گئی ہے، یتیم خانوں کو نادرا کے ڈیٹا بیس سسٹم میں درست ریکارڈ برقرار رکھنے کے لیے بچوں کی حیثیت، نئے داخلوں، منتقلی، گود لینے، یا نامزد سرپرستوں میں تبدیلیوں کی اطلاع دینے کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "How does this policy integrate with other child protection laws in Pakistan?",
+      "answer": "The policy specifically mentions court orders for CPIs, indicating integration with judicial child protection systems. It aligns with fundamental rights protection and complements other child welfare legislation by ensuring vulnerable children have legal identity and access to services.",
+      "urdu_question": "یہ پالیسی پاکستان میں بچوں کے تحفظ کے دیگر قوانین کے ساتھ کیسے ضم ہوتی ہے؟",
+      "urdu_answer": "پالیسی خاص طور پر CPIs کے لیے عدالتی احکامات کا ذکر کرتی ہے، جو عدالتی بچوں کے تحفظ کے نظام کے ساتھ انضمام کی نشاندہی کرتی ہے۔ یہ بنیادی حقوق کے تحفظ کے ساتھ مطابقت رکھتا ہے اور کمزور بچوں کی قانونی شناخت اور خدمات تک رسائی کو یقینی بنا کر بچوں کی بہبود کے دیگر قانون سازی کی تکمیل کرتا ہے۔"
+    },
+    {
+      "question": "What happens if there are discrepancies in the child's information during registration?",
+      "answer": "Discrepancies would be addressed through the scrutiny process at Regional Head Offices and HQ NADRA. The registration form from when the child was first registered in the orphanage serves as the baseline, and any conflicts would need resolution before proceeding with identity document issuance.",
+      "urdu_question": "اگر رجسٹریشن کے دوران بچے کی معلومات میں تضاد ہو تو کیا ہوتا ہے؟",
+      "urdu_answer": "ریجنل ہیڈ آفس اور ہیڈکوارٹر نادرا میں چھان بین کے عمل کے ذریعے تضادات کو دور کیا جائے گا۔ رجسٹریشن فارم جب سے بچے کو یتیم خانے میں پہلی بار رجسٹر کیا گیا تھا، بنیادی طور پر کام کرتا ہے، اور شناختی دستاویز جاری کرنے سے پہلے کسی بھی تنازعات کو حل کرنے کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "Can orphanages register children who were found abandoned?",
+      "answer": "Yes, the policy covers children with unknown parentage where names are randomly selected from NADRA's name library. Court orders (especially for CPIs) would establish legal custody for abandoned children before NADRA registration can proceed.",
+      "urdu_question": "کیا یتیم خانے ایسے بچوں کو رجسٹر کر سکتے ہیں جو لاوارث پائے گئے؟",
+      "urdu_answer": "ہاں، یہ پالیسی نامعلوم والدین کے بچوں کا احاطہ کرتی ہے جہاں نادرا کی نام کی لائبریری سے تصادفی طور پر نام منتخب کیے جاتے ہیں۔ عدالتی احکامات (خاص طور پر CPIs کے لیے) نادرا کی رجسٹریشن کے آگے بڑھنے سے پہلے لاوارث بچوں کی قانونی تحویل قائم کریں گے۔"
+    },
+    {
+      "question": "What documentation is required if an orphan child has disabilities?",
+      "answer": "While not specifically mentioned in this policy, disabled orphan children would follow the same registration procedures. Additional documentation might include medical certificates or disability assessments, but the policy ensures all children are eligible for registration regardless of their circumstances.",
+      "urdu_question": "اگر کسی یتیم بچے کی معذوری ہو تو کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "اگرچہ اس پالیسی میں خاص طور پر ذکر نہیں کیا گیا ہے، معذور یتیم بچے اسی رجسٹریشن کے طریقہ کار پر عمل کریں گے۔ اضافی دستاویزات میں طبی سرٹیفکیٹ یا معذوری کی تشخیص شامل ہو سکتی ہے، لیکن پالیسی اس بات کو یقینی بناتی ہے کہ تمام بچے ان کے حالات سے قطع نظر رجسٹریشن کے اہل ہیں۔"
+    },
+    {
+      "question": "How does NADRA ensure data privacy for orphan children's records?",
+      "answer": "NADRA follows standard data protection protocols for all registrations. Orphan children's records would be subject to the same confidentiality measures, with access restricted to authorized personnel and proper safeguards for sensitive information about their background and circumstances.",
+      "urdu_question": "نادرا یتیم بچوں کے ریکارڈ کے ڈیٹا کی رازداری کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "نادرا تمام رجسٹریشنز کے لیے معیاری ڈیٹا پروٹیکشن پروٹوکول کی پیروی کرتا ہے۔ یتیم بچوں کے ریکارڈ انہی رازداری کے اقدامات کے ساتھ مشروط ہوں گے، جن کی رسائی مجاز اہلکاروں تک محدود ہوگی اور ان کے پس منظر اور حالات کے بارے میں حساس معلومات کے لیے مناسب حفاظتی اقدامات ہوں گے۔"
+    },
+    {
+      "question": "Can temporary care facilities register children under this policy?",
+      "answer": "Temporary care facilities would likely fall under Child Protection Institutes (CPIs) and would need court orders for custody. However, for permanent registration, children would typically need to be in stable long-term care arrangements rather than temporary placements.",
+      "urdu_question": "کیا عارضی دیکھ بھال کی سہولیات اس پالیسی کے تحت بچوں کو رجسٹر کر سکتی ہیں؟",
+      "urdu_answer": "عارضی نگہداشت کی سہولیات ممکنہ طور پر چائلڈ پروٹیکشن انسٹی ٹیوٹ (CPIs) کے تحت آئیں گی اور انہیں تحویل کے لیے عدالتی احکامات کی ضرورت ہوگی۔ تاہم، مستقل رجسٹریشن کے لیے، بچوں کو عام طور پر عارضی جگہوں کے بجائے طویل مدتی نگہداشت کے مستحکم انتظامات میں رہنے کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "What appeal process exists if orphanage registration is denied?",
+      "answer": "While not specified in the policy, denied applications could be appealed through NADRA's standard grievance mechanisms, including the complaint resolution system, escalation to higher management, or seeking judicial intervention given the Supreme Court's endorsement of this policy.",
+      "urdu_question": "اگر یتیم خانے کی رجسٹریشن سے انکار کر دیا جائے تو اپیل کا کون سا عمل موجود ہے؟",
+      "urdu_answer": "اگرچہ پالیسی میں اس کی وضاحت نہیں کی گئی ہے، مسترد شدہ درخواستوں کی اپیل نادرا کے معیاری شکایات کے طریقہ کار کے ذریعے کی جا سکتی ہے، بشمول شکایت کے حل کے نظام، اعلیٰ انتظامیہ کی طرف بڑھنا، یا سپریم کورٹ کی اس پالیسی کی توثیق کے بعد عدالتی مداخلت کا مطالبہ۔"
+    },
+    {
+      "question": "How are orphan children's birth dates determined if unknown?",
+      "answer": "While not explicitly stated, birth dates would likely be estimated based on medical assessment or social worker evaluation and documented in the child's registration form. The policy emphasizes using available information and reasonable estimates when exact details are unknown.",
+      "urdu_question": "یتیم بچوں کی تاریخ پیدائش کا تعین کیسے کیا جاتا ہے اگر معلوم نہ ہو؟",
+      "urdu_answer": "اگرچہ واضح طور پر بیان نہیں کیا گیا ہے، تاریخ پیدائش کا تخمینہ ممکنہ طور پر طبی تشخیص یا سماجی کارکن کی تشخیص کی بنیاد پر لگایا جائے گا اور بچے کے رجسٹریشن فارم میں دستاویز کیا جائے گا۔ پالیسی دستیاب معلومات اور معقول تخمینوں کے استعمال پر زور دیتی ہے جب صحیح تفصیلات معلوم نہ ہوں۔"
+    },
+    {
+      "question": "Can religious organizations' orphanages use this registration policy?",
+      "answer": "Yes, religious organizations operating orphanages can use this policy provided they meet the registration requirements including Federal/Provincial Government registration certificate and compliance with prescribed formats and procedures outlined in the policy.",
+      "urdu_question": "کیا مذہبی تنظیموں کے یتیم خانے اس رجسٹریشن پالیسی کو استعمال کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، یتیم خانے چلانے والی مذہبی تنظیمیں اس پالیسی کو استعمال کر سکتی ہیں بشرطیکہ وہ رجسٹریشن کی ضروریات کو پورا کرتی ہوں بشمول وفاقی/صوبائی حکومت کا رجسٹریشن سرٹیفکیٹ اور پالیسی میں بیان کردہ مقررہ فارمیٹس اور طریقہ کار کی تعمیل۔"
+    },
+    {
+      "question": "What coordination exists between NADRA and social welfare departments for orphan registration?",
+      "answer": "The policy requires Registration Certificates from Federal/Provincial Government (which often involves social welfare departments) and court orders for CPIs, indicating coordination with government welfare systems and judicial authorities for comprehensive child protection.",
+      "urdu_question": "یتیم بچوں کی رجسٹریشن کے لیے نادرا اور سماجی بہبود کے محکموں کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "پالیسی کے لیے وفاقی/صوبائی حکومت سے رجسٹریشن سرٹیفکیٹ (جس میں اکثر سماجی بہبود کے محکمے شامل ہوتے ہیں) اور CPIs کے لیے عدالتی احکامات کی ضرورت ہوتی ہے، جو بچوں کے جامع تحفظ کے لیے حکومتی فلاحی نظاموں اور عدالتی حکام کے ساتھ ہم آہنگی کی نشاندہی کرتی ہے۔"
+    },
+    {
+      "question": "How does NADRA handle name changes for orphan children?",
+      "answer": "Name changes would follow standard NADRA modification procedures, but for orphan children, changes might require approval from the orphanage administration, court orders (for CPIs), and documentation justifying the name change, especially if children were originally registered with estimated or assigned names.",
+      "urdu_question": "نادرا یتیم بچوں کے نام کی تبدیلی کو کیسے سنبھالتا ہے؟",
+      "urdu_answer": "نام کی تبدیلیاں نادرا کی ترمیم کے معیاری طریقہ کار کی پیروی کریں گی، لیکن یتیم بچوں کے لیے، تبدیلیوں کے لیے یتیم خانہ انتظامیہ، عدالتی احکامات (سی پی آئیز کے لیے)، اور نام کی تبدیلی کا جواز پیش کرنے والی دستاویزات کی ضرورت ہو سکتی ہے، خاص طور پر اگر بچے اصل میں تخمینہ شدہ یا تفویض کردہ ناموں کے ساتھ رجسٹرڈ تھے۔"
+    },
+    {
+      "question": "What happens to orphan registration records when an orphanage closes?",
+      "answer": "When an orphanage closes, records would need to be transferred to receiving institutions or government authorities. NADRA would require updated documentation showing where children have been relocated and which institutions now have custody to maintain accurate database records.",
+      "urdu_question": "جب یتیم خانہ بند ہو جاتا ہے تو یتیم کے اندراج کے ریکارڈ کا کیا ہوتا ہے؟",
+      "urdu_answer": "جب کوئی یتیم خانہ بند ہو جاتا ہے، ریکارڈ وصول کرنے والے اداروں یا سرکاری حکام کو منتقل کرنے کی ضرورت ہوگی۔ نادرا کو تازہ ترین دستاویزات کی ضرورت ہوگی جس میں بتایا جائے کہ بچوں کو کہاں منتقل کیا گیا ہے اور ڈیٹا بیس کے درست ریکارڈ کو برقرار رکھنے کے لیے اب کن اداروں کی تحویل ہے۔"
+    },
+    {
+      "question": "Are there any special procedures for orphan children from cross-border situations?",
+      "answer": "Cross-border orphan situations would require additional documentation to establish Pakistani citizenship eligibility, compliance with immigration laws, and possibly coordination with international child protection agencies. Court orders establishing legal status would be crucial.",
+      "urdu_question": "کیا سرحد پار سے آنے والے یتیم بچوں کے لیے کوئی خاص طریقہ کار ہے؟",
+      "urdu_answer": "سرحد پار یتیم حالات میں پاکستانی شہریت کی اہلیت، امیگریشن قوانین کی تعمیل، اور ممکنہ طور پر بچوں کے تحفظ کی بین الاقوامی ایجنسیوں کے ساتھ ہم آہنگی قائم کرنے کے لیے اضافی دستاویزات کی ضرورت ہوگی۔ قانونی حیثیت قائم کرنے کے لیے عدالتی احکامات اہم ہوں گے۔"
+    },
+    {
+      "question": "How does this policy address children who are separated from families rather than truly orphaned?",
+      "answer": "The policy covers 'orphans/children living in Orphanages/CPIs,' which could include separated children. However, efforts should be made to reunite children with families when possible. For those who cannot be reunited, the registration process provides legal identity protection.",
+      "urdu_question": "یہ پالیسی ان بچوں کو کیسے مخاطب کرتی ہے جو حقیقی معنوں میں یتیم ہونے کے بجائے خاندانوں سے الگ ہو گئے ہیں؟",
+      "urdu_answer": "پالیسی 'یتیم خانوں/سی پی آئیز میں رہنے والے یتیم/بچوں' کا احاطہ کرتی ہے، جس میں علیحدہ بچے بھی شامل ہو سکتے ہیں۔ تاہم، جب ممکن ہو بچوں کو خاندانوں سے ملانے کی کوشش کی جانی چاہیے۔ ان لوگوں کے لیے جو دوبارہ نہیں مل سکتے، رجسٹریشن کا عمل قانونی شناخت کا تحفظ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What role do Child Protection Institutes play differently from traditional orphanages?",
+      "answer": "Child Protection Institutes require court orders for custody (which orphanages don't specifically need) and may handle more complex cases including children in conflict with law, abuse victims, or those requiring specialized protection services beyond traditional orphan care.",
+      "urdu_question": "بچوں کے تحفظ کے ادارے روایتی یتیم خانوں سے مختلف کیا کردار ادا کرتے ہیں؟",
+      "urdu_answer": "چائلڈ پروٹیکشن انسٹی ٹیوٹ کو تحویل کے لیے عدالتی احکامات کی ضرورت ہوتی ہے (جس کی یتیم خانوں کو خاص طور پر ضرورت نہیں ہوتی ہے) اور وہ زیادہ پیچیدہ معاملات کو سنبھال سکتے ہیں جن میں قانون سے متصادم بچے، بدسلوکی کے شکار، یا روایتی یتیم کی دیکھ بھال سے ہٹ کر خصوصی تحفظ کی خدمات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can foster families register children using orphanage registration procedures?",
+      "answer": "Foster families would typically use standard family registration procedures rather than orphanage policies. This policy specifically applies to institutional care in registered orphanages and Child Protection Institutes, not individual family placements.",
+      "urdu_question": "کیا رضاعی خاندان یتیم خانے کے اندراج کے طریقہ کار کا استعمال کرتے ہوئے بچوں کو رجسٹر کر سکتے ہیں؟",
+      "urdu_answer": "رضاعی خاندان عام طور پر یتیم خانہ کی پالیسیوں کے بجائے خاندانی رجسٹریشن کے معیاری طریقہ کار کا استعمال کریں گے۔ یہ پالیسی خاص طور پر رجسٹرڈ یتیم خانوں اور چائلڈ پروٹیکشن انسٹی ٹیوٹ میں ادارہ جاتی نگہداشت پر لاگو ہوتی ہے، انفرادی خاندانی جگہوں پر نہیں۔"
+    }
+  ]
+}

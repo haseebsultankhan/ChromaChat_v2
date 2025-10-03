@@ -1,0 +1,301 @@
+{
+  "file_name": "change_in_card_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 48,
+  "qa_data": [
+    {
+      "question": "Why must citizens update changes in their demographic data?",
+      "answer": "Citizens must update any changes in their demographic data to ensure identity verification remains accurate. This helps maintain the integrity and reliability of the national identification system.",
+      "urdu_question": "شہریوں کو اپنے ڈیموگرافک ڈیٹا میں تبدیلیوں کو کیوں اپ ڈیٹ کرنا چاہیے؟",
+      "urdu_answer": "شہریوں کو اپنے ڈیموگرافک ڈیٹا میں کسی بھی تبدیلی کو اپ ڈیٹ کرنا چاہیے تاکہ یہ یقینی بنایا جا سکے کہ شناخت کی تصدیق درست رہے۔ اس سے قومی شناختی نظام کی سالمیت اور وشوسنییتا کو برقرار رکھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "question": "What documentation is required when making changes to ID card information?",
+      "answer": "Documentation must be provided as per NADRA's registration policy. The specific documents required vary depending on the type of change being requested.",
+      "urdu_question": "شناختی کارڈ کی معلومات میں تبدیلی کرتے وقت کن دستاویزات کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "نادرا کی رجسٹریشن پالیسی کے مطابق دستاویزات فراہم کی جائیں۔ مطلوبہ مخصوص دستاویزات تبدیلی کی درخواست کی قسم کے لحاظ سے مختلف ہوتی ہیں۔"
+    },
+    {
+      "question": "How many times can I change my date of birth on my ID card?",
+      "answer": "Date of birth can only be changed once in a lifetime. This is a strict limit to prevent fraudulent alterations of age information.",
+      "urdu_question": "میں اپنے شناختی کارڈ پر اپنی تاریخ پیدائش کتنی بار تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "تاریخ پیدائش کو زندگی میں صرف ایک بار تبدیل کیا جا سکتا ہے۔ عمر کی معلومات میں دھوکہ دہی سے ہونے والی تبدیلیوں کو روکنے کے لیے یہ ایک سخت حد ہے۔"
+    },
+    {
+      "question": "How often can I change my address on my ID card?",
+      "answer": "Addresses can be changed as and when required. There is no specific limit on the number of times you can update your address information.",
+      "urdu_question": "میں اپنے شناختی کارڈ پر اپنا پتہ کتنی بار تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "جب ضرورت ہو پتے تبدیل کیے جا سکتے ہیں۔ آپ اپنے پتے کی معلومات کو کتنی بار اپ ڈیٹ کر سکتے ہیں اس کی کوئی خاص حد نہیں ہے۔"
+    },
+    {
+      "question": "Is there a limit on changing marital status on my ID card?",
+      "answer": "Marital status can be changed as and when required. You can update this field whenever your marital situation changes (marriage, divorce, widowhood).",
+      "urdu_question": "کیا میرے شناختی کارڈ پر ازدواجی حیثیت تبدیل کرنے کی کوئی حد ہے؟",
+      "urdu_answer": "ازدواجی حیثیت کو ضرورت کے مطابق تبدیل کیا جا سکتا ہے۔ جب بھی آپ کی ازدواجی صورت حال میں تبدیلی آئے (شادی، طلاق، بیوہ) آپ اس فیلڈ کو اپ ڈیٹ کر سکتے ہیں۔"
+    },
+    {
+      "question": "How many times can I update my mobile number on my ID card?",
+      "answer": "There is no limit on changing your mobile number. You can update your mobile number as many times as needed.",
+      "urdu_question": "میں اپنے شناختی کارڈ پر اپنا موبائل نمبر کتنی بار اپ ڈیٹ کر سکتا ہوں؟",
+      "urdu_answer": "آپ کے موبائل نمبر کو تبدیل کرنے کی کوئی حد نہیں ہے۔ آپ جتنی بار ضرورت ہو اپنا موبائل نمبر اپ ڈیٹ کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I change my email address multiple times on my ID card?",
+      "answer": "Yes, there is no limit on changing your email address. You can update your email information as frequently as required.",
+      "urdu_question": "کیا میں اپنے شناختی کارڈ پر کئی بار اپنا ای میل ایڈریس تبدیل کرسکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ کے ای میل ایڈریس کو تبدیل کرنے کی کوئی حد نہیں ہے۔ آپ اپنی ای میل کی معلومات کو جتنی بار ضرورت ہو اپ ڈیٹ کر سکتے ہیں۔"
+    },
+    {
+      "question": "What are the rules for changing my name on my ID card?",
+      "answer": "Name can only be changed once in a lifetime. However, there is a special exception: married females may add or remove their husband's name based on their marital status.",
+      "urdu_question": "میرے شناختی کارڈ پر میرا نام تبدیل کرنے کے کیا اصول ہیں؟",
+      "urdu_answer": "نام زندگی میں صرف ایک بار بدلا جا سکتا ہے۔ تاہم، ایک خاص استثناء ہے: شادی شدہ خواتین اپنی ازدواجی حیثیت کی بنیاد پر اپنے شوہر کا نام شامل یا ہٹا سکتی ہیں۔"
+    },
+    {
+      "question": "Can married women change their name more than once?",
+      "answer": "Yes, married females have a special exception. While the general rule is that name can only be changed once in a lifetime, married females may add or remove their husband's name based on their marital status.",
+      "urdu_question": "کیا شادی شدہ خواتین اپنا نام ایک سے زیادہ بار بدل سکتی ہیں؟",
+      "urdu_answer": "ہاں، شادی شدہ خواتین کو ایک خاص استثنا حاصل ہے۔ اگرچہ عام اصول یہ ہے کہ نام زندگی میں صرف ایک بار تبدیل کیا جا سکتا ہے، شادی شدہ خواتین اپنی ازدواجی حیثیت کی بنیاد پر اپنے شوہر کا نام شامل یا ہٹا سکتی ہیں۔"
+    },
+    {
+      "question": "What happens in exceptional cases where I need to exceed the standard change limits?",
+      "answer": "In exceptional cases, changes beyond standard limits may be allowed with the consent of the Regional Registration Officer (RRO). You would need to apply for special approval.",
+      "urdu_question": "غیر معمولی معاملات میں کیا ہوتا ہے جہاں مجھے معیاری تبدیلی کی حد سے تجاوز کرنے کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "غیر معمولی معاملات میں، ریجنل رجسٹریشن آفیسر (RRO) کی رضامندی سے معیاری حدود سے باہر کی تبدیلیوں کی اجازت دی جا سکتی ہے۔ آپ کو خصوصی منظوری کے لیے درخواست دینے کی ضرورت ہوگی۔"
+    },
+    {
+      "question": "Who can approve changes beyond the standard limits?",
+      "answer": "The Regional Registration Officer (RRO) has the authority to approve changes beyond standard limits in exceptional cases.",
+      "urdu_question": "معیاری حدود سے باہر تبدیلیوں کو کون منظور کر سکتا ہے؟",
+      "urdu_answer": "علاقائی رجسٹریشن آفیسر (RRO) کو غیر معمولی معاملات میں معیاری حدود سے باہر تبدیلیوں کو منظور کرنے کا اختیار حاصل ہے۔"
+    },
+    {
+      "question": "What are non-printable fields and how are they handled when changed?",
+      "answer": "Non-printable fields are data fields like education and phone number. When these are updated, the data is changed in the system but a new ID card is not issued. The changes are recorded digitally but don't appear on the physical card.",
+      "urdu_question": "نان پرنٹ ایبل فیلڈز کیا ہیں اور تبدیل ہونے پر انہیں کیسے ہینڈل کیا جاتا ہے؟",
+      "urdu_answer": "نان پرنٹ ایبل فیلڈز ڈیٹا فیلڈز ہیں جیسے ایجوکیشن اور فون نمبر۔ جب ان کو اپ ڈیٹ کیا جاتا ہے تو سسٹم میں ڈیٹا تبدیل ہو جاتا ہے لیکن نیا شناختی کارڈ جاری نہیں کیا جاتا۔ تبدیلیاں ڈیجیٹل طور پر ریکارڈ کی جاتی ہیں لیکن فزیکل کارڈ پر ظاہر نہیں ہوتی ہیں۔"
+    },
+    {
+      "question": "What are printable fields and what happens when I change them?",
+      "answer": "Printable fields are information that appears on the physical ID card, such as name, address, and date of birth. When these are changed, a new ID card is printed with the updated details.",
+      "urdu_question": "پرنٹ ایبل فیلڈز کیا ہیں اور جب میں انہیں تبدیل کرتا ہوں تو کیا ہوتا ہے؟",
+      "urdu_answer": "پرنٹ ایبل فیلڈز وہ معلومات ہیں جو جسمانی شناختی کارڈ پر ظاہر ہوتی ہیں، جیسے نام، پتہ، اور تاریخ پیدائش۔ جب ان کو تبدیل کیا جاتا ہے، تو تازہ ترین تفصیلات کے ساتھ ایک نیا شناختی کارڈ پرنٹ کیا جاتا ہے۔"
+    },
+    {
+      "question": "Do I get a new card if I change my phone number?",
+      "answer": "No, phone number is a non-printable field. The data is updated in the system but a new ID card is not issued since this information doesn't appear on the physical card.",
+      "urdu_question": "اگر میں اپنا فون نمبر تبدیل کرتا ہوں تو کیا مجھے نیا کارڈ ملے گا؟",
+      "urdu_answer": "نہیں، فون نمبر ایک نان پرنٹ ایبل فیلڈ ہے۔ سسٹم میں ڈیٹا کو اپ ڈیٹ کیا جاتا ہے لیکن نیا شناختی کارڈ جاری نہیں کیا جاتا کیونکہ یہ معلومات فزیکل کارڈ پر ظاہر نہیں ہوتی ہیں۔"
+    },
+    {
+      "question": "Will I receive a new card if I change my address?",
+      "answer": "Yes, address is a printable field. When you change your address, a new ID card will be printed with the updated address details.",
+      "urdu_question": "اگر میں اپنا پتہ تبدیل کروں تو کیا مجھے نیا کارڈ ملے گا؟",
+      "urdu_answer": "ہاں، پتہ ایک پرنٹ ایبل فیلڈ ہے۔ جب آپ اپنا پتہ تبدیل کرتے ہیں، تو پتے کی تازہ ترین تفصیلات کے ساتھ ایک نیا شناختی کارڈ پرنٹ کیا جائے گا۔"
+    },
+    {
+      "question": "What fields can I change without any restrictions?",
+      "answer": "Mobile number and email address can be changed without any restrictions. There is no limit on how many times you can update these fields.",
+      "urdu_question": "میں بغیر کسی پابندی کے کن فیلڈز کو تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "موبائل نمبر اور ای میل ایڈریس کو بغیر کسی پابندی کے تبدیل کیا جا سکتا ہے۔ اس بات کی کوئی حد نہیں ہے کہ آپ ان فیلڈز کو کتنی بار اپ ڈیٹ کر سکتے ہیں۔"
+    },
+    {
+      "question": "Which fields have lifetime change restrictions?",
+      "answer": "Date of birth and name have lifetime change restrictions - they can only be changed once in a lifetime. The exception is that married females can add or remove their husband's name based on marital status.",
+      "urdu_question": "کن شعبوں میں زندگی بھر کی تبدیلی کی پابندیاں ہیں؟",
+      "urdu_answer": "تاریخ پیدائش اور نام میں تاحیات تبدیلی کی پابندیاں ہیں - انہیں زندگی میں صرف ایک بار تبدیل کیا جا سکتا ہے۔ استثناء یہ ہے کہ شادی شدہ خواتین ازدواجی حیثیت کی بنیاد پر اپنے شوہر کا نام شامل یا ہٹا سکتی ہیں۔"
+    },
+    {
+      "question": "What is the difference between updating education information and name information?",
+      "answer": "Education is a non-printable field, so updating it changes the data in the system but doesn't require a new card. Name is a printable field, so changing it requires printing a new ID card with updated details.",
+      "urdu_question": "تعلیمی معلومات اور نام کی معلومات کو اپ ڈیٹ کرنے میں کیا فرق ہے؟",
+      "urdu_answer": "تعلیم ایک نان پرنٹ ایبل فیلڈ ہے، اس لیے اسے اپ ڈیٹ کرنے سے سسٹم میں ڈیٹا بدل جاتا ہے لیکن اس کے لیے نئے کارڈ کی ضرورت نہیں ہوتی۔ نام ایک پرنٹ ایبل فیلڈ ہے، اس لیے اسے تبدیل کرنے کے لیے تازہ ترین تفصیلات کے ساتھ ایک نیا شناختی کارڈ پرنٹ کرنا ضروری ہے۔"
+    },
+    {
+      "question": "Can I change multiple fields at the same time?",
+      "answer": "Yes, you can change multiple fields at the same time. However, each field will be subject to its individual change limits and documentation requirements as per NADRA's registration policy.",
+      "urdu_question": "کیا میں ایک ہی وقت میں متعدد فیلڈز کو تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ ایک ہی وقت میں متعدد فیلڈز کو تبدیل کر سکتے ہیں۔ تاہم، ہر فیلڈ اپنی انفرادی تبدیلی کی حدود اور نادرا کی رجسٹریشن پالیسی کے مطابق دستاویزات کی ضروریات کے تابع ہوگا۔"
+    },
+    {
+      "question": "What should I do if I want to make a change that exceeds the normal limits?",
+      "answer": "If you want to make a change that exceeds normal limits, you should apply through the exception process. This requires consent from the Regional Registration Officer (RRO) who will evaluate your case for exceptional circumstances.",
+      "urdu_question": "اگر میں کوئی ایسی تبدیلی کرنا چاہتا ہوں جو معمول کی حد سے زیادہ ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کوئی ایسی تبدیلی کرنا چاہتے ہیں جو معمول کی حد سے زیادہ ہو، تو آپ کو استثنیٰ کے عمل کے ذریعے درخواست دینی چاہیے۔ اس کے لیے علاقائی رجسٹریشن آفیسر (RRO) کی رضامندی درکار ہے جو غیر معمولی حالات کے لیے آپ کے کیس کی جانچ کرے گا۔"
+    },
+    {
+      "question": "How do I apply for changes to my ID card information?",
+      "answer": "You can apply for changes by visiting your nearest NADRA registration center with the required documents. Fill out the modification form and submit it along with supporting documentation as per NADRA's registration policy.",
+      "urdu_question": "میں اپنے شناختی کارڈ کی معلومات میں تبدیلی کے لیے کیسے درخواست دوں؟",
+      "urdu_answer": "آپ مطلوبہ دستاویزات کے ساتھ اپنے قریبی نادرا رجسٹریشن سینٹر پر جا کر تبدیلیوں کے لیے درخواست دے سکتے ہیں۔ ترمیمی فارم کو پُر کریں اور نادرا کی رجسٹریشن پالیسی کے مطابق معاون دستاویزات کے ساتھ جمع کرائیں۔"
+    },
+    {
+      "question": "Where can I submit my application for ID card changes?",
+      "answer": "You can submit your application for ID card changes at any NADRA registration center or franchise. Visit the nearest NADRA office in your area with the required documents.",
+      "urdu_question": "میں شناختی کارڈ میں تبدیلی کے لیے اپنی درخواست کہاں جمع کر سکتا ہوں؟",
+      "urdu_answer": "آپ شناختی کارڈ میں تبدیلی کے لیے اپنی درخواست نادرا کے کسی بھی رجسٹریشن سینٹر یا فرنچائز پر جمع کرا سکتے ہیں۔ مطلوبہ دستاویزات کے ساتھ اپنے علاقے کے قریب ترین نادرا آفس تشریف لائیں۔"
+    },
+    {
+      "question": "What forms do I need to fill out for ID card modifications?",
+      "answer": "You need to fill out the modification form available at NADRA centers. The specific form will depend on the type of change you want to make. NADRA staff will guide you to the appropriate form.",
+      "urdu_question": "شناختی کارڈ میں ترمیم کے لیے مجھے کون سے فارم بھرنے کی ضرورت ہے؟",
+      "urdu_answer": "آپ کو نادرا مراکز پر دستیاب ترمیمی فارم کو پُر کرنا ہوگا۔ مخصوص فارم کا انحصار اس قسم کی تبدیلی پر ہوگا جسے آپ کرنا چاہتے ہیں۔ نادرا کا عملہ مناسب فارم میں آپ کی رہنمائی کرے گا۔"
+    },
+    {
+      "question": "Can I apply for ID card changes online?",
+      "answer": "Some changes can be processed through digital services. For non-printable fields like mobile number and email, you may be able to update through online services. For printable fields requiring new card issuance, you typically need to visit a NADRA center.",
+      "urdu_question": "کیا میں شناختی کارڈ میں تبدیلی کے لیے آن لائن درخواست دے سکتا ہوں؟",
+      "urdu_answer": "کچھ تبدیلیوں پر ڈیجیٹل خدمات کے ذریعے کارروائی کی جا سکتی ہے۔ موبائل نمبر اور ای میل جیسے نان پرنٹ ایبل فیلڈز کے لیے، آپ آن لائن سروسز کے ذریعے اپ ڈیٹ کر سکتے ہیں۔ پرنٹ ایبل فیلڈز کے لیے جن کے لیے نئے کارڈ کے اجراء کی ضرورت ہوتی ہے، آپ کو عام طور پر نادرا سینٹر جانا پڑتا ہے۔"
+    },
+    {
+      "question": "How much does it cost to make changes to my ID card?",
+      "answer": "The cost varies depending on the type of change being made. Fees are determined by NADRA's current fee structure. Contact your nearest NADRA center or check the official NADRA website for current fees.",
+      "urdu_question": "میرے شناختی کارڈ میں تبدیلی کرنے پر کتنا خرچ آتا ہے؟",
+      "urdu_answer": "لاگت تبدیلی کی قسم کے لحاظ سے مختلف ہوتی ہے۔ فیس کا تعین نادرا کے موجودہ فیس اسٹرکچر سے کیا جاتا ہے۔ موجودہ فیس کے لیے اپنے قریبی نادرا سینٹر سے رابطہ کریں یا نادرا کی آفیشل ویب سائٹ چیک کریں۔"
+    },
+    {
+      "question": "What payment methods are accepted for ID card modification fees?",
+      "answer": "NADRA centers typically accept cash payments. Some centers may also accept bank drafts or online payment methods. Check with your local NADRA center for available payment options.",
+      "urdu_question": "شناختی کارڈ میں ترمیم کی فیس کے لیے ادائیگی کے کون سے طریقے قبول کیے جاتے ہیں؟",
+      "urdu_answer": "نادرا مراکز عام طور پر نقد ادائیگی قبول کرتے ہیں۔ کچھ مراکز بینک ڈرافٹ یا آن لائن ادائیگی کے طریقے بھی قبول کر سکتے ہیں۔ دستیاب ادائیگی کے اختیارات کے لیے اپنے مقامی نادرا سینٹر سے رابطہ کریں۔"
+    },
+    {
+      "question": "How long does it take to process ID card changes?",
+      "answer": "Processing time varies depending on the type of change and verification requirements. Non-printable field updates may be processed quickly, while printable field changes requiring new card issuance take longer due to verification and printing processes.",
+      "urdu_question": "شناختی کارڈ کی تبدیلی پر عمل کرنے میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "پروسیسنگ کا وقت تبدیلی کی قسم اور تصدیق کے تقاضوں کے لحاظ سے مختلف ہوتا ہے۔ نان پرنٹ ایبل فیلڈ اپ ڈیٹس پر تیزی سے کارروائی کی جا سکتی ہے، جبکہ پرنٹ ایبل فیلڈ تبدیلیاں جن میں نئے کارڈ کے اجراء کی ضرورت ہوتی ہے، تصدیق اور پرنٹنگ کے عمل کی وجہ سے زیادہ وقت لیتی ہے۔"
+    },
+    {
+      "question": "Is expedited processing available for urgent ID card changes?",
+      "answer": "NADRA may offer expedited processing for urgent cases. Contact your local NADRA center to inquire about urgent processing options and any additional fees that may apply.",
+      "urdu_question": "کیا شناختی کارڈ کی فوری تبدیلیوں کے لیے تیز رفتار پروسیسنگ دستیاب ہے؟",
+      "urdu_answer": "نادرا فوری کارروائی کی پیشکش کر سکتا ہے۔ فوری پروسیسنگ کے اختیارات اور لاگو ہونے والی اضافی فیسوں کے بارے میں پوچھ گچھ کرنے کے لیے اپنے مقامی نادرا سینٹر سے رابطہ کریں۔"
+    },
+    {
+      "question": "How can I track the status of my ID card modification application?",
+      "answer": "You can track your application status by visiting the NADRA center where you submitted your application, using the tracking number provided, or through NADRA's online services if available.",
+      "urdu_question": "میں اپنے شناختی کارڈ میں ترمیم کی درخواست کے اسٹیٹس کو کیسے ٹریک کرسکتا ہوں؟",
+      "urdu_answer": "آپ نادرا سنٹر پر جا کر جہاں آپ نے اپنی درخواست جمع کرائی تھی، فراہم کردہ ٹریکنگ نمبر کا استعمال کرتے ہوئے، یا اگر دستیاب ہو تو نادرا کی آن لائن خدمات کے ذریعے آپ اپنی درخواست کی حیثیت کا پتہ لگا سکتے ہیں۔"
+    },
+    {
+      "question": "What happens if my supporting documents are rejected during the verification process?",
+      "answer": "If your documents are rejected, NADRA will inform you of the reasons and guide you on what additional or alternative documents are needed. You can resubmit with the correct documentation.",
+      "urdu_question": "اگر تصدیقی عمل کے دوران میرے معاون دستاویزات کو مسترد کر دیا جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کی دستاویزات مسترد کر دی جاتی ہیں، تو نادرا آپ کو وجوہات سے آگاہ کرے گا اور آپ کی رہنمائی کرے گا کہ کن اضافی یا متبادل دستاویزات کی ضرورت ہے۔ آپ درست دستاویزات کے ساتھ دوبارہ جمع کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I appeal if my ID card modification application is rejected?",
+      "answer": "Yes, if your application is rejected, you can appeal the decision or apply through the exception process with Regional Registration Officer (RRO) approval if you believe you have valid grounds for the change.",
+      "urdu_question": "اگر میری شناختی کارڈ میں ترمیم کی درخواست مسترد ہو جاتی ہے تو کیا میں اپیل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، اگر آپ کی درخواست مسترد ہو جاتی ہے، تو آپ فیصلے کے خلاف اپیل کر سکتے ہیں یا ریجنل رجسٹریشن آفیسر (RRO) کی منظوری کے ساتھ استثنیٰ کے عمل کے ذریعے درخواست دے سکتے ہیں اگر آپ کو یقین ہے کہ آپ کے پاس تبدیلی کے لیے درست بنیادیں ہیں۔"
+    },
+    {
+      "question": "How will I receive my new ID card after changes are approved?",
+      "answer": "For printable field changes, you will need to collect your new ID card from the NADRA center where you applied. You will be notified when your card is ready for collection.",
+      "urdu_question": "تبدیلیوں کی منظوری کے بعد میں اپنا نیا شناختی کارڈ کیسے حاصل کروں گا؟",
+      "urdu_answer": "پرنٹ ایبل فیلڈ تبدیلیوں کے لیے، آپ کو اپنا نیا شناختی کارڈ نادرا سینٹر سے جمع کرنا ہوگا جہاں آپ نے درخواست دی تھی۔ جب آپ کا کارڈ جمع کرنے کے لیے تیار ہو جائے گا تو آپ کو مطلع کیا جائے گا۔"
+    },
+    {
+      "question": "Can someone else collect my new ID card on my behalf?",
+      "answer": "Generally, you must collect your ID card personally for security reasons. In exceptional cases, authorized representatives may be allowed with proper documentation and authorization, but this varies by NADRA policy.",
+      "urdu_question": "کیا کوئی اور میری طرف سے میرا نیا شناختی کارڈ جمع کر سکتا ہے؟",
+      "urdu_answer": "عام طور پر، آپ کو سیکورٹی وجوہات کی بنا پر ذاتی طور پر اپنا شناختی کارڈ جمع کرنا ہوگا۔ غیر معمولی معاملات میں، مجاز نمائندوں کو مناسب دستاویزات اور اجازت کے ساتھ اجازت دی جا سکتی ہے، لیکن یہ نادرا کی پالیسی کے لحاظ سے مختلف ہوتی ہے۔"
+    },
+    {
+      "question": "What should I bring when collecting my new ID card?",
+      "answer": "Bring your original receipt/token from when you submitted the application, a copy of your old ID card if available, and any identification documents requested by the NADRA center.",
+      "urdu_question": "اپنا نیا شناختی کارڈ جمع کرتے وقت مجھے کیا لانا چاہیے؟",
+      "urdu_answer": "جب آپ نے درخواست جمع کروائی تھی تب سے اپنی اصل رسید/ٹوکن، اگر دستیاب ہو تو اپنے پرانے شناختی کارڈ کی ایک کاپی، اور نادرا سینٹر کی طرف سے درخواست کردہ کوئی بھی شناختی دستاویزات لائیں۔"
+    },
+    {
+      "question": "What happens to my old ID card when I get changes made?",
+      "answer": "For printable field changes, your old ID card becomes invalid once the new card is issued. You should surrender the old card to NADRA or destroy it securely to prevent misuse.",
+      "urdu_question": "جب میں تبدیلیاں کروں گا تو میرے پرانے شناختی کارڈ کا کیا ہوگا؟",
+      "urdu_answer": "پرنٹ ایبل فیلڈ تبدیلیوں کے لیے، نیا کارڈ جاری ہونے کے بعد آپ کا پرانا شناختی کارڈ غلط ہو جاتا ہے۔ آپ کو پرانا کارڈ نادرا کے حوالے کرنا چاہیے یا غلط استعمال کو روکنے کے لیے اسے محفوظ طریقے سے تلف کرنا چاہیے۔"
+    },
+    {
+      "question": "Are there age restrictions for making changes to ID cards?",
+      "answer": "Minors (under 18) may need parental or guardian consent and presence for making changes. Adults can make changes independently, subject to documentation requirements and change limits.",
+      "urdu_question": "کیا شناختی کارڈ میں تبدیلی کے لیے عمر کی پابندیاں ہیں؟",
+      "urdu_answer": "نابالغ (18 سال سے کم) کو تبدیلیاں کرنے کے لیے والدین یا سرپرست کی رضامندی اور موجودگی کی ضرورت ہو سکتی ہے۔ بالغ افراد آزادانہ طور پر تبدیلیاں کر سکتے ہیں، دستاویزات کے تقاضوں اور تبدیلی کی حدود کے تابع۔"
+    },
+    {
+      "question": "Can overseas Pakistanis make changes to their ID cards?",
+      "answer": "Overseas Pakistanis can make changes through Pakistani consulates/embassies abroad or by visiting Pakistan. The process may involve additional verification steps for overseas applicants.",
+      "urdu_question": "کیا بیرون ملک مقیم پاکستانی اپنے شناختی کارڈ میں تبدیلی کر سکتے ہیں؟",
+      "urdu_answer": "بیرون ملک مقیم پاکستانی بیرون ملک پاکستانی قونصل خانوں/سفارت خانوں کے ذریعے یا پاکستان کا دورہ کر کے تبدیلیاں کر سکتے ہیں۔ اس عمل میں بیرون ملک مقیم درخواست دہندگان کے لیے تصدیق کے اضافی اقدامات شامل ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What if I made an error in my change application?",
+      "answer": "If you notice an error before processing, contact the NADRA center immediately. If the error is processed, you may need to apply for another correction, which could be subject to change limits and fees.",
+      "urdu_question": "اگر میں نے اپنی تبدیلی کی درخواست میں غلطی کی ہے تو کیا ہوگا؟",
+      "urdu_answer": "پروسیسنگ سے پہلے اگر آپ کو کوئی خرابی نظر آئے تو فوری طور پر نادرا سنٹر سے رابطہ کریں۔ اگر غلطی پر کارروائی ہو جاتی ہے، تو آپ کو ایک اور تصحیح کے لیے درخواست دینے کی ضرورت پڑ سکتی ہے، جس میں تبدیلی کی حد اور فیس ہو سکتی ہے۔"
+    },
+    {
+      "question": "How do changes to my ID card affect other NADRA services?",
+      "answer": "Changes to your ID card information will be updated across all NADRA systems, potentially affecting your passport, driver's license applications, and other services linked to your CNIC.",
+      "urdu_question": "میرے شناختی کارڈ میں تبدیلیاں نادرا کی دیگر سروسز کو کیسے متاثر کرتی ہیں؟",
+      "urdu_answer": "آپ کے شناختی کارڈ کی معلومات میں تبدیلیاں نادرا کے تمام سسٹمز میں اپ ڈیٹ کی جائیں گی، جو ممکنہ طور پر آپ کے پاسپورٹ، ڈرائیونگ لائسنس کی درخواستوں، اور آپ کے CNIC سے منسلک دیگر خدمات کو متاثر کرے گی۔"
+    },
+    {
+      "question": "Do I need to inform other government departments about ID card changes?",
+      "answer": "While NADRA updates its systems, you may need to separately update your information with other departments like banks, employers, or utility companies that use your CNIC information.",
+      "urdu_question": "کیا مجھے شناختی کارڈ کی تبدیلیوں کے بارے میں دوسرے سرکاری محکموں کو مطلع کرنے کی ضرورت ہے؟",
+      "urdu_answer": "جبکہ نادرا اپنے سسٹمز کو اپ ڈیٹ کرتا ہے، آپ کو اپنی معلومات کو دوسرے محکموں جیسے بینکوں، آجروں، یا یوٹیلیٹی کمپنیوں کے ساتھ اپ ڈیٹ کرنے کی ضرورت پڑ سکتی ہے جو آپ کی CNIC معلومات استعمال کرتی ہیں۔"
+    },
+    {
+      "question": "Can I make changes if I have a juvenile card that's about to expire?",
+      "answer": "If your juvenile card is about to expire, you may want to apply for an adult CNIC instead of modifying the juvenile card. Consult NADRA staff for the best course of action based on your age and timing.",
+      "urdu_question": "کیا میں تبدیلیاں کر سکتا ہوں اگر میرے پاس نوعمر کارڈ ہے جس کی میعاد ختم ہونے والی ہے؟",
+      "urdu_answer": "اگر آپ کے نابالغ کارڈ کی میعاد ختم ہونے والی ہے، تو آپ نابالغ کارڈ میں ترمیم کرنے کے بجائے بالغ CNIC کے لیے درخواست دے سکتے ہیں۔ اپنی عمر اور وقت کی بنیاد پر بہترین کارروائی کے لیے نادرا کے عملے سے مشورہ کریں۔"
+    },
+    {
+      "question": "What verification process is followed for ID card changes?",
+      "answer": "NADRA verifies your documents against their records and may conduct additional checks through local authorities or verification officers. The process ensures the authenticity of your change request.",
+      "urdu_question": "شناختی کارڈ میں تبدیلی کے لیے تصدیقی عمل کیا جاتا ہے؟",
+      "urdu_answer": "نادرا آپ کے دستاویزات کی ان کے ریکارڈ کے خلاف تصدیق کرتا ہے اور مقامی حکام یا تصدیقی افسران کے ذریعے اضافی جانچ پڑتال کر سکتا ہے۔ یہ عمل آپ کی تبدیلی کی درخواست کی صداقت کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "Can I make changes if my ID card is damaged or expired?",
+      "answer": "Yes, you can make changes even if your ID card is damaged or expired. However, you may need additional verification steps to confirm your identity and the changes requested.",
+      "urdu_question": "اگر میرا شناختی کارڈ خراب ہو جائے یا اس کی میعاد ختم ہو جائے تو کیا میں تبدیلی کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ تبدیلیاں کر سکتے ہیں چاہے آپ کا شناختی کارڈ خراب ہو یا ختم ہو جائے۔ تاہم، آپ کو اپنی شناخت اور درخواست کردہ تبدیلیوں کی تصدیق کے لیے اضافی تصدیقی اقدامات کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "What happens if I need urgent changes for visa or travel purposes?",
+      "answer": "For urgent travel-related changes, contact NADRA about expedited processing. You may need to provide proof of travel urgency such as flight tickets or visa appointment letters.",
+      "urdu_question": "اگر مجھے ویزا یا سفری مقاصد کے لیے فوری تبدیلیوں کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "سفر سے متعلق فوری تبدیلیوں کے لیے، تیز رفتار پروسیسنگ کے لیے نادرا سے رابطہ کریں۔ آپ کو سفری عجلت کا ثبوت فراہم کرنے کی ضرورت پڑ سکتی ہے جیسے فلائٹ ٹکٹ یا ویزا اپائنٹمنٹ لیٹر۔"
+    },
+    {
+      "question": "Are there any changes that cannot be made to an ID card?",
+      "answer": "Some changes may be restricted or impossible, such as changing information that conflicts with official records or making changes that exceed lifetime limits without proper justification through the exception process.",
+      "urdu_question": "کیا شناختی کارڈ میں کوئی تبدیلی نہیں کی جا سکتی؟",
+      "urdu_answer": "کچھ تبدیلیاں محدود یا ناممکن ہو سکتی ہیں، جیسے کہ ایسی معلومات کو تبدیل کرنا جو سرکاری ریکارڈ سے متصادم ہو یا ایسی تبدیلیاں کرنا جو کسی استثنیٰ کے عمل کے ذریعے مناسب جواز کے بغیر زندگی بھر کی حدود سے تجاوز کر جائیں۔"
+    },
+    {
+      "question": "How do I know which documents are required for my specific change?",
+      "answer": "Document requirements vary by the type of change. Visit a NADRA center or check NADRA's official documentation requirements guide. NADRA staff will inform you of the specific documents needed for your type of modification.",
+      "urdu_question": "میں کیسے جان سکتا ہوں کہ میری مخصوص تبدیلی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "دستاویز کی ضروریات تبدیلی کی قسم کے لحاظ سے مختلف ہوتی ہیں۔ نادرا سینٹر پر جائیں یا نادرا کی آفیشل دستاویزات کے تقاضوں کا گائیڈ چیک کریں۔ نادرا کا عملہ آپ کو آپ کی قسم کی ترمیم کے لیے درکار مخصوص دستاویزات سے آگاہ کرے گا۔"
+    },
+    {
+      "question": "Can I make changes if I hold dual nationality?",
+      "answer": "Dual nationality holders can make changes, but additional documentation may be required. The process may involve verification of your Pakistani citizenship status and foreign nationality documents.",
+      "urdu_question": "اگر میں دوہری شہریت رکھتا ہوں تو کیا میں تبدیلیاں کر سکتا ہوں؟",
+      "urdu_answer": "دوہری شہریت رکھنے والے تبدیلیاں کر سکتے ہیں، لیکن اضافی دستاویزات درکار ہو سکتی ہیں۔ اس عمل میں آپ کی پاکستانی شہریت کی حیثیت اور غیر ملکی شہریت کے دستاویزات کی تصدیق شامل ہو سکتی ہے۔"
+    },
+    {
+      "question": "What should I do if the wrong information was updated on my ID card?",
+      "answer": "If wrong information was updated due to NADRA's error, it can be corrected without additional charges. If it was due to your error, you may need to apply for another modification subject to normal fees and change limits.",
+      "urdu_question": "اگر میرے شناختی کارڈ پر غلط معلومات کو اپ ڈیٹ کیا گیا تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر نادرا کی غلطی کی وجہ سے غلط معلومات کو اپ ڈیٹ کیا گیا تو اسے بغیر کسی اضافی چارجز کے درست کیا جا سکتا ہے۔ اگر یہ آپ کی غلطی کی وجہ سے تھا، تو آپ کو عام فیس اور تبدیلی کی حدوں کے ساتھ مشروط ایک اور ترمیم کے لیے درخواست دینے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "How long are the changes valid on my ID card?",
+      "answer": "Changes made to your ID card are permanent and valid until your card's expiration date. The changes become part of your official record and will carry forward to future card renewals.",
+      "urdu_question": "میرے شناختی کارڈ میں تبدیلیاں کب تک درست ہیں؟",
+      "urdu_answer": "آپ کے شناختی کارڈ میں کی گئی تبدیلیاں آپ کے کارڈ کی میعاد ختم ہونے تک مستقل اور درست ہیں۔ تبدیلیاں آپ کے سرکاری ریکارڈ کا حصہ بن جاتی ہیں اور مستقبل میں کارڈ کی تجدید کے لیے آگے بڑھیں گی۔"
+    }
+  ]
+}

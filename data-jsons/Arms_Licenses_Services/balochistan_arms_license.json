@@ -1,0 +1,607 @@
+{
+  "file_name": "balochistan_arms_liscense.json",
+  "domain": "Arms_Licenses_Services",
+  "total_qa_pairs": 100,
+  "qa_data": [
+    {
+      "question": "What are the Balochistan Arms Rules 2022?",
+      "answer": "The Balochistan Arms Rules 2022 are provincial rules made under the Balochistan Arms Act 2022, notified by the Government of Balochistan Home and Tribal Affairs Department. These rules govern personal arms licenses, institutional arms licenses, and business arms licenses within Balochistan province.",
+      "urdu_question": "بلوچستان آرمز رولز 2022 کیا ہیں؟",
+      "urdu_answer": "بلوچستان آرمز رولز 2022 بلوچستان آرمز ایکٹ 2022 کے تحت بنائے گئے صوبائی قوانین ہیں، جو حکومت بلوچستان کے محکمہ داخلہ اور قبائلی امور کے ذریعے مطلع کیے گئے ہیں۔ یہ قوانین صوبہ بلوچستان کے اندر ذاتی اسلحہ لائسنس، ادارہ جاتی اسلحہ لائسنس، اور کاروباری اسلحہ لائسنس پر حکومت کرتے ہیں۔"
+    },
+    {
+      "question": "Who can apply for personal arms license in Balochistan?",
+      "answer": "A personal arms license may be issued to a Balochistan domiciled person for protection or sports purposes, subject to fulfilling eligibility criteria including: Pakistani citizenship, valid CNIC, Balochistan domicile, minimum age 25 years, suitable character as per police report, not fugitive from law, no serious criminal convictions, not member of proscribed organization, and physically/mentally fit.",
+      "urdu_question": "بلوچستان میں ذاتی اسلحہ لائسنس کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "بلوچستان کے مقیم شخص کو تحفظ یا کھیلوں کے مقاصد کے لیے ذاتی اسلحہ لائسنس جاری کیا جا سکتا ہے، اہلیت کے معیار کو پورا کرنے کے ساتھ مشروط ہے، بشمول: پاکستانی شہریت، درست CNIC، بلوچستان کا ڈومیسائل، کم از کم عمر 25 سال، پولیس رپورٹ کے مطابق موزوں کردار، قانون سے مفرور نہیں، کوئی سنگین مجرمانہ سزا، ممنوعہ تنظیم کا رکن نہ ہونا اور جسمانی طور پر غیر فعال تنظیم کا رکن ہونا۔"
+    },
+    {
+      "question": "What documents are required for Balochistan personal arms license application?",
+      "answer": "Required documents include: CNIC photocopy, domicile/local certificate photocopy, medical fitness certificate from registered medical practitioner (original), and any other documents specified by the Department. Application must be submitted on Form-I to Department or Deputy Commissioner.",
+      "urdu_question": "بلوچستان کے ذاتی اسلحہ لائسنس کی درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات میں شامل ہیں: CNIC فوٹو کاپی، ڈومیسائل/لوکل سرٹیفکیٹ کی فوٹو کاپی، رجسٹرڈ میڈیکل پریکٹیشنر (اصل) سے میڈیکل فٹنس سرٹیفکیٹ، اور محکمہ کی طرف سے متعین کوئی دیگر دستاویزات۔ درخواست فارم-I پر محکمہ یا ڈپٹی کمشنر کو جمع کرانا ضروری ہے۔"
+    },
+    {
+      "question": "What is the procedure for determining suitability for Balochistan arms license?",
+      "answer": "The Department or DC (after Home Department approval) determines suitability by: ascertaining applicant's eligibility, obtaining reports on credentials, general conduct, and criminal record from local police and other agencies if required. Upon approval, applicant must appear in person at NADRA Registration Centre for further processing.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کے لیے موزوںیت کا تعین کرنے کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "محکمہ یا ڈی سی (محکمہ داخلہ کی منظوری کے بعد) مناسبیت کا تعین اس کے ذریعے کرتا ہے: درخواست دہندگان کی اہلیت کا پتہ لگا کر، اگر ضرورت ہو تو مقامی پولیس اور دیگر ایجنسیوں سے اسناد، عمومی طرز عمل، اور مجرمانہ ریکارڈ کے بارے میں رپورٹیں حاصل کرنا۔ منظوری کے بعد، درخواست دہندہ کو مزید کارروائی کے لیے نادرا رجسٹریشن سینٹر میں ذاتی طور پر حاضر ہونا چاہیے۔"
+    },
+    {
+      "question": "Which persons are exempt from verification for Balochistan arms license?",
+      "answer": "No verification is required for: sitting members of Parliament or Provincial Assembly of Balochistan, persons in service of Pakistan or retired from such service, and serving commissioned and junior commissioned officers of Pakistan armed forces.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کی تصدیق سے کن افراد مستثنیٰ ہیں؟",
+      "urdu_answer": "اس کے لیے کسی تصدیق کی ضرورت نہیں ہے: بلوچستان کی پارلیمنٹ یا صوبائی اسمبلی کے موجودہ ممبران، پاکستان کی خدمت میں موجود افراد یا اس طرح کی سروس سے ریٹائر ہونے والے، اور پاکستان کی مسلح افواج کے کمیشنڈ اور جونیئر کمیشنڈ افسران کے لیے۔"
+    },
+    {
+      "question": "What is the arms purchase requirement after Balochistan license approval?",
+      "answer": "Within 90 days of approval, applicant must: purchase arms from registered dealer or prescribed source, apply to NRC for entry of purchased arms in license, and submit two fired test bullets to Balochistan Forensic Science Agency. Failure results in deemed withdrawal of approval. Extension possible in extraordinary circumstances.",
+      "urdu_question": "بلوچستان سے لائسنس کی منظوری کے بعد اسلحے کی خریداری کی کیا ضرورت ہے؟",
+      "urdu_answer": "منظوری کے 90 دنوں کے اندر، درخواست دہندہ کو لازمی طور پر: رجسٹرڈ ڈیلر یا تجویز کردہ ذریعہ سے اسلحہ خریدنا ہوگا، لائسنس میں خریدے گئے اسلحے کے اندراج کے لیے NRC پر درخواست دینا ہوگی، اور بلوچستان فرانزک سائنس ایجنسی کو دو فائر شدہ ٹیسٹ گولیاں جمع کرانا ہوں گی۔ ناکامی کے نتیجے میں منظوری واپس لی جائے گی۔ غیر معمولی حالات میں توسیع ممکن ہے۔"
+    },
+    {
+      "question": "How can manual Balochistan arms licenses be computerized?",
+      "answer": "Licensees may apply to NRC for revalidation/computerization after paying requisite fee within specified time limit. Licenses from other provinces may also be revalidated/computerized in Balochistan subject to Department notification terms and conditions.",
+      "urdu_question": "بلوچستان کے دستی اسلحہ لائسنس کو کمپیوٹرائزڈ کیسے کیا جا سکتا ہے؟",
+      "urdu_answer": "لائسنس یافتہ مخصوص وقت کی حد کے اندر مطلوبہ فیس ادا کرنے کے بعد دوبارہ تصدیق/کمپیوٹرائزیشن کے لیے NRC پر درخواست دے سکتے ہیں۔ دوسرے صوبوں کے لائسنسوں کی بھی بلوچستان میں دوبارہ تصدیق/کمپیوٹرائزڈ کیا جا سکتا ہے جو محکمہ کے نوٹیفکیشن کی شرائط و ضوابط سے مشروط ہے۔"
+    },
+    {
+      "question": "What is the procedure for duplicate Balochistan arms license?",
+      "answer": "Deputy Commissioner may issue duplicate license for lost, destroyed, or damaged licenses upon Form-II application and prescribed fee payment. Application must include: police report (if lost) or damaged license card (if damaged).",
+      "urdu_question": "بلوچستان کے ڈپلیکیٹ اسلحہ لائسنس کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "ڈپٹی کمشنر فارم II کی درخواست اور مقررہ فیس کی ادائیگی پر گم شدہ، تباہ یا خراب شدہ لائسنس کے لیے ڈپلیکیٹ لائسنس جاری کر سکتا ہے۔ درخواست میں شامل ہونا چاہیے: پولیس رپورٹ (اگر گم ہو جائے) یا خراب شدہ لائسنس کارڈ (اگر خراب ہو جائے)۔"
+    },
+    {
+      "question": "What are institutional arms licenses in Balochistan?",
+      "answer": "Institutional arms licenses may be issued to institutions (educational, business, worship places, hospitals, security companies) subject to eligibility criteria. Institution must be lawfully registered, registered in or carrying substantial operations in Balochistan, no previous cancellation, and key personnel with clean records.",
+      "urdu_question": "بلوچستان میں ادارہ جاتی اسلحہ لائسنس کیا ہیں؟",
+      "urdu_answer": "اداروں (تعلیمی، کاروبار، عبادت گاہوں، ہسپتالوں، سیکورٹی کمپنیوں) کو ادارہ جاتی اسلحہ لائسنس اہلیت کے معیار کے تحت جاری کیے جا سکتے ہیں۔ ادارہ قانونی طور پر رجسٹرڈ، رجسٹرڈ یا بلوچستان میں خاطر خواہ کارروائیاں کر رہا ہو، کوئی سابقہ منسوخی نہ ہو، اور کلیدی اہلکار صاف ریکارڈ کے ساتھ ہوں۔"
+    },
+    {
+      "question": "What documents are needed for Balochistan institutional arms license?",
+      "answer": "Required documents include: CNIC of applicant, authorization letter from institution head (if through agent), registration certificate/license, details of owners/partners/directors/employees, details of persons likely to carry arms, and any other documents specified by Department. Application on Form-III.",
+      "urdu_question": "بلوچستان کے ادارہ جاتی اسلحہ لائسنس کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات میں شامل ہیں: درخواست دہندہ کا CNIC، ادارہ کے سربراہ کی طرف سے اجازت نامہ (اگر ایجنٹ کے ذریعے)، رجسٹریشن سرٹیفکیٹ/لائسنس، مالکان/پارٹنرز/ڈائریکٹرز/ملازمین کی تفصیلات، اسلحہ رکھنے والے افراد کی تفصیلات، اور محکمہ کی طرف سے متعین کردہ دیگر دستاویزات۔ فارم III پر درخواست۔"
+    },
+    {
+      "question": "What is the monthly license quota system in Balochistan?",
+      "answer": "Department may specify maximum number of personal arms licenses a DC may approve per calendar month by notification. Department-sanctioned licenses don't count toward DC quota. No limit applies to institutional licenses if issued after fulfilling conditions and ascertaining genuine need.",
+      "urdu_question": "بلوچستان میں ماہانہ لائسنس کا کوٹہ سسٹم کیا ہے؟",
+      "urdu_answer": "محکمہ زیادہ سے زیادہ ذاتی اسلحہ لائسنسوں کی وضاحت کرسکتا ہے جو ڈی سی ہر کیلنڈر مہینے میں نوٹیفکیشن کے ذریعے منظور کر سکتا ہے۔ محکمہ سے منظور شدہ لائسنس DC کوٹہ میں شمار نہیں ہوتے ہیں۔ ادارہ جاتی لائسنس پر کوئی حد لاگو نہیں ہوتی اگر شرائط کو پورا کرنے اور حقیقی ضرورت کا پتہ لگانے کے بعد جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the limits on personal arms licenses in Balochistan?",
+      "answer": "A person cannot obtain or retain more than five personal arms licenses at a given time. Department may increase this for hunters, shooters, or sportsmen upon written request with substantial proof. Pre-existing licenses (before rule enforcement) are not affected by this limit.",
+      "urdu_question": "بلوچستان میں ذاتی اسلحہ لائسنس کی حدود کیا ہیں؟",
+      "urdu_answer": "ایک شخص ایک مقررہ وقت میں پانچ سے زیادہ ذاتی اسلحہ لائسنس حاصل یا اپنے پاس نہیں رکھ سکتا۔ محکمہ شکاریوں، نشانے بازوں، یا کھلاڑیوں کے لیے کافی ثبوت کے ساتھ تحریری درخواست پر اس میں اضافہ کر سکتا ہے۔ پہلے سے موجود لائسنس (قواعد کے نفاذ سے پہلے) اس حد سے متاثر نہیں ہوتے ہیں۔"
+    },
+    {
+      "question": "What are the cartridge limits for Balochistan arms licenses?",
+      "answer": "Licensees cannot carry cartridges/bullets exceeding the number endorsed on license. New licenses issued with minimum 50 bullets, maximum 500 bullets (subject to Department approval and prescribed fee). Department may increase limit for hunting, shooting, or sports activities upon written request with substantial proof.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کے لیے کارتوس کی حدود کیا ہیں؟",
+      "urdu_answer": "لائسنس یافتہ افراد لائسنس پر تصدیق شدہ تعداد سے زیادہ کارتوس/گولیاں نہیں رکھ سکتے۔ کم از کم 50 گولیوں، زیادہ سے زیادہ 500 گولیوں کے ساتھ جاری کردہ نئے لائسنس (محکمہ کی منظوری اور مقررہ فیس سے مشروط)۔ محکمۂ تحریری درخواست پر شکار، شوٹنگ، یا کھیلوں کی سرگرمیوں کے لیے کافی ثبوت کے ساتھ حد بڑھا سکتا ہے۔"
+    },
+    {
+      "question": "What are gratis arms licenses in Balochistan?",
+      "answer": "No Department fee charged for personal arms licenses issued to persons in service of Pakistan (BPS-17 or above) or Pakistan armed forces members. No yearly renewal fee if renewed within stipulated time. NADRA processing fee and fines/penalties still apply. Maximum two gratis licenses per eligible person.",
+      "urdu_question": "بلوچستان میں مفت اسلحہ لائسنس کیا ہیں؟",
+      "urdu_answer": "پاکستان کی خدمت میں موجود افراد (BPS-17 یا اس سے اوپر) یا پاکستان کی مسلح افواج کے ارکان کو جاری کردہ ذاتی اسلحہ لائسنس کے لیے کوئی محکمہ فیس نہیں لی جاتی۔ اگر مقررہ وقت کے اندر تجدید کی جائے تو کوئی سالانہ تجدید فیس نہیں۔ نادرا پروسیسنگ فیس اور جرمانے/جرمانے اب بھی لاگو ہوتے ہیں۔ فی اہل شخص زیادہ سے زیادہ دو مفت لائسنس۔"
+    },
+    {
+      "question": "What are the gratis license entitlements for armed forces personnel in Balochistan?",
+      "answer": "General Officers: all arms gifted on retirement. Retired Commissioned Officers: 2 pistols/revolvers. JCOs/NCOs (retired): 1 rifle/shotgun. Serving personnel: 1 pistol/revolver/rifle/shotgun as per Army Regulations Instructions 2000.",
+      "urdu_question": "بلوچستان میں مسلح افواج کے اہلکاروں کے لیے مفت لائسنس کے حقدار کیا ہیں؟",
+      "urdu_answer": "جنرل آفیسرز: ریٹائرمنٹ پر تمام ہتھیار تحفے میں دیے گئے۔ ریٹائرڈ کمیشنڈ آفیسرز: 2 پستول/ریوالور۔ JCOs/NCOs (ریٹائرڈ): 1 رائفل/ شاٹ گن۔ حاضر سروس اہلکار: 1 پستول/ ریوالور/ رائفل/ شاٹ گن آرمی ریگولیشنز ہدایات 2000 کے مطابق۔"
+    },
+    {
+      "question": "Can Balochistan arms licenses be transferred?",
+      "answer": "Personal arms licenses are generally non-transferable but may be transferred in case of death or compelling circumstances (ill-health, old age). Transfer requires application on prescribed form, eligibility verification of transferee, police reports, and prescribed fee payment.",
+      "urdu_question": "کیا بلوچستان کے اسلحہ لائسنس منتقل کیے جا سکتے ہیں؟",
+      "urdu_answer": "ذاتی اسلحہ لائسنس عام طور پر ناقابل منتقلی ہوتے ہیں لیکن موت یا مجبور حالات (خرابی صحت، بڑھاپے) کی صورت میں منتقل کیے جا سکتے ہیں۔ منتقلی کے لیے مقررہ فارم پر درخواست، منتقلی کی اہلیت کی تصدیق، پولیس رپورٹس، اور مقررہ فیس کی ادائیگی کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What is the transfer procedure for inherited Balochistan arms licenses?",
+      "answer": "Transfer to legal heir requires: application within one year of death, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate, and prescribed fee. After one year, application not considered and license deemed suspended.",
+      "urdu_question": "بلوچستان کے وراثت میں ملنے والے اسلحہ لائسنس کی منتقلی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "قانونی وارث کو منتقلی کی ضرورت ہے: موت کے ایک سال کے اندر درخواست، موت کا سرٹیفکیٹ، جانشینی کا سرٹیفکیٹ، قانونی وارث کا حلف نامہ، منتقلی کا CNIC/ڈومیسائل/فٹنس سرٹیفکیٹ، اور مقررہ فیس۔ ایک سال کے بعد، درخواست پر غور نہیں کیا گیا اور لائسنس معطل سمجھا گیا۔"
+    },
+    {
+      "question": "What are retainership permissions in Balochistan?",
+      "answer": "Retainership applications on Form-I to Department/DC. Maximum one retainer per license. Proposed retainer must meet eligibility criteria per rule 4. Licensee and proposed retainer must appear before DC/NRC for processing with prescribed fee. Licensee may terminate retainership anytime.",
+      "urdu_question": "بلوچستان میں ریٹینر شپ کی اجازتیں کیا ہیں؟",
+      "urdu_answer": "محکمہ/DC کو فارم-I پر ریٹینرشپ کی درخواستیں۔ فی لائسنس زیادہ سے زیادہ ایک ریٹینر۔ مجوزہ ریٹینر کو قاعدہ 4 کے مطابق اہلیت کے معیار پر پورا اترنا چاہیے۔ لائسنس یافتہ اور مجوزہ ریٹینر کو مقررہ فیس کے ساتھ پروسیسنگ کے لیے DC/NRC کے سامنے حاضر ہونا چاہیے۔ لائسنس یافتہ کسی بھی وقت ریٹینرشپ کو ختم کر سکتا ہے۔"
+    },
+    {
+      "question": "What are the responsibilities for institutional arms usage in Balochistan?",
+      "answer": "Arms given only to trained, security-cleared guards registered with local police. Use limited to authorized purposes/premises. Maintain issuance/receipt system recording guard details, CNIC, arms number, duty time/place, issuance/return times. Registers open to law enforcement inspection. Guards must carry attested license copies and authority letters.",
+      "urdu_question": "بلوچستان میں ادارہ جاتی اسلحہ کے استعمال کی ذمہ داریاں کیا ہیں؟",
+      "urdu_answer": "اسلحہ صرف تربیت یافتہ، سیکورٹی کلیئر گارڈز کو دیا جاتا ہے جو مقامی پولیس میں رجسٹرڈ ہوتے ہیں۔ مجاز مقاصد / احاطے تک محدود استعمال کریں۔ جاری کرنے/رسید کے نظام کی ریکارڈنگ گارڈ کی تفصیلات، CNIC، اسلحہ نمبر، ڈیوٹی کا وقت/جگہ، جاری کرنے/واپسی کے اوقات کو برقرار رکھیں۔ رجسٹر قانون نافذ کرنے والے معائنے کے لیے کھلے ہیں۔ گارڈز کے پاس لائسنس کی تصدیق شدہ کاپیاں اور اتھارٹی لیٹر لازمی ہیں۔"
+    },
+    {
+      "question": "Under what circumstances can Balochistan arms licenses be suspended?",
+      "answer": "Licenses may be suspended if: licensee fails to comply with conditions, arms used unlawfully, licensee involved in activities against public safety, violation of Act/rules, criminal charges, or fugitive status. Suspension requires hearing opportunity except in extraordinary circumstances.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کن حالات میں معطل کیے جا سکتے ہیں؟",
+      "urdu_answer": "لائسنس معطل کیا جا سکتا ہے اگر: لائسنس دہندہ شرائط کی تعمیل کرنے میں ناکام رہتا ہے، غیر قانونی طور پر اسلحے کا استعمال کیا جاتا ہے، لائسنس دہندہ عوامی تحفظ کے خلاف سرگرمیوں میں ملوث، ایکٹ/قواعد کی خلاف ورزی، مجرمانہ الزامات، یا مفرور حیثیت رکھتا ہے۔ معطلی کے لیے سماعت کا موقع درکار ہوتا ہے سوائے غیر معمولی حالات کے۔"
+    },
+    {
+      "question": "When can Balochistan arms licenses be cancelled?",
+      "answer": "Licenses may be cancelled if: licensee fails to remove objections after hearing, repetition of suspension acts, arms used for criminal offenses, contravention of Act/rules/conditions, or licensee's own request. Process requires communication to NADRA and local police for arms confiscation. Arms deposited in strong room. Licensee or legal heir may apply for voluntary cancellation. Arms must be deposited in strong room or with registered dealer with receipt attached to application.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کب منسوخ ہو سکتے ہیں؟",
+      "urdu_answer": "لائسنس منسوخ کیا جا سکتا ہے اگر: لائسنس دہندہ سماعت کے بعد اعتراضات کو دور کرنے میں ناکام رہتا ہے، معطلی کے ایکٹ کی تکرار، فوجداری جرائم کے لیے استعمال ہونے والا اسلحہ، ایکٹ/قواعد/شرائط کی خلاف ورزی، یا لائسنس دہندہ کی اپنی درخواست۔ اس عمل میں اسلحہ کی ضبطی کے لیے نادرا اور مقامی پولیس سے رابطے کی ضرورت ہے۔ اسلحہ اسٹرانگ روم میں جمع۔ لائسنس یافتہ یا قانونی وارث رضاکارانہ منسوخی کے لیے درخواست دے سکتا ہے۔ اسلحہ اسٹرانگ روم میں یا رجسٹرڈ ڈیلر کے پاس جمع کرایا جائے جس کی رسید درخواست کے ساتھ منسلک ہو۔"
+    },
+    {
+      "question": "What appeal rights exist for Balochistan arms license decisions?",
+      "answer": "Aggrieved persons may make representation to Department within 30 days of order, whose decision is final. This covers all orders passed under the rules including suspension, cancellation, and other decisions.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کے فیصلوں کے لیے اپیل کے کیا حقوق موجود ہیں؟",
+      "urdu_answer": "متاثرہ افراد حکم کے 30 دنوں کے اندر محکمہ کو نمائندگی دے سکتے ہیں، جس کا فیصلہ حتمی ہے۔ اس میں معطلی، منسوخی، اور دیگر فیصلوں سمیت قواعد کے تحت پاس کردہ تمام احکامات شامل ہیں۔"
+    },
+    {
+      "question": "How are arms disposed of in Balochistan?",
+      "answer": "DC establishes/maintains district strong room for illegal arms, confiscated arms, or those returned after cancellation. Stock register maintained with arm details, make, model, identification number, receipt date/mode, photographs. Open public auction conducted at least yearly with transaction register.",
+      "urdu_question": "بلوچستان میں اسلحے کو کیسے ٹھکانے لگایا جاتا ہے؟",
+      "urdu_answer": "ڈی سی غیر قانونی اسلحہ، ضبط شدہ اسلحہ، یا منسوخی کے بعد واپس لوٹنے والوں کے لیے ڈسٹرکٹ سٹرانگ روم قائم کرتا/ برقرار رکھتا ہے۔ اسٹاک رجسٹر بازو کی تفصیلات، میک، ماڈل، شناختی نمبر، رسید کی تاریخ/موڈ، تصاویر کے ساتھ برقرار رکھا گیا ہے۔ کھلی عوامی نیلامی کم از کم سالانہ ٹرانزیکشن رجسٹر کے ساتھ کی جاتی ہے۔"
+    },
+    {
+      "question": "What software systems support Balochistan arms license management?",
+      "answer": "NADRA develops and deploys software in each DC office for recording strong room details and auction transactions. In absence of strong rooms, arms may be temporarily deposited in police stations or district Malkhana.",
+      "urdu_question": "کون سا سافٹ ویئر سسٹم بلوچستان کے اسلحہ لائسنس کے انتظام کو سپورٹ کرتا ہے؟",
+      "urdu_answer": "نادرا ہر ڈی سی آفس میں اسٹرانگ روم کی تفصیلات اور نیلامی کے لین دین کو ریکارڈ کرنے کے لیے سافٹ ویئر تیار اور تعینات کرتا ہے۔ اسٹرانگ رومز نہ ہونے کی صورت میں اسلحہ عارضی طور پر تھانوں یا ضلع ملخانہ میں جمع کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Who can apply for business arms licenses in Balochistan?",
+      "answer": "Business arms licenses issued to Balochistan domiciled persons or legal entities for manufacturing, repair, sale, or storage of arms/ammunition/military stores. Must meet eligibility criteria including: Pakistani citizenship, valid CNIC, Balochistan domicile, age 30+, reasonable financial means, suitable character, no serious convictions.",
+      "urdu_question": "بلوچستان میں کاروباری اسلحہ لائسنس کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "بلوچستان کے رہائشی افراد یا قانونی اداروں کو اسلحہ/گولہ بارود/فوجی اسٹورز کی تیاری، مرمت، فروخت یا ذخیرہ کرنے کے لیے جاری کیے گئے کاروباری اسلحہ لائسنس۔ اہلیت کے معیار پر پورا اترنا چاہیے بشمول: پاکستانی شہریت، درست CNIC، بلوچستان کا ڈومیسائل، عمر 30+، معقول مالی ذرائع، مناسب کردار، کوئی سنگین سزائیں نہیں۔"
+    },
+    {
+      "question": "What are the eligibility criteria for Balochistan business arms license for legal entities?",
+      "answer": "Legal entities must be: lawfully registered, registered in Balochistan, owners/partners/directors/employees don't possess same category license, no previous cancellation (except voluntary), no convictions for owners/partners, no proscribed organization relations, reasonable financial means and suitable space.",
+      "urdu_question": "قانونی اداروں کے لیے بلوچستان کے کاروباری اسلحہ لائسنس کے لیے اہلیت کے معیار کیا ہیں؟",
+      "urdu_answer": "قانونی اداروں کا ہونا ضروری ہے: قانونی طور پر رجسٹرڈ، بلوچستان میں رجسٹرڈ، مالکان/پارٹنرز/ڈائریکٹرز/ملازمین کے پاس ایک ہی زمرہ کا لائسنس نہیں ہے، کوئی سابقہ منسوخی نہیں ہے (رضاکارانہ کے علاوہ)، مالکان/شراکت داروں کے لیے کوئی سزائیں نہیں، تنظیم کے لیے کوئی ممنوعہ تعلقات، معقول مالی ذرائع اور مناسب جگہ نہیں۔"
+    },
+    {
+      "question": "What documents are required for Balochistan business arms license application?",
+      "answer": "Application on Form-IV with certified copies including: applicant's CNIC, domicile/local certificate, authorization letter (if through agent), registration certificate/license, owners/partners/directors/employees details, proposed staff details, financial statements, proof of suitable space, ownership/lease documents, and other Department-specified documents.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کی درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "تصدیق شدہ کاپیوں کے ساتھ فارم-IV پر درخواست بشمول: درخواست دہندہ کا CNIC، ڈومیسائل/لوکل سرٹیفکیٹ، اجازت نامہ (اگر ایجنٹ کے ذریعے)، رجسٹریشن سرٹیفکیٹ/لائسنس، مالکان/شراکت داروں/ڈائریکٹرز/ملازمین کی تفصیلات، مجوزہ عملے کی تفصیلات، مالی بیانات، مناسب جگہ کا ثبوت، ملکیت/لیز کی دستاویزات، اور محکمہ کے دیگر دستاویزات۔"
+    },
+    {
+      "question": "How is suitability determined for Balochistan business arms license?",
+      "answer": "Department assesses reports from: DIG Special Branch/Counter Terrorism/District Police (credentials/conduct/record), DC (general suitability/financial standing/sales volume/business place), Civil Defence Officer (safety aspects). Upon approval, applicant and proposed staff appear at NRC for processing.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کے لیے موزوںیت کا تعین کیسے کیا جاتا ہے؟",
+      "urdu_answer": "محکمہ رپورٹس کا جائزہ لیتا ہے: ڈی آئی جی اسپیشل برانچ/کاؤنٹر ٹیررازم/ڈسٹرکٹ پولیس (سند/نظم/ریکارڈ)، ڈی سی (عمومی مناسبیت/مالی حیثیت/فروخت کا حجم/کاروباری جگہ)، سول ڈیفنس آفیسر (حفاظتی پہلو)۔ منظوری کے بعد، درخواست دہندہ اور مجوزہ عملہ پروسیسنگ کے لیے NRC میں حاضر ہوتا ہے۔"
+    },
+    {
+      "question": "What are the quota restrictions for Balochistan business arms licenses?",
+      "answer": "Business licenses issued only if total licenses in district (including new one) don't exceed Department-fixed permissible number. Permissible numbers notified from time to time. Licensees may sell/keep arms/ammunition as authorized under license.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کے کوٹہ کی کیا پابندیاں ہیں؟",
+      "urdu_answer": "کاروباری لائسنس صرف اس صورت میں جاری کیے جاتے ہیں جب ضلع میں کل لائسنس (بشمول نیا) محکمہ کی طرف سے مقرر کردہ قابل اجازت تعداد سے زیادہ نہ ہوں۔ قابل اجازت نمبروں کو وقتاً فوقتاً مطلع کیا جاتا ہے۔ لائسنس یافتہ اسلحہ/گولہ بارود فروخت کر سکتے ہیں جیسا کہ لائسنس کے تحت مجاز ہے۔"
+    },
+    {
+      "question": "How can Balochistan business arms license quota be enhanced?",
+      "answer": "Licensees may apply to Department through concerned DC for quota enhancement. Department may enhance quota subject to prescribed fee after ascertaining: genuineness of demand, licensee suitability, and DC recommendation.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کا کوٹہ کیسے بڑھایا جا سکتا ہے؟",
+      "urdu_answer": "کوٹہ بڑھانے کے لیے لائسنس یافتہ متعلقہ ڈی سی کے ذریعے محکمہ کو درخواست دے سکتے ہیں۔ محکمہ اس بات کا تعین کرنے کے بعد کوٹہ میں اضافہ کر سکتا ہے کہ مقررہ فیس کے ساتھ مشروط ہو: مطالبہ کی صداقت، لائسنس یافتہ کی مناسبیت، اور ڈی سی کی سفارش۔"
+    },
+    {
+      "question": "Can Balochistan business arms licenses be transferred?",
+      "answer": "Business arms licenses are non-transferable. However, Department may transfer in case of licensee death, incapacitation due to ill-health/old age, or compelling circumstances to legal heirs following prescribed procedures in rules 45 and 46.",
+      "urdu_question": "کیا بلوچستان کے کاروباری اسلحہ لائسنسوں کو منتقل کیا جا سکتا ہے؟",
+      "urdu_answer": "کاروباری اسلحہ لائسنس ناقابل منتقلی ہیں۔ تاہم، محکمہ لائسنس یافتہ کی موت، خرابی صحت/بڑھاپے کی وجہ سے معذوری، یا ضابطے 45 اور 46 میں طے شدہ طریقہ کار کے بعد قانونی ورثاء کو مجبوری کے حالات میں منتقل کر سکتا ہے۔"
+    },
+    {
+      "question": "What is the transfer procedure for inherited Balochistan business licenses?",
+      "answer": "Transfer to legal heir requires: application within one year of death on Form-V, license copy, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate, prescribed fee. After one year, license deemed suspended and business becomes illegal.",
+      "urdu_question": "وراثت میں ملنے والے بلوچستان کے کاروباری لائسنس کی منتقلی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "قانونی وارث کو منتقلی کی ضرورت ہے: فارم-V پر موت کے ایک سال کے اندر درخواست، لائسنس کی کاپی، موت کا سرٹیفکیٹ، جانشینی کا سرٹیفکیٹ، قانونی ورثاء کا حلف نامہ، منتقلی کا CNIC/ڈومیسائل/فٹنس سرٹیفکیٹ، مقررہ فیس۔ ایک سال کے بعد لائسنس معطل ہو جاتا ہے اور کاروبار غیر قانونی ہو جاتا ہے۔"
+    },
+    {
+      "question": "What storage requirements exist for Balochistan business arms licenses?",
+      "answer": "Licensees must store arms/ammunition/military stores at Department-approved property only. Arms/ammunition recovered from non-approved property deemed illegal regardless of status. Transportation requires business license with prescribed fee and Department terms/conditions.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کے لیے ذخیرہ کرنے کی کیا ضرورتیں ہیں؟",
+      "urdu_answer": "لائسنس دہندگان کو اسلحہ/گولہ بارود/فوجی اسٹورز کو صرف محکمہ سے منظور شدہ پراپرٹی پر رکھنا چاہیے۔ غیر منظور شدہ جائیداد سے برآمد ہونے والا اسلحہ/گولہ بارود غیر قانونی سمجھے گئے اسٹیٹس سے قطع نظر۔ نقل و حمل کے لیے مقررہ فیس اور محکمہ کی شرائط/شرائط کے ساتھ کاروباری لائسنس درکار ہے۔"
+    },
+    {
+      "question": "What record-keeping requirements apply to Balochistan business licenses?",
+      "answer": "Business license holders must maintain stock register and transaction records including purchaser details (name, parentage, CNIC, address, license number, purchase date). Must verify original CNIC and license before sales. May require software/management information system deployment at own cost.",
+      "urdu_question": "بلوچستان کے کاروباری لائسنسوں پر ریکارڈ رکھنے کے کیا تقاضے لاگو ہوتے ہیں؟",
+      "urdu_answer": "کاروباری لائسنس ہولڈرز کو اسٹاک رجسٹر اور لین دین کے ریکارڈ کو برقرار رکھنا چاہیے جس میں خریدار کی تفصیلات (نام، والدین، CNIC، پتہ، لائسنس نمبر، خریداری کی تاریخ) شامل ہیں۔ فروخت سے پہلے اصل شناختی کارڈ اور لائسنس کی تصدیق کرنا ضروری ہے۔ اپنی قیمت پر سافٹ ویئر/منیجمنٹ انفارمیشن سسٹم کی تعیناتی کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "What inspection rights exist for Balochistan business establishments?",
+      "answer": "Records open to law enforcement inspection with Department/DC prior permission (dispensable in extraordinary circumstances). Without permission, 24-hour report required detailing circumstances and findings. Inspection committee may enter/inspect premises, examine records, verify authorized persons, ensure safety compliance.",
+      "urdu_question": "بلوچستان کے کاروباری اداروں کے لیے معائنہ کے کیا حقوق موجود ہیں؟",
+      "urdu_answer": "محکمہ/DC پیشگی اجازت کے ساتھ قانون نافذ کرنے والے معائنے کے لیے کھلے ریکارڈز (غیر معمولی حالات میں قابلِ دستبردار)۔ اجازت کے بغیر، 24 گھنٹے کی رپورٹ میں حالات اور نتائج کی تفصیل درکار ہے۔ معائنہ کمیٹی احاطے میں داخل/معائنہ کر سکتی ہے، ریکارڈ کی جانچ کر سکتی ہے، مجاز افراد کی تصدیق کر سکتی ہے، حفاظت کی تعمیل کو یقینی بنا سکتی ہے۔"
+    },
+    {
+      "question": "What are the renewal requirements for Balochistan arms licenses?",
+      "answer": "Arms licenses remain valid till December 31st of issue/renewal year. Renewable for 1-5 years at licensee discretion with prescribed fee. May renew up to 10 years if age 60+. Grace period: 3 months without penalty. After grace period: penalty equivalent to renewal fee plus due fees.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کی تجدید کی شرائط کیا ہیں؟",
+      "urdu_answer": "اسلحہ لائسنس جاری ہونے/تجدید سال کے 31 دسمبر تک کارآمد رہتے ہیں۔ لائسنس یافتہ کی صوابدید پر مقررہ فیس کے ساتھ 1-5 سال کے لیے قابل تجدید۔ 60 سال سے زیادہ عمر کی صورت میں 10 سال تک تجدید ہو سکتی ہے۔ رعایتی مدت: بغیر جرمانے کے 3 ماہ۔ رعایتی مدت کے بعد: تجدید فیس کے علاوہ واجب الادا فیس کے برابر جرمانہ۔"
+    },
+    {
+      "question": "What penalties apply for late renewal of Balochistan arms licenses?",
+      "answer": "After grace period but within one year: penalty equivalent to renewal fee plus due renewal fee. After one year: late fee equal to twice renewal fee per year plus due fees. If not renewed within specified periods, license deemed suspended then cancelled after 3 years (personal/institutional) or 2 years (business).",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنسوں کی دیر سے تجدید پر کیا جرمانے لاگو ہوتے ہیں؟",
+      "urdu_answer": "رعایتی مدت کے بعد لیکن ایک سال کے اندر: تجدید کی فیس کے علاوہ واجب الادا تجدید فیس کے برابر جرمانہ۔ ایک سال کے بعد: لیٹ فیس ہر سال دو بار تجدید فیس کے علاوہ واجب الادا فیس کے برابر۔ اگر مخصوص مدت کے اندر تجدید نہیں کی گئی تو، لائسنس معطل سمجھا جاتا ہے پھر 3 سال (ذاتی/ادارتی) یا 2 سال (کاروباری) کے بعد منسوخ کر دیا جاتا ہے۔"
+    },
+    {
+      "question": "What is the penalty waiver provision in Balochistan arms licensing?",
+      "answer": "Department retains power to condone delay and waive penalty completely or partially on licensee application for cogent reasons to be recorded in writing. This applies when licenses haven't been renewed for any length of time.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنسنگ میں جرمانے کی معافی کی شق کیا ہے؟",
+      "urdu_answer": "تحریری طور پر ریکارڈ کی جانے والی معقول وجوہات کی بنا پر لائسنس کی درخواست پر تاخیر کو معاف کرنے اور جرمانے کو مکمل یا جزوی طور پر معاف کرنے کا اختیار محکمہ کے پاس ہے۔ یہ اس وقت لاگو ہوتا ہے جب لائسنسوں کی کسی بھی لمبے عرصے تک تجدید نہیں ہوئی ہے۔"
+    },
+    {
+      "question": "How are prohibited and non-prohibited arms categorized in Balochistan?",
+      "answer": "Department may by notification in official Gazette categorize and declare arms as prohibited and non-prohibited. This classification determines licensing requirements and procedures.",
+      "urdu_question": "بلوچستان میں ممنوعہ اور غیر ممنوعہ اسلحہ کی درجہ بندی کیسے کی جاتی ہے؟",
+      "urdu_answer": "محکمہ سرکاری گزٹ میں نوٹیفکیشن کے ذریعے اسلحہ کو ممنوع اور غیر ممنوع قرار دے سکتا ہے۔ یہ درجہ بندی لائسنس کی ضروریات اور طریقہ کار کا تعین کرتی ہے۔"
+    },
+    {
+      "question": "What form do Balochistan arms licenses take?",
+      "answer": "NADRA issues every license as automated smart card or any other format deemed appropriate by the Department. This ensures modern, secure, and standardized license documentation.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کس شکل میں ہوتے ہیں؟",
+      "urdu_answer": "نادرا ہر لائسنس کو خودکار سمارٹ کارڈ یا محکمہ کے ذریعہ مناسب سمجھے جانے والے کسی دوسرے فارمیٹ کے طور پر جاری کرتا ہے۔ یہ جدید، محفوظ، اور معیاری لائسنس دستاویزات کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What database requirements exist for Balochistan arms licenses?",
+      "answer": "NADRA maintains central database of all Department-issued licenses in different categories in updated form per Department instructions. NADRA may give law enforcement agencies data access with prior Department approval.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کے لیے کونسی ڈیٹا بیس کی ضروریات موجود ہیں؟",
+      "urdu_answer": "نادرا محکمہ کی طرف سے جاری کردہ تمام لائسنسوں کا مرکزی ڈیٹا بیس مختلف زمروں میں محکمہ کی ہدایات کے مطابق اپڈیٹ شدہ شکل میں برقرار رکھتا ہے۔ نادرا محکمہ کی پیشگی منظوری کے ساتھ قانون نافذ کرنے والے اداروں کو ڈیٹا تک رسائی دے سکتا ہے۔"
+    },
+    {
+      "question": "Can procedures for Balochistan arms licensing be changed?",
+      "answer": "Department may change procedure, mode, or agency for license issuance anytime without prior intimation by notification in official gazette. Department may also issue instructions from time to time for carrying out rule purposes.",
+      "urdu_question": "کیا بلوچستان کے اسلحہ لائسنس کے طریقہ کار کو تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "محکمہ کسی بھی وقت لائسنس کے اجراء کے طریقہ کار، موڈ یا ایجنسی کو سرکاری گزٹ میں اطلاع کے ذریعے پیشگی اطلاع کے بغیر تبدیل کر سکتا ہے۔ محکمہ قواعد کے مقاصد کو انجام دینے کے لیے وقتاً فوقتاً ہدایات بھی جاری کر سکتا ہے۔"
+    },
+    {
+      "question": "What rules were repealed by Balochistan Arms Rules 2022?",
+      "answer": "The Arms Rules 1924 were repealed by the Balochistan Arms Rules 2022, establishing the new comprehensive framework for arms licensing in Balochistan province.",
+      "urdu_question": "بلوچستان آرمز رولز 2022 کے ذریعے کن قوانین کو منسوخ کیا گیا؟",
+      "urdu_answer": "بلوچستان آرمز رولز 2022 کے ذریعے آرمز رولز 1924 کو منسوخ کر دیا گیا، جس سے صوبہ بلوچستان میں اسلحہ لائسنسنگ کے لیے نیا جامع فریم ورک قائم ہوا۔"
+    },
+    {
+      "question": "What is the definition of 'Legal Heir' in Balochistan Arms Rules?",
+      "answer": "Legal Heir means the person entitled to succeed to possession of arms or arms dealership license after death of original owner/licensee, specifically spouse, parents, and children only.",
+      "urdu_question": "بلوچستان آرمز رولز میں 'قانونی وارث' کی تعریف کیا ہے؟",
+      "urdu_answer": "قانونی وارث سے مراد وہ شخص ہے جو اصل مالک/لائسنس دہندہ کی موت کے بعد اسلحہ یا اسلحہ ڈیلرشپ لائسنس حاصل کرنے کا حقدار ہے، خاص طور پر صرف شریک حیات، والدین اور بچے۔"
+    },
+    {
+      "question": "What is a 'Sale/Purchase agent' in Balochistan arms licensing?",
+      "answer": "Sale/Purchase agent is a person authorized by the Home Department of Balochistan for sale/purchase of arms on behalf of the original licensee, providing authorized representation for arms transactions.",
+      "urdu_question": "بلوچستان اسلحہ لائسنسنگ میں 'سیل/پرچیز ایجنٹ' کیا ہے؟",
+      "urdu_answer": "سیل/پرچیز ایجنٹ وہ شخص ہوتا ہے جسے محکمہ داخلہ بلوچستان نے اصل لائسنس یافتہ کی جانب سے اسلحہ کی فروخت/خریداری کے لیے اختیار دیا ہوتا ہے، جو اسلحے کے لین دین کے لیے مجاز نمائندگی فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What safety measures are required for Balochistan arms business establishments?",
+      "answer": "Every manufacturing facility and business establishment must implement minimum safety measures necessary to minimize danger to persons in or near premises as notified by the Department. This ensures public safety and regulatory compliance.",
+      "urdu_question": "بلوچستان میں اسلحے کے کاروباری اداروں کے لیے کن حفاظتی اقدامات کی ضرورت ہے؟",
+      "urdu_answer": "ہر مینوفیکچرنگ سہولت اور کاروباری اسٹیبلشمنٹ کو کم از کم حفاظتی اقدامات کو لاگو کرنا چاہیے جو کہ محکمے کی طرف سے مطلع کیے گئے احاطے میں یا اس کے آس پاس کے افراد کو خطرے کو کم سے کم کرنے کے لیے ضروری ہیں۔ یہ عوامی تحفظ اور ریگولیٹری تعمیل کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What inspection committee composition is required for Balochistan arms businesses?",
+      "answer": "DC notifies inspection committee comprising representatives from DC office, DPO, and Civil Defence Department. Committee members must be BPS-16 or above. Department/DC may authorize special officer for inspection under extraordinary circumstances instead of committee.",
+      "urdu_question": "بلوچستان کے اسلحے کے کاروبار کے لیے کون سی انسپیکشن کمیٹی کی تشکیل کی ضرورت ہے؟",
+      "urdu_answer": "ڈی سی نے ڈی سی آفس، ڈی پی او اور محکمہ شہری دفاع کے نمائندوں پر مشتمل معائنہ کمیٹی کو مطلع کیا۔ کمیٹی کے ممبران BPS-16 یا اس سے اوپر کے ہونے چاہئیں۔ محکمہ/DC غیر معمولی حالات میں کمیٹی کے بجائے خصوصی افسر کو معائنہ کرنے کا اختیار دے سکتا ہے۔"
+    },
+    {
+      "question": "What are the inspection committee's powers in Balochistan?",
+      "answer": "Committee may: enter/inspect premises where arms are sold/manufactured/repaired/stored, examine stock register and transaction records, verify business conducted through authorized persons only, ensure safety instructions compliance. Inspection required at least yearly with detailed report within one week.",
+      "urdu_question": "بلوچستان میں انسپکشن کمیٹی کے اختیارات کیا ہیں؟",
+      "urdu_answer": "کمیٹی: اس احاطے میں داخل/معائنہ کر سکتی ہے جہاں اسلحہ فروخت کیا جاتا ہے/تیار کیا جاتا ہے/مرمت/ذخیرہ کیا جاتا ہے، سٹاک رجسٹر اور لین دین کے ریکارڈ کی جانچ پڑتال کر سکتی ہے، صرف مجاز افراد کے ذریعے ہونے والے کاروبار کی تصدیق کر سکتی ہے، حفاظتی ہدایات کی تعمیل کو یقینی بنا سکتی ہے۔ ایک ہفتہ کے اندر تفصیلی رپورٹ کے ساتھ کم از کم سالانہ معائنہ درکار ہے۔"
+    },
+    {
+      "question": "What reporting requirements exist for Balochistan arms business inspections?",
+      "answer": "DC submits annual performance report to Department for each sale/manufacturing/repair/storage unit within jurisdiction within three months after calendar year end. This ensures comprehensive monitoring and accountability.",
+      "urdu_question": "بلوچستان میں اسلحہ کے کاروبار کے معائنے کے لیے رپورٹنگ کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "ڈی سی کیلنڈر سال کے اختتام کے بعد تین ماہ کے اندر دائرہ اختیار میں ہر سیل/مینوفیکچرنگ/مرمت/اسٹوریج یونٹ کے لیے سالانہ کارکردگی رپورٹ محکمہ کو جمع کراتا ہے۔ یہ جامع نگرانی اور جوابدہی کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How are transportation licenses handled in Balochistan?",
+      "answer": "Only business license holders eligible for arms/ammunition transportation to extent/manner permitted by license. Department may issue transportation license or no objection certificate subject to prescribed fee and terms/conditions.",
+      "urdu_question": "بلوچستان میں نقل و حمل کے لائسنسوں کو کیسے ہینڈل کیا جاتا ہے؟",
+      "urdu_answer": "صرف کاروباری لائسنس ہولڈرز اسلحہ/گولہ بارود کی نقل و حمل کے اس حد تک اہل ہیں جو لائسنس کے ذریعہ اجازت دی گئی ہے۔ محکمہ نقل و حمل کا لائسنس یا کوئی اعتراض سرٹیفکیٹ مقررہ فیس اور شرائط/شرائط کے ساتھ جاری کر سکتا ہے۔"
+    },
+    {
+      "question": "What fee structure applies to Balochistan arms licenses?",
+      "answer": "Department may fix and revise fees and charges for arms licenses by notification in official Gazette as mentioned in schedule. Fees payable in form, manner, and timeline specified by Department.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس پر فیس کا کیا ڈھانچہ لاگو ہوتا ہے؟",
+      "urdu_answer": "محکمہ اسلحہ لائسنس کی فیس اور چارجز کو سرکاری گزٹ میں نوٹیفکیشن کے ذریعے طے کر سکتا ہے جیسا کہ شیڈول میں بتایا گیا ہے۔ محکمہ کی طرف سے متعین کردہ فارم، طریقے اور ٹائم لائن میں قابل ادائیگی فیس۔"
+    },
+    {
+      "question": "When do Balochistan business arms licenses become deemed cancelled?",
+      "answer": "Business licenses deemed cancelled if not renewed within 2 consecutive years, entered in NADRA database as such, and communicated to relevant authorities for arms confiscation unless Department decides otherwise on penalty payment upon licensee application.",
+      "urdu_question": "بلوچستان کے تجارتی اسلحہ لائسنس کب منسوخ سمجھے جاتے ہیں؟",
+      "urdu_answer": "کاروباری لائسنس منسوخ سمجھے جاتے ہیں اگر مسلسل 2 سالوں کے اندر تجدید نہ کی گئی، نادرا کے ڈیٹا بیس میں اس طرح درج کی گئی، اور متعلقہ حکام کو اسلحہ کی ضبطی کے لیے مطلع کیا جائے گا جب تک کہ محکمہ لائسنس یافتہ کی درخواست پر جرمانے کی ادائیگی کا فیصلہ نہ کرے۔"
+    },
+    {
+      "question": "What happens to business when Balochistan arms license is transferred due to death?",
+      "answer": "Application must be within one year of death with required documents and fee. After one year, license deemed suspended and business operations become illegal. Legal heir must meet all eligibility criteria for transfer approval.",
+      "urdu_question": "جب بلوچستان اسلحہ لائسنس موت کی وجہ سے منتقل ہوتا ہے تو کاروبار کا کیا ہوتا ہے؟",
+      "urdu_answer": "درخواست ضروری دستاویزات اور فیس کے ساتھ موت کے ایک سال کے اندر ہونی چاہیے۔ ایک سال کے بعد لائسنس معطل کر دیا گیا اور کاروبار غیر قانونی ہو گیا۔ قانونی وارث کو منتقلی کی منظوری کے لیے اہلیت کے تمام معیارات پر پورا اترنا چاہیے۔"
+    },
+    {
+      "question": "Can business name be changed under Balochistan arms license?",
+      "answer": "Business name changes require Department approval with prescribed fee payment and justification. The license remains tied to the approved business entity and operations as authorized.",
+      "urdu_question": "کیا بلوچستان کے اسلحہ لائسنس کے تحت کاروبار کا نام تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "کاروباری نام کی تبدیلیوں کے لیے مقررہ فیس کی ادائیگی اور جواز کے ساتھ محکمہ کی منظوری درکار ہوتی ہے۔ لائسنس منظور شدہ کاروباری ادارے اور اجازت کے مطابق آپریشنز سے منسلک رہتا ہے۔"
+    },
+    {
+      "question": "Can place of business be changed under Balochistan arms license?",
+      "answer": "Business location changes require Department approval with prescribed fee and verification that new location meets all safety, security, and regulatory requirements for licensed arms business operations.",
+      "urdu_question": "کیا بلوچستان میں اسلحہ لائسنس کے تحت کاروبار کی جگہ تبدیل کی جا سکتی ہے؟",
+      "urdu_answer": "کاروباری مقام کی تبدیلیوں کے لیے مقررہ فیس اور تصدیق کے ساتھ محکمے کی منظوری درکار ہوتی ہے کہ نیا مقام لائسنس یافتہ ہتھیاروں کے کاروبار کے لیے تمام حفاظتی، حفاظتی اور ضابطے کی ضروریات کو پورا کرتا ہے۔"
+    },
+    {
+      "question": "What are the prescribed manners for running arms business in Balochistan?",
+      "answer": "Business must be conducted per license terms, Department instructions, safety requirements, record keeping obligations, storage at approved premises, sales only to verified license holders, and compliance with inspection requirements.",
+      "urdu_question": "بلوچستان میں اسلحے کا کاروبار چلانے کے مشروع آداب کیا ہیں؟",
+      "urdu_answer": "کاروبار کو لائسنس کی شرائط، محکمہ کی ہدایات، حفاظتی تقاضوں، ریکارڈ رکھنے کی ذمہ داریوں، منظور شدہ جگہ پر ذخیرہ کرنے، صرف تصدیق شدہ لائسنس ہولڈرز کو فروخت، اور معائنہ کے تقاضوں کی تعمیل کے مطابق ہونا چاہیے۔"
+    },
+    {
+      "question": "What constitutes extraordinary circumstances for Balochistan arms license procedures?",
+      "answer": "Extraordinary circumstances (to be recorded in writing) may include security situations, emergency conditions, or special cases that warrant deviation from standard procedures, subject to proper documentation and justification.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کے طریقہ کار کے غیر معمولی حالات کیا ہیں؟",
+      "urdu_answer": "غیر معمولی حالات (تحریری طور پر ریکارڈ کیے جانے کے لیے) میں حفاظتی حالات، ہنگامی حالات، یا خاص معاملات شامل ہو سکتے ہیں جو معیاری طریقہ کار سے انحراف کی ضمانت دیتے ہیں، مناسب دستاویزات اور جواز کے ساتھ۔"
+    },
+    {
+      "question": "How does Balochistan coordinate with law enforcement on arms licenses?",
+      "answer": "Law enforcement agencies receive access to NADRA database with Department approval, conduct inspections with permission, receive notifications of cancellations for arms confiscation, and participate in inspection committees for business establishments.",
+      "urdu_question": "بلوچستان اسلحہ لائسنسوں پر قانون نافذ کرنے والے اداروں کے ساتھ کس طرح ہم آہنگی کرتا ہے؟",
+      "urdu_answer": "قانون نافذ کرنے والے ادارے محکمہ کی منظوری کے ساتھ نادرا ڈیٹا بیس تک رسائی حاصل کرتے ہیں، اجازت کے ساتھ معائنہ کرتے ہیں، اسلحہ کی ضبطی کی منسوخی کے نوٹیفکیشن حاصل کرتے ہیں، اور کاروباری اداروں کے لیے معائنہ کمیٹیوں میں حصہ لیتے ہیں۔"
+    },
+    {
+      "question": "What role does Civil Defence Department play in Balochistan arms licensing?",
+      "answer": "Civil Defence Department participates in inspection committees and provides reports on safety aspects for business license applications, ensuring compliance with safety standards and emergency preparedness.",
+      "urdu_question": "محکمہ شہری دفاع بلوچستان کو اسلحہ لائسنس دینے میں کیا کردار ادا کرتا ہے؟",
+      "urdu_answer": "محکمہ شہری دفاع معائنہ کمیٹیوں میں شرکت کرتا ہے اور کاروباری لائسنس کی درخواستوں کے لیے حفاظتی پہلوؤں پر رپورٹس فراہم کرتا ہے، حفاظتی معیارات اور ہنگامی تیاریوں کی تعمیل کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What notification requirements exist for Balochistan arms license policies?",
+      "answer": "Department issues notifications in official Gazette for: permissible license numbers per district, fee structures, categorization of prohibited/non-prohibited arms, procedural changes, and policy instructions.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کی پالیسیوں کے لیے نوٹیفکیشن کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "محکمہ اس کے لیے سرکاری گزٹ میں نوٹیفیکیشن جاری کرتا ہے: فی ضلع کے لیے قابل اجازت لائسنس نمبر، فیس کے ڈھانچے، ممنوعہ/غیر ممنوعہ ہتھیاروں کی درجہ بندی، طریقہ کار میں تبدیلیاں، اور پالیسی ہدایات۔"
+    },
+    {
+      "question": "How are Balochistan arms license fees calculated and revised?",
+      "answer": "Fees are established by Department notification in official Gazette as per schedule. Department retains authority to revise fees and charges based on administrative requirements and policy considerations.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کی فیس کا حساب اور نظر ثانی کیسے کی جاتی ہے؟",
+      "urdu_answer": "فیس شیڈول کے مطابق سرکاری گزٹ میں محکمہ کے نوٹیفکیشن کے ذریعے قائم کی جاتی ہے۔ محکمے کے پاس انتظامی تقاضوں اور پالیسی کے تحفظات کی بنیاد پر فیسوں اور چارجز پر نظر ثانی کرنے کا اختیار برقرار ہے۔"
+    },
+    {
+      "question": "What verification process applies to Balochistan arms license transferees?",
+      "answer": "Transferees must meet same eligibility criteria as original applicants including age, domicile, character verification, medical fitness, criminal record check, and suitability assessment by relevant authorities.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس کی منتقلی پر کیا تصدیقی عمل لاگو ہوتا ہے؟",
+      "urdu_answer": "منتقلی کرنے والوں کو اصل درخواست دہندگان کی طرح اہلیت کے معیارات پر پورا اترنا چاہیے جس میں عمر، ڈومیسائل، کردار کی تصدیق، طبی فٹنس، مجرمانہ ریکارڈ کی جانچ، اور متعلقہ حکام کی طرف سے مناسبیت کا جائزہ شامل ہے۔"
+    },
+    {
+      "question": "How are duplicate Balochistan business arms licenses processed?",
+      "answer": "Department may issue duplicate business license for lost/destroyed/damaged licenses upon application with prescribed fee, police report (if lost), concerned DC recommendation, affidavit, or damaged license card if applicable.",
+      "urdu_question": "بلوچستان کے ڈپلیکیٹ کاروباری اسلحہ لائسنس پر کارروائی کیسے کی جاتی ہے؟",
+      "urdu_answer": "محکمہ گمشدہ/تباہ شدہ/خراب شدہ لائسنسوں کے لیے تجویز کردہ فیس، پولیس رپورٹ (اگر گم ہو جائے)، متعلقہ ڈی سی کی سفارش، حلف نامہ، یا اگر قابل اطلاق ہو تو خراب لائسنس کارڈ کے ساتھ ڈپلیکیٹ بزنس لائسنس جاری کر سکتا ہے۔"
+    },
+    {
+      "question": "What coordination exists between NADRA and Balochistan arms licensing?",
+      "answer": "NADRA processes approved applications, maintains central database, develops/deploys software systems, issues smart card licenses, provides data access to law enforcement with approval, and handles computerization/revalidation of licenses.",
+      "urdu_question": "نادرا اور بلوچستان کے اسلحہ لائسنس کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "نادرا منظور شدہ درخواستوں پر کارروائی کرتا ہے، مرکزی ڈیٹا بیس کو برقرار رکھتا ہے، سافٹ ویئر سسٹم تیار کرتا ہے/تعینات کرتا ہے، سمارٹ کارڈ لائسنس جاری کرتا ہے، منظوری کے ساتھ قانون نافذ کرنے والے اداروں کو ڈیٹا تک رسائی فراہم کرتا ہے، اور لائسنسوں کی کمپیوٹرائزیشن/دوبارہ تصدیق کا کام کرتا ہے۔"
+    },
+    {
+      "question": "What constitutes compelling circumstances for Balochistan arms license transfer?",
+      "answer": "Compelling circumstances include death, incapacitation due to ill-health or old age, or other extraordinary situations recorded in writing that prevent the licensee from maintaining the license properly.",
+      "urdu_question": "بلوچستان اسلحہ لائسنس کی منتقلی کے لیے مجبور حالات کیا ہیں؟",
+      "urdu_answer": "مجبور حالات میں موت، خرابی صحت یا بڑھاپے کی وجہ سے معذوری، یا تحریری طور پر درج دیگر غیر معمولی حالات شامل ہیں جو لائسنس دہندہ کو لائسنس کو صحیح طریقے سے برقرار رکھنے سے روکتے ہیں۔"
+    },
+    {
+      "question": "How are Balochistan arms license violations investigated?",
+      "answer": "Violations investigated through inspection committees, law enforcement agencies, Department oversight, and coordination between DC, DPO, and relevant authorities with proper documentation and reporting requirements.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنس کی خلاف ورزیوں کی تحقیقات کیسے کی جاتی ہیں؟",
+      "urdu_answer": "انسپکشن کمیٹیوں، قانون نافذ کرنے والے اداروں، محکمہ کی نگرانی، اور مناسب دستاویزات اور رپورٹنگ کے تقاضوں کے ساتھ DC، DPO، اور متعلقہ حکام کے درمیان ہم آہنگی کے ذریعے خلاف ورزیوں کی چھان بین کی گئی۔"
+    },
+    {
+      "question": "What appeal mechanism exists for Balochistan business arms license decisions?",
+      "answer": "Aggrieved persons may file appeal to Additional Chief Secretary, Home Department Balochistan or Chief Secretary, Balochistan within 30 days of order. Decision on representation is final.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کے فیصلوں کے لیے اپیل کا کون سا طریقہ کار موجود ہے؟",
+      "urdu_answer": "متاثرہ افراد حکم کے 30 دن کے اندر ایڈیشنل چیف سیکرٹری ہوم ڈیپارٹمنٹ بلوچستان یا چیف سیکرٹری بلوچستان کو اپیل دائر کر سکتے ہیں۔ نمائندگی کا فیصلہ حتمی ہے۔"
+    },
+    {
+      "question": "How does Balochistan handle arms license applications from security companies?",
+      "answer": "Security companies treated as institutions, requiring lawful registration, substantial Balochistan operations, clean record for key personnel, and compliance with institutional license requirements including authorization letters and personnel details.",
+      "urdu_question": "بلوچستان سیکیورٹی کمپنیوں سے اسلحہ لائسنس کی درخواستوں کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "سیکیورٹی کمپنیوں کو اداروں کے طور پر سمجھا جاتا ہے، جن کے لیے قانونی رجسٹریشن کی ضرورت ہوتی ہے، بلوچستان کی خاطر خواہ کارروائیاں، کلیدی اہلکاروں کے لیے صاف ستھرا ریکارڈ، اور اداروں کے لائسنس کے تقاضوں کی تعمیل بشمول اجازت نامے اور اہلکاروں کی تفصیلات۔"
+    },
+    {
+      "question": "What documentation requirements apply to arms transactions in Balochistan?",
+      "answer": "All arms sales must be documented with purchaser's complete details including name, parentage, CNIC number, address, license number, purchase date. Original CNIC and license must be produced and verified before sale.",
+      "urdu_question": "بلوچستان میں اسلحے کے لین دین پر کیا دستاویزات کے تقاضے لاگو ہوتے ہیں؟",
+      "urdu_answer": "اسلحے کی تمام فروخت خریدار کی مکمل تفصیلات بشمول نام، ولدیت، CNIC نمبر، پتہ، لائسنس نمبر، خریداری کی تاریخ کے ساتھ دستاویزی ہونا ضروری ہے۔ اصل CNIC اور لائسنس فروخت کرنے سے پہلے تیار اور تصدیق شدہ ہونا ضروری ہے۔"
+    },
+    {
+      "question": "How are Balochistan arms licenses affected by changes in licensee status?",
+      "answer": "Changes in status (criminal charges, health issues, age-related incapacity, change of address) may trigger review, suspension, or cancellation procedures depending on impact on eligibility and suitability.",
+      "urdu_question": "لائسنس یافتہ کی حیثیت میں تبدیلی سے بلوچستان کے اسلحہ لائسنس کیسے متاثر ہوتے ہیں؟",
+      "urdu_answer": "حیثیت میں تبدیلیاں (مجرمانہ الزامات، صحت کے مسائل، عمر سے متعلق نااہلی، پتہ کی تبدیلی) اہلیت اور موزوں ہونے پر اثر کے لحاظ سے جائزہ، معطلی، یا منسوخی کے طریقہ کار کو متحرک کر سکتی ہیں۔"
+    },
+    {
+      "question": "What quality control measures exist for Balochistan arms license processing?",
+      "answer": "Quality control includes multi-agency reporting, Department oversight, NADRA processing verification, inspection requirements, database maintenance, and coordination between various authorities for comprehensive evaluation.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنس کی پروسیسنگ کے لیے کوالٹی کنٹرول کے کیا اقدامات موجود ہیں؟",
+      "urdu_answer": "کوالٹی کنٹرول میں ملٹی ایجنسی رپورٹنگ، ڈیپارٹمنٹ کی نگرانی، نادرا پروسیسنگ کی تصدیق، معائنہ کی ضروریات، ڈیٹا بیس کی دیکھ بھال، اور جامع تشخیص کے لیے مختلف حکام کے درمیان کوآرڈینیشن شامل ہیں۔"
+    },
+    {
+      "question": "How does Balochistan ensure arms license database security?",
+      "answer": "Database security maintained through NADRA's centralized system, controlled access with Department approval, specific authorization for law enforcement access, and proper documentation of all data sharing activities.",
+      "urdu_question": "بلوچستان اسلحہ لائسنس کے ڈیٹا بیس کی حفاظت کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "نادرا کے مرکزی نظام کے ذریعے ڈیٹا بیس کی حفاظت، محکمے کی منظوری کے ساتھ کنٹرول شدہ رسائی، قانون نافذ کرنے والے اداروں تک رسائی کے لیے مخصوص اجازت، اور ڈیٹا شیئرنگ کی تمام سرگرمیوں کی مناسب دستاویزات۔"
+    },
+    {
+      "question": "What role do Deputy Commissioners play in Balochistan arms licensing?",
+      "answer": "DCs approve personal/institutional licenses (with Department approval), conduct suitability assessments, maintain strong rooms, coordinate inspections, submit performance reports, and handle district-level administrative functions.",
+      "urdu_question": "بلوچستان کے ڈپٹی کمشنرز اسلحہ لائسنسنگ میں کیا کردار ادا کرتے ہیں؟",
+      "urdu_answer": "DCs ذاتی/ادارہاتی لائسنسوں کی منظوری دیتے ہیں (محکمہ کی منظوری کے ساتھ)، موزوںی کا جائزہ لیتے ہیں، مضبوط کمرے کو برقرار رکھتے ہیں، معائنے کو مربوط کرتے ہیں، کارکردگی کی رپورٹیں جمع کرتے ہیں، اور ضلعی سطح کے انتظامی کاموں کو سنبھالتے ہیں۔"
+    },
+    {
+      "question": "How are emergency situations handled in Balochistan arms licensing?",
+      "answer": "Emergency situations may warrant extraordinary procedures including expedited processing, modified inspection requirements, temporary storage arrangements, and special authorization procedures with proper documentation.",
+      "urdu_question": "بلوچستان اسلحہ لائسنسنگ میں ہنگامی حالات سے کیسے نمٹا جاتا ہے؟",
+      "urdu_answer": "ہنگامی حالات غیر معمولی طریقہ کار کی ضمانت دے سکتے ہیں جن میں تیز رفتار پروسیسنگ، معائنے کے تقاضوں میں ترمیم، اسٹوریج کے عارضی انتظامات، اور مناسب دستاویزات کے ساتھ خصوصی اجازت کے طریقہ کار شامل ہیں۔"
+    },
+    {
+      "question": "What integration exists between Balochistan arms licensing and federal systems?",
+      "answer": "Integration includes coordination with federal agencies for background checks, compliance with federal regulations, data sharing with law enforcement, and alignment with national security requirements.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس اور وفاقی نظام کے درمیان کیا انضمام موجود ہے؟",
+      "urdu_answer": "انٹیگریشن میں پس منظر کی جانچ کے لیے وفاقی ایجنسیوں کے ساتھ ہم آہنگی، وفاقی ضوابط کی تعمیل، قانون نافذ کرنے والے اداروں کے ساتھ ڈیٹا کا اشتراک، اور قومی سلامتی کے تقاضوں کے ساتھ صف بندی شامل ہے۔"
+    },
+    {
+      "question": "How does Balochistan monitor compliance with arms license conditions?",
+      "answer": "Compliance monitored through regular inspections, database maintenance, law enforcement coordination, renewal processes, reporting requirements, and investigation of violations with appropriate enforcement actions.",
+      "urdu_question": "بلوچستان اسلحہ لائسنس کی شرائط کی تعمیل کی نگرانی کیسے کرتا ہے؟",
+      "urdu_answer": "باقاعدگی سے معائنہ، ڈیٹا بیس کی دیکھ بھال، قانون نافذ کرنے والے کوآرڈینیشن، تجدید کے عمل، رپورٹنگ کے تقاضوں، اور مناسب نفاذ کے اقدامات کے ساتھ خلاف ورزیوں کی تحقیقات کے ذریعے تعمیل کی نگرانی کی جاتی ہے۔"
+    },
+    {
+      "question": "What modernization initiatives exist for Balochistan arms licensing?",
+      "answer": "Modernization includes smart card technology, software deployment, centralized database systems, automated processing capabilities, and digital record keeping to improve efficiency and security.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنسنگ کے لیے کون سے جدید اقدامات موجود ہیں؟",
+      "urdu_answer": "جدید کاری میں سمارٹ کارڈ ٹیکنالوجی، سافٹ ویئر کی تعیناتی، مرکزی ڈیٹا بیس سسٹم، خودکار پروسیسنگ کی صلاحیتیں، اور کارکردگی اور سیکورٹی کو بہتر بنانے کے لیے ڈیجیٹل ریکارڈ رکھنا شامل ہے۔"
+    },
+    {
+      "question": "How are inter-provincial arms license issues handled in Balochistan?",
+      "answer": "Inter-provincial issues addressed through revalidation/computerization provisions for licenses from other provinces, coordination with federal authorities, and compliance with Department-specified terms and conditions.",
+      "urdu_question": "بلوچستان میں بین الصوبائی اسلحہ لائسنس کے معاملات کیسے نمٹائے جاتے ہیں؟",
+      "urdu_answer": "بین الصوبائی مسائل کو دوسرے صوبوں سے لائسنسوں کی دوبارہ تصدیق/کمپیوٹرائزیشن کی دفعات، وفاقی حکام کے ساتھ ہم آہنگی، اور محکمہ کی طرف سے مخصوص شرائط و ضوابط کی تعمیل کے ذریعے حل کیا جاتا ہے۔"
+    },
+    {
+      "question": "What training requirements exist for Balochistan arms license holders?",
+      "answer": "While specific training requirements aren't detailed in the rules, safety compliance, proper handling, storage requirements, and legal obligations are implicit responsibilities of all license holders.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنس ہولڈرز کے لیے تربیت کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "اگرچہ تربیت کے مخصوص تقاضے قواعد میں تفصیل سے نہیں ہیں، حفاظتی تعمیل، مناسب ہینڈلنگ، اسٹوریج کے تقاضے، اور قانونی ذمہ داریاں تمام لائسنس ہولڈرز کی مضمر ذمہ داریاں ہیں۔"
+    },
+    {
+      "question": "How does Balochistan address technological advances in arms licensing?",
+      "answer": "Technological advances accommodated through software development, smart card systems, database modernization, and Department authority to modify procedures and formats as technology evolves.",
+      "urdu_question": "بلوچستان اسلحہ لائسنسنگ میں تکنیکی ترقی کو کیسے حل کرتا ہے؟",
+      "urdu_answer": "ٹیکنالوجی کی ترقی کو سافٹ ویئر ڈویلپمنٹ، سمارٹ کارڈ سسٹمز، ڈیٹا بیس ماڈرنائزیشن، اور ٹیکنالوجی کے ارتقا کے ساتھ ساتھ طریقہ کار اور فارمیٹس میں ترمیم کرنے کے لیے محکمہ اتھارٹی کے ذریعے ایڈجسٹ کیا گیا ہے۔"
+    },
+    {
+      "question": "What environmental considerations apply to Balochistan arms businesses?",
+      "answer": "Environmental considerations included in safety measures for manufacturing facilities and business establishments to minimize danger to persons and premises, with specific requirements notified by the Department.",
+      "urdu_question": "بلوچستان کے ہتھیاروں کے کاروبار پر کون سے ماحولیاتی تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "محکمہ کی طرف سے مطلع کردہ مخصوص تقاضوں کے ساتھ، افراد اور احاطے کے لیے خطرے کو کم کرنے کے لیے مینوفیکچرنگ سہولیات اور کاروباری اداروں کے لیے حفاظتی اقدامات میں ماحولیاتی تحفظات شامل ہیں۔"
+    },
+    {
+      "question": "How are statistical reports generated for Balochistan arms licenses?",
+      "answer": "Statistical reporting facilitated through NADRA database systems, annual performance reports from DCs, inspection records, transaction registers, and centralized data management for policy and planning purposes.",
+      "urdu_question": "بلوچستان کے اسلحہ لائسنسوں کے لیے شماریاتی رپورٹس کیسے تیار کی جاتی ہیں؟",
+      "urdu_answer": "اعداد و شمار کی رپورٹنگ نادرا ڈیٹا بیس سسٹمز، ڈی سیز کی سالانہ کارکردگی رپورٹس، معائنہ ریکارڈ، لین دین کے رجسٹر، اور پالیسی اور منصوبہ بندی کے مقاصد کے لیے سینٹرلائزڈ ڈیٹا مینجمنٹ کے ذریعے سہولت فراہم کرتی ہے۔"
+    },
+    {
+      "question": "What coordination exists with Balochistan Forensic Science Agency?",
+      "answer": "Coordination includes submission of fired test bullets from licensed weapons for ballistic database maintenance, supporting criminal investigations, and ensuring proper technical documentation of licensed firearms.",
+      "urdu_question": "بلوچستان فرانزک سائنس ایجنسی کے ساتھ کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "کوآرڈینیشن میں بیلسٹک ڈیٹا بیس کی دیکھ بھال کے لیے لائسنس یافتہ ہتھیاروں سے فائر کیے گئے ٹیسٹ گولیوں کو جمع کرنا، مجرمانہ تحقیقات میں معاونت کرنا، اور لائسنس یافتہ آتشیں اسلحے کی مناسب تکنیکی دستاویزات کو یقینی بنانا شامل ہے۔"
+    },
+    {
+      "question": "How does Balochistan handle arms license fraud prevention?",
+      "answer": "Fraud prevention through multi-agency verification, background checks, database cross-referencing, inspection systems, proper documentation requirements, and coordination between NADRA, Department, and law enforcement agencies.",
+      "urdu_question": "بلوچستان اسلحہ لائسنس فراڈ کی روک تھام کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "ملٹی ایجنسی کی تصدیق، بیک گراؤنڈ چیک، ڈیٹا بیس کراس ریفرنسنگ، معائنہ کے نظام، مناسب دستاویزات کی ضروریات، اور نادرا، محکمہ اور قانون نافذ کرنے والے اداروں کے درمیان ہم آہنگی کے ذریعے فراڈ کی روک تھام۔"
+    },
+    {
+      "question": "Is an arms license required in Balochistan for decorative or obsolete weapons?",
+      "answer": "No arms license is required for acquisition of a non-operational, non-functional, and obsolete weapon used for decorative purposes, subject to verification by an authorized arms dealer and the Balochistan Fire Arms Bureau on the recommendation of the Department.",
+      "urdu_question": "کیا بلوچستان میں آرائشی یا فرسودہ ہتھیاروں کے لیے اسلحہ لائسنس کی ضرورت ہے؟",
+      "urdu_answer": "آرائشی مقاصد کے لیے استعمال ہونے والے نان آپریشنل، غیر فعال اور متروک ہتھیار کے حصول کے لیے کسی اسلحہ لائسنس کی ضرورت نہیں ہے، جو کہ محکمہ کی سفارش پر ایک مجاز اسلحہ ڈیلر اور بلوچستان فائر آرمز بیورو کی تصدیق سے مشروط ہے۔"
+    },
+    {
+      "question": "What is the process to change bore/category of arms or extend validity of a license in Balochistan?",
+      "answer": "A licensee may apply in writing to the Department or through the DC for change of bore/category of arms, increase in cartridges, or extension of validity to all Pakistan. The DC interviews the applicant, verifies genuineness, and forwards recommendations to the Department, which may seek police/agency reports before issuing sanction subject to prescribed fee.",
+      "urdu_question": "بلوچستان میں اسلحہ کے بور/کیٹیگری کو تبدیل کرنے یا لائسنس کی میعاد بڑھانے کا کیا طریقہ ہے؟",
+      "urdu_answer": "لائسنس حاصل کرنے والا بور/اسلحے کے زمرے کی تبدیلی، کارتوس میں اضافے، یا پورے پاکستان میں مدت میں توسیع کے لیے محکمہ کو تحریری طور پر یا ڈی سی کے ذریعے درخواست دے سکتا ہے۔ ڈی سی درخواست دہندہ کا انٹرویو کرتا ہے، صداقت کی تصدیق کرتا ہے، اور سفارشات محکمہ کو بھیجتا ہے، جو مقررہ فیس کے ساتھ منظوری جاری کرنے سے پہلے پولیس/ایجنسی کی رپورٹس طلب کر سکتا ہے۔"
+    },
+    {
+      "question": "What documents are required for transfer of a personal arms license after death of licensee in Balochistan?",
+      "answer": "Required documents include: copy of the arms license, death certificate issued by NADRA, succession/declaration certificate from court/revenue authority, affidavit or NOC from legal heirs on stamped paper, CNIC of proposed transferee, domicile certificate, medical fitness certificate of transferee, and any other document specified by the Department.",
+      "urdu_question": "بلوچستان میں لائسنس یافتہ کی موت کے بعد ذاتی اسلحہ لائسنس کی منتقلی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات میں شامل ہیں: اسلحہ لائسنس کی کاپی، نادرا کی طرف سے جاری کردہ موت کا سرٹیفکیٹ، عدالت/ریونیو اتھارٹی کی جانب سے جانشینی/اعلانیہ سرٹیفکیٹ، سٹیمپڈ پیپر پر قانونی ورثاء کا حلف نامہ یا این او سی، مجوزہ منتقلی کا CNIC، ڈومیسائل سرٹیفکیٹ، منتقلی کا میڈیکل فٹنس سرٹیفکیٹ، اور محکمہ کی طرف سے متعین کوئی دوسری دستاویز۔"
+    },
+    {
+      "question": "What happens if transfer of personal arms license in Balochistan is applied after one year of the licensee's death?",
+      "answer": "The application will not be considered if filed after one year from the death of the licensee. However, the Department may condone delays up to 5 years if the applicant proves the delay was due to reasons beyond their control.",
+      "urdu_question": "اگر لائسنس یافتہ کی موت کے ایک سال بعد بلوچستان میں ذاتی اسلحہ لائسنس کی منتقلی کا اطلاق کیا جائے تو کیا ہوگا؟",
+      "urdu_answer": "درخواست پر غور نہیں کیا جائے گا اگر لائسنس یافتہ کی موت کے ایک سال بعد دائر کیا جائے۔ تاہم، محکمہ 5 سال تک کی تاخیر کو معاف کر سکتا ہے اگر درخواست دہندہ ثابت کرتا ہے کہ تاخیر ان کے قابو سے باہر وجوہات کی وجہ سے ہوئی تھی۔"
+    },
+    {
+      "question": "What are the rules for retainership of arms licenses in Balochistan?",
+      "answer": "Only one retainership permission is allowed per license. Application must be submitted to Department or DC on Form-I. Both licensee and proposed retainer must appear before DC/NRC for processing with prescribed fee. Gratis license holders may add a retainer entitled to gratis without extra fee.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنس برقرار رکھنے کے کیا قوانین ہیں؟",
+      "urdu_answer": "فی لائسنس صرف ایک ریٹینر شپ کی اجازت ہے۔ درخواست فارم-I پر محکمہ یا ڈی سی کو جمع کرانی ہوگی۔ لائسنس یافتہ اور مجوزہ رینٹینر دونوں کو مقررہ فیس کے ساتھ پروسیسنگ کے لیے DC/NRC کے سامنے حاضر ہونا چاہیے۔ مفت لائسنس ہولڈرز بغیر کسی اضافی فیس کے مفت کے حقدار کو شامل کر سکتے ہیں۔"
+    },
+    {
+      "question": "What training and registration requirements exist for institutional security guards in Balochistan?",
+      "answer": "Institutional arms must be handed to security guards who are: (a) trained in security functions by district police or a notified training institute, (b) cleared by Special Branch, and (c) registered with local police. Guards must also be otherwise eligible as per rule 4.",
+      "urdu_question": "بلوچستان میں ادارہ جاتی سیکورٹی گارڈز کے لیے تربیت اور رجسٹریشن کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "ادارہ جاتی اسلحہ سیکیورٹی گارڈز کے حوالے کیا جانا چاہیے جو: (a) ضلعی پولیس یا کسی اطلاع یافتہ ٹریننگ انسٹی ٹیوٹ کے ذریعے حفاظتی کاموں میں تربیت یافتہ، (b) سپیشل برانچ سے کلیئر، اور (c) مقامی پولیس میں رجسٹرڈ۔ قاعدہ 4 کے مطابق گارڈز کو بھی دوسری صورت میں اہل ہونا چاہیے۔"
+    },
+    {
+      "question": "What are additional grounds for suspension of personal or institutional arms licenses in Balochistan?",
+      "answer": "Licenses can be suspended if: (a) licensee fails to renew license on time, (b) arms given to unauthorized person, (c) license acquired on forged documents, or (d) licensee contravenes provisions of Act/rules or Department instructions.",
+      "urdu_question": "بلوچستان میں ذاتی یا ادارہ جاتی اسلحہ لائسنس کی معطلی کی اضافی وجوہات کیا ہیں؟",
+      "urdu_answer": "لائسنس معطل کیا جا سکتا ہے اگر: (a) لائسنس یافتہ وقت پر لائسنس کی تجدید کرنے میں ناکام رہتا ہے، (b) غیر مجاز شخص کو اسلحہ دیا جاتا ہے، (c) جعلی دستاویزات پر حاصل کیا گیا لائسنس، یا (d) لائسنس دہندہ ایکٹ/قواعد یا محکمہ کی ہدایات کی دفعات کی خلاف ورزی کرتا ہے۔"
+    },
+    {
+      "question": "What are additional grounds for cancellation of personal or institutional arms licenses in Balochistan?",
+      "answer": "Licenses may be cancelled if: (a) licensee fails to renew for three consecutive years, (b) arms used in commission of an offence, or (c) licensee contravenes provisions of Act/rules or Department instructions. Cancellation is communicated to NADRA and local police for confiscation.",
+      "urdu_question": "بلوچستان میں ذاتی یا ادارہ جاتی اسلحہ لائسنس کی منسوخی کی اضافی وجوہات کیا ہیں؟",
+      "urdu_answer": "لائسنس منسوخ کیے جا سکتے ہیں اگر: (a) لائسنس دہندہ لگاتار تین سال تک تجدید کرنے میں ناکام رہتا ہے، (b) کسی جرم میں استعمال ہونے والا اسلحہ، یا (c) لائسنس دہندہ ایکٹ/قواعد یا محکمہ کی ہدایات کی دفعات کی خلاف ورزی کرتا ہے۔ منسوخی کے بارے میں نادرا اور مقامی پولیس کو ضبطی کے لیے مطلع کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the conditions for changing place of business under Balochistan business arms license?",
+      "answer": "Change of business location requires Department approval with fee and reports from DC, police, and Civil Defence. New location must be within the same district. Change may be allowed if original place is unsuitable, lease expires, or due to unavoidable conditions.",
+      "urdu_question": "بلوچستان کے کاروباری اسلحہ لائسنس کے تحت کاروبار کی جگہ تبدیل کرنے کی کیا شرائط ہیں؟",
+      "urdu_answer": "کاروباری مقام کی تبدیلی کے لیے ڈی سی، پولیس اور سول ڈیفنس سے فیس اور رپورٹس کے ساتھ محکمہ کی منظوری درکار ہوتی ہے۔ نیا مقام اسی ضلع کے اندر ہونا چاہیے۔ تبدیلی کی اجازت دی جا سکتی ہے اگر اصل جگہ نا مناسب ہو، لیز ختم ہو جائے، یا ناگزیر حالات کی وجہ سے۔"
+    },
+    {
+      "question": "What are the rules for running business under a Balochistan arms license?",
+      "answer": "Business must be conducted personally or through authorized agents. Partnerships after license issuance are not allowed. Pre-existing partnerships must be registered and recorded in Department records. All partners are jointly responsible for compliance with rules and license conditions.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنس کے تحت کاروبار چلانے کے کیا اصول ہیں؟",
+      "urdu_answer": "کاروبار ذاتی طور پر یا مجاز ایجنٹوں کے ذریعے کیا جانا چاہیے۔ لائسنس کے اجراء کے بعد شراکت کی اجازت نہیں ہے۔ پہلے سے موجود شراکت داریوں کا رجسٹرڈ ہونا ضروری ہے اور محکمہ کے ریکارڈ میں ریکارڈ کیا جانا چاہیے۔ تمام شراکت دار قوانین اور لائسنس کی شرائط کی تعمیل کے لیے مشترکہ طور پر ذمہ دار ہیں۔"
+    },
+    {
+      "question": "What additional grounds exist for suspension of business arms licenses in Balochistan?",
+      "answer": "Business licenses may be suspended if: (a) business not conducted from licensed premises or under approved name, (b) failure to conduct business for six consecutive months, (c) failure to maintain records, or (d) conducting business in violation of Act/rules or Department instructions.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنسوں کی معطلی کی مزید کیا وجوہات ہیں؟",
+      "urdu_answer": "کاروباری لائسنس معطل کیے جا سکتے ہیں اگر: (a) لائسنس یافتہ احاطے سے یا منظور شدہ نام کے تحت کاروبار نہیں کیا جاتا، (b) لگاتار چھ ماہ تک کاروبار کرنے میں ناکامی، (c) ریکارڈ برقرار رکھنے میں ناکامی، یا (d) ایکٹ/قواعد یا محکمہ کی ہدایات کی خلاف ورزی کرتے ہوئے کاروبار کرنا۔"
+    },
+    {
+      "question": "What additional grounds exist for cancellation of business arms licenses in Balochistan?",
+      "answer": "Business licenses may be cancelled if: (a) not renewed for two consecutive years, (b) unauthorized persons allowed to run business, (c) involvement in illegal sale, supply, transport or storage of arms/ammunition, or (d) contravention of Act/rules or Department instructions.",
+      "urdu_question": "بلوچستان میں کاروباری اسلحہ لائسنسوں کی منسوخی کے لیے کیا اضافی بنیادیں موجود ہیں؟",
+      "urdu_answer": "کاروباری لائسنس منسوخ کیے جاسکتے ہیں اگر: (a) لگاتار دو سال تک تجدید نہیں کی گئی، (b) غیر مجاز افراد کو کاروبار چلانے کی اجازت ہے، (c) اسلحہ/گولہ بارود کی غیر قانونی فروخت، سپلائی، ٹرانسپورٹ یا ذخیرہ کرنے میں ملوث ہونا، یا (d) ایکٹ/قواعد یا محکمہ کی ہدایات کی خلاف ورزی۔"
+    },
+    {
+      "question": "What are the inspection and monitoring requirements for arms businesses in Balochistan?",
+      "answer": "Inspection must be carried out at least once a year by a DC-notified committee including DC office, DPO, and Civil Defence representatives. Committee can inspect premises, examine records, verify authorized operations, and enforce safety instructions. Reports must be submitted within one week.",
+      "urdu_question": "بلوچستان میں اسلحہ کے کاروبار کے لیے معائنہ اور نگرانی کے کیا تقاضے ہیں؟",
+      "urdu_answer": "سال میں کم از کم ایک بار ڈی سی کی طرف سے مطلع شدہ کمیٹی بشمول ڈی سی آفس، ڈی پی او، اور سول ڈیفنس کے نمائندوں کے ذریعے معائنہ کیا جانا چاہیے۔ کمیٹی احاطے کا معائنہ کر سکتی ہے، ریکارڈ کی جانچ کر سکتی ہے، مجاز کارروائیوں کی تصدیق کر سکتی ہے، اور حفاظتی ہدایات کو نافذ کر سکتی ہے۔ رپورٹ ایک ہفتے کے اندر جمع کرائی جائے۔"
+    },
+    {
+      "question": "What are the renewal rules for business arms licenses in Balochistan?",
+      "answer": "Business licenses remain valid till 31st December of the year of issuance. Renewable for 1-5 years with prescribed fee. Grace period is 3 months without penalty. After grace period: penalty equal to one year renewal fee. After one year: penalty equal to twice renewal fee. Licenses not renewed may be suspended and cancelled after 3 years.",
+      "urdu_question": "بلوچستان میں کاروباری اسلحہ لائسنس کی تجدید کے قوانین کیا ہیں؟",
+      "urdu_answer": "کاروباری لائسنس جاری ہونے کے سال کے 31 دسمبر تک کارآمد رہتے ہیں۔ مقررہ فیس کے ساتھ 1-5 سال کے لیے قابل تجدید۔ رعایتی مدت بغیر جرمانے کے 3 ماہ ہے۔ رعایتی مدت کے بعد: ایک سال کی تجدید کی فیس کے برابر جرمانہ۔ ایک سال کے بعد: دو بار تجدید کی فیس کے برابر جرمانہ۔ تجدید نہ ہونے والے لائسنس 3 سال کے بعد معطل اور منسوخ ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What are the rules for charging late fee in Balochistan arms licensing?",
+      "answer": "If licensees fail to fulfill Department instructions within specified time, the Department may charge late fees as penalty at rates notified in the official Gazette.",
+      "urdu_question": "بلوچستان میں اسلحہ لائسنسنگ میں لیٹ فیس وصول کرنے کے کیا اصول ہیں؟",
+      "urdu_answer": "اگر لائسنس دہندگان مقررہ وقت کے اندر محکمہ کی ہدایات کو پورا کرنے میں ناکام رہتے ہیں، تو محکمہ سرکاری گزٹ میں مطلع کردہ شرحوں پر جرمانے کے طور پر لیٹ فیس وصول کر سکتا ہے۔"
+    },
+    {
+      "question": "What rules govern partnerships in Balochistan arms businesses?",
+      "answer": "Partnerships for running arms businesses are not allowed after license issuance. Only pre-existing partnerships (before 2022 rules) that are registered and recorded with the Department are acknowledged.",
+      "urdu_question": "بلوچستان کے ہتھیاروں کے کاروبار میں شراکت داری کو کون سے ضابطے نافذ کرتے ہیں؟",
+      "urdu_answer": "لائسنس کے اجراء کے بعد ہتھیاروں کے کاروبار چلانے کے لیے شراکت کی اجازت نہیں ہے۔ صرف پہلے سے موجود شراکتیں (2022 کے قواعد سے پہلے) جو محکمہ کے ساتھ رجسٹرڈ اور ریکارڈ شدہ ہیں۔"
+    }
+  ]
+}

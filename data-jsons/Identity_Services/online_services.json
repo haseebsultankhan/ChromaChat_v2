@@ -1,0 +1,511 @@
+{
+  "file_name": "online_services.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 60,
+  "qa_data": [
+    {
+      "question": "What online services does NADRA provide?",
+      "answer": "NADRA provides online services through a mobile application called 'PAK-ID' which is available on both Android and iOS platforms. This mobile application enhances accessibility by allowing users to complete various registration and verification processes from their smartphones.",
+      "urdu_question": "نادرا کیا آن لائن خدمات فراہم کرتا ہے؟",
+      "urdu_answer": "نادرا 'PAK-ID' نامی موبائل ایپلیکیشن کے ذریعے آن لائن خدمات فراہم کرتا ہے جو اینڈرائیڈ اور iOS دونوں پلیٹ فارمز پر دستیاب ہے۔ یہ موبائل ایپلیکیشن صارفین کو اپنے اسمارٹ فونز سے مختلف رجسٹریشن اور تصدیقی عمل کو مکمل کرنے کی اجازت دے کر رسائی کو بڑھاتی ہے۔"
+    },
+    {
+      "question": "What is PAK-ID?",
+      "answer": "PAK-ID is a digital identity application developed by NADRA for Pakistani citizens to access their identity information, documents, and services online through a mobile application. It allows users to manage their identity, apply for documents, and verify their identity securely.",
+      "urdu_question": "PAK-ID کیا ہے؟",
+      "urdu_answer": "PAK-ID ایک ڈیجیٹل شناختی ایپلی کیشن ہے جسے نادرا نے پاکستانی شہریوں کے لیے تیار کیا ہے تاکہ وہ موبائل ایپلیکیشن کے ذریعے اپنی شناختی معلومات، دستاویزات اور خدمات آن لائن تک رسائی حاصل کر سکیں۔ یہ صارفین کو اپنی شناخت کا انتظام کرنے، دستاویزات کے لیے درخواست دینے اور محفوظ طریقے سے اپنی شناخت کی تصدیق کرنے کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "On which platforms is PAK-ID available?",
+      "answer": "PAK-ID is available on both Android and iOS platforms. You can download it from Google Play Store and Apple App Store.",
+      "urdu_question": "PAK-ID کن پلیٹ فارمز پر دستیاب ہے؟",
+      "urdu_answer": "PAK-ID Android اور iOS دونوں پلیٹ فارمز پر دستیاب ہے۔ آپ اسے گوگل پلے اسٹور اور ایپل ایپ اسٹور سے ڈاؤن لوڈ کرسکتے ہیں۔"
+    },
+    {
+      "question": "Is PAK-ID free to download?",
+      "answer": "Yes, the PAK-ID application is free to download and is available on Google Play Store and Apple App Store.",
+      "urdu_question": "کیا PAK-ID ڈاؤن لوڈ کرنے کے لیے مفت ہے؟",
+      "urdu_answer": "ہاں، PAK-ID ایپلیکیشن ڈاؤن لوڈ کرنے کے لیے مفت ہے اور گوگل پلے اسٹور اور ایپل ایپ اسٹور پر دستیاب ہے۔"
+    },
+    {
+      "question": "Does PAK-ID have a web portal or website version?",
+      "answer": "No, PAK-ID is only available as a mobile application on Android and iOS platforms. PAK-ID has no web portal or web application version.",
+      "urdu_question": "کیا PAK-ID کا ویب پورٹل یا ویب سائٹ ورژن ہے؟",
+      "urdu_answer": "نہیں، PAK-ID صرف Android اور iOS پلیٹ فارمز پر ایک موبائل ایپلیکیشن کے طور پر دستیاب ہے۔ PAK-ID کا کوئی ویب پورٹل یا ویب ایپلیکیشن ورژن نہیں ہے۔"
+    },
+    {
+      "question": "What can I do with the PAK-ID mobile application?",
+      "answer": "With PAK-ID, you can complete various registration and verification processes from your smartphone, manage your identity, apply for documents, verify your identity securely, and access NADRA services digitally.",
+      "urdu_question": "میں PAK-ID موبائل ایپلیکیشن کے ساتھ کیا کر سکتا ہوں؟",
+      "urdu_answer": "PAK-ID کے ساتھ، آپ اپنے اسمارٹ فون سے رجسٹریشن اور تصدیق کے مختلف عمل مکمل کر سکتے ہیں، اپنی شناخت کا انتظام کر سکتے ہیں، دستاویزات کے لیے درخواست دے سکتے ہیں، اپنی شناخت کی محفوظ طریقے سے تصدیق کر سکتے ہیں، اور ڈیجیٹل طور پر نادرا کی خدمات تک رسائی حاصل کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I access NADRA services through a computer or laptop?",
+      "answer": "Based on the available information, PAK-ID is only available as a mobile application without a web portal. For computer access, you would need to visit physical NADRA centers or use other available online portals if any.",
+      "urdu_question": "کیا میں کمپیوٹر یا لیپ ٹاپ کے ذریعے نادرا کی خدمات تک رسائی حاصل کر سکتا ہوں؟",
+      "urdu_answer": "دستیاب معلومات کی بنیاد پر، PAK-ID بغیر کسی ویب پورٹل کے صرف ایک موبائل ایپلیکیشن کے طور پر دستیاب ہے۔ کمپیوٹر تک رسائی کے لیے، آپ کو فزیکل نادرا سینٹرز کا دورہ کرنا ہوگا یا اگر کوئی دستیاب آن لائن پورٹل استعمال کریں گے۔"
+    },
+    {
+      "question": "How does PAK-ID enhance accessibility to NADRA services?",
+      "answer": "PAK-ID enhances accessibility by allowing users to complete various registration and verification processes directly from their smartphones, eliminating the need to visit physical NADRA centers for many services.",
+      "urdu_question": "PAK-ID نادرا کی خدمات تک رسائی کو کیسے بڑھاتا ہے؟",
+      "urdu_answer": "PAK-ID صارفین کو اپنے سمارٹ فونز سے براہ راست مختلف رجسٹریشن اور تصدیق کے عمل کو مکمل کرنے کی اجازت دے کر رسائی کو بڑھاتا ہے، جس سے بہت سی خدمات کے لیے فزیکل نادرا مراکز جانے کی ضرورت ختم ہوتی ہے۔"
+    },
+    {
+      "question": "Can I apply for documents through PAK-ID?",
+      "answer": "Yes, PAK-ID allows users to apply for documents and access various NADRA services through the mobile application.",
+      "urdu_question": "کیا میں PAK-ID کے ذریعے دستاویزات کے لیے درخواست دے سکتا ہوں؟",
+      "urdu_answer": "ہاں، PAK-ID صارفین کو دستاویزات کے لیے درخواست دینے اور موبائل ایپلیکیشن کے ذریعے نادرا کی مختلف خدمات تک رسائی کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "Is identity verification secure on PAK-ID?",
+      "answer": "Yes, PAK-ID allows users to verify their identity securely through the mobile application using digital verification methods.",
+      "urdu_question": "کیا PAK-ID پر شناخت کی تصدیق محفوظ ہے؟",
+      "urdu_answer": "جی ہاں، PAK-ID صارفین کو ڈیجیٹل تصدیق کے طریقوں کا استعمال کرتے ہوئے موبائل ایپلیکیشن کے ذریعے محفوظ طریقے سے اپنی شناخت کی تصدیق کرنے کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "What types of processes can I complete through PAK-ID?",
+      "answer": "You can complete various registration and verification processes through PAK-ID, including document applications, identity verification, and accessing different NADRA services from your smartphone.",
+      "urdu_question": "میں PAK-ID کے ذریعے کس قسم کے عمل کو مکمل کر سکتا ہوں؟",
+      "urdu_answer": "آپ PAK-ID کے ذریعے رجسٹریشن اور تصدیق کے مختلف عمل مکمل کر سکتے ہیں، بشمول دستاویز کی درخواستیں، شناخت کی تصدیق، اور اپنے اسمارٹ فون سے نادرا کی مختلف خدمات تک رسائی۔"
+    },
+    {
+      "question": "Where can I download PAK-ID from?",
+      "answer": "You can download PAK-ID from Google Play Store for Android devices and Apple App Store for iOS devices. The application is free to download from both platforms.",
+      "urdu_question": "میں PAK-ID کہاں سے ڈاؤن لوڈ کر سکتا ہوں؟",
+      "urdu_answer": "آپ اینڈرائیڈ ڈیوائسز کے لیے گوگل پلے اسٹور اور iOS ڈیوائسز کے لیے ایپل ایپ اسٹور سے PAK-ID ڈاؤن لوڈ کرسکتے ہیں۔ ایپلیکیشن دونوں پلیٹ فارمز سے ڈاؤن لوڈ کرنے کے لیے مفت ہے۔"
+    },
+    {
+      "question": "What are the minimum system requirements for PAK-ID?",
+      "answer": "While specific requirements may vary, PAK-ID generally requires a modern Android or iOS device with internet connectivity. Check the app store listing for detailed compatibility requirements for your device.",
+      "urdu_question": "PAK-ID کے لیے کم از کم سسٹم کے تقاضے کیا ہیں؟",
+      "urdu_answer": "اگرچہ مخصوص تقاضے مختلف ہو سکتے ہیں، لیکن PAK-ID کو عام طور پر انٹرنیٹ کنیکٹیویٹی کے ساتھ ایک جدید Android یا iOS ڈیوائس کی ضرورت ہوتی ہے۔ اپنے آلے کے لیے مفصل مطابقت کے تقاضوں کے لیے ایپ اسٹور کی فہرست چیک کریں۔"
+    },
+    {
+      "question": "Do I need to create an account to use PAK-ID?",
+      "answer": "Yes, you typically need to register and create an account on PAK-ID to access NADRA services. The registration process involves verifying your identity and linking your NADRA records to the app.",
+      "urdu_question": "کیا مجھے PAK-ID استعمال کرنے کے لیے اکاؤنٹ بنانے کی ضرورت ہے؟",
+      "urdu_answer": "ہاں، آپ کو نادرا کی خدمات تک رسائی حاصل کرنے کے لیے عام طور پر PAK-ID پر رجسٹر کرنے اور اکاؤنٹ بنانے کی ضرورت ہوتی ہے۔ رجسٹریشن کے عمل میں آپ کی شناخت کی تصدیق اور آپ کے نادرا ریکارڈ کو ایپ سے منسلک کرنا شامل ہے۔"
+    },
+    {
+      "question": "Can I use PAK-ID without internet connection?",
+      "answer": "PAK-ID requires an active internet connection to access NADRA's databases and complete most services. Some basic information may be viewable offline, but transactions require connectivity.",
+      "urdu_question": "کیا میں انٹرنیٹ کنکشن کے بغیر PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "PAK-ID کو نادرا کے ڈیٹا بیس تک رسائی حاصل کرنے اور زیادہ تر خدمات کو مکمل کرنے کے لیے ایک فعال انٹرنیٹ کنکشن کی ضرورت ہوتی ہے۔ کچھ بنیادی معلومات آف لائن دیکھی جا سکتی ہیں، لیکن لین دین کے لیے رابطے کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What specific NADRA documents can I apply for through PAK-ID?",
+      "answer": "Through PAK-ID, you can apply for various NADRA documents including identity card renewals, reprints, and certain other services. The specific services available may be updated regularly, so check the app for current offerings.",
+      "urdu_question": "میں PAK-ID کے ذریعے نادرا کے کن مخصوص دستاویزات کے لیے درخواست دے سکتا ہوں؟",
+      "urdu_answer": "PAK-ID کے ذریعے، آپ نادرا کی مختلف دستاویزات بشمول شناختی کارڈ کی تجدید، دوبارہ پرنٹس، اور کچھ دیگر خدمات کے لیے درخواست دے سکتے ہیں۔ دستیاب مخصوص خدمات کو باقاعدگی سے اپ ڈیٹ کیا جا سکتا ہے، لہذا موجودہ پیشکشوں کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "Can I track my application status through PAK-ID?",
+      "answer": "Yes, PAK-ID allows you to track your application status using your tracking ID and PIN code received from NADRA, providing real-time updates on your application progress.",
+      "urdu_question": "کیا میں PAK-ID کے ذریعے اپنی درخواست کی حیثیت کو ٹریک کرسکتا ہوں؟",
+      "urdu_answer": "ہاں، PAK-ID آپ کو نادرا سے موصول ہونے والی اپنی ٹریکنگ آئی ڈی اور پن کوڈ کا استعمال کرتے ہوئے اپنی درخواست کی حیثیت کو ٹریک کرنے کی اجازت دیتا ہے، جو آپ کی درخواست کی پیشرفت پر حقیقی وقت میں اپ ڈیٹ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "How do I register for PAK-ID?",
+      "answer": "To register for PAK-ID, download the app from your device's app store, install it, and follow the signup process which typically involves providing your CNIC information and verification details.",
+      "urdu_question": "میں PAK-ID کے لیے کیسے رجسٹر ہوں؟",
+      "urdu_answer": "PAK-ID کے لیے رجسٹر کرنے کے لیے، اپنے آلے کے ایپ اسٹور سے ایپ ڈاؤن لوڈ کریں، اسے انسٹال کریں، اور سائن اپ کے عمل کی پیروی کریں جس میں عام طور پر آپ کی CNIC کی معلومات اور تصدیقی تفصیلات فراہم کرنا شامل ہوتا ہے۔"
+    },
+    {
+      "question": "What should I do if I forgot my PAK-ID login credentials?",
+      "answer": "If you forget your PAK-ID login credentials, use the password reset option in the app, or contact NADRA support at 1777 for assistance with account recovery.",
+      "urdu_question": "اگر میں اپنی PAK-ID لاگ ان اسناد بھول گیا ہوں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ اپنی PAK-ID لاگ ان اسناد بھول جاتے ہیں تو ایپ میں پاس ورڈ ری سیٹ کا آپشن استعمال کریں، یا اکاؤنٹ کی بازیابی میں مدد کے لیے نادرا سپورٹ سے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Can overseas Pakistanis use PAK-ID?",
+      "answer": "Yes, overseas Pakistanis can use PAK-ID for various services. The app supports NICOP holders and provides services for Pakistani nationals living abroad.",
+      "urdu_question": "کیا بیرون ملک مقیم پاکستانی PAK-ID استعمال کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، بیرون ملک مقیم پاکستانی مختلف خدمات کے لیے PAK-ID استعمال کر سکتے ہیں۔ ایپ NICOP ہولڈرز کو سپورٹ کرتی ہے اور بیرون ملک مقیم پاکستانی شہریوں کے لیے خدمات فراہم کرتی ہے۔"
+    },
+    {
+      "question": "Are there any fees for using services through PAK-ID?",
+      "answer": "While the PAK-ID app itself is free, the NADRA services accessed through the app may have their standard fees as per NADRA's fee schedule. Payment can be made through the app's integrated payment system.",
+      "urdu_question": "کیا PAK-ID کے ذریعے خدمات استعمال کرنے کی کوئی فیس ہے؟",
+      "urdu_answer": "جبکہ PAK-ID ایپ بذات خود مفت ہے، لیکن ایپ کے ذریعے حاصل کی جانے والی نادرا سروسز کی نادرا کے فیس شیڈول کے مطابق معیاری فیس ہو سکتی ہے۔ ایپ کے مربوط ادائیگی کے نظام کے ذریعے ادائیگی کی جا سکتی ہے۔"
+    },
+    {
+      "question": "What payment methods are accepted in PAK-ID?",
+      "answer": "PAK-ID supports various digital payment methods for service fees. Check within the app for available payment options including mobile banking, credit/debit cards, and other digital payment systems.",
+      "urdu_question": "PAK-ID میں ادائیگی کے کون سے طریقے قبول کیے جاتے ہیں؟",
+      "urdu_answer": "PAK-ID سروس فیس کے لیے مختلف ڈیجیٹل ادائیگی کے طریقوں کی حمایت کرتا ہے۔ موبائل بینکنگ، کریڈٹ/ڈیبٹ کارڈز، اور دیگر ڈیجیٹل ادائیگی کے نظام سمیت ادائیگی کے دستیاب اختیارات کے لیے ایپ میں چیک کریں۔"
+    },
+    {
+      "question": "How secure is my personal data on PAK-ID?",
+      "answer": "PAK-ID implements security measures to protect personal data, including encryption and secure authentication. NADRA follows data protection protocols as per Pakistani data protection regulations.",
+      "urdu_question": "PAK-ID پر میرا ذاتی ڈیٹا کتنا محفوظ ہے؟",
+      "urdu_answer": "PAK-ID ذاتی ڈیٹا کی حفاظت کے لیے حفاظتی اقدامات نافذ کرتا ہے، بشمول خفیہ کاری اور محفوظ تصدیق۔ نادرا پاکستانی ڈیٹا پروٹیکشن ریگولیشنز کے مطابق ڈیٹا پروٹیکشن پروٹوکول کی پیروی کرتا ہے۔"
+    },
+    {
+      "question": "Can I use PAK-ID on multiple devices?",
+      "answer": "You can install PAK-ID on multiple devices, but you'll need to authenticate each device. For security reasons, active sessions may be limited or require re-authentication when switching devices.",
+      "urdu_question": "کیا میں متعدد آلات پر PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "آپ متعدد ڈیوائسز پر PAK-ID انسٹال کر سکتے ہیں، لیکن آپ کو ہر ڈیوائس کی تصدیق کرنی ہوگی۔ سیکورٹی وجوہات کی بناء پر، فعال سیشنز محدود ہو سکتے ہیں یا آلات کو تبدیل کرتے وقت دوبارہ تصدیق کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What should I do if PAK-ID is not working properly?",
+      "answer": "For PAK-ID technical issues, try updating the app, restarting your device, checking internet connectivity, or contacting NADRA technical support at 1777 for assistance.",
+      "urdu_question": "اگر PAK-ID ٹھیک سے کام نہ کر رہا ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "PAK-ID تکنیکی مسائل کے لیے، ایپ کو اپ ڈیٹ کرنے، اپنے آلے کو دوبارہ شروع کرنے، انٹرنیٹ کنیکٹیویٹی چیک کرنے، یا مدد کے لیے 1777 پر نادرا تکنیکی معاونت سے رابطہ کرنے کی کوشش کریں۔"
+    },
+    {
+      "question": "How often should I update the PAK-ID app?",
+      "answer": "Keep PAK-ID updated to the latest version available in your app store to ensure you have the newest features, security updates, and bug fixes.",
+      "urdu_question": "مجھے PAK-ID ایپ کو کتنی بار اپ ڈیٹ کرنا چاہیے؟",
+      "urdu_answer": "PAK-ID کو اپنے ایپ اسٹور میں دستیاب تازہ ترین ورژن پر اپ ڈیٹ کرتے رہیں تاکہ یہ یقینی بنایا جا سکے کہ آپ کے پاس جدید ترین خصوصیات، سیکیورٹی اپ ڈیٹس اور بگ فکسز ہیں۔"
+    },
+    {
+      "question": "Can I delete my PAK-ID account?",
+      "answer": "For account deletion or deactivation, contact NADRA customer service at 1777 as this may require verification and specific procedures to protect your data and identity.",
+      "urdu_question": "کیا میں اپنا PAK-ID اکاؤنٹ حذف کر سکتا ہوں؟",
+      "urdu_answer": "اکاؤنٹ کو حذف کرنے یا غیر فعال کرنے کے لیے، نادرا کسٹمر سروس سے 1777 پر رابطہ کریں کیونکہ اس کے لیے آپ کے ڈیٹا اور شناخت کی حفاظت کے لیے تصدیق اور مخصوص طریقہ کار کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What languages is PAK-ID available in?",
+      "answer": "PAK-ID typically supports multiple languages relevant to Pakistani users. Check the app settings for available language options including Urdu and English.",
+      "urdu_question": "PAK-ID کن زبانوں میں دستیاب ہے؟",
+      "urdu_answer": "PAK-ID عام طور پر پاکستانی صارفین سے متعلقہ متعدد زبانوں کو سپورٹ کرتا ہے۔ اردو اور انگریزی سمیت دستیاب زبان کے اختیارات کے لیے ایپ کی ترتیبات چیک کریں۔"
+    },
+    {
+      "question": "Can I download documents directly from PAK-ID?",
+      "answer": "Yes, PAK-ID allows you to download certain documents like Family Registration Certificates (FRC) directly to your device for immediate access and printing.",
+      "urdu_question": "کیا میں براہ راست PAK-ID سے دستاویزات ڈاؤن لوڈ کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، PAK-ID آپ کو کچھ دستاویزات جیسے فیملی رجسٹریشن سرٹیفکیٹس (FRC) کو فوری رسائی اور پرنٹنگ کے لیے براہ راست اپنے آلے پر ڈاؤن لوڈ کرنے کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "How do I verify my identity on PAK-ID for the first time?",
+      "answer": "Initial identity verification on PAK-ID typically involves providing your CNIC details, answering verification questions, and possibly undergoing biometric verification depending on the service.",
+      "urdu_question": "میں پہلی بار PAK-ID پر اپنی شناخت کی تصدیق کیسے کروں؟",
+      "urdu_answer": "PAK-ID پر شناخت کی ابتدائی تصدیق میں عام طور پر آپ کی CNIC کی تفصیلات فراہم کرنا، تصدیقی سوالات کے جوابات دینا، اور ممکنہ طور پر سروس کے لحاظ سے بائیو میٹرک تصدیق سے گزرنا شامل ہے۔"
+    },
+    {
+      "question": "Can I apply for family members' documents through my PAK-ID account?",
+      "answer": "You may be able to apply for certain family documents depending on your relationship and authorization. Check the app for specific family services and required permissions.",
+      "urdu_question": "کیا میں اپنے PAK-ID اکاؤنٹ کے ذریعے فیملی ممبرز کی دستاویزات کے لیے درخواست دے سکتا ہوں؟",
+      "urdu_answer": "آپ اپنے رشتے اور اجازت کی بنیاد پر کچھ خاندانی دستاویزات کے لیے درخواست دے سکتے ہیں۔ مخصوص خاندانی خدمات اور مطلوبہ اجازتوں کے لیے ایپ چیک کریں۔"
+    },
+    {
+      "question": "What should I do if my PAK-ID application is rejected?",
+      "answer": "If your application is rejected through PAK-ID, check the rejection reason provided in the app, gather any required additional documents, or contact NADRA at 1777 for clarification.",
+      "urdu_question": "اگر میری PAK-ID کی درخواست مسترد ہو جائے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کی درخواست PAK-ID کے ذریعے مسترد کر دی جاتی ہے، تو ایپ میں فراہم کردہ مسترد ہونے کی وجہ چیک کریں، کوئی بھی مطلوبہ اضافی دستاویزات جمع کریں، یا وضاحت کے لیے 1777 پر نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I schedule appointments at NADRA centers through PAK-ID?",
+      "answer": "Check PAK-ID for appointment scheduling features, as this functionality may be available in some regions or for specific services. Alternatively, contact centers directly.",
+      "urdu_question": "کیا میں PAK-ID کے ذریعے نادرا مراکز میں ملاقاتوں کا شیڈول بنا سکتا ہوں؟",
+      "urdu_answer": "اپوائنٹمنٹ شیڈولنگ کی خصوصیات کے لیے PAK-ID چیک کریں، کیونکہ یہ فعالیت کچھ علاقوں یا مخصوص خدمات کے لیے دستیاب ہو سکتی ہے۔ متبادل طور پر، براہ راست مراکز سے رابطہ کریں۔"
+    },
+    {
+      "question": "How do I contact customer support from within PAK-ID?",
+      "answer": "PAK-ID may have built-in customer support features, help sections, or direct links to NADRA's helpline 1777 for assistance with app or service-related queries.",
+      "urdu_question": "میں PAK-ID کے اندر سے کسٹمر سپورٹ سے کیسے رابطہ کروں؟",
+      "urdu_answer": "PAK-ID میں بلٹ ان کسٹمر سپورٹ فیچرز، ہیلپ سیکشنز، یا ایپ یا سروس سے متعلق سوالات میں مدد کے لیے نادرا کی ہیلپ لائن 1777 کے براہ راست لنکس ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Can I use PAK-ID for emergency document services?",
+      "answer": "PAK-ID may offer expedited processing options for urgent document needs. Check the app for urgent service categories and their respective processing times and fees.",
+      "urdu_question": "کیا میں ہنگامی دستاویز کی خدمات کے لیے PAK-ID استعمال کرسکتا ہوں؟",
+      "urdu_answer": "PAK-ID فوری دستاویزات کی ضروریات کے لیے تیز رفتار پروسیسنگ کے اختیارات پیش کر سکتا ہے۔ فوری سروس کے زمرے اور ان کے متعلقہ پروسیسنگ کے اوقات اور فیس کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "What happens if I lose my phone with PAK-ID installed?",
+      "answer": "If you lose your phone, immediately contact NADRA at 1777 to secure your account. You can reinstall PAK-ID on a new device and go through the authentication process again.",
+      "urdu_question": "اگر PAK-ID انسٹال ہونے کے ساتھ میرا فون گم ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کا فون گم ہو جائے تو اپنے اکاؤنٹ کو محفوظ بنانے کے لیے فوری طور پر نادرا سے 1777 پر رابطہ کریں۔ آپ PAK-ID کو ایک نئے ڈیوائس پر دوبارہ انسٹال کر سکتے ہیں اور دوبارہ تصدیق کے عمل سے گزر سکتے ہیں۔"
+    },
+    {
+      "question": "Are there any age restrictions for using PAK-ID?",
+      "answer": "PAK-ID is generally for individuals who can legally apply for NADRA documents. Minors may need parental consent or may have limited access to certain services.",
+      "urdu_question": "کیا PAK-ID استعمال کرنے کے لیے عمر کی کوئی پابندیاں ہیں؟",
+      "urdu_answer": "PAK-ID عام طور پر ان افراد کے لیے ہے جو قانونی طور پر نادرا دستاویزات کے لیے درخواست دے سکتے ہیں۔ نابالغوں کو والدین کی رضامندی کی ضرورت ہو سکتی ہے یا کچھ خدمات تک محدود رسائی ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I use PAK-ID to verify someone else's identity?",
+      "answer": "PAK-ID is primarily for personal use. Identity verification of others may require separate verification services or official procedures through NADRA centers.",
+      "urdu_question": "کیا میں کسی اور کی شناخت کی تصدیق کے لیے PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "PAK-ID بنیادی طور پر ذاتی استعمال کے لیے ہے۔ دوسروں کی شناخت کی تصدیق کے لیے نادرا مراکز کے ذریعے علیحدہ تصدیقی خدمات یا سرکاری طریقہ کار کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "How do I provide feedback about PAK-ID?",
+      "answer": "You can provide feedback about PAK-ID through the app's feedback feature, app store reviews, NADRA's website, or by calling 1777 to share your experience and suggestions.",
+      "urdu_question": "میں PAK-ID کے بارے میں رائے کیسے فراہم کروں؟",
+      "urdu_answer": "آپ PAK-ID کے بارے میں ایپ کے فیڈ بیک فیچر، ایپ اسٹور کے جائزے، نادرا کی ویب سائٹ، یا 1777 پر کال کر کے اپنے تجربے اور تجاویز سے آگاہ کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I access PAK-ID services during system maintenance?",
+      "answer": "During scheduled maintenance, some PAK-ID services may be temporarily unavailable. The app will typically notify users of maintenance schedules and alternative contact methods.",
+      "urdu_question": "کیا میں سسٹم مینٹیننس کے دوران PAK-ID سروسز تک رسائی حاصل کر سکتا ہوں؟",
+      "urdu_answer": "طے شدہ دیکھ بھال کے دوران، کچھ PAK-ID خدمات عارضی طور پر دستیاب نہیں ہوسکتی ہیں۔ ایپ عام طور پر صارفین کو دیکھ بھال کے نظام الاوقات اور رابطے کے متبادل طریقوں سے آگاہ کرے گی۔"
+    },
+    {
+      "question": "What accessibility features does PAK-ID offer?",
+      "answer": "PAK-ID may include accessibility features for users with disabilities. Check the app settings for options like larger text, voice assistance, or other accessibility tools.",
+      "urdu_question": "PAK-ID کون سی قابل رسائی خصوصیات پیش کرتا ہے؟",
+      "urdu_answer": "PAK-ID میں معذور صارفین کے لیے قابل رسائی خصوصیات شامل ہو سکتی ہیں۔ بڑے ٹیکسٹ، صوتی مدد، یا دیگر قابل رسائی ٹولز جیسے اختیارات کے لیے ایپ کی ترتیبات چیک کریں۔"
+    },
+    {
+      "question": "Can I use PAK-ID to report lost or stolen documents?",
+      "answer": "PAK-ID may have features to report lost or stolen documents and initiate replacement processes. Check the app for document reporting and reprint services.",
+      "urdu_question": "کیا میں گمشدہ یا چوری شدہ دستاویزات کی اطلاع دینے کے لیے PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "PAK-ID میں گمشدہ یا چوری شدہ دستاویزات کی اطلاع دینے اور متبادل کے عمل کو شروع کرنے کی خصوصیات ہو سکتی ہیں۔ دستاویز کی رپورٹنگ اور دوبارہ پرنٹ کی خدمات کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "How do I know if my PAK-ID transaction was successful?",
+      "answer": "PAK-ID provides transaction confirmations, receipt numbers, and status updates for completed services. Save these confirmations for your records and tracking purposes.",
+      "urdu_question": "مجھے کیسے پتہ چلے گا کہ آیا میری PAK-ID ٹرانزیکشن کامیاب رہی؟",
+      "urdu_answer": "PAK-ID مکمل خدمات کے لیے لین دین کی تصدیق، رسید نمبر، اور اسٹیٹس اپ ڈیٹ فراہم کرتا ہے۔ ان تصدیقات کو اپنے ریکارڈ اور ٹریکنگ کے مقاصد کے لیے محفوظ کریں۔"
+    },
+    {
+      "question": "Can I cancel a service request made through PAK-ID?",
+      "answer": "Cancellation policies may vary by service type. Check the app for cancellation options or contact NADRA at 1777 to inquire about canceling pending requests.",
+      "urdu_question": "کیا میں PAK-ID کے ذریعے کی گئی سروس کی درخواست کو منسوخ کر سکتا ہوں؟",
+      "urdu_answer": "منسوخی کی پالیسیاں سروس کی قسم کے لحاظ سے مختلف ہو سکتی ہیں۔ منسوخی کے اختیارات کے لیے ایپ کو چیک کریں یا زیر التواء درخواستوں کو منسوخ کرنے کے بارے میں دریافت کرنے کے لیے 1777 پر نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "Does PAK-ID work on tablets and other devices?",
+      "answer": "PAK-ID is designed for mobile phones but may work on tablets with compatible Android or iOS systems. Performance may vary on different device types.",
+      "urdu_question": "کیا PAK-ID ٹیبلیٹ اور دیگر آلات پر کام کرتا ہے؟",
+      "urdu_answer": "PAK-ID موبائل فونز کے لیے ڈیزائن کیا گیا ہے لیکن یہ مطابقت پذیر Android یا iOS سسٹم کے ساتھ ٹیبلیٹ پر کام کر سکتا ہے۔ مختلف آلات کی اقسام پر کارکردگی مختلف ہو سکتی ہے۔"
+    },
+    {
+      "question": "How do I enable notifications for PAK-ID?",
+      "answer": "Enable notifications in your device settings for PAK-ID to receive updates about application status, maintenance schedules, and important announcements from NADRA.",
+      "urdu_question": "میں PAK-ID کے لیے اطلاعات کو کیسے فعال کروں؟",
+      "urdu_answer": "PAK-ID کے لیے اپنے آلے کی سیٹنگز میں نوٹیفیکیشنز کو فعال کریں تاکہ درخواست کی صورتحال، دیکھ بھال کے نظام الاوقات، اور نادرا سے اہم اعلانات کے بارے میں اپ ڈیٹس حاصل کریں۔"
+    },
+    {
+      "question": "Can I use PAK-ID for business or commercial purposes?",
+      "answer": "PAK-ID is primarily for individual identity services. For business verification or commercial services, check with NADRA about specialized business verification solutions.",
+      "urdu_question": "کیا میں PAK-ID کو کاروباری یا تجارتی مقاصد کے لیے استعمال کر سکتا ہوں؟",
+      "urdu_answer": "PAK-ID بنیادی طور پر انفرادی شناختی خدمات کے لیے ہے۔ کاروباری تصدیق یا تجارتی خدمات کے لیے، خصوصی کاروباری تصدیق کے حل کے بارے میں نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What should I do if PAK-ID shows incorrect information about me?",
+      "answer": "If PAK-ID displays incorrect personal information, contact NADRA at 1777 immediately as this may indicate data synchronization issues or require record corrections.",
+      "urdu_question": "اگر PAK-ID میرے بارے میں غلط معلومات دکھاتا ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر PAK-ID غلط ذاتی معلومات دکھاتا ہے تو، نادرا سے فوری طور پر 1777 پر رابطہ کریں کیونکہ یہ ڈیٹا کی مطابقت پذیری کے مسائل کی نشاندہی کر سکتا ہے یا ریکارڈ میں تصحیح کی ضرورت ہے۔"
+    },
+    {
+      "question": "Can I use PAK-ID to get digital copies of my documents?",
+      "answer": "PAK-ID may provide digital copies or QR codes for certain documents that can be verified electronically. Check the app for digital document options and their acceptance.",
+      "urdu_question": "کیا میں اپنے دستاویزات کی ڈیجیٹل کاپیاں حاصل کرنے کے لیے PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "PAK-ID کچھ دستاویزات کے لیے ڈیجیٹل کاپیاں یا QR کوڈ فراہم کر سکتا ہے جن کی الیکٹرانک طور پر تصدیق کی جا سکتی ہے۔ ڈیجیٹل دستاویز کے اختیارات اور ان کی قبولیت کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "How long does it take for changes made through PAK-ID to take effect?",
+      "answer": "Processing times for changes made through PAK-ID vary by service type, from instant for some updates to several days for document applications. Check specific service timelines in the app.",
+      "urdu_question": "PAK-ID کے ذریعے کی گئی تبدیلیوں کے اثر میں آنے میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "PAK-ID کے ذریعے کی جانے والی تبدیلیوں کے لیے پروسیسنگ کے اوقات سروس کی قسم کے لحاظ سے مختلف ہوتے ہیں، کچھ اپ ڈیٹس کے لیے فوری سے لے کر دستاویز کی درخواستوں کے لیے کئی دنوں تک۔ ایپ میں مخصوص سروس ٹائم لائنز کو چیک کریں۔"
+    },
+    {
+      "question": "Can I use PAK-ID if I'm traveling internationally?",
+      "answer": "Yes, PAK-ID can be used internationally as long as you have internet connectivity. This is particularly useful for overseas Pakistanis accessing NADRA services.",
+      "urdu_question": "اگر میں بین الاقوامی سفر کر رہا ہوں تو کیا میں PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، PAK-ID کو بین الاقوامی سطح پر استعمال کیا جا سکتا ہے جب تک کہ آپ کے پاس انٹرنیٹ کنیکٹیویٹی ہو۔ یہ خاص طور پر نادرا کی خدمات تک رسائی حاصل کرنے والے سمندر پار پاکستانیوں کے لیے مفید ہے۔"
+    },
+    {
+      "question": "What biometric features does PAK-ID support?",
+      "answer": "PAK-ID may support various biometric authentication methods available on your device, such as fingerprint scanning or facial recognition, depending on your device capabilities.",
+      "urdu_question": "PAK-ID کن بایومیٹرک خصوصیات کو سپورٹ کرتا ہے؟",
+      "urdu_answer": "PAK-ID آپ کے آلے پر دستیاب بائیو میٹرک تصدیق کے مختلف طریقوں کی حمایت کر سکتا ہے، جیسے کہ فنگر پرنٹ سکیننگ یا چہرے کی شناخت، آپ کے آلے کی صلاحیتوں پر منحصر ہے۔"
+    },
+    {
+      "question": "Can I link multiple NADRA documents to one PAK-ID account?",
+      "answer": "Yes, you can typically link multiple NADRA documents (CNIC, NICOP, POC) to your PAK-ID account if you hold multiple valid documents from NADRA.",
+      "urdu_question": "کیا میں نادرا کی متعدد دستاویزات کو ایک PAK-ID اکاؤنٹ سے لنک کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، اگر آپ کے پاس نادرا سے متعدد درست دستاویزات ہیں تو آپ عام طور پر متعدد نادرا دستاویزات (CNIC، NICOP، POC) کو اپنے PAK-ID اکاؤنٹ سے لنک کر سکتے ہیں۔"
+    },
+    {
+      "question": "How do I update my contact information in PAK-ID?",
+      "answer": "Update your contact information through the PAK-ID app settings or profile section. Some changes may require verification before taking effect in NADRA's records.",
+      "urdu_question": "میں اپنی رابطہ کی معلومات کو PAK-ID میں کیسے اپ ڈیٹ کروں؟",
+      "urdu_answer": "PAK-ID ایپ کی ترتیبات یا پروفائل سیکشن کے ذریعے اپنی رابطہ کی معلومات کو اپ ڈیٹ کریں۔ کچھ تبدیلیاں نادرا کے ریکارڈ میں اثر انداز ہونے سے پہلے تصدیق کی ضرورت ہو سکتی ہیں۔"
+    },
+    {
+      "question": "Does PAK-ID integrate with other government services?",
+      "answer": "PAK-ID may integrate with other government services for seamless access to various public services. Check the app for available integrated services and partnerships.",
+      "urdu_question": "کیا PAK-ID دیگر سرکاری خدمات کے ساتھ ضم ہوتا ہے؟",
+      "urdu_answer": "PAK-ID مختلف عوامی خدمات تک بغیر کسی رکاوٹ کے رسائی کے لیے دیگر سرکاری خدمات کے ساتھ ضم ہو سکتا ہے۔ دستیاب مربوط خدمات اور شراکت کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "Can I get technical support for PAK-ID in different languages?",
+      "answer": "NADRA provides customer support in multiple languages. Call 1777 and request assistance in your preferred language for PAK-ID related technical issues.",
+      "urdu_question": "کیا میں PAK-ID کے لیے مختلف زبانوں میں تکنیکی مدد حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نادرا متعدد زبانوں میں کسٹمر سپورٹ فراہم کرتا ہے۔ 1777 پر کال کریں اور PAK-ID سے متعلق تکنیکی مسائل کے لیے اپنی ترجیحی زبان میں مدد کی درخواست کریں۔"
+    },
+    {
+      "question": "What should I do if PAK-ID asks for permissions I'm not comfortable granting?",
+      "answer": "Review app permissions carefully. PAK-ID may need certain permissions for functionality like camera access for document scanning. Contact NADRA support if you have concerns about specific permissions.",
+      "urdu_question": "اگر PAK-ID اجازت طلب کرتا ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "ایپ کی اجازتوں کا بغور جائزہ لیں۔ PAK-ID کو فعالیت کے لیے مخصوص اجازتوں کی ضرورت ہو سکتی ہے جیسے دستاویز کی سکیننگ کے لیے کیمرے تک رسائی۔ اگر آپ کو مخصوص اجازتوں کے بارے میں خدشات ہیں تو نادرا سپورٹ سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I use PAK-ID to apply for services for elderly family members?",
+      "answer": "You may be able to assist elderly family members with PAK-ID applications if you have proper authorization. Check the app for family assistance features and required documentation.",
+      "urdu_question": "کیا میں خاندان کے بزرگ افراد کے لیے خدمات کے لیے درخواست دینے کے لیے PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "اگر آپ کے پاس مناسب اجازت ہے تو آپ PAK-ID ایپلی کیشنز کے ساتھ خاندان کے بزرگ افراد کی مدد کر سکتے ہیں۔ خاندانی امداد کی خصوصیات اور مطلوبہ دستاویزات کے لیے ایپ کو چیک کریں۔"
+    },
+    {
+      "question": "How does PAK-ID compare to visiting NADRA centers in person?",
+      "answer": "PAK-ID offers convenience and time-saving for many services, while in-person visits may be required for complex cases, initial registrations, or when biometric capture is needed.",
+      "urdu_question": "PAK-ID ذاتی طور پر نادرا مراکز کا دورہ کرنے سے کیسے موازنہ کرتا ہے؟",
+      "urdu_answer": "PAK-ID بہت سی خدمات کے لیے سہولت اور وقت کی بچت پیش کرتا ہے، جب کہ پیچیدہ مقدمات، ابتدائی رجسٹریشن، یا جب بائیو میٹرک کیپچر کی ضرورت ہو تو ذاتی طور پر وزٹ کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What future updates or features are planned for PAK-ID?",
+      "answer": "For information about upcoming PAK-ID features and updates, check NADRA's official announcements, app store update notes, or contact NADRA at 1777 for the latest development news.",
+      "urdu_question": "PAK-ID کے لیے مستقبل میں کون سے اپ ڈیٹس یا فیچرز کی منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "PAK-ID کے آنے والے فیچرز اور اپ ڈیٹس کے بارے میں معلومات کے لیے، نادرا کے آفیشل اعلانات، ایپ اسٹور اپڈیٹ نوٹس، یا تازہ ترین ترقیاتی خبروں کے لیے نادرا سے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Can we apply CNIC through PAK-ID?",
+      "answer": "Yes, you can apply for a CNIC (New/Renwal/Modification/Lost) through the PAK-ID application, allowing you to complete the application process digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے CNIC اپلائی کرسکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے CNIC (New/Renwal/Modification/Lost) کے لیے درخواست دے سکتے ہیں، جس سے آپ درخواست کے عمل کو ڈیجیٹل طور پر مکمل کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can we apply for NICOP through PAK-ID?",
+      "answer": "Yes, you can apply for NICOP (New/Renwal/Modification/Lost) through the PAK-ID application, enabling you to manage your overseas identity documents digitally.",
+      "urdu_question": "کیا ہم NICOP کے لیے PAK-ID کے ذریعے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے NICOP (نئی/ تجدید/ ترمیم/ کھوئے ہوئے) کے لیے درخواست دے سکتے ہیں، جس سے آپ اپنے بیرون ملک شناختی دستاویزات کو ڈیجیٹل طور پر منظم کر سکیں گے۔"
+    },
+    {
+      "question": "Can we apply for POC through PAK-ID?",
+      "answer": "Yes, you can apply for POC (New/Renwal/Modification/Lost) through the PAK-ID application, facilitating the process of obtaining or updating your Pakistan Origin Card digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے POC کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "جی ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے POC (نیا/تجدید/ترمیم/گمشدہ) کے لیے درخواست دے سکتے ہیں، اپنے پاکستان اوریجن کارڈ کو ڈیجیٹل طور پر حاصل کرنے یا اپ ڈیٹ کرنے کے عمل کو آسان بنا سکتے ہیں۔"
+    },
+    {
+      "question": "Can we apply for FRC through PAK-ID?",
+      "answer": "Yes, you can apply for FRC (Family Registration Certificate) through the PAK-ID application, allowing you to manage family-related identity documents digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے FRC کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے FRC (فیملی رجسٹریشن سرٹیفکیٹ) کے لیے درخواست دے سکتے ہیں، جس سے آپ خاندان سے متعلقہ شناختی دستاویزات کو ڈیجیٹل طور پر منظم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can we apply for Birth Certificate through PAK-ID?",
+      "answer": "Yes, you can apply for a Birth Certificate through the PAK-ID application, enabling you to complete the application process digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے پیدائشی سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے برتھ سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں، جس سے آپ درخواست کے عمل کو ڈیجیٹل طور پر مکمل کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can we apply for Death Certificate through PAK-ID?",
+      "answer": "Yes, you can apply for a Death Certificate through the PAK-ID application, allowing you to manage death-related identity documents digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے ڈیتھ سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے ڈیتھ سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں، جس سے آپ موت سے متعلق شناختی دستاویزات کو ڈیجیٹل طور پر منظم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can we apply for Marriage Certificate through PAK-ID?",
+      "answer": "Yes, you can apply for a Marriage Certificate through the PAK-ID application, facilitating the process of obtaining or updating your marriage-related documents digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے میرج سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے شادی کے سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں، اپنی شادی سے متعلق دستاویزات کو ڈیجیٹل طور پر حاصل کرنے یا اپ ڈیٹ کرنے کے عمل میں سہولت فراہم کرتے ہوئے۔"
+    },
+    {
+      "question": "Can we apply for Divorce Certificate through PAK-ID?",
+      "answer": "Yes, you can apply for a Divorce Certificate through the PAK-ID application, enabling you to manage divorce-related identity documents digitally.",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے طلاق نامہ کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID ایپلیکیشن کے ذریعے طلاق کے سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں، جس سے آپ طلاق سے متعلقہ شناختی دستاویزات کو ڈیجیٹل طور پر منظم کر سکیں گے۔"
+    },
+    {
+      "question": "Can we apply for Succession Certifcate through PAK-ID?",
+      "answer": "Currently the feature is under-development (Please review the latest App Update Notes on PlayStore and AppStore), Applicant can initiate the Sucession Certificate through nearest NADRA office, Although the heirs can perform biometric on PAK-ID from anywhere in the world",
+      "urdu_question": "کیا ہم PAK-ID کے ذریعے جانشینی کے سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "فی الحال یہ فیچر زیر ترقی ہے (براہ کرم پلے اسٹور اور ایپ اسٹور پر تازہ ترین ایپ اپ ڈیٹ نوٹس کا جائزہ لیں)، درخواست دہندہ نادرا کے قریبی دفتر کے ذریعے جانشینی کا سرٹیفکیٹ شروع کر سکتا ہے، حالانکہ ورثاء دنیا میں کہیں سے بھی PAK-ID پر بائیو میٹرک کر سکتے ہیں۔"
+    },
+    {
+      "question": "How do I change my email address on PAK-ID?",
+      "answer": "You can change your email address on PAK-ID by going to the profile or settings section of the app and updating your email information. Follow the prompts to verify the new email address if required.",
+      "urdu_question": "میں PAK-ID پر اپنا ای میل ایڈریس کیسے تبدیل کروں؟",
+      "urdu_answer": "آپ ایپ کے پروفائل یا سیٹنگز سیکشن میں جا کر اور اپنی ای میل کی معلومات کو اپ ڈیٹ کر کے PAK-ID پر اپنا ای میل ایڈریس تبدیل کر سکتے ہیں۔ اگر ضرورت ہو تو نئے ای میل ایڈریس کی تصدیق کرنے کے لیے اشارے پر عمل کریں۔"
+    },
+    {
+      "question": "How do I change my phone number on PAK-ID?",
+      "answer": "To change your phone number on PAK-ID, navigate to the profile or settings section of the app, update your phone number, and follow any verification steps needed to confirm the change.",
+      "urdu_question": "میں PAK-ID پر اپنا فون نمبر کیسے تبدیل کروں؟",
+      "urdu_answer": "PAK-ID پر اپنا فون نمبر تبدیل کرنے کے لیے، ایپ کے پروفائل یا سیٹنگز سیکشن پر جائیں، اپنا فون نمبر اپ ڈیٹ کریں، اور تبدیلی کی تصدیق کے لیے درکار تصدیقی مراحل پر عمل کریں۔"
+    },
+    {
+      "question": "How to apply for a arms license in  PAK-ID?",
+      "answer": "Currently you can view the status of your arms license application through PAK-ID, The feature to apply for a new arms license is under-development (Please review the latest App Update Notes on PlayStore and AppStore), Applicant can initiate the arms license application through nearest NADRA office",
+      "urdu_question": "PAK-ID میں اسلحہ لائسنس کے لیے درخواست کیسے دی جائے؟",
+      "urdu_answer": "فی الحال آپ PAK-ID کے ذریعے اپنے اسلحہ لائسنس کی درخواست کا اسٹیٹس دیکھ سکتے ہیں، نئے اسلحہ لائسنس کے لیے درخواست دینے کا فیچر ابھی تیار نہیں ہے (براہ کرم پلے اسٹور اور ایپ اسٹور پر تازہ ترین ایپ اپڈیٹ نوٹس کا جائزہ لیں)، درخواست گزار اسلحہ لائسنس کی درخواست قریبی نادرا آفس کے ذریعے شروع کر سکتا ہے۔"
+    },
+    {
+      "question": "How to apply for a firearm license in PAK-ID?",
+      "answer": "Currently you can view the status of your firearm license application through PAK-ID, The feature to apply for a new firearm license is under-development (Please review the latest App Update Notes on PlayStore and AppStore), Applicant can initiate the firearm license application through nearest NADRA office",
+      "urdu_question": "PAK-ID میں اسلحہ لائسنس کے لیے درخواست کیسے دی جائے؟",
+      "urdu_answer": "فی الحال آپ PAK-ID کے ذریعے اپنے آتشیں اسلحہ کے لائسنس کی درخواست کا اسٹیٹس دیکھ سکتے ہیں، نئے آتشیں اسلحہ کے لائسنس کے لیے درخواست دینے کا فیچر تیار نہیں ہے (براہ کرم پلے اسٹور اور ایپ اسٹور پر تازہ ترین ایپ اپ ڈیٹ نوٹس کا جائزہ لیں)، درخواست دہندہ نادرا کے قریبی دفتر کے ذریعے آتشیں اسلحہ لائسنس کی درخواست شروع کر سکتا ہے۔"
+    },
+    {
+      "question": "What is Digital-ID?",
+      "answer": "NADRA is building a secure Digital ID to verify your identity & access digital documents. This Digital ID will be linked to your PAK-ID account and can be used to access various online services securely. It enables secure and trusted identification and authentication of individuals , Facilitates access to public and private digital services, Ensure privacy, consent, and data protection in digital interactions",
+      "urdu_question": "ڈیجیٹل آئی ڈی کیا ہے؟",
+      "urdu_answer": "نادرا آپ کی شناخت کی تصدیق اور ڈیجیٹل دستاویزات تک رسائی کے لیے ایک محفوظ ڈیجیٹل آئی ڈی بنا رہا ہے۔ یہ ڈیجیٹل ID آپ کے PAK-ID اکاؤنٹ سے منسلک ہو جائے گی اور اسے محفوظ طریقے سے مختلف آن لائن خدمات تک رسائی کے لیے استعمال کیا جا سکتا ہے۔ یہ افراد کی محفوظ اور قابل اعتماد شناخت اور توثیق کو قابل بناتا ہے، عوامی اور نجی ڈیجیٹل خدمات تک رسائی کو آسان بناتا ہے، ڈیجیٹل تعاملات میں رازداری، رضامندی، اور ڈیٹا کے تحفظ کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "How to apply for a Digital-ID in PAK-ID?",
+      "answer": "You can apply for a Digital-ID through the PAK-ID application by following the instructions provided within the app. The process typically involves verifying your identity and linking your existing NADRA records to the Digital ID.",
+      "urdu_question": "PAK-ID میں ڈیجیٹل-ID کے لیے درخواست کیسے دی جائے؟",
+      "urdu_answer": "آپ ایپ میں فراہم کردہ ہدایات پر عمل کرکے PAK-ID ایپلیکیشن کے ذریعے ڈیجیٹل-ID کے لیے درخواست دے سکتے ہیں۔ اس عمل میں عام طور پر آپ کی شناخت کی تصدیق اور آپ کے موجودہ نادرا ریکارڈ کو ڈیجیٹل آئی ڈی سے منسلک کرنا شامل ہے۔"
+    },
+    {
+      "question": "Can i use Digital-ID in banks?",
+      "answer": "Please consult your bank to confirm if they accept Digital-ID for identity verification and access to banking services.",
+      "urdu_question": "کیا میں بینکوں میں ڈیجیٹل آئی ڈی استعمال کر سکتا ہوں؟",
+      "urdu_answer": "براہ کرم اپنے بینک سے اس بات کی تصدیق کریں کہ آیا وہ شناخت کی تصدیق اور بینکنگ خدمات تک رسائی کے لیے ڈیجیٹل-ID قبول کرتے ہیں۔"
+    },
+    {
+      "question": "How do i register my vehicle in PAK-ID?",
+      "answer": "Currently, PAK-ID only offers to view your Islamabad(ICT) Vehicle Registeration Card, which you can view/download in the PAK-ID application.",
+      "urdu_question": "میں اپنی گاڑی کو PAK-ID میں کیسے رجسٹر کروں؟",
+      "urdu_answer": "فی الحال، PAK-ID صرف آپ کا اسلام آباد (ICT) وہیکل رجسٹریشن کارڈ دیکھنے کی پیشکش کرتا ہے، جسے آپ PAK-ID ایپلیکیشن میں دیکھ/ڈاؤن لوڈ کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can i use PAK-ID for Proof of Life Certificate?",
+      "answer": "Yes, All pensioners can use PAK-ID to apply for Proof of Life Certificate, which is a mandatory requirement for pension disbursement. You can complete the Proof of Life process digitally through the PAK-ID application by verifying your biometrics",
+      "urdu_question": "کیا میں لائف سرٹیفکیٹ کے ثبوت کے لیے PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، تمام پنشنرز PAK-ID کا استعمال زندگی کے ثبوت کے لیے درخواست دے سکتے ہیں، جو کہ پنشن کی تقسیم کے لیے ایک لازمی شرط ہے۔ آپ اپنے بائیو میٹرکس کی تصدیق کرکے PAK-ID ایپلیکیشن کے ذریعے زندگی کے ثبوت کے عمل کو ڈیجیٹل طور پر مکمل کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can i apply for Proof of Life Certificate for my family members through PAK-ID?",
+      "answer": "Yes, you can apply for Proof of Life Certificate for your family members through PAK-ID, provided you have the necessary authorization and their biometric verification is completed.",
+      "urdu_question": "کیا میں PAK-ID کے ذریعے اپنے خاندان کے افراد کے لیے زندگی کے ثبوت کے لیے درخواست دے سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ PAK-ID کے ذریعے اپنے خاندان کے افراد کے لیے ثبوت آف لائف سرٹیفکیٹ کے لیے درخواست دے سکتے ہیں، بشرطیکہ آپ کے پاس ضروری اجازت ہو اور ان کی بائیو میٹرک تصدیق مکمل ہو۔"
+    },
+    {
+      "question": "PAK ID app is not working?",
+      "answer": "We apologize if you are facing issues with PAK-ID, Please ensure you have a stable internet connection, try restarting the app or your device, and make sure you have the latest version of the app installed. If the problem persists, please contact NADRA support at 1777 for further assistance.",
+      "urdu_question": "PAK ID ایپ کام نہیں کر رہی؟",
+      "urdu_answer": "اگر آپ کو PAK-ID کے ساتھ مسائل کا سامنا ہے تو ہم معذرت خواہ ہیں، براہ کرم یقینی بنائیں کہ آپ کا انٹرنیٹ کنکشن مستحکم ہے، ایپ یا اپنے آلے کو دوبارہ شروع کرنے کی کوشش کریں، اور یقینی بنائیں کہ آپ کے پاس ایپ کا تازہ ترین ورژن انسٹال ہے۔ اگر مسئلہ برقرار رہتا ہے تو مزید مدد کے لیے براہ کرم نادرا سپورٹ سے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "How to contact NADRA for PAK-ID related issues?",
+      "answer": "For any issues or inquiries related to PAK-ID, you can contact NADRA customer support by calling their helpline at 1777. They can assist you with technical support, account issues, and general inquiries about the app and its services.",
+      "urdu_question": "PAK-ID سے متعلق مسائل کے لیے نادرا سے کیسے رابطہ کیا جائے؟",
+      "urdu_answer": "PAK-ID سے متعلق کسی بھی مسئلے یا استفسار کے لیے، آپ نادرا کسٹمر سپورٹ سے ان کی ہیلپ لائن 1777 پر کال کر کے رابطہ کر سکتے ہیں۔ وہ تکنیکی مدد، اکاؤنٹ کے مسائل، اور ایپ اور اس کی خدمات کے بارے میں عمومی استفسارات میں آپ کی مدد کر سکتے ہیں۔"
+    },
+    {
+      "question": "I did the payment on PAK-ID but the application is incomplete/not submitted?",
+      "answer": "If you have made a payment on PAK-ID but your application is incomplete or not submitted, please check the application status in the app. If the issue persists, contact NADRA support at 1777 with your payment details and application information for assistance.",
+      "urdu_question": "میں نے PAK-ID پر ادائیگی کی لیکن درخواست نامکمل/جمع نہیں ہوئی؟",
+      "urdu_answer": "اگر آپ نے PAK-ID پر ادائیگی کی ہے لیکن آپ کی درخواست نامکمل ہے یا جمع نہیں کرائی گئی ہے، تو براہ کرم ایپ میں درخواست کی حیثیت چیک کریں۔ اگر مسئلہ برقرار رہتا ہے تو، مدد کے لیے اپنی ادائیگی کی تفصیلات اور درخواست کی معلومات کے ساتھ 1777 پر نادرا سپورٹ سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I use other person PAK-ID on my phone?",
+      "answer": "It is not recommended to use another person's PAK-ID on your phone as it may violate NADRA's terms of service and compromise the security of personal information. Each PAK-ID account is intended for individual use only.",
+      "urdu_question": "کیا میں اپنے فون پر دوسرے شخص کی PAK-ID استعمال کر سکتا ہوں؟",
+      "urdu_answer": "آپ کے فون پر کسی دوسرے شخص کی PAK-ID استعمال کرنے کی سفارش نہیں کی جاتی ہے کیونکہ یہ نادرا کی سروس کی شرائط کی خلاف ورزی کر سکتا ہے اور ذاتی معلومات کی حفاظت سے سمجھوتہ کر سکتا ہے۔ ہر PAK-ID اکاؤنٹ صرف انفرادی استعمال کے لیے ہے۔"
+    },
+    {
+      "question": "Can I use my relatives PAK-ID on my phone?",
+      "answer": "It is not recommended to use a relative's PAK-ID on your phone as it may violate NADRA's terms of service and compromise the security of personal information. Each PAK-ID account is intended for individual use only. But you can assist your relatives in using their own PAK-ID account on their devices.",
+      "urdu_question": "کیا میں اپنے رشتہ داروں کی PAK-ID اپنے فون پر استعمال کر سکتا ہوں؟",
+      "urdu_answer": "اپنے فون پر کسی رشتہ دار کی PAK-ID استعمال کرنے کی سفارش نہیں کی جاتی ہے کیونکہ یہ نادرا کی سروس کی شرائط کی خلاف ورزی کر سکتا ہے اور ذاتی معلومات کی حفاظت سے سمجھوتہ کر سکتا ہے۔ ہر PAK-ID اکاؤنٹ صرف انفرادی استعمال کے لیے ہے۔ لیکن آپ اپنے رشتہ داروں کو ان کے آلات پر ان کا اپنا PAK-ID اکاؤنٹ استعمال کرنے میں مدد کر سکتے ہیں۔"
+    }
+  ]
+}

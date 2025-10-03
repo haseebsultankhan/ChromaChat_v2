@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NADRA Agent</title>
+  <link rel="icon" href="nadra_logo.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Background container -->
+  <div class="background-container"></div>
+  
+  <!-- Chat Launcher Button -->
+  <div class="chat-toggle" id="chat-toggle">
+    💬
+  </div>
+
+  <!-- Chat Panel -->
+  <div class="chat-wrapper" id="chat-wrapper">
+    <!-- Header -->
+    <div class="chat-header">
+      <div class="brand">
+        <img src="nadra_logo.png" alt="NADRA" class="brand-logo" />
+        <span class="brand-title">NADRA AGENT</span>
+      </div>
+      <div class="session-controls">
+        <button class="new-chat-btn" id="new-chat-btn">New Chat</button>
+        <button class="end-session-btn" id="close-chat-btn">&times;</button>
+      </div>
+    </div>
+
+    <!-- Messages Area -->
+    <div class="chat-body" id="chat-body">
+      <div class="message bot">
+        <img src="nadra_logo.png" alt="NADRA Agent" class="avatar" />
+        <div class="text">Hello! I'm NADRA AI AGENT, How may I assist you today? You may type your question or record it below.</div>
+      </div>
+    </div>
+
+    <!-- Input Footer -->
+    <div class="chat-footer">
+      <!-- Normal Input Area -->
+      <div class="input-area" id="input-area">
+        <input type="text" id="chat-input" placeholder="Type your message..." />
+        <button id="mic-btn" title="Record voice message">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+            <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+            <line x1="12" y1="19" x2="12" y2="23"></line>
+            <line x1="8" y1="23" x2="16" y2="23"></line>
+          </svg>
+        </button>
+        <button id="send-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m3 3 3 9-3 9 19-9Z"></path>
+            <path d="m6 12 13 0"></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Recording Area (Hidden by default) -->
+      <div class="recording-area" id="recording-area" style="display: none;">
+        <div class="recording-info">
+          <span class="recording-dot"></span>
+          <span id="recording-timer">00:00</span>
+        </div>
+        <div class="recording-controls">
+          <button id="cancel-recording-btn" title="Cancel recording">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M18 6 6 18"></path>
+              <path d="m6 6 12 12"></path>
+            </svg>
+          </button>
+          <button id="stop-recording-btn" title="Finish recording">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 6 9 17l-5-5"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="static.js"></script>
+</body>
+</html>

@@ -1,0 +1,1015 @@
+{
+  "file_name": "data-entry-operator.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 169,
+  "qa_data": [
+    {
+      "question": "What is NADRA and its function?",
+      "answer": "The National Database and Registration Authority (NADRA) is an independent and autonomous body that manages the registration and database of all citizens of Pakistan and issues Computerized National Identity Cards.",
+      "urdu_question": "نادرا اور اس کا کام کیا ہے؟",
+      "urdu_answer": "نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی (نادرا) ایک خود مختار اور خود مختار ادارہ ہے جو پاکستان کے تمام شہریوں کی رجسٹریشن اور ڈیٹا بیس کا انتظام کرتا ہے اور کمپیوٹرائزڈ قومی شناختی کارڈ جاری کرتا ہے۔"
+    },
+    {
+      "question": "What is NADRA's Vision?",
+      "answer": "To emerge as the leading organization in citizen registration and identity management, maintain a secure national database using modern technology and cybersecurity, promote social development through digital services, align with UN SDGs and follow international best practices.",
+      "urdu_question": "نادرا کا وژن کیا ہے؟",
+      "urdu_answer": "شہریوں کے اندراج اور شناخت کے انتظام میں سرکردہ تنظیم کے طور پر ابھرنے کے لیے، جدید ٹیکنالوجی اور سائبر سیکیورٹی کا استعمال کرتے ہوئے ایک محفوظ قومی ڈیٹا بیس کو برقرار رکھنا، ڈیجیٹل خدمات کے ذریعے سماجی ترقی کو فروغ دینا، اقوام متحدہ کے SDGs کے ساتھ ہم آہنگ ہونا اور بین الاقوامی بہترین طریقوں پر عمل کرنا۔"
+    },
+    {
+      "question": "When was NADRA established?",
+      "answer": "NADRA was established on 10 March 2000 when the National Database Organization (NDO) merged with the Directorate General of Registration (DGR) to form an autonomous statutory body.",
+      "urdu_question": "نادرا کب قائم ہوا؟",
+      "urdu_answer": "نادرا کا قیام 10 مارچ 2000 کو ہوا جب نیشنل ڈیٹا بیس آرگنائزیشن (این ڈی او) نے ڈائریکٹوریٹ جنرل آف رجسٹریشن (ڈی جی آر) کے ساتھ ضم کر کے ایک خود مختار قانونی ادارہ بنایا۔"
+    },
+    {
+      "question": "What is the purpose of NADRA?",
+      "answer": "To register Pakistani citizens, establish a national database and data‑warehouse, provide networking and data‑interfacing, and maintain related facilities.",
+      "urdu_question": "نادرا کا مقصد کیا ہے؟",
+      "urdu_answer": "پاکستانی شہریوں کو رجسٹر کرنے، ایک قومی ڈیٹا بیس اور ڈیٹا گودام قائم کرنے، نیٹ ورکنگ اور ڈیٹا انٹرفیسنگ فراہم کرنے، اور متعلقہ سہولیات کو برقرار رکھنے کے لیے۔"
+    },
+    {
+      "question": "What are NADRA's Functions?",
+      "answer": "• Issuance of CNICs and other identity cards\n• Issuance of registration documents to non‑Pakistanis/foreigners (POC, Alien Registration Card)\n• Registration of vital events (births, deaths, marriages, divorces)\n• National database maintenance (demographic & biometric data)\n• Identity verification services for public & private institutions\n• Support for e‑governance initiatives\n• Data security and integrity of the national identity database",
+      "urdu_question": "نادرا کے کام کیا ہیں؟",
+      "urdu_answer": "• CNICs اور دیگر شناختی کارڈز کا اجرا • غیر پاکستانیوں/غیر ملکیوں کو رجسٹریشن کے دستاویزات کا اجراء (POC، ایلین رجسٹریشن کارڈ) • اہم واقعات کی رجسٹریشن (پیدائش، اموات، شادیاں، طلاق) • قومی ڈیٹا بیس کی دیکھ بھال (ڈیموگرافک اور بائیو میٹرک پرائیویٹ اداروں کے لیے • پبلک ڈیٹا اپ ڈیٹ) ای گورننس کے اقدامات • ڈیٹا کی حفاظت اور قومی شناختی ڈیٹا بیس کی سالمیت"
+    },
+    {
+      "question": "What is meant by citizen registration?",
+      "answer": "All citizens (inside or outside Pakistan) who are 18 years or older must be registered; parents/guardians must register a child within one month of birth; biometric and family data are captured at registration.",
+      "urdu_question": "شہری رجسٹریشن سے کیا مراد ہے؟",
+      "urdu_answer": "تمام شہری (پاکستان کے اندر یا باہر) جن کی عمر 18 سال یا اس سے زیادہ ہے رجسٹرڈ ہونا ضروری ہے۔ والدین/سرپرستوں کو بچے کی پیدائش کے ایک ماہ کے اندر اندراج کرنا چاہیے؛ بائیو میٹرک اور فیملی ڈیٹا رجسٹریشن کے وقت حاصل کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is meant by data?",
+      "answer": "Data is information related to the applicant and their family members and may be digital, binary, biometric or pictorial.",
+      "urdu_question": "ڈیٹا سے کیا مراد ہے؟",
+      "urdu_answer": "ڈیٹا درخواست دہندہ اور ان کے خاندان کے افراد سے متعلق معلومات ہے اور یہ ڈیجیٹل، بائنری، بائیو میٹرک یا تصویری ہو سکتا ہے۔"
+    },
+    {
+      "question": "What is meant by biometrics?",
+      "answer": "Biometrics are fingerprints, facial images and IRIS scans of the applicant's eye pupils used for identification.",
+      "urdu_question": "بائیو میٹرکس سے کیا مراد ہے؟",
+      "urdu_answer": "بایومیٹرکس فنگر پرنٹس، چہرے کی تصاویر اور درخواست دہندگان کی آنکھوں کی پتلیوں کے IRIS اسکین ہیں جو شناخت کے لیے استعمال ہوتے ہیں۔"
+    },
+    {
+      "question": "Who is an applicant?",
+      "answer": "Any individual who wants to avail NADRA's services at a NADRA Registration Center (NRC) or through NADRA online portals.",
+      "urdu_question": "درخواست گزار کون ہے؟",
+      "urdu_answer": "کوئی بھی فرد جو نادرا رجسٹریشن سینٹر (NRC) یا نادرا آن لائن پورٹلز کے ذریعے نادرا کی خدمات حاصل کرنا چاہتا ہے۔"
+    },
+    {
+      "question": "What is CNICF?",
+      "answer": "CNICF is the Computerized National Identity Card Form entered by the DEO; the applicant verifies it to confirm that all details are correct.",
+      "urdu_question": "CNICF کیا ہے؟",
+      "urdu_answer": "CNICF کمپیوٹرائزڈ قومی شناختی کارڈ فارم ہے جو DEO کے ذریعے درج کیا گیا ہے۔ درخواست دہندہ اس بات کی تصدیق کرتا ہے کہ تمام تفصیلات درست ہیں۔"
+    },
+    {
+      "question": "Who is an attester/biometric verifier?",
+      "answer": "An attester is a person (government employee or public representative) who verifies the information entered in the applicant's CNICF; biometric verification can be performed by a blood relative.",
+      "urdu_question": "تصدیق کنندہ/بائیو میٹرک تصدیق کنندہ کون ہے؟",
+      "urdu_answer": "ایک تصدیق کنندہ وہ شخص ہوتا ہے (سرکاری ملازم یا عوامی نمائندہ) جو درخواست گزار کے CNICF میں درج معلومات کی تصدیق کرتا ہے۔ بائیو میٹرک تصدیق خون کے رشتہ دار کے ذریعہ کی جاسکتی ہے۔"
+    },
+    {
+      "question": "What is UC (Union Council)?",
+      "answer": "A Union Council office operates under the provincial local government and is NADRA's stakeholder in the Civil Registration Management System (CRMS).",
+      "urdu_question": "UC (یونین کونسل) کیا ہے؟",
+      "urdu_answer": "یونین کونسل کا دفتر صوبائی مقامی حکومت کے تحت کام کرتا ہے اور سول رجسٹریشن مینجمنٹ سسٹم (CRMS) میں نادرا کا اسٹیک ہولڈر ہے۔"
+    },
+    {
+      "question": "What is SOP?",
+      "answer": "SOP stands for Standard Operating Procedure.",
+      "urdu_question": "SOP کیا ہے؟",
+      "urdu_answer": "SOP کا مطلب معیاری آپریٹنگ پروسیجر ہے۔"
+    },
+    {
+      "question": "What is Policy?",
+      "answer": "Policy is a general procedure issued by the NADRA Authority Board.",
+      "urdu_question": "پالیسی کیا ہے؟",
+      "urdu_answer": "پالیسی نادرا اتھارٹی بورڈ کی طرف سے جاری کردہ ایک عام طریقہ کار ہے۔"
+    },
+    {
+      "question": "What is Data Entry?",
+      "answer": "Data entry is the process of entering the applicant's details into the NADRA system.",
+      "urdu_question": "ڈیٹا انٹری کیا ہے؟",
+      "urdu_answer": "ڈیٹا انٹری درخواست گزار کی تفصیلات نادرا کے نظام میں داخل کرنے کا عمل ہے۔"
+    },
+    {
+      "question": "Who is OIC?",
+      "answer": "OIC is the Officer‑In‑Charge, the in‑charge of a NADRA office.",
+      "urdu_question": "او آئی سی کون ہے؟",
+      "urdu_answer": "OIC آفیسر انچارج ہے، نادرا آفس کا انچارج ہے۔"
+    },
+    {
+      "question": "What does DAU mean?",
+      "answer": "DAU stands for Data Acquisition Unit (Registration Unit).",
+      "urdu_question": "کیا DAU کا مطلب ہے؟",
+      "urdu_answer": "DAU کا مطلب ہے ڈیٹا ایکوزیشن یونٹ (رجسٹریشن یونٹ)۔"
+    },
+    {
+      "question": "What does NRC mean?",
+      "answer": "NRC means NADRA Registration Center.",
+      "urdu_question": "NRC کا کیا مطلب ہے؟",
+      "urdu_answer": "NRC کا مطلب ہے نادرا رجسٹریشن سینٹر۔"
+    },
+    {
+      "question": "What does MRV mean?",
+      "answer": "MRV stands for Mobile Registration Van.",
+      "urdu_question": "کیا MRV کا مطلب ہے؟",
+      "urdu_answer": "ایم آر وی کا مطلب موبائل رجسٹریشن وین ہے۔"
+    },
+    {
+      "question": "What is meant by application rejection?",
+      "answer": "Application rejection is the stoppage of an application due to missing applicant data, system checks, or errors.",
+      "urdu_question": "درخواست مسترد ہونے سے کیا مراد ہے؟",
+      "urdu_answer": "درخواست مسترد کرنا درخواست دہندگان کے ڈیٹا، سسٹم چیکس، یا غلطیوں کی وجہ سے درخواست کا روکنا ہے۔"
+    },
+    {
+      "question": "What is Tracking ID?",
+      "answer": "Tracking ID is a unique number issued by the automated system for each application; it also includes the NRC code.",
+      "urdu_question": "ٹریکنگ آئی ڈی کیا ہے؟",
+      "urdu_answer": "ٹریکنگ ID ایک منفرد نمبر ہے جو ہر درخواست کے لیے خودکار نظام کے ذریعے جاری کیا جاتا ہے۔ اس میں NRC کوڈ بھی شامل ہے۔"
+    },
+    {
+      "question": "What is \"Under Verification\"?",
+      "answer": "It refers to the complete checking of the details provided by the applicant by the Zonal Board after the OIC uploads the application form.",
+      "urdu_question": "\"انڈر تصدیق\" کیا ہے؟",
+      "urdu_answer": "اس سے مراد او آئی سی کی جانب سے درخواست فارم اپ لوڈ کرنے کے بعد زونل بورڈ کے ذریعے درخواست گزار کی فراہم کردہ تفصیلات کی مکمل جانچ پڑتال ہے۔"
+    },
+    {
+      "question": "What is meant by validation?",
+      "answer": "Validation is the re‑verification and checking at the zonal level after uploading from the NRC.",
+      "urdu_question": "توثیق سے کیا مراد ہے؟",
+      "urdu_answer": "توثیق NRC سے اپ لوڈ کرنے کے بعد زونل سطح پر دوبارہ تصدیق اور جانچ ہے۔"
+    },
+    {
+      "question": "What does DUP mean?",
+      "answer": "DUP means an individual holds one or more identity documents.",
+      "urdu_question": "کیا DUP کا مطلب ہے؟",
+      "urdu_answer": "DUP کا مطلب ہے کہ ایک فرد ایک یا زیادہ شناختی دستاویزات رکھتا ہے۔"
+    },
+    {
+      "question": "What does Office Mistake (OM) mean?",
+      "answer": "An error made while entering applicant data that can be corrected without a fee.",
+      "urdu_question": "آفس کی غلطی (OM) کا کیا مطلب ہے؟",
+      "urdu_answer": "درخواست دہندگان کا ڈیٹا داخل کرتے وقت ایک غلطی ہوئی جسے بغیر کسی فیس کے درست کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What does MOI mean?",
+      "answer": "MOI stands for Ministry of Interior.",
+      "urdu_question": "MOI کا کیا مطلب ہے؟",
+      "urdu_answer": "MOI کا مطلب وزارت داخلہ ہے۔"
+    },
+    {
+      "question": "What is IMPASS?",
+      "answer": "IMPASS stands for Immigration and Passport Services.",
+      "urdu_question": "IMPASS کیا ہے؟",
+      "urdu_answer": "IMPASS کا مطلب امیگریشن اور پاسپورٹ سروسز ہے۔"
+    },
+    {
+      "question": "What is meant by dual nationality countries?",
+      "answer": "Countries with which Pakistani citizens are allowed to have dual citizenship.",
+      "urdu_question": "دوہری شہریت والے ممالک سے کیا مراد ہے؟",
+      "urdu_answer": "جن ممالک میں پاکستانی شہریوں کو دوہری شہریت رکھنے کی اجازت ہے۔"
+    },
+    {
+      "question": "What does ACC mean?",
+      "answer": "ACC refers to the Afghan Citizen Card.",
+      "urdu_question": "ACC کا کیا مطلب ہے؟",
+      "urdu_answer": "ACC سے مراد افغان شہری کارڈ ہے۔"
+    },
+    {
+      "question": "What is a POR card?",
+      "answer": "A POR card is the registration card issued to Afghan citizens.",
+      "urdu_question": "POR کارڈ کیا ہے؟",
+      "urdu_answer": "POR کارڈ افغان شہریوں کو جاری کیا جانے والا رجسٹریشن کارڈ ہے۔"
+    },
+    {
+      "question": "What is an ANR card?",
+      "answer": "An ANR card is the Afghan National Card.",
+      "urdu_question": "ANR کارڈ کیا ہے؟",
+      "urdu_answer": "ANR کارڈ افغان نیشنل کارڈ ہے۔"
+    },
+    {
+      "question": "What does PRC mean?",
+      "answer": "PRC stands for Permanent Residence Certificate.",
+      "urdu_question": "PRC کا کیا مطلب ہے؟",
+      "urdu_answer": "PRC کا مطلب ہے مستقل رہائش کا سرٹیفکیٹ۔"
+    },
+    {
+      "question": "What does DRO mean?",
+      "answer": "DRO is the District Registration Office.",
+      "urdu_question": "کیا DRO کا مطلب ہے؟",
+      "urdu_answer": "DRO ضلعی رجسٹریشن آفس ہے۔"
+    },
+    {
+      "question": "What does DGR mean?",
+      "answer": "DGR stands for Directorate General of Registration.",
+      "urdu_question": "DGR کا کیا مطلب ہے؟",
+      "urdu_answer": "ڈی جی آر کا مطلب ڈائریکٹوریٹ جنرل آف رجسٹریشن ہے۔"
+    },
+    {
+      "question": "What does NIS mean?",
+      "answer": "NIS is the National Identity System.",
+      "urdu_question": "کیا NIS کا مطلب ہے؟",
+      "urdu_answer": "NIS قومی شناختی نظام ہے۔"
+    },
+    {
+      "question": "What does FTRC mean?",
+      "answer": "FTRC stands for Fast Track Registration Center.",
+      "urdu_question": "FTRC کا کیا مطلب ہے؟",
+      "urdu_answer": "FTRC کا مطلب ہے فاسٹ ٹریک رجسٹریشن سینٹر۔"
+    },
+    {
+      "question": "What does RTS mean?",
+      "answer": "RTS is the Registration Tracking System.",
+      "urdu_question": "RTS کا کیا مطلب ہے؟",
+      "urdu_answer": "RTS رجسٹریشن ٹریکنگ سسٹم ہے۔"
+    },
+    {
+      "question": "What does AFIS mean?",
+      "answer": "AFIS stands for Automated Fingerprint Identification System.",
+      "urdu_question": "کیا AFIS کا مطلب ہے؟",
+      "urdu_answer": "AFIS کا مطلب خودکار فنگر پرنٹ شناختی نظام ہے۔"
+    },
+    {
+      "question": "What are the registration laws given by the Federal Government?",
+      "answer": "National Identity Card (NIC) Rules – Registration Policy, Pakistan Origin Card (POC) Rules 2022, Registration of Foreigners Rules 2021, and Letter of Administration and Succession Certificate Rules 2021.",
+      "urdu_question": "وفاقی حکومت کی طرف سے دیے گئے رجسٹریشن قوانین کیا ہیں؟",
+      "urdu_answer": "قومی شناختی کارڈ (NIC) کے قواعد - رجسٹریشن پالیسی، پاکستان اوریجن کارڈ (POC) رولز 2022، غیر ملکیوں کی رجسٹریشن کے قواعد 2021، اور لیٹر آف ایڈمنسٹریشن اینڈ سکشن سرٹیفکیٹ رولز 2021۔"
+    },
+    {
+      "question": "Which regulations does the NADRA Authority Board make?",
+      "answer": "NADRA regulations include NIC Regulations 2002 and NADRA Employees Service Regulations 2002, covering issuance procedures, data management and security protocols.",
+      "urdu_question": "نادرا اتھارٹی بورڈ کون سے ضابطے بناتا ہے؟",
+      "urdu_answer": "نادرا کے ضوابط میں این آئی سی ریگولیشنز 2002 اور نادرا ایمپلائز سروس ریگولیشنز 2002 شامل ہیں، جس میں جاری کرنے کے طریقہ کار، ڈیٹا مینجمنٹ اور سیکیورٹی پروٹوکول شامل ہیں۔"
+    },
+    {
+      "question": "Which policies does the NADRA Authority Board make?",
+      "answer": "Policies include Registration Policy 5.0.3‑2022, Rejection Handling Policy 2.0.0‑2022, Identity Card Verification, Cancellation and Revocation Policy 4.0.4‑2019, User Management Policy 4.0.0‑2023, Disposal of Identity Card/Application Form Papers Policy 4.0.0‑2024, Information Security Policy 2.1‑2021, and Cyber Security Guide Book DEO‑2024.",
+      "urdu_question": "نادرا اتھارٹی بورڈ کون سی پالیسیاں بناتا ہے؟",
+      "urdu_answer": "پالیسیوں میں رجسٹریشن کی پالیسی 5.0.3‑2022، مسترد ہونے سے نمٹنے کی پالیسی 2.0.0‑2022، شناختی کارڈ کی تصدیق، منسوخی اور منسوخی کی پالیسی 4.0.4‑2019، صارف کے انتظام کی پالیسی 4.0.0‑2019 کے لیے کارپوریشن/2020 کے لیے کارپوریشن کی پالیسی پیپرز پالیسی 4.0.0‑2024، انفارمیشن سیکیورٹی پالیسی 2.1‑2021، اور سائبر سیکیورٹی گائیڈ بک DEO‑2024۔"
+    },
+    {
+      "question": "What is the NADRA Ordinance 2000?",
+      "answer": "The NADRA Ordinance 2000 provides the legal basis for NADRA’s establishment, objectives, structure and operational framework, including database maintenance and issuance of identity documents.",
+      "urdu_question": "نادرا آرڈیننس 2000 کیا ہے؟",
+      "urdu_answer": "نادرا آرڈیننس 2000 نادرا کے قیام، مقاصد، ڈھانچے اور آپریشنل فریم ورک کے لیے قانونی بنیاد فراہم کرتا ہے، بشمول ڈیٹا بیس کی دیکھ بھال اور شناختی دستاویزات کا اجرا۔"
+    },
+    {
+      "question": "What is stated in Section 18 of the NADRA Ordinance 2000?",
+      "answer": "Section 18 empowers NADRA to cancel or confiscate identity cards.",
+      "urdu_question": "نادرا آرڈیننس 2000 کے سیکشن 18 میں کیا کہا گیا ہے؟",
+      "urdu_answer": "سیکشن 18 نادرا کو شناختی کارڈ منسوخ یا ضبط کرنے کا اختیار دیتا ہے۔"
+    },
+    {
+      "question": "What is stated in Section 23 of the NADRA Ordinance 2000?",
+      "answer": "Section 23 empowers NADRA employees to summon any person to verify information provided.",
+      "urdu_question": "نادرا آرڈیننس 2000 کے سیکشن 23 میں کیا کہا گیا ہے؟",
+      "urdu_answer": "سیکشن 23 نادرا کے ملازمین کو فراہم کردہ معلومات کی تصدیق کے لیے کسی بھی شخص کو طلب کرنے کا اختیار دیتا ہے۔"
+    },
+    {
+      "question": "What is stated in Section 28 of the NADRA Ordinance 2000?",
+      "answer": "Section 28 deals with unauthorized disclosure of NADRA information or creation of fake ID cards. Violations can lead to imprisonment up to 5 years and a fine of ten lakh rupees.",
+      "urdu_question": "نادرا آرڈیننس 2000 کے سیکشن 28 میں کیا کہا گیا ہے؟",
+      "urdu_answer": "سیکشن 28 نادرا کی معلومات کے غیر مجاز انکشاف یا جعلی شناختی کارڈ بنانے سے متعلق ہے۔ خلاف ورزی پر 5 سال قید اور دس لاکھ روپے جرمانہ ہو سکتا ہے۔"
+    },
+    {
+      "question": "What is stated in Section 29 of the NADRA Ordinance 2000?",
+      "answer": "Section 29 concerns data security and confidentiality. Violations can result in imprisonment up to 14 years and a fine of ten lakh rupees or more.",
+      "urdu_question": "نادرا آرڈیننس 2000 کے سیکشن 29 میں کیا کہا گیا ہے؟",
+      "urdu_answer": "سیکشن 29 ڈیٹا کی حفاظت اور رازداری سے متعلق ہے۔ خلاف ورزی پر 14 سال تک قید اور دس لاکھ روپے یا اس سے زیادہ جرمانہ ہو سکتا ہے۔"
+    },
+    {
+      "question": "What are the penalties under sections 28 and 30(2)(g) for misconduct/corruption?",
+      "answer": "Imprisonment up to 5 years and a fine of one million rupees for misuse of Authority assets, fraud, embezzlement, or any act causing loss/damage to NADRA.",
+      "urdu_question": "بدعنوانی/بدعنوانی کے لیے سیکشن 28 اور 30(2)(g) کے تحت کیا سزائیں ہیں؟",
+      "urdu_answer": "اتھارٹی کے اثاثوں کے غلط استعمال، دھوکہ دہی، غبن، یا نادرا کو نقصان پہنچانے والے کسی عمل پر 5 سال تک قید اور 10 لاکھ روپے جرمانہ۔"
+    },
+    {
+      "question": "What offenses can lead to imprisonment up to five years and a fine under sections 28 and 30(2)(g)?",
+      "answer": "Misuse/damage of Authority assets for personal gain, fraud, misappropriation, or embezzlement of NADRA funds or assets.",
+      "urdu_question": "سیکشن 28 اور 30(2)(جی) کے تحت کون سے جرائم میں پانچ سال تک قید اور جرمانہ ہو سکتا ہے؟",
+      "urdu_answer": "ذاتی فائدے کے لیے اتھارٹی کے اثاثوں کا غلط استعمال/نقصان، فراڈ، غلط استعمال، یا نادرا کے فنڈز یا اثاثوں کا غبن۔"
+    },
+    {
+      "question": "What are the penalties under section 29 for negligence or damaging NADRA data?",
+      "answer": "Imprisonment up to 14 years and a fine of one million rupees (or more) for negligence in protecting the database, attempting to damage the system, tampering with data, or assisting unauthorized access.",
+      "urdu_question": "غفلت یا نادرا ڈیٹا کو نقصان پہنچانے پر سیکشن 29 کے تحت کیا سزائیں ہیں؟",
+      "urdu_answer": "ڈیٹا بیس کی حفاظت میں لاپرواہی، سسٹم کو نقصان پہنچانے کی کوشش، ڈیٹا کے ساتھ چھیڑ چھاڑ، یا غیر مجاز رسائی میں مدد کرنے پر 14 سال تک قید اور 10 لاکھ روپے (یا اس سے زیادہ) جرمانہ۔"
+    },
+    {
+      "question": "What offenses are covered under section 29 penalties?",
+      "answer": "Negligence protecting NADRA data, attempts to damage or tamper with the database, and assisting unauthorized persons to access the database.",
+      "urdu_question": "سیکشن 29 کے تحت کون سے جرائم کا احاطہ کیا گیا ہے؟",
+      "urdu_answer": "نادرا کے ڈیٹا کی حفاظت میں لاپرواہی، ڈیٹا بیس کو نقصان پہنچانے یا اس کے ساتھ چھیڑ چھاڑ کرنے کی کوشش، اور ڈیٹا بیس تک رسائی میں غیر مجاز افراد کی مدد کرنا۔"
+    },
+    {
+      "question": "What are the penalties under section 30 for obtaining multiple IDs or providing false information?",
+      "answer": "Imprisonment up to 6 months and a fine of fifty thousand rupees for obtaining more than one ID card, giving false information, willfully damaging an ID card, violating section 17, not applying for an ID within 90 days of turning 18, or breaching any NADRA Ordinance rules.",
+      "urdu_question": "ایک سے زیادہ IDs حاصل کرنے یا غلط معلومات فراہم کرنے پر سیکشن 30 کے تحت کیا سزائیں ہیں؟",
+      "urdu_answer": "ایک سے زائد شناختی کارڈ حاصل کرنے، غلط معلومات دینے، جان بوجھ کر شناختی کارڈ کو نقصان پہنچانے، سیکشن 17 کی خلاف ورزی کرنے، 18 سال کے ہونے کے 90 دن کے اندر شناختی کارڈ کے لیے درخواست نہ دینے یا نادرا آرڈیننس کے قوانین کی خلاف ورزی پر 6 ماہ تک قید اور پچاس ہزار روپے جرمانہ ہو گا۔"
+    },
+    {
+      "question": "What offenses are covered under section 30 penalties?",
+      "answer": "Obtaining or attempting to obtain more than one ID, providing false information, willfully damaging/altering an ID, violating section 17, failing to apply for an ID within 90 days after age 18, and any breach of NADRA regulations.",
+      "urdu_question": "سیکشن 30 کے تحت کون سے جرائم کا احاطہ کیا گیا ہے؟",
+      "urdu_answer": "ایک سے زیادہ آئی ڈی حاصل کرنا یا حاصل کرنے کی کوشش کرنا، غلط معلومات فراہم کرنا، کسی آئی ڈی کو جان بوجھ کر نقصان پہنچانا/تبدیل کرنا، سیکشن 17 کی خلاف ورزی کرنا، 18 سال کی عمر کے بعد 90 دنوں کے اندر کسی ID کے لیے درخواست دینے میں ناکام ہونا، اور نادرا کے ضوابط کی خلاف ورزی۔"
+    },
+    {
+      "question": "What are the penalties under section 30 for forgery and related offenses?",
+      "answer": "Imprisonment up to 5 years and a fine of one hundred thousand rupees for offenses such as obtaining a forged ID, possessing/using a forged ID, making/using forging equipment, unlawfully possessing another’s ID, providing false information, or obstructing an officer. Repeated offenses may double the punishment and may lead to termination for employees.",
+      "urdu_question": "جعلسازی اور متعلقہ جرائم کی دفعہ 30 کے تحت کیا سزائیں ہیں؟",
+      "urdu_answer": "جعلی شناختی کارڈ حاصل کرنے، جعلی شناختی کارڈ رکھنے/استعمال کرنے، جعلی سازوسامان بنانے/استعمال کرنے، غیر قانونی طور پر کسی دوسرے کی شناخت رکھنے، غلط معلومات فراہم کرنے یا کسی افسر میں رکاوٹ ڈالنے جیسے جرائم پر 5 سال تک قید اور ایک لاکھ روپے جرمانہ ہو سکتا ہے۔ بار بار ہونے والے جرم سزا کو دوگنا کر سکتے ہیں اور ملازمین کے لیے برطرفی کا باعث بن سکتے ہیں۔"
+    },
+    {
+      "question": "What offenses are covered under the forgery‑related section 30 penalties?",
+      "answer": "Obtaining a forged ID, possessing/using a forged ID, making or using forging equipment, unlawfully possessing someone else’s ID, willfully giving false information, and obstructing an officer in the discharge of duties.",
+      "urdu_question": "جعلسازی سے متعلق سیکشن 30 کے تحت کن جرائم کا احاطہ کیا گیا ہے؟",
+      "urdu_answer": "جعلی آئی ڈی حاصل کرنا، جعلی آئی ڈی رکھنا/استعمال کرنا، جعلی سازوسامان بنانا یا استعمال کرنا، غیر قانونی طور پر کسی اور کی شناخت رکھنا، جان بوجھ کر غلط معلومات دینا، اور کسی افسر کو فرائض کی انجام دہی میں رکاوٹ ڈالنا۔"
+    },
+    {
+      "question": "What laws are applicable to NADRA employees?",
+      "answer": "NADRA Employees Service Regulations (NESR) 2002 are applicable.",
+      "urdu_question": "نادرا ملازمین پر کون سے قوانین لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا ایمپلائز سروس ریگولیشنز (NESR) 2002 لاگو ہیں۔"
+    },
+    {
+      "question": "Who is a NADRA employee?",
+      "answer": "A NADRA employee is any person employed by NADRA.",
+      "urdu_question": "نادرا کا ملازم کون ہے؟",
+      "urdu_answer": "نادرا کا ملازم وہ شخص ہوتا ہے جو نادرا کے ذریعے ملازم ہوتا ہے۔"
+    },
+    {
+      "question": "What are the rules for NADRA employees?",
+      "answer": "Industrial and Commercial Employment Ordinance 1964 and Factories Act 1973.",
+      "urdu_question": "نادرا ملازمین کے لیے کیا قوانین ہیں؟",
+      "urdu_answer": "انڈسٹریل اینڈ کمرشل ایمپلائمنٹ آرڈیننس 1964 اور فیکٹریز ایکٹ 1973۔"
+    },
+    {
+      "question": "What is the probation period for an employee?",
+      "answer": "The probation period is one year.",
+      "urdu_question": "ایک ملازم کے لیے پروبیشن کی مدت کیا ہے؟",
+      "urdu_answer": "پروبیشن کی مدت ایک سال ہے۔"
+    },
+    {
+      "question": "How is work and performance evaluated in NADRA?",
+      "answer": "Through Annual Appraisal Report (AAR), yearly performance, Key Performance Indicators (KPIs), and disciplinary record.",
+      "urdu_question": "نادرا میں کام اور کارکردگی کا جائزہ کیسے لیا جاتا ہے؟",
+      "urdu_answer": "سالانہ تشخیصی رپورٹ (AAR)، سالانہ کارکردگی، کلیدی کارکردگی کے اشارے (KPIs)، اور تادیبی ریکارڈ کے ذریعے۔"
+    },
+    {
+      "question": "What is the retirement age?",
+      "answer": "The retirement age for NADRA employees is 60 years.",
+      "urdu_question": "ریٹائرمنٹ کی عمر کیا ہے؟",
+      "urdu_answer": "نادرا ملازمین کی ریٹائرمنٹ کی عمر 60 سال ہے۔"
+    },
+    {
+      "question": "What do you understand by resignation and dismissal?",
+      "answer": "Resignation is a voluntary departure; dismissal is termination by the Authority as per NESR‑2002 (see clauses 5, 6, 7, 9).",
+      "urdu_question": "استعفیٰ اور برطرفی کو آپ کیا سمجھتے ہیں؟",
+      "urdu_answer": "استعفیٰ ایک رضاکارانہ رخصتی ہے۔ برطرفی NESR-2002 کے مطابق اتھارٹی کی طرف سے برطرفی ہے (شقات 5, 6, 7, 9 دیکھیں)۔"
+    },
+    {
+      "question": "What is the selection criteria for DEO?",
+      "answer": "Intermediate (FA/FSc/ICS) or equivalent, computer‑literate, minimum typing speed 30 wpm, and one year relevant experience.",
+      "urdu_question": "ڈی ای او کے انتخاب کا معیار کیا ہے؟",
+      "urdu_answer": "انٹرمیڈیٹ (FA/FSc/ICS) یا مساوی، کمپیوٹر خواندہ، کم از کم ٹائپنگ اسپیڈ 30 wpm، اور ایک سال کا متعلقہ تجربہ۔"
+    },
+    {
+      "question": "What are the responsibilities of DEO?",
+      "answer": "Receive and scrutinize applications, ensure data accuracy, report suspicious activity, provide quality service, maintain confidentiality, guide applicants, maintain workstation discipline, and perform any other task assigned by management.",
+      "urdu_question": "ڈی ای او کی ذمہ داریاں کیا ہیں؟",
+      "urdu_answer": "درخواستیں وصول کریں اور ان کی جانچ کریں، ڈیٹا کی درستگی کو یقینی بنائیں، مشکوک سرگرمی کی اطلاع دیں، معیاری سروس فراہم کریں، رازداری برقرار رکھیں، درخواست دہندگان کی رہنمائی کریں، ورک سٹیشن کے نظم و ضبط کو برقرار رکھیں، اور انتظامیہ کی طرف سے تفویض کردہ کوئی اور کام انجام دیں۔"
+    },
+    {
+      "question": "How does a DEO log in to the ERP system?",
+      "answer": "The DEO uses the provided User ID and Password after approval from the authorized officer, accessing the system through the NADRA network.",
+      "urdu_question": "DEO ERP سسٹم میں کیسے لاگ ان ہوتا ہے؟",
+      "urdu_answer": "ڈی ای او فراہم کردہ یوزر آئی ڈی اور پاس ورڈ کو مجاز افسر سے منظوری کے بعد استعمال کرتا ہے، نادرا نیٹ ورک کے ذریعے سسٹم تک رسائی حاصل کرتا ہے۔"
+    },
+    {
+      "question": "How does a DEO log in to the User Management System (UMS)?",
+      "answer": "The DEO uses the provided User ID and Password, accesses the NADRA network, and must present a Trusted Service Token (TST) for authentication.",
+      "urdu_question": "DEO یوزر مینجمنٹ سسٹم (UMS) میں کیسے لاگ ان ہوتا ہے؟",
+      "urdu_answer": "ڈی ای او فراہم کردہ یوزر آئی ڈی اور پاس ورڈ استعمال کرتا ہے، نادرا نیٹ ورک تک رسائی حاصل کرتا ہے، اور تصدیق کے لیے ٹرسٹڈ سروس ٹوکن (TST) پیش کرنا ضروری ہے۔"
+    },
+    {
+      "question": "What types of identity documents are issued by NADRA?",
+      "answer": "Child Registration Certificate (CRC), SCNIC/CNIC, Smart National Identity Card for Overseas Pakistanis (SNICOP), Juvenile Card, Smart Pakistan Origin Card (SPOC), Family Registration Certificate (FRC), and others such as Cancellation due to Death and Succession Certificate.",
+      "urdu_question": "نادرا کی طرف سے کس قسم کی شناختی دستاویزات جاری کی جاتی ہیں؟",
+      "urdu_answer": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC)، SCNIC/CNIC، سمارٹ قومی شناختی کارڈ برائے سمندر پار پاکستانی (SNICOP)، جووینائل کارڈ، اسمارٹ پاکستان اوریجن کارڈ (SPOC)، فیملی رجسٹریشن سرٹیفکیٹ (FRC)، اور دیگر جیسے موت اور جانشینی کے سرٹیفکیٹ کی وجہ سے منسوخی"
+    },
+    {
+      "question": "What is a Child Registration Certificate (CRC)?",
+      "answer": "CRC is an identity document for children under 18 years that provides a unique identity number.",
+      "urdu_question": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کیا ہے؟",
+      "urdu_answer": "CRC 18 سال سے کم عمر بچوں کے لیے ایک شناختی دستاویز ہے جو ایک منفرد شناختی نمبر فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What are CBRC and MRC?",
+      "answer": "CBRC is a Computerized Birth Registration Certificate issued via the Union Council/CRMS; MRC is a Manual Birth Certificate issued manually.",
+      "urdu_question": "CBRC اور MRC کیا ہیں؟",
+      "urdu_answer": "CBRC ایک کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ ہے جو یونین کونسل/CRMS کے ذریعے جاری کیا جاتا ہے۔ MRC دستی طور پر جاری کردہ پیدائشی سرٹیفکیٹ ہے۔"
+    },
+    {
+      "question": "Who is eligible for CRC?",
+      "answer": "Children under 18 whose parents are Pakistani citizens or children of CNIC/SNICOP/POC holders.",
+      "urdu_question": "سی آر سی کے لیے کون اہل ہے؟",
+      "urdu_answer": "18 سال سے کم عمر کے بچے جن کے والدین پاکستانی شہری ہیں یا CNIC/SNICOP/POC ہولڈرز کے بچے ہیں۔"
+    },
+    {
+      "question": "What are the required documents for CRC?",
+      "answer": "Photocopy of parents'/guardian's CNIC/SNICOP/POC and either a Computerized Birth Registration Certificate (CBRC) or a Manual Birth Certificate (MRC).",
+      "urdu_question": "CRC کے لیے مطلوبہ دستاویزات کیا ہیں؟",
+      "urdu_answer": "والدین/سرپرست کے CNIC/SNICOP/POC کی فوٹو کاپی اور یا تو کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ (CBRC) یا دستی برتھ سرٹیفکیٹ (MRC)۔"
+    },
+    {
+      "question": "What is the validity of CRC?",
+      "answer": "Valid until the child reaches 18 years, after which they become eligible for a CNIC.",
+      "urdu_question": "CRC کی درستگی کیا ہے؟",
+      "urdu_answer": "جب تک بچہ 18 سال کا نہ ہو جائے، اس کے بعد وہ CNIC کے اہل ہو جاتے ہیں۔"
+    },
+    {
+      "question": "How long does it take to process a CRC application?",
+      "answer": "Usually 7–10 working days.",
+      "urdu_question": "CRC درخواست پر کارروائی کرنے میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "عام طور پر 7-10 کام کے دن۔"
+    },
+    {
+      "question": "What is the DEO's role in CRC processing?",
+      "answer": "Verify applicant and parents' information, collect supporting documents, ensure correct data entry, guide any modifications, and attest the form.",
+      "urdu_question": "CRC پروسیسنگ میں DEO کا کیا کردار ہے؟",
+      "urdu_answer": "درخواست دہندگان اور والدین کی معلومات کی تصدیق کریں، معاون دستاویزات جمع کریں، درست ڈیٹا انٹری کو یقینی بنائیں، کسی بھی ترمیم کی رہنمائی کریں، اور فارم کی تصدیق کریں۔"
+    },
+    {
+      "question": "Scenario: Ahmad wants to apply for his son's CRC but the birth certificate is not computerized. What should be done?",
+      "answer": "Ahmad should be guided to obtain a Computerized Birth Registration Certificate (CBRC) from the Union Council before the CRC application can be processed.",
+      "urdu_question": "منظر نامہ: احمد اپنے بیٹے کے CRC کے لیے درخواست دینا چاہتا ہے لیکن پیدائش کا سرٹیفکیٹ کمپیوٹرائزڈ نہیں ہے۔ کیا کرنا چاہیے؟",
+      "urdu_answer": "احمد کو یونین کونسل سے کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ (CBRC) حاصل کرنے کے لیے رہنمائی کی جانی چاہیے اس سے پہلے کہ CRC کی درخواست پر کارروائی کی جا سکے۔"
+    },
+    {
+      "question": "Scenario: Zainab wants to apply for her daughter's CRC and only the husband's CNIC is available. Is the mother's CNIC also required?",
+      "answer": "Yes. Photocopies of both parents' CNICs are generally required for a CRC application.",
+      "urdu_question": "منظر نامہ: زینب اپنی بیٹی کے CRC کے لیے درخواست دینا چاہتی ہے اور صرف شوہر کا CNIC دستیاب ہے۔ کیا ماں کا شناختی کارڈ بھی ضروری ہے؟",
+      "urdu_answer": "جی ہاں CRC درخواست کے لیے عام طور پر والدین دونوں کے CNICs کی فوٹو کاپیاں درکار ہوتی ہیں۔"
+    },
+    {
+      "question": "Scenario: Akram's son's mother’s CNIC shows her previous husband's name. Is the updated CNIC required?",
+      "answer": "The mother’s CNIC must be updated with the current husband's name before the CRC can be processed.",
+      "urdu_question": "منظر نامہ: اکرم کے بیٹے کی والدہ کا شناختی کارڈ اس کے سابقہ شوہر کا نام دکھاتا ہے۔ کیا اپ ڈیٹ شدہ CNIC درکار ہے؟",
+      "urdu_answer": "CRC پر کارروائی کرنے سے پہلے ماں کا CNIC موجودہ شوہر کے نام کے ساتھ اپ ڈیٹ کرنا ضروری ہے۔"
+    },
+    {
+      "question": "Scenario: Yasir’s wife holds a POC. Can Yasir apply for his son’s CRC?",
+      "answer": "Yes. Yasir can apply by providing his CNIC and his wife’s POC along with other required documents.",
+      "urdu_question": "منظر نامہ: یاسر کی بیوی کے پاس پی او سی ہے۔ کیا یاسر اپنے بیٹے کے CRC کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "جی ہاں یاسر اپنا CNIC اور اپنی بیوی کا POC اور دیگر مطلوبہ دستاویزات فراہم کرکے درخواست دے سکتا ہے۔"
+    },
+    {
+      "question": "Scenario: If a father is Pakistani and the mother is a foreign national holding a POC, can the mother’s POC be recorded in the CRC?",
+      "answer": "Yes, the mother’s POC details will be recorded in the CRC.",
+      "urdu_question": "منظر نامہ: اگر باپ پاکستانی ہے اور ماں غیر ملکی شہری ہے جس کے پاس POC ہے تو کیا ماں کا POC CRC میں درج کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، ماں کی POC کی تفصیلات CRC میں درج کی جائیں گی۔"
+    },
+    {
+      "question": "Scenario: Yasin’s wife is deceased. What documents are required for the CRC application?",
+      "answer": "Yasin must provide his CNIC, his son’s birth certificate, and his wife’s death certificate issued by the appropriate authority.",
+      "urdu_question": "منظر نامہ: یاسین کی بیوی فوت ہو چکی ہے۔ CRC درخواست کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "یاسین کو اپنا CNIC، اپنے بیٹے کا پیدائشی سرٹیفکیٹ، اور اپنی بیوی کا ڈیتھ سرٹیفکیٹ فراہم کرنا چاہیے جو مناسب اتھارٹی کی طرف سے جاری کیا گیا ہو۔"
+    },
+    {
+      "question": "Scenario: A child is over 18 and parents have CNICs. Can the child still apply for a CRC?",
+      "answer": "No. CRC is only for individuals under 18; the person should apply for a CNIC/SNIC instead.",
+      "urdu_question": "منظر نامہ: ایک بچہ 18 سال سے زیادہ ہے اور والدین کے پاس CNIC ہیں۔ کیا بچہ اب بھی CRC کے لیے درخواست دے سکتا ہے؟",
+      "urdu_answer": "نمبر CRC صرف 18 سال سے کم عمر افراد کے لیے ہے۔ اس شخص کو اس کی بجائے CNIC/SNIC کے لیے درخواست دینی چاہیے۔"
+    },
+    {
+      "question": "Scenario: Parents are NICOP holders living abroad. Can they apply for their child’s CRC?",
+      "answer": "Yes, they can apply by providing their NICOPs and the child’s foreign birth certificate.",
+      "urdu_question": "منظر نامہ: والدین بیرون ملک مقیم NICOP ہولڈر ہیں۔ کیا وہ اپنے بچے کے CRC کے لیے درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، وہ اپنے NICOPs اور بچے کا غیر ملکی پیدائش کا سرٹیفکیٹ فراہم کرکے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "Scenario: A guardian wants to apply for a CRC for a child whose parents are deceased. What is required?",
+      "answer": "The guardian must provide their CNIC, the child’s birth certificate, death certificates of both parents, and a guardianship certificate issued by a competent court.",
+      "urdu_question": "منظر نامہ: ایک سرپرست اس بچے کے لیے CRC کے لیے درخواست دینا چاہتا ہے جس کے والدین فوت ہو چکے ہیں۔ کیا ضرورت ہے؟",
+      "urdu_answer": "سرپرست کو اپنا CNIC، بچے کا پیدائشی سرٹیفکیٹ، والدین دونوں کے موت کا سرٹیفکیٹ، اور ایک مجاز عدالت کی طرف سے جاری کردہ سرپرستی کا سرٹیفکیٹ فراہم کرنا چاہیے۔"
+    },
+    {
+      "question": "What is CNIC?",
+      "answer": "CNIC stands for Computerized National Identity Card, the basic identity document for Pakistani citizens.",
+      "urdu_question": "CNIC کیا ہے؟",
+      "urdu_answer": "CNIC کا مطلب ہے کمپیوٹرائزڈ قومی شناختی کارڈ، پاکستانی شہریوں کے لیے بنیادی شناختی دستاویز۔"
+    },
+    {
+      "question": "What is SCNIC?",
+      "answer": "SCNIC stands for Smart Computerized National Identity Card, a chip‑based ID with enhanced security features.",
+      "urdu_question": "SCNIC کیا ہے؟",
+      "urdu_answer": "SCNIC کا مطلب ہے Smart Computerized National Identity Card، ایک چپ پر مبنی ID جس میں سیکیورٹی کی بہتر خصوصیات ہیں۔"
+    },
+    {
+      "question": "What is MNIC?",
+      "answer": "MNIC stands for Manual National Identity Card, previously issued by District Registration Offices before computerization.",
+      "urdu_question": "MNIC کیا ہے؟",
+      "urdu_answer": "MNIC کا مطلب دستی قومی شناختی کارڈ ہے، جو کمپیوٹرائزیشن سے پہلے ڈسٹرکٹ رجسٹریشن دفاتر کے ذریعے جاری کیا جاتا تھا۔"
+    },
+    {
+      "question": "Who is eligible for SCNIC/CNIC?",
+      "answer": "Any Pakistani citizen who is 18 years or older.",
+      "urdu_question": "SCNIC/CNIC کے لیے کون اہل ہے؟",
+      "urdu_answer": "کوئی بھی پاکستانی شہری جس کی عمر 18 سال یا اس سے زیادہ ہو۔"
+    },
+    {
+      "question": "What are the required documents for applying for SCNIC/CNIC?",
+      "answer": "Parent's CNIC, CRC (if already held), birth/school/matriculation certificate, and attestation of CNICF by a blood relative or public representative.",
+      "urdu_question": "SCNIC/CNIC کے لیے درخواست دینے کے لیے درکار دستاویزات کیا ہیں؟",
+      "urdu_answer": "والدین کا CNIC، CRC (اگر پہلے سے موجود ہے)، پیدائش/اسکول/میٹرک کا سرٹیفکیٹ، اور خون کے رشتہ دار یا عوامی نمائندے سے CNICF کی تصدیق۔"
+    },
+    {
+      "question": "What documents are required if the applicant does not have a CRC?",
+      "answer": "Parent's CNIC, applicant's particulars form, and attestation of CNICF. For married females, husband's CNIC and Nikkah Nama are also required.",
+      "urdu_question": "اگر درخواست گزار کے پاس CRC نہیں ہے تو کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "والدین کا CNIC، درخواست گزار کی تفصیلات کا فارم، اور CNICF کی تصدیق۔ شادی شدہ خواتین کے لیے شوہر کا شناختی کارڈ اور نکاح نامہ بھی ضروری ہے۔"
+    },
+    {
+      "question": "What documents are required if the applicant is an orphan?",
+      "answer": "Applicant's particulars form, parent’s CNIC (or death certificates), birth/school/SSC/domicile, and attestation of CNICF. For a married orphan, include Nikkah Nama and guardian’s CNIC and birth certificate.",
+      "urdu_question": "اگر درخواست گزار یتیم ہے تو کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درخواست دہندہ کی تفصیلات کا فارم، والدین کا CNIC (یا موت کا سرٹیفکیٹ)، پیدائش/اسکول/SSC/ڈومیسائل، اور CNICF کی تصدیق۔ شادی شدہ یتیم کے لیے، نکاح نامہ اور سرپرست کا CNIC اور پیدائش کا سرٹیفکیٹ شامل کریں۔"
+    },
+    {
+      "question": "Scenario: Yamin needs to provide proof of date of birth for SCNIC/CNIC. What is required?",
+      "answer": "Yamin should provide an attested copy of his birth certificate or another document such as a matriculation certificate.",
+      "urdu_question": "منظر نامہ: یامین کو SCNIC/CNIC کے لیے تاریخ پیدائش کا ثبوت فراہم کرنے کی ضرورت ہے۔ کیا ضرورت ہے؟",
+      "urdu_answer": "یامین کو اپنے برتھ سرٹیفکیٹ کی تصدیق شدہ کاپی یا میٹرک سرٹیفکیٹ جیسی کوئی اور دستاویز فراہم کرنی چاہیے۔"
+    },
+    {
+      "question": "Scenario: Usman's father's CNIC contains his previous wife's name. Is this acceptable?",
+      "answer": "No. The father's CNIC must be updated to show the current spouse’s name before proceeding.",
+      "urdu_question": "منظر نامہ: عثمان کے والد کے CNIC میں ان کی سابقہ بیوی کا نام ہے۔ کیا یہ قابل قبول ہے؟",
+      "urdu_answer": "نہیں۔ آگے بڑھنے سے پہلے موجودہ شریک حیات کا نام ظاہر کرنے کے لیے والد کا CNIC اپ ڈیٹ کرنا ضروری ہے۔"
+    },
+    {
+      "question": "Scenario: Farooq’s father's CNIC is blocked. What should he do?",
+      "answer": "His father must get the CNIC unblocked at a NADRA office; only then can Farooq apply using the valid CNIC copy.",
+      "urdu_question": "منظر نامہ: فاروق کے والد کا شناختی کارڈ بلاک ہے۔ وہ کیا کرے؟",
+      "urdu_answer": "اس کے والد کو نادرا کے دفتر میں CNIC ان بلاک کروانا ضروری ہے۔ تب ہی فاروق درست CNIC کاپی کا استعمال کرتے ہوئے درخواست دے سکتا ہے۔"
+    },
+    {
+      "question": "Scenario: Zoya’s mother holds a POC. Can Zoya apply for an ID card?",
+      "answer": "Yes. Zoya should provide her father’s CNIC and her mother’s POC copy.",
+      "urdu_question": "منظر نامہ: زویا کی والدہ کے پاس پی او سی ہے۔ کیا زویا شناختی کارڈ کے لیے درخواست دے سکتی ہے؟",
+      "urdu_answer": "جی ہاں زویا کو اپنے والد کا CNIC اور اپنی ماں کی POC کاپی فراہم کرنی چاہیے۔"
+    },
+    {
+      "question": "Scenario: Aslam’s parents are divorced and he lives with his mother. Whose CNIC should he provide?",
+      "answer": "Aslam should provide his birth certificate and his mother’s CNIC; a divorce decree or custody order may also be required.",
+      "urdu_question": "منظر نامہ: اسلم کے والدین میں طلاق ہو چکی ہے اور وہ اپنی ماں کے ساتھ رہتا ہے۔ وہ کس کا CNIC فراہم کرے؟",
+      "urdu_answer": "اسلم کو اپنا پیدائشی سرٹیفکیٹ اور اپنی والدہ کا شناختی کارڈ فراہم کرنا چاہیے۔ طلاق کا حکم نامہ یا تحویل کا حکم بھی درکار ہو سکتا ہے۔"
+    },
+    {
+      "question": "Scenario: Which blood relatives can attest for a Non‑Resident Pakistani applying for SCNIC/CNIC?",
+      "answer": "The applicant will be guided by the NADRA center officer; typically a close blood relative such as a parent, sibling, or spouse can attest, subject to verification procedures for NR applicants.",
+      "urdu_question": "منظر نامہ: خون کے کون سے رشتہ دار SCNIC/CNIC کے لیے درخواست دینے والے غیر مقیم پاکستانی کی تصدیق کر سکتے ہیں؟",
+      "urdu_answer": "درخواست دہندہ کی رہنمائی نادرا سینٹر کے افسر کریں گے۔ عام طور پر خون کے قریبی رشتہ دار جیسے کہ والدین، بہن بھائی، یا شریک حیات تصدیق کر سکتے ہیں، NR درخواست دہندگان کے لیے تصدیقی طریقہ کار کے تحت۔"
+    },
+    {
+      "question": "Scenario: Which blood relatives can attest for an applicant who already holds a CRC?",
+      "answer": "The applicant’s parents or other eligible blood relatives as defined by NADRA policy can attest the form.",
+      "urdu_question": "منظر نامہ: خون کے کون سے رشتہ دار ایک درخواست دہندہ کے لیے تصدیق کر سکتے ہیں جس کے پاس پہلے سے ہی CRC ہے؟",
+      "urdu_answer": "درخواست دہندہ کے والدین یا دیگر اہل خون کے رشتہ دار جیسا کہ نادرا کی پالیسی میں بیان کیا گیا ہے فارم کی تصدیق کر سکتے ہیں۔"
+    },
+    {
+      "question": "Scenario: Naeem wants to modify his ID card. What documents are required?",
+      "answer": "Naeem must provide supporting documents specific to the modification requested (e.g., name change, address change, etc.).",
+      "urdu_question": "منظر نامہ: نعیم اپنے شناختی کارڈ میں ترمیم کرنا چاہتا ہے۔ کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "نعیم کو مطلوبہ ترمیم کے لیے مخصوص معاون دستاویزات فراہم کرنا ہوں گی (مثلاً نام کی تبدیلی، پتہ کی تبدیلی وغیرہ)۔"
+    },
+    {
+      "question": "What is SNICOP?",
+      "answer": "SNICOP is the Smart National Identity Card for Overseas Pakistanis, issued to Pakistani citizens or dual nationals living abroad, facilitating visa‑free entry to Pakistan.",
+      "urdu_question": "SNICOP کیا ہے؟",
+      "urdu_answer": "SNICOP سمندر پار پاکستانیوں کے لیے اسمارٹ قومی شناختی کارڈ ہے، جو پاکستانی شہریوں یا بیرون ملک مقیم دوہری شہریوں کو جاری کیا جاتا ہے، پاکستان میں بغیر ویزا کے داخلے کی سہولت فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Which countries have dual nationality agreements with Pakistan?",
+      "answer": "United Kingdom, France, Italy, Belgium, Iceland, Australia, New Zealand, Canada, Finland, Egypt, Syria, Switzerland, Netherlands, United States, Sweden, Ireland, Bahrain, Jordan, Denmark, Norway, Germany.",
+      "urdu_question": "پاکستان کے ساتھ کن ممالک کے دوہری شہریت کے معاہدے ہیں؟",
+      "urdu_answer": "برطانیہ، فرانس، اٹلی، بیلجیم، آئس لینڈ، آسٹریلیا، نیوزی لینڈ، کینیڈا، فن لینڈ، مصر، شام، سوئٹزرلینڈ، نیدرلینڈز، امریکہ، سویڈن، آئرلینڈ، بحرین، اردن، ڈنمارک، ناروے، جرمنی۔"
+    },
+    {
+      "question": "What is a Juvenile Card?",
+      "answer": "A Juvenile Card is an identity document for children under 18 that contains their biometric data; it is issued to children aged 10 years or older who already have a CRC and whose parents hold CNICs.",
+      "urdu_question": "جوینائل کارڈ کیا ہے؟",
+      "urdu_answer": "جووینائل کارڈ 18 سال سے کم عمر بچوں کے لیے ایک شناختی دستاویز ہے جس میں ان کا بائیو میٹرک ڈیٹا ہوتا ہے۔ یہ 10 سال یا اس سے زیادہ عمر کے بچوں کو جاری کیا جاتا ہے جن کے پاس پہلے سے ہی CRC ہے اور جن کے والدین CNIC رکھتے ہیں۔"
+    },
+    {
+      "question": "Can a Juvenile Card be issued to a child aged 14?",
+      "answer": "A child aged 14 can apply for a CNIC; a Juvenile Card is generally issued for children aged 10‑18 who opt for it.",
+      "urdu_question": "کیا 14 سال کی عمر کے بچے کو جووینائل کارڈ جاری کیا جا سکتا ہے؟",
+      "urdu_answer": "14 سال کا بچہ CNIC کے لیے درخواست دے سکتا ہے۔ جووینائل کارڈ عام طور پر 10-18 سال کی عمر کے بچوں کے لیے جاری کیا جاتا ہے جو اس کا انتخاب کرتے ہیں۔"
+    },
+    {
+      "question": "What is POC/SPOC?",
+      "answer": "POC/SPOC stands for Pakistan Origin Card / Smart Pakistan Origin Card, a document for individuals of Pakistani origin or foreign spouses of Pakistani citizens. It provides visa‑free entry but does not confer citizenship.",
+      "urdu_question": "POC/SPOC کیا ہے؟",
+      "urdu_answer": "POC/SPOC کا مطلب ہے پاکستان اوریجن کارڈ / اسمارٹ پاکستان اوریجن کارڈ، پاکستانی نژاد افراد یا پاکستانی شہریوں کے غیر ملکی میاں بیوی کے لیے ایک دستاویز۔ یہ ویزا فری داخلہ فراہم کرتا ہے لیکن شہریت نہیں دیتا۔"
+    },
+    {
+      "question": "Who is eligible for POC/SPOC?",
+      "answer": "Former Pakistani citizens, persons whose parents or grandparents were Pakistani citizens, foreign spouses of Pakistani citizens, and individuals with Pakistani blood relations.",
+      "urdu_question": "POC/SPOC کے لیے کون اہل ہے؟",
+      "urdu_answer": "سابق پاکستانی شہری، وہ افراد جن کے والدین یا دادا دادی پاکستانی شہری تھے، پاکستانی شہریوں کے غیر ملکی شریک حیات، اور پاکستانی خون کے رشتے والے افراد۔"
+    },
+    {
+      "question": "Who is not eligible for POC/SPOC?",
+      "answer": "Applicants whose parents/grandparents belong to countries such as India, Israel, Bangladesh, Taiwan, etc., or who hold nationality of those specified countries.",
+      "urdu_question": "کون POC/SPOC کے لیے اہل نہیں ہے؟",
+      "urdu_answer": "درخواست دہندگان جن کے والدین/دادا دادی کا تعلق ہندوستان، اسرائیل، بنگلہ دیش، تائیوان وغیرہ جیسے ممالک سے ہے، یا جن کے پاس ان مخصوص ممالک کی قومیت ہے۔"
+    },
+    {
+      "question": "What is required to apply for POC/SPOC?",
+      "answer": "Valid foreign passport, proof of Pakistani origin (old Pakistani passport or parents’/grandparents’ identity documents), marriage certificate (if applying as a spouse), photographs, and any other supporting documents as per the case.",
+      "urdu_question": "POC/SPOC کے لیے درخواست دینے کے لیے کیا ضروری ہے؟",
+      "urdu_answer": "درست غیر ملکی پاسپورٹ، پاکستانی نژاد کا ثبوت (پرانا پاکستانی پاسپورٹ یا والدین/دادا دادی کی شناختی دستاویزات)، نکاح نامہ (اگر شریک حیات کے طور پر درخواست دے رہے ہوں)، تصاویر، اور کیس کے مطابق کوئی دیگر معاون دستاویزات۔"
+    },
+    {
+      "question": "What is the renewal requirement for POC/SPOC documents?",
+      "answer": "The foreign passport must be valid for at least six months at the time of renewal.",
+      "urdu_question": "POC/SPOC دستاویزات کے لیے تجدید کی ضرورت کیا ہے؟",
+      "urdu_answer": "غیر ملکی پاسپورٹ کی تجدید کے وقت کم از کم چھ ماہ کے لیے درست ہونا ضروری ہے۔"
+    },
+    {
+      "question": "Is an affidavit required from Pakistani parents if their child applies for POC/SPOC from abroad?",
+      "answer": "Yes, if the child is on the B‑list (countries with restricted visa policies), an affidavit from the parents confirming Pakistani origin and consent is required.",
+      "urdu_question": "کیا پاکستانی والدین سے حلف نامہ درکار ہے اگر ان کا بچہ بیرون ملک سے POC/SPOC کے لیے درخواست دیتا ہے؟",
+      "urdu_answer": "ہاں، اگر بچہ بی لسٹ (ممنوعہ ویزا پالیسیوں والے ممالک) میں ہے، تو والدین کی جانب سے پاکستانی نژاد اور رضامندی کی تصدیق کرنے والا حلف نامہ درکار ہے۔"
+    },
+    {
+      "question": "What are the cancellation reasons for POC/SPOC?",
+      "answer": "Acquisition or resumption of Pakistani citizenship, divorce of a foreign spouse, issuance of Pakistani passport by IMPASS, death of the holder, or divorce of the holder.",
+      "urdu_question": "POC/SPOC کی منسوخی کی وجوہات کیا ہیں؟",
+      "urdu_answer": "پاکستانی شہریت کا حصول یا دوبارہ شروع کرنا، غیر ملکی شریک حیات کی طلاق، IMPASS کے ذریعے پاکستانی پاسپورٹ کا اجرا، حامل کی موت، یا ہولڈر کی طلاق۔"
+    },
+    {
+      "question": "Scenario: A foreign national woman married to a Pakistani man (NICOP holder) wants to apply for POC/SPOC. Her husband’s passport is also foreign. Can she apply?",
+      "answer": "Yes. She can apply by providing her marriage certificate and her husband’s NICOP/Pakistani ID as proof of his Pakistani nationality; the affidavit for Pakistani origin will be verified.",
+      "urdu_question": "منظر نامہ: ایک پاکستانی مرد (NICOP ہولڈر) سے شادی شدہ غیر ملکی خاتون POC/SPOC کے لیے درخواست دینا چاہتی ہے۔ ان کے شوہر کا پاسپورٹ بھی غیر ملکی ہے۔ کیا وہ اپلائی کر سکتی ہے؟",
+      "urdu_answer": "جی ہاں وہ اپنی پاکستانی شہریت کے ثبوت کے طور پر اپنا نکاح نامہ اور اپنے شوہر کی NICOP/پاکستانی ID فراہم کرکے درخواست دے سکتی ہے۔ پاکستانی نژاد کے حلف نامے کی تصدیق کی جائے گی۔"
+    },
+    {
+      "question": "Scenario: A German national whose parents hold NICOPs wants a POC/SPOC. Is this possible?",
+      "answer": "No. Since Germany has a dual nationality agreement, the applicant would be eligible for a NICOP/SNICOP rather than a POC/SPOC.",
+      "urdu_question": "منظر نامہ: ایک جرمن شہری جس کے والدین NICOPs رکھتے ہیں POC/SPOC چاہتے ہیں۔ کیا یہ ممکن ہے؟",
+      "urdu_answer": "نہیں۔ چونکہ جرمنی کا دوہری شہریت کا معاہدہ ہے، اس لیے درخواست دہندہ POC/SPOC کے بجائے NICOP/SNICOP کا اہل ہوگا۔"
+    },
+    {
+      "question": "Scenario: A person holding POC/SPOC and USA citizenship wants Pakistani citizenship. What should he do?",
+      "answer": "He must renounce his foreign (USA) citizenship through IMPASS and then apply for NICOP/SNICOP after obtaining Pakistani citizenship.",
+      "urdu_question": "منظر نامہ: POC/SPOC اور USA کی شہریت رکھنے والا شخص پاکستانی شہریت چاہتا ہے۔ وہ کیا کرے؟",
+      "urdu_answer": "اسے IMPASS کے ذریعے اپنی غیر ملکی (USA) شہریت کو ترک کرنا ہوگا اور پھر پاکستانی شہریت حاصل کرنے کے بعد NICOP/SNICOP کے لیے درخواست دینی ہوگی۔"
+    },
+    {
+      "question": "What are the types of FRC?",
+      "answer": "ALPHA (by birth, includes parents and siblings), BETA (by marriage, includes spouse and children), Combined (ALPHA + BETA), and GAMMA (for adopted children with adoptive parents).",
+      "urdu_question": "FRC کی اقسام کیا ہیں؟",
+      "urdu_answer": "ALPHA (پیدائش کے لحاظ سے، والدین اور بہن بھائی شامل ہیں)، BETA (شادی کے لحاظ سے، شریک حیات اور بچے شامل ہیں)، مشترکہ (ALPHA + BETA)، اور GAMMA (گود لینے والے والدین کے ساتھ گود لیے ہوئے بچوں کے لیے)۔"
+    },
+    {
+      "question": "Who can apply for FRC?",
+      "answer": "Any CNIC/NICOP/POC holder – including parents, spouse, son or daughter – can apply.",
+      "urdu_question": "FRC کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "کوئی بھی CNIC/NICOP/POC ہولڈر - بشمول والدین، شریک حیات، بیٹا یا بیٹی - درخواست دے سکتا ہے۔"
+    },
+    {
+      "question": "If a married daughter’s CNIC still shows her father’s name, can an FRC be issued with her husband’s details?",
+      "answer": "The daughter must first update her CNIC to reflect her marital status; only then can an FRC containing her husband’s details be issued.",
+      "urdu_question": "اگر شادی شدہ بیٹی کے CNIC میں اب بھی اس کے والد کا نام ظاہر ہوتا ہے تو کیا اس کے شوہر کی تفصیلات کے ساتھ FRC جاری کیا جا سکتا ہے؟",
+      "urdu_answer": "بیٹی کو اپنی ازدواجی حیثیت کو ظاہر کرنے کے لیے پہلے اپنا شناختی کارڈ اپ ڈیٹ کرنا ہوگا۔ اس کے بعد ہی اس کے شوہر کی تفصیلات پر مشتمل ایف آر سی جاری کی جا سکتی ہے۔"
+    },
+    {
+      "question": "If a child has a CRC but is over 18 and does not have a CNIC/NICOP, how will the FRC be processed?",
+      "answer": "The child must first obtain a CNIC/SNIC before the FRC application can be processed.",
+      "urdu_question": "اگر کسی بچے کے پاس CRC ہے لیکن وہ 18 سال سے زیادہ ہے اور اس کے پاس CNIC/NICOP نہیں ہے تو FRC پر کیسے کارروائی کی جائے گی؟",
+      "urdu_answer": "FRC درخواست پر کارروائی کرنے سے پہلے بچے کو پہلے CNIC/SNIC حاصل کرنا چاہیے۔"
+    },
+    {
+      "question": "What are the uses of FRC?",
+      "answer": "Visa processing, succession matters, foreign scholarships and any official purpose where proof of family composition is required.",
+      "urdu_question": "FRC کے کیا استعمال ہیں؟",
+      "urdu_answer": "ویزا پروسیسنگ، جانشینی کے معاملات، غیر ملکی اسکالرشپ اور کوئی بھی سرکاری مقصد جہاں خاندانی ساخت کا ثبوت درکار ہو۔"
+    },
+    {
+      "question": "Who can apply for Cancellation of ID Card due to Death (CD)?",
+      "answer": "A blood relative (parent, sibling, son, daughter, or spouse) of the deceased who provides their own CNIC can apply.",
+      "urdu_question": "موت (سی ڈی) کی وجہ سے شناختی کارڈ کی منسوخی کے لیے کون درخواست دے سکتا ہے؟",
+      "urdu_answer": "متوفی کا خون کا رشتہ دار (والدین، بہن بھائی، بیٹا، بیٹی، یا شریک حیات) جو اپنا CNIC فراہم کرتا ہے درخواست دے سکتا ہے۔"
+    },
+    {
+      "question": "What documents are required for Cancellation of ID Card due to Death?",
+      "answer": "Death Certificate issued by Union Council, Hospital or Cantonment Board.",
+      "urdu_question": "موت کی وجہ سے شناختی کارڈ کی منسوخی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "یونین کونسل، ہسپتال یا کنٹونمنٹ بورڈ کی طرف سے جاری کردہ موت کا سرٹیفکیٹ۔"
+    },
+    {
+      "question": "What is the procedure if the informant relative is not available for Cancellation due to Death?",
+      "answer": "The authorized NADRA officer at the centre will guide the applicant on the alternative procedure.",
+      "urdu_question": "اگر اطلاع دینے والا رشتہ دار موت کی وجہ سے منسوخی کے لیے دستیاب نہ ہو تو کیا طریقہ کار ہے؟",
+      "urdu_answer": "مرکز میں نادرا کا مجاز افسر متبادل طریقہ کار پر درخواست گزار کی رہنمائی کرے گا۔"
+    },
+    {
+      "question": "What is a Succession Certificate?",
+      "answer": "Succession Certificate is issued to the legal successor(s) of a deceased person to facilitate inheritance or legal processes.",
+      "urdu_question": "جانشینی کا سرٹیفکیٹ کیا ہے؟",
+      "urdu_answer": "جانشینی کا سرٹیفکیٹ وراثت یا قانونی عمل میں سہولت فراہم کرنے کے لیے کسی متوفی کے قانونی جانشین کو جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is \"Deceased Estate\"?",
+      "answer": "The movable and immovable properties left by the deceased, to be distributed among legal heirs.",
+      "urdu_question": "\"متوفی اسٹیٹ\" کیا ہے؟",
+      "urdu_answer": "متوفی کی چھوڑی ہوئی منقولہ اور غیر منقولہ جائیدادیں قانونی ورثاء میں تقسیم کی جائیں۔"
+    },
+    {
+      "question": "What is a \"Decline\" of Succession Certificate?",
+      "answer": "A decline occurs when the application is rejected due to incomplete heir documents, disputes, missing heirs, or referral to a court.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کا \"انکار\" کیا ہے؟",
+      "urdu_answer": "کمی اس وقت ہوتی ہے جب درخواست نامکمل وارث کی دستاویزات، تنازعات، گمشدہ ورثاء، یا عدالت میں ریفرل کی وجہ سے مسترد کر دی جاتی ہے۔"
+    },
+    {
+      "question": "Who is eligible for a Succession Certificate?",
+      "answer": "Any CNIC/NICOP/POC holder who is a legal heir (son, daughter, widow, widower, parent) can apply through the Succession Facilitation Units.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کے لیے کون اہل ہے؟",
+      "urdu_answer": "کوئی بھی CNIC/NICOP/POC ہولڈر جو قانونی وارث ہے (بیٹا، بیٹی، بیوہ، بیوہ، والدین) جانشینی سہولت یونٹس کے ذریعے درخواست دے سکتا ہے۔"
+    },
+    {
+      "question": "What documents are required for a Succession Certificate?",
+      "answer": "Death certificate of the deceased, NADRA record of the deceased, death registration, FRC of the deceased, CNIC/NICOP/POC of the applicant and all legal heirs, affidavit (if required), details of assets, and for overseas heirs, attested affidavit from Pakistani mission or PAK‑ID mobile app verification.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "میت کا ڈیتھ سرٹیفکیٹ، میت کا نادرا ریکارڈ، ڈیتھ رجسٹریشن، متوفی کا ایف آر سی، درخواست دہندہ کا CNIC/NICOP/POC اور تمام قانونی ورثاء، حلف نامہ (اگر ضرورت ہو)، اثاثوں کی تفصیلات، اور بیرون ملک وارثوں کے لیے، پاکستانی مشن یا PAK‑ موبائل ایپ سے تصدیق شدہ حلف نامہ۔"
+    },
+    {
+      "question": "What are the Letters of Administration and Succession (Punjab) Rules?",
+      "answer": "Punjab Succession and Letter of Administration Rules 2020, Letter of Administration and Succession Certificate (Punjab Amendment) 2021, Succession Certificate/Letter of Administration/Inheritance/Mutation (Sindh Amendment) 2021, and similar amendments for KPK 2021, Balochistan 2021, ICT 2022 (to be read with NADRA Ordinance 2000).",
+      "urdu_question": "خطوط انتظامیہ اور جانشینی (پنجاب) کے قواعد کیا ہیں؟",
+      "urdu_answer": "پنجاب جانشینی اور لیٹر آف ایڈمنسٹریشن رولز 2020، لیٹر آف ایڈمنسٹریشن اینڈ سکسیشن سرٹیفکیٹ (پنجاب ترمیم) 2021، جانشینی کا سرٹیفکیٹ/ لیٹر آف ایڈمنسٹریشن/ وراثت/ میوٹیشن (سندھ ترمیم) 2021، اور اسی طرح کی ترامیم KP2020202021 بلوچستان کے لیے آئی سی ٹی 2022 (نادرا آرڈیننس 2000 کے ساتھ پڑھا جائے گا)۔"
+    },
+    {
+      "question": "Error 1 in the pre‑processing checklist: Incorrect data entry in NIS from application form.",
+      "answer": "DEOs must verify all entered data against the original applicant form before submission.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 1: درخواست فارم سے NIS میں ڈیٹا کا غلط اندراج۔",
+      "urdu_answer": "DEOs کو جمع کرانے سے پہلے اصل درخواست دہندہ کے فارم کے خلاف داخل کردہ تمام ڈیٹا کی تصدیق کرنی چاہیے۔"
+    },
+    {
+      "question": "Error 2 in the pre‑processing checklist: Incorrect entry of parent's ID card number in the system.",
+      "answer": "The DEO must double‑check the parent’s ID number with the original document before entering it.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 2: سسٹم میں والدین کے شناختی کارڈ نمبر کا غلط اندراج۔",
+      "urdu_answer": "DEO کو داخل کرنے سے پہلے اصل دستاویز کے ساتھ والدین کے شناختی نمبر کو دو بار چیک کرنا چاہیے۔"
+    },
+    {
+      "question": "Error 3 in the pre‑processing checklist: Incorrectly marking family members as deceased (in case of modification).",
+      "answer": "Only mark a family member as deceased if a valid death certificate is provided.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 3: خاندان کے ممبران کو میت کے طور پر غلط طریقے سے نشان زد کرنا (ترمیم کی صورت میں)۔",
+      "urdu_answer": "صرف خاندان کے کسی رکن کو متوفی کے طور پر نشان زد کریں اگر ایک درست موت کا سرٹیفکیٹ فراہم کیا گیا ہو۔"
+    },
+    {
+      "question": "Error 4 in the pre‑processing checklist: Incorrectly marking if applicant holds POC/NICOP.",
+      "answer": "Validate the applicant’s existing documents before marking POC/NICOP status.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 4: اگر درخواست دہندہ کے پاس POC/NICOP ہے تو غلط نشان لگانا۔",
+      "urdu_answer": "POC/NICOP اسٹیٹس کو نشان زد کرنے سے پہلے درخواست گزار کے موجودہ دستاویزات کی توثیق کریں۔"
+    },
+    {
+      "question": "Error 5 in the pre‑processing checklist: Incorrectly marking if parent's ID card is lost/valid in NADRA's database.",
+      "answer": "Confirm the status of the parent’s ID with NADRA before marking it lost or valid.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں نقص 5: نادرا کے ڈیٹا بیس میں والدین کا شناختی کارڈ گم/ درست ہونے پر غلط نشان لگانا۔",
+      "urdu_answer": "والدین کی شناخت کے گم یا درست ہونے کا نشان لگانے سے پہلے نادرا سے اس کی حیثیت کی تصدیق کریں۔"
+    },
+    {
+      "question": "Error 6 in the pre‑processing checklist: Incorrect attestation of parent's information in the application.",
+      "answer": "Ensure the attester’s CNIC matches the parent’s details and is correctly entered.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 6: درخواست میں والدین کی معلومات کی غلط تصدیق۔",
+      "urdu_answer": "یقینی بنائیں کہ تصدیق کنندہ کا CNIC والدین کی تفصیلات سے میل کھاتا ہے اور صحیح طریقے سے درج کیا گیا ہے۔"
+    },
+    {
+      "question": "Error 7 in the pre‑processing checklist: Incorrectly marking divorce status between parents or applicant's spouse.",
+      "answer": "Verify divorce certificates before marking divorce status.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 7: والدین یا درخواست گزار کے شریک حیات کے درمیان طلاق کی حیثیت کو غلط طریقے سے نشان زد کرنا۔",
+      "urdu_answer": "طلاق کی حیثیت کو نشان زد کرنے سے پہلے طلاق کے سرٹیفکیٹ کی تصدیق کریں۔"
+    },
+    {
+      "question": "Error 8 in the pre‑processing checklist: Incorrect attestation on the form regarding children's details for married applicants.",
+      "answer": "Check that children’s age and marital status are correctly reflected and attested.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 8: شادی شدہ درخواست دہندگان کے بچوں کی تفصیلات سے متعلق فارم پر غلط تصدیق۔",
+      "urdu_answer": "چیک کریں کہ بچوں کی عمر اور ازدواجی حیثیت درست طریقے سے ظاہر اور تصدیق شدہ ہے۔"
+    },
+    {
+      "question": "Error 9 in the pre‑processing checklist: Incorrectly entering CRMS data (CBRC) into NIS application form.",
+      "answer": "Cross‑verify CBRC details with the CRMS before entry.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 9: NIS درخواست فارم میں CRMS ڈیٹا (CBRC) کو غلط طریقے سے داخل کرنا۔",
+      "urdu_answer": "داخلے سے پہلے CRMS کے ساتھ CBRC تفصیلات کی تصدیق کریں۔"
+    },
+    {
+      "question": "Error 10 in the pre‑processing checklist: Issuance of foreign birth certificate in case of local birth.",
+      "answer": "Ensure a local (CBRC or MRC) birth certificate is used for locally born children.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 10: مقامی پیدائش کی صورت میں غیر ملکی پیدائش کا سرٹیفکیٹ جاری کرنا۔",
+      "urdu_answer": "یقینی بنائیں کہ مقامی (CBRC یا MRC) پیدائشی سرٹیفکیٹ مقامی طور پر پیدا ہونے والے بچوں کے لیے استعمال کیا گیا ہے۔"
+    },
+    {
+      "question": "Error 11 in the pre‑processing checklist: Marriage certificate not properly verified.",
+      "answer": "Validate the authenticity of the marriage certificate before acceptance.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 11: شادی کا سرٹیفکیٹ درست طریقے سے تصدیق شدہ نہیں ہے۔",
+      "urdu_answer": "قبولیت سے پہلے نکاح نامہ کی صداقت کی تصدیق کریں۔"
+    },
+    {
+      "question": "Error 12 in the pre‑processing checklist: Guardianship certificate not properly verified.",
+      "answer": "Confirm the guardianship certificate’s validity with the issuing authority.",
+      "urdu_question": "پری پروسیسنگ چیک لسٹ میں خرابی 12: سرپرستی کا سرٹیفکیٹ درست طریقے سے تصدیق شدہ نہیں ہے۔",
+      "urdu_answer": "جاری کرنے والے اتھارٹی کے ساتھ سرپرستی سرٹیفکیٹ کی درستگی کی تصدیق کریں۔"
+    },
+    {
+      "question": "Rejection error 1: Incorrect data entry in NIS from application form.",
+      "answer": "The system rejects the application due to data mismatch.",
+      "urdu_question": "مسترد کرنے کی غلطی 1: درخواست فارم سے NIS میں ڈیٹا کا غلط اندراج۔",
+      "urdu_answer": "ڈیٹا کی مماثلت کی وجہ سے سسٹم درخواست کو مسترد کر دیتا ہے۔"
+    },
+    {
+      "question": "Rejection error 2: Incorrect entry of parent's ID card number in the system.",
+      "answer": "The system rejects the application because the parent’s ID does not exist or is invalid.",
+      "urdu_question": "مسترد کرنے کی غلطی 2: سسٹم میں والدین کے شناختی کارڈ نمبر کا غلط اندراج۔",
+      "urdu_answer": "سسٹم درخواست کو مسترد کرتا ہے کیونکہ والدین کی شناخت موجود نہیں ہے یا غلط ہے۔"
+    },
+    {
+      "question": "Rejection error 3: Incorrectly marking family members as deceased (in case of modification).",
+      "answer": "The system flags the application if a POC/NICOP holder is incorrectly marked as deceased.",
+      "urdu_question": "مسترد کرنے کی غلطی 3: خاندان کے افراد کو میت کے طور پر غلط طریقے سے نشان زد کرنا (ترمیم کی صورت میں)۔",
+      "urdu_answer": "اگر POC/NICOP ہولڈر کو غلط طریقے سے متوفی کے طور پر نشان زد کیا گیا ہے تو سسٹم ایپلیکیشن کو جھنڈا لگاتا ہے۔"
+    },
+    {
+      "question": "Rejection error 4: Incorrectly marking if applicant holds POC/NICOP.",
+      "answer": "The application will be rejected if the status is entered incorrectly.",
+      "urdu_question": "مسترد کرنے کی غلطی 4: اگر درخواست گزار کے پاس POC/NICOP ہے تو غلط نشان لگانا۔",
+      "urdu_answer": "اگر اسٹیٹس غلط درج کیا گیا تو درخواست مسترد کر دی جائے گی۔"
+    },
+    {
+      "question": "Rejection error 5: Incorrectly marking if parent's ID card is lost/valid in NADRA's database.",
+      "answer": "The application is rejected because the parent’s CNIC is marked lost.",
+      "urdu_question": "مسترد ہونے کی غلطی 5: نادرا کے ڈیٹا بیس میں والدین کا شناختی کارڈ گم/ درست ہونے کی صورت میں غلط نشان لگانا۔",
+      "urdu_answer": "درخواست مسترد کر دی گئی ہے کیونکہ والدین کا CNIC گم ہو گیا ہے۔"
+    },
+    {
+      "question": "Rejection error 6: Incorrect attestation of parent's information in the application.",
+      "answer": "The system rejects the application due to an incorrect attester CNIC.",
+      "urdu_question": "مسترد کرنے کی غلطی 6: درخواست میں والدین کی معلومات کی غلط تصدیق۔",
+      "urdu_answer": "غلط تصدیق کنندہ CNIC کی وجہ سے سسٹم درخواست کو مسترد کر دیتا ہے۔"
+    },
+    {
+      "question": "Rejection error 7: Incorrectly marking divorce status between parents or applicant's spouse.",
+      "answer": "The system rejects the application because the divorce status is incorrect.",
+      "urdu_question": "مسترد کرنے کی غلطی 7: والدین یا درخواست گزار کے شریک حیات کے درمیان طلاق کی حیثیت کو غلط طریقے سے نشان زد کرنا۔",
+      "urdu_answer": "نظام درخواست کو مسترد کرتا ہے کیونکہ طلاق کی حیثیت غلط ہے۔"
+    },
+    {
+      "question": "Rejection error 8: Incorrect attestation on the form regarding children's details for married applicants.",
+      "answer": "The system rejects the application due to mismatched children’s details.",
+      "urdu_question": "مسترد کرنے کی غلطی 8: شادی شدہ درخواست دہندگان کے بچوں کی تفصیلات سے متعلق فارم پر غلط تصدیق۔",
+      "urdu_answer": "بچوں کی تفصیلات سے مماثل ہونے کی وجہ سے سسٹم درخواست کو مسترد کر دیتا ہے۔"
+    },
+    {
+      "question": "Rejection error 9: Incorrect attestation of marriage certificate.",
+      "answer": "The system rejects the application because the marriage certificate is not properly attested.",
+      "urdu_question": "مسترد ہونے کی غلطی 9: نکاح نامہ کی غلط تصدیق۔",
+      "urdu_answer": "سسٹم درخواست کو مسترد کر دیتا ہے کیونکہ نکاح نامہ درست طریقے سے تصدیق شدہ نہیں ہے۔"
+    },
+    {
+      "question": "Rejection error 10: Incorrect attestation of guardianship certificate.",
+      "answer": "The system rejects the application because the guardianship certificate is not properly attested.",
+      "urdu_question": "مسترد ہونے کی غلطی 10: سرپرستی کے سرٹیفکیٹ کی غلط تصدیق۔",
+      "urdu_answer": "نظام درخواست کو مسترد کرتا ہے کیونکہ سرپرستی کا سرٹیفکیٹ صحیح طریقے سے تصدیق شدہ نہیں ہے۔"
+    },
+    {
+      "question": "Objection 1: Data mismatch in the system – what is the solution?",
+      "answer": "Verify and correct the data in the application form, then submit for re‑processing.",
+      "urdu_question": "اعتراض 1: سسٹم میں ڈیٹا کی مماثلت - اس کا حل کیا ہے؟",
+      "urdu_answer": "درخواست فارم میں ڈیٹا کی توثیق کریں اور درست کریں، پھر دوبارہ کارروائی کے لیے جمع کرائیں۔"
+    },
+    {
+      "question": "Objection 2: Parent's ID card does not exist or is invalid – what is the solution?",
+      "answer": "Advise the applicant to provide a correct and valid parent's ID card.",
+      "urdu_question": "اعتراض 2: والدین کا شناختی کارڈ موجود نہیں ہے یا غلط ہے – اس کا حل کیا ہے؟",
+      "urdu_answer": "درخواست دہندہ کو صحیح اور درست والدین کا شناختی کارڈ فراہم کرنے کا مشورہ دیں۔"
+    },
+    {
+      "question": "Objection 3: Applicant already holds POC/NICOP – what is the solution?",
+      "answer": "Inform the applicant that a CRC cannot be applied for if they already hold a POC/NICOP.",
+      "urdu_question": "اعتراض 3: درخواست گزار کے پاس پہلے سے ہی POC/NICOP ہے – اس کا حل کیا ہے؟",
+      "urdu_answer": "درخواست دہندہ کو مطلع کریں کہ اگر وہ پہلے سے ہی POC/NICOP رکھتے ہیں تو CRC کے لیے درخواست نہیں دی جا سکتی۔"
+    },
+    {
+      "question": "Objection 4: Parent's CNIC is lost – what is the solution?",
+      "answer": "Tell the applicant that the parent should first apply for a duplicate CNIC.",
+      "urdu_question": "اعتراض 4: والدین کا شناختی کارڈ کھو گیا ہے - اس کا حل کیا ہے؟",
+      "urdu_answer": "درخواست دہندہ کو بتائیں کہ والدین کو پہلے ڈپلیکیٹ CNIC کے لیے درخواست دینی چاہیے۔"
+    },
+    {
+      "question": "Objection 5: Attester's details (CNIC of parent/spouse) are incorrect – what is the solution?",
+      "answer": "Advise the applicant to have the form re‑attested with the correct CNIC details.",
+      "urdu_question": "اعتراض 5: تصدیق کنندہ کی تفصیلات (والدین / شریک حیات کا CNIC) غلط ہیں - اس کا حل کیا ہے؟",
+      "urdu_answer": "درخواست دہندہ کو مشورہ دیں کہ وہ فارم کی درست CNIC تفصیلات کے ساتھ دوبارہ تصدیق کرے۔"
+    },
+    {
+      "question": "Objection 6: Divorce status of parents/spouse is incorrect – what is the solution?",
+      "answer": "Ask the applicant to provide the correct divorce certificate for verification.",
+      "urdu_question": "اعتراض 6: والدین/شریک حیات کی طلاق کی حیثیت غلط ہے - اس کا حل کیا ہے؟",
+      "urdu_answer": "تصدیق کے لیے درخواست دہندہ سے طلاق کا صحیح سرٹیفکیٹ فراہم کرنے کو کہیں۔"
+    },
+    {
+      "question": "Objection 7: Twin Flag raised by the system – what is the solution?",
+      "answer": "Refer the case to the Zonal Verification Officer.",
+      "urdu_question": "اعتراض 7: نظام کی طرف سے اٹھائے گئے جڑواں پرچم – اس کا حل کیا ہے؟",
+      "urdu_answer": "کیس کو زونل ویریفیکیشن آفیسر کے پاس بھیجیں۔"
+    },
+    {
+      "question": "What is the monitoring procedure at the NRC level?",
+      "answer": "The OIC monitors DEO performance daily, reviews applications for accuracy, completeness and policy adherence, provides feedback and ensures proper data capture, scanning and verification before final submission.",
+      "urdu_question": "NRC کی سطح پر نگرانی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "OIC روزانہ ڈی ای او کی کارکردگی کی نگرانی کرتا ہے، درستگی، مکمل اور پالیسی کی پابندی کے لیے درخواستوں کا جائزہ لیتا ہے، فیڈ بیک فراہم کرتا ہے اور حتمی جمع کرانے سے پہلے مناسب ڈیٹا کیپچر، اسکیننگ اور تصدیق کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What is the monitoring procedure at the Zonal level?",
+      "answer": "The Zonal office conducts periodic and surprise inspections of NRCs, reviews DEO logs and processed applications, and checks adherence to SOPs and operational efficiency.",
+      "urdu_question": "زونل سطح پر نگرانی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "زونل آفس NRCs کا وقتاً فوقتاً اور حیران کن معائنہ کرتا ہے، DEO لاگز اور پراسیس شدہ درخواستوں کا جائزہ لیتا ہے، اور SOPs کی تعمیل اور آپریشنل کارکردگی کی جانچ کرتا ہے۔"
+    },
+    {
+      "question": "What is the monitoring procedure at the RHO level?",
+      "answer": "The Regional Head Office oversees all NRCs in its region via regular reports, feedback from Zonal offices, and may conduct audits and inspections through M&E teams.",
+      "urdu_question": "RHO کی سطح پر نگرانی کا طریقہ کار کیا ہے؟",
+      "urdu_answer": "علاقائی ہیڈ آفس اپنے علاقے میں تمام NRCs کی باقاعدہ رپورٹس، زونل دفاتر کے تاثرات کے ذریعے نگرانی کرتا ہے، اور M&E ٹیموں کے ذریعے آڈٹ اور معائنہ کر سکتا ہے۔"
+    },
+    {
+      "question": "What guidance is provided for DEO in NRC?",
+      "answer": "The guidebook serves as the primary reference, the system provides built‑in validations and prompts, and Zonal officers offer additional guidance and support.",
+      "urdu_question": "این آر سی میں ڈی ای او کے لیے کیا رہنمائی فراہم کی گئی ہے؟",
+      "urdu_answer": "گائیڈ بک بنیادی حوالہ کے طور پر کام کرتی ہے، نظام بلٹ ان توثیق اور اشارے فراہم کرتا ہے، اور زونل افسران اضافی رہنمائی اور تعاون پیش کرتے ہیں۔"
+    },
+    {
+      "question": "Why is it important to follow Data Security Guidelines?",
+      "answer": "To ensure data confidentiality, integrity, protection against cyber threats, and compliance with NADRA policies.",
+      "urdu_question": "ڈیٹا سیکیورٹی کے رہنما خطوط پر عمل کرنا کیوں ضروری ہے؟",
+      "urdu_answer": "ڈیٹا کی رازداری، سالمیت، سائبر خطرات سے تحفظ اور نادرا کی پالیسیوں کی تعمیل کو یقینی بنانے کے لیے۔"
+    },
+    {
+      "question": "What are the consequences of violating Data Security Policy?",
+      "answer": "Disciplinary action against the employee, including penalties outlined in Chapter 2 of the policy.",
+      "urdu_question": "ڈیٹا سیکیورٹی پالیسی کی خلاف ورزی کے کیا نتائج ہیں؟",
+      "urdu_answer": "پالیسی کے باب 2 میں بیان کردہ جرمانے سمیت ملازم کے خلاف تادیبی کارروائی۔"
+    },
+    {
+      "question": "What are the potential cyber threats?",
+      "answer": "Unauthorized system access, phishing attacks, malware/viruses, use of unauthorized USB drives, data leakage, and zero‑day threats.",
+      "urdu_question": "ممکنہ سائبر خطرات کیا ہیں؟",
+      "urdu_answer": "غیر مجاز سسٹم تک رسائی، فشنگ حملے، میلویئر/وائرس، غیر مجاز USB ڈرائیوز کا استعمال، ڈیٹا کا لیکیج، اور صفر دن کے خطرات۔"
+    },
+    {
+      "question": "What are the key points of Data Security Policy for DEO?",
+      "answer": "Maintain data confidentiality, adhere to information security and data‑protection policies, treat data as a valuable asset, never share passwords, change passwords regularly, log in with personal ID only, lock the system when not in use, and do not share login credentials.",
+      "urdu_question": "ڈی ای او کے لیے ڈیٹا سیکیورٹی پالیسی کے اہم نکات کیا ہیں؟",
+      "urdu_answer": "ڈیٹا کی رازداری کو برقرار رکھیں، معلومات کی حفاظت اور ڈیٹا کے تحفظ کی پالیسیوں پر عمل کریں، ڈیٹا کو ایک قیمتی اثاثہ سمجھیں، کبھی بھی پاس ورڈز کا اشتراک نہ کریں، پاس ورڈز کو باقاعدگی سے تبدیل کریں، صرف ذاتی ID کے ساتھ لاگ ان کریں، استعمال میں نہ ہونے پر سسٹم کو لاک کریں، اور لاگ ان کی اسناد کا اشتراک نہ کریں۔"
+    },
+    {
+      "question": "What is the purpose of OneApp?",
+      "answer": "To improve the efficiency of all Fast Track Registration Center (FTRC) processes.",
+      "urdu_question": "OneApp کا مقصد کیا ہے؟",
+      "urdu_answer": "تمام فاسٹ ٹریک رجسٹریشن سینٹر (FTRC) کے عمل کی کارکردگی کو بہتر بنانے کے لیے۔"
+    },
+    {
+      "question": "What are the features of OneApp?",
+      "answer": "Offline mode, integration with CRMS birth‑registration data, online applicant data verification, performance‑monitoring dashboard, application tracking, quality‑control checks, distant biometric verification, and integration with other NADRA systems.",
+      "urdu_question": "OneApp کی خصوصیات کیا ہیں؟",
+      "urdu_answer": "آف لائن موڈ، CRMS پیدائشی رجسٹریشن ڈیٹا کے ساتھ انضمام، آن لائن درخواست دہندگان کے ڈیٹا کی تصدیق، کارکردگی کی نگرانی کرنے والا ڈیش بورڈ، ایپلیکیشن ٹریکنگ، کوالٹی کنٹرول چیک، دور دراز کی بایومیٹرک تصدیق، اور نادرا کے دوسرے سسٹمز کے ساتھ انضمام۔"
+    },
+    {
+      "question": "What are the essential points of Applicant Handling for DEOs?",
+      "answer": "Greet applicants respectfully, listen carefully, maintain professionalism, handle emotional/agitated applicants patiently, avoid unnecessary delays, provide clear information, give priority to special‑needs applicants, keep a clean workstation, follow dress code, be polite, refer complex issues to the center in‑charge, and avoid distractions like mobile phones.",
+      "urdu_question": "DEOs کے لیے درخواست دہندگان کی ہینڈلنگ کے ضروری نکات کیا ہیں؟",
+      "urdu_answer": "درخواست دہندگان کا احترام کے ساتھ استقبال کریں، توجہ سے سنیں، پیشہ ورانہ مہارت کو برقرار رکھیں، جذباتی/ مشتعل درخواست دہندگان کو صبر سے ہینڈل کریں، غیر ضروری تاخیر سے گریز کریں، واضح معلومات فراہم کریں، خصوصی ضرورتوں کے درخواست دہندگان کو ترجیح دیں، ورک سٹیشن کو صاف رکھیں، ڈریس کوڈ کی پیروی کریں، شائستہ رہیں، پیچیدہ مسائل کو سنٹر انچارج سے رجوع کریں، اور موبائل فون جیسے خلفشار سے بچیں۔"
+    },
+    {
+      "question": "What are the common errors during data entry by DEO?",
+      "answer": "Spelling mistakes, wrong date of birth, incorrect address, wrong attestation, poor scanning, wrong CNIC numbers, blurry photographs, incorrect parent names, and wrong FTRC token number entry.",
+      "urdu_question": "ڈی ای او کے ذریعہ ڈیٹا انٹری کے دوران عام غلطیاں کیا ہیں؟",
+      "urdu_answer": "املا کی غلطیاں، غلط تاریخ پیدائش، غلط پتہ، غلط تصدیق، ناقص سکیننگ، غلط CNIC نمبر، دھندلی تصویریں، غلط والدین کے نام، اور غلط FTRC ٹوکن نمبر کا اندراج۔"
+    },
+    {
+      "question": "What are the DO'S for DEOs?",
+      "answer": "Change system password regularly, maintain confidentiality of data, adhere to information security and data‑protection policies, and secure the workstation.",
+      "urdu_question": "ڈی ای اوز کے لیے کیا کیا ہیں؟",
+      "urdu_answer": "سسٹم کا پاس ورڈ باقاعدگی سے تبدیل کریں، ڈیٹا کی رازداری کو برقرار رکھیں، معلومات کی حفاظت اور ڈیٹا کے تحفظ کی پالیسیوں پر عمل کریں، اور ورک سٹیشن کو محفوظ بنائیں۔"
+    },
+    {
+      "question": "What are the DON'TS for DEOs?",
+      "answer": "Do not share official email or system credentials, do not use them on untrusted networks, do not leave the system unlocked, do not use easily guessable passwords, do not click suspicious links, and do not use unauthorized software/applications.",
+      "urdu_question": "ڈی ای اوز کے لیے کیا کرنا نہیں ہے؟",
+      "urdu_answer": "سرکاری ای میل یا سسٹم کی اسناد کا اشتراک نہ کریں، انہیں ناقابل اعتماد نیٹ ورکس پر استعمال نہ کریں، سسٹم کو کھلا نہ چھوڑیں، آسانی سے اندازہ لگانے والے پاس ورڈ استعمال نہ کریں، مشکوک لنکس پر کلک نہ کریں، اور غیر مجاز سافٹ ویئر/ایپلی کیشنز کا استعمال نہ کریں۔"
+    }
+  ]
+}

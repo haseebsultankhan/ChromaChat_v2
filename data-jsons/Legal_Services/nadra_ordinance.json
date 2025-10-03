@@ -1,0 +1,649 @@
+{
+  "file_name": "nadra_ordinance.json",
+  "domain": "Legal_Services",
+  "total_qa_pairs": 140,
+  "qa_data": [
+    {
+      "question": "What is the NADRA Ordinance 2000?",
+      "answer": "The National Database and Registration Authority Ordinance, 2000 (Ordinance No. VIII of 2000) is the foundational legal document that established NADRA to facilitate registration of all persons and the establishment and maintenance of multipurpose databases, data warehouses, networking, interfacing of databases and related facilities.",
+      "urdu_question": "نادرا آرڈیننس 2000 کیا ہے؟",
+      "urdu_answer": "نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی آرڈیننس، 2000 (آرڈیننس نمبر VIII آف 2000) ایک بنیادی قانونی دستاویز ہے جس نے تمام افراد کی رجسٹریشن اور کثیر مقصدی ڈیٹا بیس، ڈیٹا گودام، نیٹ ورکنگ، ڈیٹا بیس کی انٹرفیسنگ اور متعلقہ سہولیات کے قیام اور دیکھ بھال کے لیے نادرا کا قیام عمل میں لایا۔"
+    },
+    {
+      "question": "When did the NADRA Ordinance come into force?",
+      "answer": "The NADRA Ordinance came into force on 10th March, 2000, and was effective immediately upon promulgation.",
+      "urdu_question": "نادرا آرڈیننس کب سے نافذ ہوا؟",
+      "urdu_answer": "نادرا آرڈیننس 10 مارچ 2000 کو نافذ ہوا اور اس کے نفاذ کے فوراً بعد نافذ العمل ہوگیا۔"
+    },
+    {
+      "question": "What is the territorial extent of the NADRA Ordinance?",
+      "answer": "The NADRA Ordinance extends to the whole of Pakistan, including applications to FATA and Northern Areas as per subsequent notifications.",
+      "urdu_question": "نادرا آرڈیننس کی علاقائی حد کتنی ہے؟",
+      "urdu_answer": "نادرا آرڈیننس پورے پاکستان تک پھیلا ہوا ہے، جس میں فاٹا اور شمالی علاقہ جات کی درخواستیں بھی شامل ہیں۔"
+    },
+    {
+      "question": "What law did the NADRA Ordinance repeal?",
+      "answer": "The NADRA Ordinance repealed the National Registration Act, 1973 (LVI of 1973), though rights, liabilities, and actions under the old Act continue under the new Ordinance if not inconsistent.",
+      "urdu_question": "نادرا آرڈیننس نے کس قانون کو منسوخ کیا؟",
+      "urdu_answer": "نادرا آرڈیننس نے نیشنل رجسٹریشن ایکٹ 1973 (LVI of 1973) کو منسوخ کر دیا، حالانکہ پرانے ایکٹ کے تحت حقوق، ذمہ داریاں اور کارروائیاں نئے آرڈیننس کے تحت جاری رہتی ہیں اگر متضاد نہ ہوں۔"
+    },
+    {
+      "question": "What is the primary purpose of establishing NADRA according to the Ordinance?",
+      "answer": "The primary purpose is to formulate and implement policies for developing an improved and modernized registration system, broadening the registration base to include all persons and things, and establishing multipurpose databases, data warehousing, networking, and interfacing facilities.",
+      "urdu_question": "آرڈیننس کے مطابق نادرا کے قیام کا بنیادی مقصد کیا ہے؟",
+      "urdu_answer": "بنیادی مقصد ایک بہتر اور جدید رجسٹریشن کے نظام کو تیار کرنے کے لیے پالیسیاں بنانا اور ان پر عمل درآمد کرنا، تمام افراد اور چیزوں کو شامل کرنے کے لیے رجسٹریشن کی بنیاد کو وسیع کرنا، اور کثیر مقصدی ڈیٹا بیس، ڈیٹا ویئر ہاؤسنگ، نیٹ ورکنگ، اور انٹرفیسنگ کی سہولیات کا قیام ہے۔"
+    },
+    {
+      "question": "How is NADRA defined in the Ordinance?",
+      "answer": "NADRA is defined as 'the National Database and Registration Authority established under section 3' of the Ordinance, functioning as an autonomous body with specific powers and functions.",
+      "urdu_question": "آرڈیننس میں نادرا کی تعریف کیسے کی گئی ہے؟",
+      "urdu_answer": "نادرا کی تعریف آرڈیننس کے سیکشن 3 کے تحت قائم کردہ نیشنل ڈیٹا بیس اور رجسٹریشن اتھارٹی کے طور پر کی گئی ہے، جو مخصوص اختیارات اور افعال کے ساتھ ایک خود مختار ادارے کے طور پر کام کر رہی ہے۔"
+    },
+    {
+      "question": "What is meant by 'citizen' in the NADRA Ordinance?",
+      "answer": "A 'citizen' means a person who is, or is deemed to be a citizen of Pakistan, under the Pakistan Citizenship Act, 1951 (II of 1951).",
+      "urdu_question": "نادرا آرڈیننس میں 'شہری' سے کیا مراد ہے؟",
+      "urdu_answer": "'شہری' کا مطلب ہے وہ شخص جو پاکستان سٹیزن شپ ایکٹ 1951 (II of 1951) کے تحت پاکستان کا شہری ہے، یا سمجھا جاتا ہے۔"
+    },
+    {
+      "question": "How does the Ordinance define 'foreigner'?",
+      "answer": "A 'foreigner' is defined as a person who is not a citizen of Pakistan.",
+      "urdu_question": "آرڈیننس 'غیر ملکی' کی تعریف کیسے کرتا ہے؟",
+      "urdu_answer": "ایک 'غیر ملکی' کی تعریف ایک ایسے شخص سے ہوتی ہے جو پاکستان کا شہری نہیں ہے۔"
+    },
+    {
+      "question": "What are 'Registration Officers' according to the Ordinance?",
+      "answer": "Registration Officers include the Director General, Director, Deputy Director, Assistant Director, District Registrar, Registrar, or Inspector, appointed under section 35, and include any person to whom powers are delegated.",
+      "urdu_question": "آرڈیننس کے مطابق 'رجسٹریشن آفیسرز' کیا ہیں؟",
+      "urdu_answer": "رجسٹریشن افسران میں ڈائریکٹر جنرل، ڈائریکٹر، ڈپٹی ڈائریکٹر، اسسٹنٹ ڈائریکٹر، ڈسٹرکٹ رجسٹرار، رجسٹرار، یا انسپکٹر شامل ہیں، جو سیکشن 35 کے تحت مقرر کیے گئے ہیں، اور اس میں کوئی بھی ایسا شخص شامل ہے جسے اختیارات تفویض کیے گئے ہیں۔"
+    },
+    {
+      "question": "What powers does NADRA have regarding registration systems?",
+      "answer": "NADRA may develop and maintain registration systems, automated or otherwise, for any class of persons wherever they may be (including citizens, foreigners, emigrants) and for any class of things, in the prescribed manner.",
+      "urdu_question": "رجسٹریشن سسٹم کے حوالے سے نادرا کے پاس کیا اختیارات ہیں؟",
+      "urdu_answer": "نادرا رجسٹریشن سسٹم تیار اور برقرار رکھ سکتا ہے، خودکار یا دوسری صورت میں، کسی بھی طبقے کے افراد کے لیے جہاں وہ ہوں (بشمول شہری، غیر ملکی، تارکین وطن) اور کسی بھی طبقے کے لیے، مقررہ طریقے سے۔"
+    },
+    {
+      "question": "What types of cards can NADRA issue according to the Ordinance?",
+      "answer": "NADRA can issue National Identity Cards, Pakistan Origin Cards, Overseas Identity Cards (NICOP), and Alien Registration Cards to prescribed classes of persons who have registered in the prescribed manner.",
+      "urdu_question": "آرڈیننس کے مطابق نادرا کس قسم کے کارڈ جاری کر سکتا ہے؟",
+      "urdu_answer": "نادرا قومی شناختی کارڈز، پاکستان اوریجن کارڈز، اوورسیز شناختی کارڈز (این آئی سی او پی) اور ایلین رجسٹریشن کارڈز ان لوگوں کو جاری کر سکتا ہے جنہوں نے مقررہ طریقے سے رجسٹریشن کرائی ہے۔"
+    },
+    {
+      "question": "What are NADRA's obligations regarding data security?",
+      "answer": "NADRA must ensure and provide by regulations for due security, secrecy and necessary safeguards for protection and confidentiality of data and information contained in registration and database systems, including databases, data warehouses and networking infrastructure.",
+      "urdu_question": "ڈیٹا سیکیورٹی کے حوالے سے نادرا کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "نادرا کو رجسٹریشن اور ڈیٹا بیس سسٹمز بشمول ڈیٹا بیس، ڈیٹا ویئر ہاؤسز اور نیٹ ورکنگ انفراسٹرکچر میں موجود ڈیٹا اور معلومات کے تحفظ اور رازداری کے لیے ضروری تحفظات، رازداری اور ضروری تحفظات کے لیے ضوابط کو یقینی بنانا اور فراہم کرنا چاہیے۔"
+    },
+    {
+      "question": "What reporting obligations does NADRA have?",
+      "answer": "NADRA must prepare and submit annual reports to the Federal Government by January 31st each year regarding its performance, exercise of functions and powers, achievements, and the state of registration and database systems in the country.",
+      "urdu_question": "نادرا کی رپورٹنگ کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "نادرا کو ہر سال 31 جنوری تک وفاقی حکومت کو اپنی کارکردگی، افعال اور اختیارات کے استعمال، کامیابیوں، اور ملک میں رجسٹریشن اور ڈیٹا بیس کے نظام کی حالت کے بارے میں سالانہ رپورٹیں تیار کر کے پیش کرنی چاہئیں۔"
+    },
+    {
+      "question": "Can NADRA charge fees for its services?",
+      "answer": "Yes, NADRA may charge prescribed fees for its services and transactions, including fees for registration, card issuance or renewal, and provision of information or reports from its databases to governmental, private, or other entities.",
+      "urdu_question": "کیا نادرا اپنی خدمات کے لیے فیس وصول کر سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا اپنی خدمات اور لین دین کے لیے مقررہ فیس وصول کر سکتا ہے، بشمول رجسٹریشن، کارڈ کے اجراء یا تجدید کی فیس، اور اپنے ڈیٹا بیس سے سرکاری، نجی، یا دیگر اداروں کو معلومات یا رپورٹس کی فراہمی۔"
+    },
+    {
+      "question": "What research powers does NADRA have?",
+      "answer": "NADRA may cause research, studies, surveys, experiments and investigations to be made or contribute towards the cost of such activities made by any person or entity in relation to its purposes and objects.",
+      "urdu_question": "نادرا کے پاس تحقیق کے کیا اختیارات ہیں؟",
+      "urdu_answer": "نادرا تحقیق، مطالعہ، سروے، تجربات اور تحقیقات کروانے کا سبب بن سکتا ہے یا کسی بھی شخص یا ادارے کی طرف سے اپنے مقاصد اور مقاصد کے سلسلے میں کی جانے والی ایسی سرگرمیوں کی لاگت میں حصہ ڈال سکتا ہے۔"
+    },
+    {
+      "question": "Can NADRA seek external assistance?",
+      "answer": "Yes, NADRA may seek advice and assistance for carrying out the purposes of the Ordinance from any governmental or private body, person or entity, both domestic and international.",
+      "urdu_question": "کیا نادرا بیرونی امداد حاصل کر سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا آرڈیننس کے مقاصد کو پورا کرنے کے لیے کسی بھی سرکاری یا نجی ادارے، شخص یا ادارے سے، ملکی اور بین الاقوامی دونوں سے مشورہ اور مدد لے سکتا ہے۔"
+    },
+    {
+      "question": "What is the composition of NADRA's governing body?",
+      "answer": "NADRA is governed by an Authority consisting of members appointed by the Federal Government, including a Chairman. The specific composition and appointment procedures are determined by the Federal Government.",
+      "urdu_question": "نادرا کی گورننگ باڈی کی تشکیل کیا ہے؟",
+      "urdu_answer": "نادرا ایک اتھارٹی کے زیر انتظام ہے جس میں چیئرمین بھی شامل ہے وفاقی حکومت کی طرف سے مقرر کردہ اراکین پر مشتمل ہے۔ مخصوص تشکیل اور تقرری کے طریقہ کار کا تعین وفاقی حکومت کرتی ہے۔"
+    },
+    {
+      "question": "How are decisions made by the NADRA Authority?",
+      "answer": "Decisions of the Authority are taken by majority of members present. In case of a tie, the member presiding the meeting has a casting vote. All orders and decisions must be in writing and identify each member's determination separately.",
+      "urdu_question": "نادرا اتھارٹی کے فیصلے کیسے ہوتے ہیں؟",
+      "urdu_answer": "اتھارٹی کے فیصلے موجود اراکین کی اکثریت کے ذریعہ کیے جاتے ہیں۔ ٹائی ہونے کی صورت میں، اجلاس کی صدارت کرنے والے رکن کو کاسٹنگ ووٹ دیا جاتا ہے۔ تمام احکامات اور فیصلے تحریری طور پر ہونے چاہئیں اور ہر رکن کے عزم کو الگ الگ شناخت کرنا چاہیے۔"
+    },
+    {
+      "question": "What is the National Data Warehouse?",
+      "answer": "The National Data Warehouse is a comprehensive database system that NADRA establishes and maintains to store, process, and manage registration and identification data for various purposes as defined in the Ordinance.",
+      "urdu_question": "نیشنل ڈیٹا گودام کیا ہے؟",
+      "urdu_answer": "نیشنل ڈیٹا ویئر ہاؤس ایک جامع ڈیٹا بیس سسٹم ہے جسے نادرا آرڈیننس میں بیان کردہ مختلف مقاصد کے لیے رجسٹریشن اور شناختی ڈیٹا کو ذخیرہ کرنے، پروسیس کرنے اور ان کا انتظام کرنے کے لیے قائم اور برقرار رکھتا ہے۔"
+    },
+    {
+      "question": "Who must register under the NADRA Ordinance?",
+      "answer": "All citizens of Pakistan must register under the Ordinance. The registration requirement extends to citizens both within Pakistan and abroad, with specific procedures for different categories of persons.",
+      "urdu_question": "نادرا آرڈیننس کے تحت کس کو رجسٹر کرنا ہوگا؟",
+      "urdu_answer": "پاکستان کے تمام شہریوں کو آرڈیننس کے تحت رجسٹر ہونا ضروری ہے۔ رجسٹریشن کی ضرورت پاکستان کے اندر اور بیرون ملک شہریوں تک پھیلی ہوئی ہے، مختلف زمروں کے افراد کے لیے مخصوص طریقہ کار کے ساتھ۔"
+    },
+    {
+      "question": "What happens to registration under the old National Registration Act?",
+      "answer": "Citizens registered under the National Registration Act, 1973 must get themselves registered afresh under the NADRA Ordinance within specified timeframes, unless they have already applied or opted for computerized identity cards.",
+      "urdu_question": "پرانے نیشنل رجسٹریشن ایکٹ کے تحت رجسٹریشن کا کیا ہوتا ہے؟",
+      "urdu_answer": "نیشنل رجسٹریشن ایکٹ، 1973 کے تحت رجسٹرڈ شہریوں کو مخصوص مدت کے اندر نادرا آرڈیننس کے تحت خود کو نئے سرے سے رجسٹر کرانا چاہیے، الا یہ کہ انہوں نے کمپیوٹرائزڈ شناختی کارڈ کے لیے پہلے سے درخواست دی ہو یا انتخاب نہ کیا ہو۔"
+    },
+    {
+      "question": "What is a National Identity Card under the Ordinance?",
+      "answer": "A National Identity Card means a card issued under section 14 of the Ordinance and includes identity cards issued under the previous National Registration Act, 1973, providing legal identification for Pakistani citizens.",
+      "urdu_question": "آرڈیننس کے تحت قومی شناختی کارڈ کیا ہے؟",
+      "urdu_answer": "قومی شناختی کارڈ کا مطلب آرڈیننس کے سیکشن 14 کے تحت جاری کردہ کارڈ ہے اور اس میں سابقہ قومی رجسٹریشن ایکٹ 1973 کے تحت جاری کردہ شناختی کارڈز شامل ہیں جو پاکستانی شہریوں کو قانونی شناخت فراہم کرتے ہیں۔"
+    },
+    {
+      "question": "Who is eligible for Pakistan Origin Cards?",
+      "answer": "Pakistan Origin Cards are issued to prescribed classes of foreigners and prescribed classes of citizens with dual nationality who have registered in the prescribed manner, helping maintain connections with Pakistan.",
+      "urdu_question": "پاکستان اوریجن کارڈز کے لیے کون اہل ہے؟",
+      "urdu_answer": "پاکستان اوریجن کارڈز غیر ملکیوں کی مقررہ کلاسوں اور دوہری شہریت کے حامل شہریوں کی تجویز کردہ کلاسوں کو جاری کیے جاتے ہیں جنہوں نے مقررہ طریقے سے رجسٹریشن کرائی ہے، جس سے پاکستان کے ساتھ روابط برقرار رکھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "question": "What are Overseas Identity Cards?",
+      "answer": "Overseas Identity Cards (NICOP) are issued to prescribed classes of citizens resident abroad or emigrants who have registered in the prescribed manner, facilitating their identification and services while overseas.",
+      "urdu_question": "بیرون ملک شناختی کارڈ کیا ہیں؟",
+      "urdu_answer": "اوورسیز شناختی کارڈ (NICOP) بیرون ملک مقیم شہریوں یا ہجرت کرنے والوں کی مقررہ کلاسوں کو جاری کیے جاتے ہیں جنہوں نے مقررہ طریقے سے اندراج کرایا ہے، بیرون ملک رہتے ہوئے ان کی شناخت اور خدمات کی سہولت فراہم کرتے ہیں۔"
+    },
+    {
+      "question": "Who receives Alien Registration Cards?",
+      "answer": "Alien Registration Cards are issued to prescribed classes of foreigners resident in Pakistan, whether legally or otherwise, who have registered in the prescribed manner.",
+      "urdu_question": "ایلین رجسٹریشن کارڈز کون وصول کرتا ہے؟",
+      "urdu_answer": "ایلین رجسٹریشن کارڈ پاکستان میں مقیم غیر ملکیوں کی مقررہ کلاسوں کو جاری کیے جاتے ہیں، چاہے وہ قانونی طور پر ہوں یا دوسری صورت میں، جنہوں نے مقررہ طریقے سے اندراج کرایا ہے۔"
+    },
+    {
+      "question": "What are the responsibilities of cardholders?",
+      "answer": "Every person to whom a card is issued must be responsible for its safe custody and maintaining it in proper shape. NADRA may prescribe standards for custody and maintenance of various cards.",
+      "urdu_question": "کارڈ ہولڈرز کی کیا ذمہ داریاں ہیں؟",
+      "urdu_answer": "ہر وہ شخص جس کو کارڈ جاری کیا جاتا ہے اسے اس کی حفاظت اور اسے صحیح شکل میں برقرار رکھنے کا ذمہ دار ہونا چاہیے۔ نادرا مختلف کارڈز کی حفاظت اور دیکھ بھال کے لیے معیارات تجویز کر سکتا ہے۔"
+    },
+    {
+      "question": "Can NADRA inspect identity cards?",
+      "answer": "Yes, the Ordinance provides NADRA with powers to inspect cards, though specific inspection procedures and circumstances are defined in regulations and rules.",
+      "urdu_question": "کیا نادرا شناختی کارڈ کا معائنہ کر سکتا ہے؟",
+      "urdu_answer": "جی ہاں، آرڈیننس نادرا کو کارڈز کا معائنہ کرنے کے اختیارات فراہم کرتا ہے، حالانکہ مخصوص معائنہ کے طریقہ کار اور حالات ضوابط اور قواعد میں بیان کیے گئے ہیں۔"
+    },
+    {
+      "question": "When must cards be surrendered?",
+      "answer": "Cards must be surrendered in circumstances prescribed by regulations, such as when they expire, are replaced, or when the holder's status changes in ways that affect eligibility.",
+      "urdu_question": "کارڈ کب سرنڈر کیے جائیں؟",
+      "urdu_answer": "کارڈز کو ضوابط کے ذریعہ تجویز کردہ حالات میں سپرد کیا جانا چاہئے، جیسے کہ ان کی میعاد ختم ہونے پر، تبدیل ہونے پر، یا جب ہولڈر کی حیثیت ان طریقوں سے تبدیل ہوتی ہے جو اہلیت کو متاثر کرتے ہیں۔"
+    },
+    {
+      "question": "What powers does NADRA have to cancel or confiscate cards?",
+      "answer": "Under section 18, NADRA has the power to cancel, impound, or confiscate cards in prescribed circumstances, such as when they are obtained fraudulently or when the holder violates conditions of issuance.",
+      "urdu_question": "نادرا کے پاس کارڈ منسوخ یا ضبط کرنے کے کیا اختیارات ہیں؟",
+      "urdu_answer": "سیکشن 18 کے تحت، نادرا کو یہ اختیار حاصل ہے کہ وہ تجویز کردہ حالات میں کارڈز کو منسوخ کرنے، ضبط کرنے یا ضبط کرنے کا اختیار رکھتا ہے، جیسے کہ جب وہ دھوکہ دہی سے حاصل کیے جاتے ہیں یا جب ہولڈر جاری کرنے کی شرائط کی خلاف ورزی کرتا ہے۔"
+    },
+    {
+      "question": "For what purposes are identity cards necessary?",
+      "answer": "Identity cards are necessary for purposes prescribed in the regulations, which typically include banking, property transactions, travel, employment, and access to government services.",
+      "urdu_question": "شناختی کارڈ کن مقاصد کے لیے ضروری ہیں؟",
+      "urdu_answer": "ضابطوں میں بیان کردہ مقاصد کے لیے شناختی کارڈز ضروری ہیں، جن میں عام طور پر بینکنگ، جائیداد کے لین دین، سفر، ملازمت، اور سرکاری خدمات تک رسائی شامل ہے۔"
+    },
+    {
+      "question": "Can anyone be exempted from card requirements?",
+      "answer": "Yes, NADRA has the power to exempt certain classes of persons or specific individuals from card requirements under circumstances and conditions prescribed in the regulations.",
+      "urdu_question": "کیا کسی کو کارڈ کی ضروریات سے مستثنیٰ کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کے پاس یہ اختیار ہے کہ وہ مخصوص طبقے کے افراد یا مخصوص افراد کو ضوابط میں بیان کردہ حالات اور شرائط کے تحت کارڈ کی ضروریات سے مستثنیٰ قرار دے۔"
+    },
+    {
+      "question": "What information must be provided to NADRA?",
+      "answer": "Information relating to births, deaths, marriages, divorces, and other vital events must be provided to NADRA as prescribed. User and feeder agencies must also provide prescribed information and assistance.",
+      "urdu_question": "نادرا کو کیا معلومات فراہم کی جانی چاہیے؟",
+      "urdu_answer": "پیدائش، اموات، شادیوں، طلاقوں اور دیگر اہم واقعات سے متعلق معلومات نادرا کو فراہم کی جائیں جیسا کہ تجویز کیا گیا ہے۔ صارف اور فیڈر ایجنسیوں کو بھی تجویز کردہ معلومات اور مدد فراہم کرنا ضروری ہے۔"
+    },
+    {
+      "question": "Can NADRA call for proof of information?",
+      "answer": "Yes, under section 23, NADRA has the power to call for proof of information and may summon any person to verify information provided during registration or card application processes.",
+      "urdu_question": "کیا نادرا معلومات کے ثبوت کے لیے کال کر سکتا ہے؟",
+      "urdu_answer": "ہاں، سیکشن 23 کے تحت، نادرا کو معلومات کے ثبوت کے لیے کال کرنے کا اختیار ہے اور وہ کسی بھی شخص کو رجسٹریشن یا کارڈ کی درخواست کے عمل کے دوران فراہم کردہ معلومات کی تصدیق کے لیے طلب کر سکتا ہے۔"
+    },
+    {
+      "question": "What is the NADRA Fund?",
+      "answer": "The NADRA Fund is established to finance NADRA's operations, consisting of money received from fees, government grants, and other sources. It is used for carrying out NADRA's functions and purposes.",
+      "urdu_question": "نادرا فنڈ کیا ہے؟",
+      "urdu_answer": "نادرا فنڈ نادرا کے آپریشنز کی مالی اعانت کے لیے قائم کیا گیا ہے، جس میں فیس، سرکاری گرانٹس اور دیگر ذرائع سے حاصل ہونے والی رقم شامل ہے۔ یہ نادرا کے افعال اور مقاصد کو انجام دینے کے لیے استعمال ہوتا ہے۔"
+    },
+    {
+      "question": "What borrowing powers does NADRA have?",
+      "answer": "NADRA is deemed to be a local authority under the Local Authorities Loans Act, 1914, for the purpose of borrowing money under that Act for carrying out its schemes, proposals, plans or functions.",
+      "urdu_question": "نادرا کے پاس قرض لینے کے کیا اختیارات ہیں؟",
+      "urdu_answer": "نادرا کو لوکل اتھارٹیز لونز ایکٹ 1914 کے تحت ایک مقامی اتھارٹی سمجھا جاتا ہے، اس ایکٹ کے تحت اپنی اسکیموں، تجاویز، منصوبوں یا کاموں کو انجام دینے کے لیے رقم ادھار لینے کے لیے۔"
+    },
+    {
+      "question": "How is NADRA's budget prepared?",
+      "answer": "NADRA must submit for Federal Government approval a statement showing estimated receipts and expenditure and sums required from the Federal Government for each financial year, by the date and in the form specified by the Federal Government.",
+      "urdu_question": "نادرا کا بجٹ کیسے تیار ہوتا ہے؟",
+      "urdu_answer": "نادرا کو وفاقی حکومت کی منظوری کے لیے ہر مالی سال، تاریخ اور وفاقی حکومت کی طرف سے متعین کردہ فارم میں وفاقی حکومت سے متوقع وصولیوں اور اخراجات اور رقومات کو ظاہر کرنے والا ایک بیان جمع کرانا چاہیے۔"
+    },
+    {
+      "question": "What happens to surplus funds?",
+      "answer": "Any surplus remaining in the NADRA Fund at the end of a financial year, after meeting all expenses and obligations, must be remitted to the Federal Consolidated Fund.",
+      "urdu_question": "سرپلس فنڈز کا کیا ہوتا ہے؟",
+      "urdu_answer": "تمام اخراجات اور ذمہ داریوں کو پورا کرنے کے بعد، مالی سال کے اختتام پر نادرا فنڈ میں باقی رہ جانے والی کوئی بھی اضافی رقم فیڈرل کنسولیڈیٹڈ فنڈ میں بھیجی جانی چاہیے۔"
+    },
+    {
+      "question": "What are the audit requirements for NADRA?",
+      "answer": "NADRA must maintain proper accounts and is subject to audit procedures as prescribed. The accounts must be audited in the manner prescribed by the Federal Government.",
+      "urdu_question": "نادرا کے آڈٹ کے تقاضے کیا ہیں؟",
+      "urdu_answer": "نادرا کو مناسب کھاتوں کو برقرار رکھنا چاہیے اور یہ آڈٹ کے طریقہ کار کے مطابق ہے جیسا کہ تجویز کیا گیا ہے۔ اکاؤنٹس کا آڈٹ وفاقی حکومت کے بتائے ہوئے طریقے سے ہونا چاہیے۔"
+    },
+    {
+      "question": "What constitutes information disclosure offenses?",
+      "answer": "Under section 28, it's an offense for NADRA employees to disclose, reveal, or publish prohibited information without permission from the competent authority, with penalties of imprisonment up to five years and fines up to one million rupees.",
+      "urdu_question": "معلومات کے افشاء کے جرائم کیا ہیں؟",
+      "urdu_answer": "سیکشن 28 کے تحت، نادرا ملازمین کے لیے مجاز اتھارٹی کی اجازت کے بغیر ممنوعہ معلومات افشا کرنا، افشا کرنا یا شائع کرنا جرم ہے، جس کے لیے پانچ سال تک قید اور دس لاکھ روپے تک جرمانے کی سزا ہو سکتی ہے۔"
+    },
+    {
+      "question": "What are the penalties for breaching data security?",
+      "answer": "Section 29 prescribes penalties for employees who are negligent in protecting the database, attempt to damage records, assist in data tampering, or provide unauthorized access, with imprisonment up to six months and fines up to fifty thousand rupees.",
+      "urdu_question": "ڈیٹا سیکیورٹی کی خلاف ورزی کرنے پر کیا سزائیں ہیں؟",
+      "urdu_answer": "سیکشن 29 میں ایسے ملازمین کے لیے جرمانے تجویز کیے گئے ہیں جو ڈیٹا بیس کی حفاظت میں غفلت برتتے ہیں، ریکارڈ کو نقصان پہنچانے کی کوشش کرتے ہیں، ڈیٹا سے چھیڑ چھاڑ میں معاونت کرتے ہیں یا غیر مجاز رسائی فراہم کرتے ہیں، چھ ماہ تک قید اور پچاس ہزار روپے تک جرمانے کے ساتھ۔"
+    },
+    {
+      "question": "What are the penalties for obtaining multiple identity cards?",
+      "answer": "Attempting to obtain more than one ID card, providing false information, damaging cards, or violating prescribed provisions can result in imprisonment up to six months and fines up to fifty thousand rupees.",
+      "urdu_question": "ایک سے زیادہ شناختی کارڈ حاصل کرنے کے لیے کیا سزائیں ہیں؟",
+      "urdu_answer": "ایک سے زائد شناختی کارڈ حاصل کرنے کی کوشش، غلط معلومات فراہم کرنے، کارڈز کو نقصان پہنچانے یا تجویز کردہ دفعات کی خلاف ورزی پر چھ ماہ قید اور پچاس ہزار روپے تک جرمانہ ہو سکتا ہے۔"
+    },
+    {
+      "question": "What are the penalties for forgery and counterfeiting?",
+      "answer": "Obtaining forged identity cards, possessing or using counterfeit cards, making forging equipment, or unlawfully possessing others' cards can result in imprisonment up to five years and fines up to one hundred thousand rupees.",
+      "urdu_question": "جعل سازی اور جعل سازی کے لیے کیا سزائیں ہیں؟",
+      "urdu_answer": "جعلی شناختی کارڈ حاصل کرنے، جعلی کارڈ رکھنے یا استعمال کرنے، جعلی سازوسامان بنانے یا غیر قانونی طور پر دوسروں کے کارڈ رکھنے پر پانچ سال تک قید اور ایک لاکھ روپے تک جرمانہ ہو سکتا ہے۔"
+    },
+    {
+      "question": "Where are fines and penalties deposited?",
+      "answer": "All fines and penalties imposed under the Ordinance are credited to the Federal Consolidated Fund.",
+      "urdu_question": "جرمانے اور جرمانے کہاں جمع ہیں؟",
+      "urdu_answer": "آرڈیننس کے تحت عائد تمام جرمانے اور جرمانے فیڈرل کنسولیڈیٹڈ فنڈ میں جمع کیے جاتے ہیں۔"
+    },
+    {
+      "question": "How are offenses prosecuted under the Ordinance?",
+      "answer": "Courts take cognizance of offenses only upon complaint by NADRA or an officer authorized by it. Trials are conducted according to prescribed procedures with specific courts having jurisdiction.",
+      "urdu_question": "آرڈیننس کے تحت جرائم کی کارروائی کیسے کی جاتی ہے؟",
+      "urdu_answer": "عدالتیں صرف نادرا یا اس کے مجاز افسر کی شکایت پر ہی جرائم کا نوٹس لیتے ہیں۔ مقدمات کی سماعت مقررہ طریقہ کار کے مطابق دائرہ اختیار رکھنے والی مخصوص عدالتوں کے ساتھ کی جاتی ہے۔"
+    },
+    {
+      "question": "Who are considered public servants under the Ordinance?",
+      "answer": "Registration Officers and other officers appointed under the Ordinance are deemed to be public servants for the purposes of the Pakistan Penal Code and other applicable laws.",
+      "urdu_question": "آرڈیننس کے تحت کس کو سرکاری ملازم تصور کیا جاتا ہے؟",
+      "urdu_answer": "آرڈیننس کے تحت تعینات رجسٹریشن افسران اور دیگر افسران کو تعزیرات پاکستان اور دیگر قابل اطلاق قوانین کے مقاصد کے لیے سرکاری ملازم تصور کیا جاتا ہے۔"
+    },
+    {
+      "question": "What delegation powers does NADRA have?",
+      "answer": "NADRA may delegate any of its powers or functions to the Chairman, members, Registration Officers, staff, experts, consultants, advisers, or other officers and employees, subject to conditions it deems fit.",
+      "urdu_question": "نادرا کے پاس وفد کے اختیارات کیا ہیں؟",
+      "urdu_answer": "نادرا اپنے کسی بھی اختیارات یا کام کو چیئرمین، ممبران، رجسٹریشن آفیسرز، عملہ، ماہرین، کنسلٹنٹس، ایڈوائزرز یا دیگر افسران اور ملازمین کو دے سکتا ہے، ان شرائط کے ساتھ جو وہ مناسب سمجھے۔"
+    },
+    {
+      "question": "What indemnity provisions exist?",
+      "answer": "No suit, prosecution or legal proceeding lies against the Federal Government, Provincial Governments, Local Authorities, Registration Officers, or others exercising powers under the Ordinance for anything done in good faith.",
+      "urdu_question": "معاوضے کی کیا دفعات موجود ہیں؟",
+      "urdu_answer": "وفاقی حکومت، صوبائی حکومتوں، لوکل اتھارٹیز، رجسٹریشن آفیسرز، یا نیک نیتی سے کیے گئے کسی بھی کام کے لیے آرڈیننس کے تحت اختیارات استعمال کرنے والے دیگر افراد کے خلاف کوئی مقدمہ، استغاثہ یا قانونی کارروائی نہیں ہے۔"
+    },
+    {
+      "question": "What happens to assets when NADRA was established?",
+      "answer": "Assets or property of the Federal Government assigned to the Registration Organization and National Database Organization were transferred to and vested in NADRA upon its establishment.",
+      "urdu_question": "جب نادرا قائم ہوا تو اثاثوں کا کیا ہوا؟",
+      "urdu_answer": "رجسٹریشن آرگنائزیشن اور نیشنل ڈیٹا بیس آرگنائزیشن کو تفویض کردہ وفاقی حکومت کے اثاثے یا جائیداد نادرا کے قیام کے بعد اسے منتقل کر دی گئیں۔"
+    },
+    {
+      "question": "What happened to existing legal proceedings when NADRA was established?",
+      "answer": "All suits and legal proceedings instituted by or against the Federal Government, Directorate of National Registration and National Database Organization before NADRA's establishment are deemed to be proceedings by or against NADRA.",
+      "urdu_question": "جب نادرا قائم ہوا تو موجودہ قانونی کارروائیوں کا کیا ہوا؟",
+      "urdu_answer": "نادرا کے قیام سے پہلے وفاقی حکومت، ڈائریکٹوریٹ آف نیشنل رجسٹریشن اور نیشنل ڈیٹابیس آرگنائزیشن کی طرف سے یا اس کے خلاف قائم کیے گئے تمام مقدمات اور قانونی کارروائیوں کو نادرا کی طرف سے یا اس کے خلاف کارروائی تصور کیا جاتا ہے۔"
+    },
+    {
+      "question": "What tax exemptions does NADRA have?",
+      "answer": "NADRA is exempt from certain taxes as prescribed in the Ordinance and rules, facilitating its operations as a public sector organization.",
+      "urdu_question": "نادرا کے پاس کیا ٹیکس چھوٹ ہے؟",
+      "urdu_answer": "نادرا کو بعض ٹیکسوں سے مستثنیٰ ہے جیسا کہ آرڈیننس اور قواعد میں بیان کیا گیا ہے، جو ایک پبلک سیکٹر کے ادارے کے طور پر اپنے کام کو آسان بناتا ہے۔"
+    },
+    {
+      "question": "What rule-making powers does the Federal Government have?",
+      "answer": "The Federal Government may make rules for carrying out the purposes of the Ordinance, including procedures for registration, card issuance, fees, and other operational matters.",
+      "urdu_question": "وفاقی حکومت کے پاس اصول بنانے کے کیا اختیارات ہیں؟",
+      "urdu_answer": "وفاقی حکومت آرڈیننس کے مقاصد کو پورا کرنے کے لیے قواعد بنا سکتی ہے، بشمول رجسٹریشن، کارڈ کے اجراء، فیسوں اور دیگر آپریشنل معاملات کے طریقہ کار۔"
+    },
+    {
+      "question": "Can NADRA make regulations?",
+      "answer": "Yes, NADRA may make regulations by notification in the official Gazette, not inconsistent with the Ordinance or rules, for carrying out its functions and any other matters for which provision may be made by regulations.",
+      "urdu_question": "کیا نادرا ریگولیشنز بنا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا سرکاری گزٹ میں نوٹیفکیشن کے ذریعے ضابطے بنا سکتا ہے، جو آرڈیننس یا قواعد سے متصادم نہ ہو، اپنے کاموں کی انجام دہی کے لیے اور کسی بھی دوسرے امور کے لیے جن کے لیے ضابطوں کے ذریعے انتظام کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Does the NADRA Ordinance override other laws?",
+      "answer": "Yes, the provisions of the NADRA Ordinance have effect notwithstanding anything contained in any other law for the time being in force.",
+      "urdu_question": "کیا نادرا آرڈیننس دیگر قوانین کو زیر کرتا ہے؟",
+      "urdu_answer": "جی ہاں، نادرا آرڈیننس کی دفعات اس وقت نافذ العمل کسی بھی دوسرے قانون میں موجود کسی بھی چیز کے باوجود اثر رکھتی ہیں۔"
+    },
+    {
+      "question": "Can difficulties in implementation be resolved?",
+      "answer": "Yes, if any difficulty arises in giving effect to any provision of the Ordinance, the Federal Government may make orders not inconsistent with the Ordinance as necessary to remove the difficulty.",
+      "urdu_question": "کیا عمل درآمد میں مشکلات دور ہو سکتی ہیں؟",
+      "urdu_answer": "ہاں، اگر آرڈیننس کی کسی شق کو نافذ کرنے میں کوئی مشکل پیش آتی ہے، تو وفاقی حکومت مشکل کو دور کرنے کے لیے ضروری احکامات جاری کر سکتی ہے جو آرڈیننس سے متصادم نہ ہو۔"
+    },
+    {
+      "question": "What is the scope of NADRA's registration systems?",
+      "answer": "NADRA may develop registration systems for any class of persons wherever they may be (including citizens, foreigners, emigrants) and for any class of things, in automated or other prescribed manner.",
+      "urdu_question": "نادرا کے رجسٹریشن سسٹم کا دائرہ کار کیا ہے؟",
+      "urdu_answer": "نادرا کسی بھی طبقے کے افراد کے لیے رجسٹریشن کا نظام تیار کر سکتا ہے جہاں بھی وہ ہوں (بشمول شہری، غیر ملکی، تارکین وطن) اور کسی بھی طبقے کے لیے، خودکار یا دوسرے مقررہ طریقے سے۔"
+    },
+    {
+      "question": "How are violations of the Ordinance prosecuted?",
+      "answer": "The Ordinance establishes specific penalties for different violations, with imprisonment terms ranging from six months to fourteen years and fines from fifty thousand rupees to one million rupees or more, depending on the offense.",
+      "urdu_question": "آرڈیننس کی خلاف ورزی پر کس طرح کارروائی کی جاتی ہے؟",
+      "urdu_answer": "آرڈیننس مختلف خلاف ورزیوں کے لیے مخصوص سزاؤں کا تعین کرتا ہے، جس میں جرم کے لحاظ سے چھ ماہ سے لے کر چودہ سال تک قید اور پچاس ہزار روپے سے دس لاکھ روپے یا اس سے زیادہ جرمانے کی سزا ہو سکتی ہے۔"
+    },
+    {
+      "question": "What is the relationship between NADRA and other government entities?",
+      "answer": "NADRA interfaces with user and feeder agencies from public and private sectors, including all Federal and Provincial Government entities, and has authority to set standards for their database systems and require their cooperation.",
+      "urdu_question": "نادرا اور دیگر سرکاری اداروں کے درمیان کیا تعلق ہے؟",
+      "urdu_answer": "نادرا پبلک اور پرائیویٹ سیکٹر کے صارفین اور فیڈر ایجنسیوں کے ساتھ انٹرفیس کرتا ہے، بشمول تمام وفاقی اور صوبائی حکومتی اداروں، اور اسے اپنے ڈیٹا بیس سسٹم کے لیے معیارات طے کرنے اور ان کے تعاون کی ضرورت کا اختیار حاصل ہے۔"
+    },
+    {
+      "question": "Can the Federal Government modify NADRA's operations?",
+      "answer": "Yes, the Federal Government may entrust additional functions to NADRA that are supplemental, incidental, or consequential to its primary functions and objects as defined in the Ordinance.",
+      "urdu_question": "کیا وفاقی حکومت نادرا کے آپریشنز میں ترمیم کر سکتی ہے؟",
+      "urdu_answer": "ہاں، وفاقی حکومت نادرا کو اضافی کام سونپ سکتی ہے جو آرڈیننس میں بیان کردہ اس کے بنیادی کاموں اور اشیاء کے ضمنی، واقعاتی یا نتیجہ خیز ہوں۔"
+    },
+    {
+      "question": "What audit and accountability measures apply to NADRA?",
+      "answer": "NADRA must prepare and submit annual reports to the Federal Government regarding its performance, functions, powers and achievements. It must also maintain proper accounts and is subject to audit procedures.",
+      "urdu_question": "نادرا پر کون سے آڈٹ اور احتسابی اقدامات لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا کو اپنی کارکردگی، افعال، اختیارات اور کامیابیوں کے حوالے سے سالانہ رپورٹیں تیار کر کے وفاقی حکومت کو جمع کرانی ہوں گی۔ اسے مناسب کھاتوں کو بھی برقرار رکھنا چاہیے اور یہ آڈٹ کے طریقہ کار سے مشروط ہے۔"
+    },
+    {
+      "question": "How are international obligations handled under the Ordinance?",
+      "answer": "The Ordinance allows NADRA to seek advice and assistance from any governmental or private body, person or entity, and to maintain databases in foreign currency, indicating capacity for international cooperation.",
+      "urdu_question": "آرڈیننس کے تحت بین الاقوامی ذمہ داریوں کو کیسے نبھایا جاتا ہے؟",
+      "urdu_answer": "آرڈیننس نادرا کو کسی بھی سرکاری یا نجی ادارے، شخص یا ادارے سے مشورہ اور مدد لینے اور غیر ملکی کرنسی میں ڈیٹا بیس کو برقرار رکھنے کی اجازت دیتا ہے، جو بین الاقوامی تعاون کی صلاحیت کو ظاہر کرتا ہے۔"
+    },
+    {
+      "question": "What happens to employees transferred to NADRA?",
+      "answer": "Employees transferred from the Registration Organization and National Database Organization to NADRA are not entitled to compensation for the transfer, and their service terms continue under NADRA regulations.",
+      "urdu_question": "نادرا میں ٹرانسفر ہونے والے ملازمین کا کیا ہوگا؟",
+      "urdu_answer": "رجسٹریشن آرگنائزیشن اور نیشنل ڈیٹا بیس آرگنائزیشن سے نادرا میں منتقل کیے گئے ملازمین ٹرانسفر کے معاوضے کے حقدار نہیں ہیں، اور ان کی سروس کی شرائط نادرا کے ضوابط کے تحت جاری رہتی ہیں۔"
+    },
+    {
+      "question": "What is the legal status of cards issued under previous laws?",
+      "answer": "Cards issued under the National Registration Act, 1973 to citizens registered under that Act before the NADRA Ordinance are deemed to have been issued under the Ordinance and remain valid until the underlying registration expires or as prescribed.",
+      "urdu_question": "پچھلے قوانین کے تحت جاری کردہ کارڈز کی قانونی حیثیت کیا ہے؟",
+      "urdu_answer": "نادرا آرڈیننس سے پہلے اس ایکٹ کے تحت رجسٹرڈ شہریوں کو نیشنل رجسٹریشن ایکٹ 1973 کے تحت جاری کیے گئے کارڈز کو آرڈیننس کے تحت جاری کیا گیا تصور کیا جاتا ہے اور وہ اس وقت تک کارآمد رہتے ہیں جب تک کہ اندراج کی مدت ختم نہ ہو جائے یا جیسا کہ تجویز کیا گیا ہو۔"
+    },
+    {
+      "question": "What schemes can NADRA propose?",
+      "answer": "NADRA may frame schemes, proposals or plans for development, establishment or maintenance of registration systems, databases, data warehouses, networking, or interfacing facilities for optimum utilization at national, provincial or local levels.",
+      "urdu_question": "نادرا کون سی اسکیم تجویز کر سکتا ہے؟",
+      "urdu_answer": "نادرا قومی، صوبائی یا مقامی سطحوں پر زیادہ سے زیادہ استعمال کے لیے رجسٹریشن سسٹم، ڈیٹا بیس، ڈیٹا ویئر ہاؤسز، نیٹ ورکنگ، یا انٹرفیسنگ سہولیات کی ترقی، قیام یا بحالی کے لیے اسکیمیں، تجاویز یا منصوبے بنا سکتا ہے۔"
+    },
+    {
+      "question": "What information must be included in NADRA's schemes?",
+      "answer": "Schemes must include a description and execution manner, cost and benefit estimates with allocation to various purposes, amounts to be repaid by beneficiaries, and other information necessary for informed judgment of desirability and feasibility.",
+      "urdu_question": "نادرا کی سکیموں میں کون سی معلومات شامل ہونی چاہئیں؟",
+      "urdu_answer": "اسکیموں میں تفصیل اور عمل آوری کا طریقہ، لاگت اور فائدے کے تخمینے اور مختلف مقاصد کے لیے مختص، مستفید کنندگان کی طرف سے ادا کی جانی والی رقم، اور مطلوبہ اور فزیبلٹی کے باخبر فیصلے کے لیے ضروری دیگر معلومات شامل ہونی چاہیے۔"
+    },
+    {
+      "question": "What powers do governments have over NADRA's schemes?",
+      "answer": "The Federal Government or concerned Provincial Government or local authority may sanction, refuse to sanction, or return for reconsideration any scheme submitted by NADRA, and may call for further details or examination.",
+      "urdu_question": "نادرا کی اسکیموں پر حکومتوں کے پاس کیا اختیارات ہیں؟",
+      "urdu_answer": "وفاقی حکومت یا متعلقہ صوبائی حکومت یا مقامی اتھارٹی نادرا کی طرف سے پیش کردہ کسی بھی اسکیم کی منظوری دے سکتی ہے، منظوری دینے سے انکار کر سکتی ہے، یا دوبارہ غور کے لیے واپس آ سکتی ہے، اور مزید تفصیلات یا جانچ کے لیے کال کر سکتی ہے۔"
+    },
+    {
+      "question": "What is NADRA's role in database standardization?",
+      "answer": "NADRA may prescribe and enforce standards for establishment and maintenance of databases, data warehouses, networking, and interfacing in all Federal Government entities to achieve optimum utilization.",
+      "urdu_question": "ڈیٹا بیس کی معیاری کاری میں نادرا کا کیا کردار ہے؟",
+      "urdu_answer": "نادرا تمام وفاقی حکومت کے اداروں میں ڈیٹا بیس، ڈیٹا گودام، نیٹ ورکنگ اور انٹرفیسنگ کے قیام اور دیکھ بھال کے لیے معیارات تجویز اور نافذ کر سکتا ہے تاکہ زیادہ سے زیادہ استعمال ہو سکے۔"
+    },
+    {
+      "question": "What emergency powers exist under the Ordinance?",
+      "answer": "The Ordinance was promulgated under emergency powers when the National Assembly and Senate were suspended, reflecting its urgent importance for national registration and database systems.",
+      "urdu_question": "آرڈیننس کے تحت کون سے ہنگامی اختیارات موجود ہیں؟",
+      "urdu_answer": "اس آرڈیننس کو ہنگامی اختیارات کے تحت نافذ کیا گیا تھا جب قومی اسمبلی اور سینیٹ کو معطل کیا گیا تھا، جو قومی رجسٹریشن اور ڈیٹا بیس کے نظام کے لیے اس کی فوری اہمیت کو ظاہر کرتا ہے۔"
+    },
+    {
+      "question": "What constitutional basis supports the Ordinance?",
+      "answer": "The Ordinance was issued under the Proclamation of Emergency of October 14, 1999, and Provisional Constitution Order No. 1 of 1999, providing constitutional foundation for its enactment.",
+      "urdu_question": "کون سی آئینی بنیاد آرڈیننس کی حمایت کرتی ہے؟",
+      "urdu_answer": "یہ آرڈیننس 14 اکتوبر 1999 کی ایمرجنسی کے اعلان اور 1999 کے عارضی آئینی آرڈر نمبر 1 کے تحت جاری کیا گیا تھا، جو اس کے نفاذ کی آئینی بنیاد فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What definitions are crucial for understanding the Ordinance?",
+      "answer": "Key definitions include Authority (NADRA), citizen, foreigner, emigrant, cards, Registration Officer, prescribed (by rules), regulations, and the broad definition of 'things' covering all animate and inanimate objects.",
+      "urdu_question": "آرڈیننس کو سمجھنے کے لیے کون سی تعریفیں اہم ہیں؟",
+      "urdu_answer": "کلیدی تعریفوں میں اتھارٹی (نادرا)، شہری، غیر ملکی، تارکین وطن، کارڈز، رجسٹریشن آفیسر، تجویز کردہ (قواعد کے لحاظ سے)، ضوابط، اور 'چیزوں' کی وسیع تعریف شامل ہیں جو تمام جاندار اور بے جان اشیاء کا احاطہ کرتی ہیں۔"
+    },
+    {
+      "question": "How does the Ordinance define 'emigrant'?",
+      "answer": "An 'emigrant' means a person who is an emigrant under the Emigration Ordinance, 1979 (XVIII of 1979), covering Pakistanis who have emigrated to other countries.",
+      "urdu_question": "آرڈیننس 'مہاجرین' کی تعریف کیسے کرتا ہے؟",
+      "urdu_answer": "ایک 'ہجرت' کا مطلب ہے وہ شخص جو ایمیگریشن آرڈیننس 1979 (XVIII of 1979) کے تحت ایک ہجرت کرتا ہے، جس میں پاکستانیوں کا احاطہ کیا جاتا ہے جو دوسرے ممالک میں ہجرت کر چکے ہیں۔"
+    },
+    {
+      "question": "What is the scope of NADRA's card issuance powers?",
+      "answer": "NADRA may issue cards to any prescribed class of persons (citizens, foreigners, emigrants) or things, who have registered in prescribed manner, in prescribed form and validity period, on prescribed criteria and conditions.",
+      "urdu_question": "نادرا کے کارڈ جاری کرنے کے اختیارات کا دائرہ کیا ہے؟",
+      "urdu_answer": "نادرا کسی بھی مقررہ طبقے کے افراد (شہریوں، غیر ملکیوں، تارکین وطن) یا چیزوں کو کارڈ جاری کر سکتا ہے، جنہوں نے مقررہ طریقے سے، مقررہ فارم اور معیاد کی مدت میں، مقررہ معیار اور شرائط پر رجسٹریشن کرائی ہے۔"
+    },
+    {
+      "question": "What integrated approach can NADRA adopt?",
+      "answer": "NADRA may manage and conduct its affairs, perform functions and exercise powers in such integrated, coordinated or other efficient manner as it deems fit for development, establishment or maintenance of registration and database systems.",
+      "urdu_question": "نادرا کیا مربوط طریقہ اپنا سکتا ہے؟",
+      "urdu_answer": "نادرا اپنے معاملات کو منظم اور چلا سکتا ہے، افعال انجام دے سکتا ہے اور اختیارات کو ایسے مربوط، مربوط یا دیگر موثر انداز میں استعمال کر سکتا ہے جیسا کہ وہ رجسٹریشن اور ڈیٹا بیس سسٹم کی ترقی، قیام یا دیکھ بھال کے لیے موزوں سمجھے۔"
+    },
+    {
+      "question": "What coordination mechanisms exist between NADRA and provincial governments?",
+      "answer": "NADRA must submit copies of relevant portions of annual reports identifying problems and prospects to concerned Provincial Governments or local authorities for their consideration and action.",
+      "urdu_question": "نادرا اور صوبائی حکومتوں کے درمیان کون سے کوآرڈینیشن میکانزم موجود ہیں؟",
+      "urdu_answer": "نادرا کو سالانہ رپورٹس کے متعلقہ حصوں کی کاپیاں متعلقہ صوبائی حکومتوں یا مقامی حکام کو ان کے غور اور کارروائی کے لیے پیش کرنی ہوں گی۔"
+    },
+    {
+      "question": "What continuity provisions exist for pre-NADRA arrangements?",
+      "answer": "All contracts, agreements, negotiations, working arrangements, and liabilities of the National Database Organization and Registration Organization are deemed to have been made by NADRA and continue under the Ordinance.",
+      "urdu_question": "نادرا سے پہلے کے انتظامات کے لیے تسلسل کی کیا شرائط موجود ہیں؟",
+      "urdu_answer": "نیشنل ڈیٹا بیس آرگنائزیشن اور رجسٹریشن آرگنائزیشن کے تمام معاہدوں، معاہدے، مذاکرات، کام کے انتظامات اور ذمہ داریاں نادرا کی طرف سے کیے گئے تصور کیے جاتے ہیں اور آرڈیننس کے تحت جاری رہتے ہیں۔"
+    },
+    {
+      "question": "What procurement and contracting powers does NADRA have?",
+      "answer": "NADRA inherits all bidding processes and contractor arrangements initiated by predecessor organizations and can continue or modify them according to its requirements under the Ordinance.",
+      "urdu_question": "نادرا کے پاس کیا پروکیورمنٹ اور کنٹریکٹنگ کے اختیارات ہیں؟",
+      "urdu_answer": "نادرا تمام بولی کے عمل اور ٹھیکیدار کے انتظامات کو وراثت میں حاصل کرتا ہے جو پیشرو تنظیموں نے شروع کیا تھا اور وہ آرڈیننس کے تحت اپنی ضروریات کے مطابق انہیں جاری رکھ سکتا ہے یا ان میں ترمیم کر سکتا ہے۔"
+    },
+    {
+      "question": "How are NADRA's members remunerated?",
+      "answer": "Members of NADRA receive remuneration as prescribed by the Federal Government, though specific amounts and conditions are determined through separate regulations.",
+      "urdu_question": "نادرا کے ممبران کی تنخواہ کیسے دی جاتی ہے؟",
+      "urdu_answer": "نادرا کے اراکین وفاقی حکومت کی طرف سے مقرر کردہ معاوضے وصول کرتے ہیں، حالانکہ مخصوص رقم اور شرائط کا تعین الگ ضابطوں کے ذریعے کیا جاتا ہے۔"
+    },
+    {
+      "question": "What business restrictions apply to NADRA officials?",
+      "answer": "The Chairman and members of NADRA are restricted from engaging in certain business activities to prevent conflicts of interest, as prescribed in the regulations.",
+      "urdu_question": "نادرا حکام پر کون سی کاروباری پابندیاں لاگو ہوتی ہیں؟",
+      "urdu_answer": "نادرا کے چیئرمین اور ممبران کو بعض کاروباری سرگرمیوں میں حصہ لینے سے روک دیا گیا ہے تاکہ مفادات کے ٹکراؤ کو روکا جا سکے، جیسا کہ ضوابط میں بیان کیا گیا ہے۔"
+    },
+    {
+      "question": "What happens to NADRA's surplus at year-end?",
+      "answer": "After meeting all expenses and obligations, any surplus in the NADRA Fund at the end of a financial year must be remitted to the Federal Consolidated Fund, ensuring public funds return to the treasury.",
+      "urdu_question": "سال کے آخر میں نادرا کے سرپلس کا کیا ہوتا ہے؟",
+      "urdu_answer": "تمام اخراجات اور ذمہ داریوں کو پورا کرنے کے بعد، مالی سال کے اختتام پر نادرا فنڈ میں کوئی بھی سرپلس فیڈرل کنسولیڈیٹڈ فنڈ میں بھیجنا ضروری ہے، اس بات کو یقینی بناتے ہوئے کہ عوامی فنڈز خزانے میں واپس آئیں۔"
+    },
+    {
+      "question": "What specific ordinance does not apply to NADRA?",
+      "answer": "Ordinance XCL of 2002 does not apply to NADRA, providing it with exemptions from certain general government regulations to facilitate its specialized functions.",
+      "urdu_question": "نادرا پر کس مخصوص آرڈیننس کا اطلاق نہیں ہوتا؟",
+      "urdu_answer": "2002 کا آرڈیننس XCL نادرا پر لاگو نہیں ہوتا ہے، جو اسے اس کے خصوصی کاموں میں سہولت فراہم کرنے کے لیے بعض عام حکومتی ضوابط سے استثنیٰ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What transfer provisions exist for Alien Registration Authority?",
+      "answer": "Section 41A provides for transfer of assets and liabilities of the Alien Registration Authority to NADRA, consolidating alien registration functions under NADRA's umbrella.",
+      "urdu_question": "ایلین رجسٹریشن اتھارٹی کے لیے منتقلی کی کون سی شرائط موجود ہیں؟",
+      "urdu_answer": "سیکشن 41A ایلین رجسٹریشن اتھارٹی کے اثاثوں اور ذمہ داریوں کی نادرا کو منتقلی کے لیے فراہم کرتا ہے، نادرا کی چھتری کے تحت غیر ملکی رجسٹریشن کے افعال کو مستحکم کرتا ہے۔"
+    },
+    {
+      "question": "What penalties apply to repeated offenses?",
+      "answer": "If a person commits offenses mentioned in section 30 repeatedly, the punishment may be doubled. If the person is a NADRA employee, they may also face termination from service in addition to other penalties.",
+      "urdu_question": "بار بار ہونے والے جرائم پر کیا سزائیں لاگو ہوتی ہیں؟",
+      "urdu_answer": "اگر کوئی شخص دفعہ 30 میں مذکور جرائم کا ارتکاب بار بار کرتا ہے تو اس کی سزا دوگنی ہو سکتی ہے۔ اگر وہ شخص نادرا کا ملازم ہے تو اسے دیگر جرمانے کے علاوہ ملازمت سے برطرفی کا بھی سامنا کرنا پڑ سکتا ہے۔"
+    },
+    {
+      "question": "What constitutes willful obstruction under the Ordinance?",
+      "answer": "Willfully obstructing an officer in discharge of duties under the Ordinance is an offense punishable with imprisonment up to five years and fines up to one hundred thousand rupees.",
+      "urdu_question": "آرڈیننس کے تحت جان بوجھ کر رکاوٹ کیا ہے؟",
+      "urdu_answer": "آرڈیننس کے تحت کسی افسر کو فرائض کی ادائیگی میں جان بوجھ کر روکنا ایک جرم ہے جس کی سزا پانچ سال تک قید اور ایک لاکھ روپے تک جرمانہ ہے۔"
+    },
+    {
+      "question": "What age-related obligations exist under the Ordinance?",
+      "answer": "Citizens must apply for identity cards within ninety days of reaching eighteen years of age, with failure to do so constituting an offense punishable under section 30.",
+      "urdu_question": "آرڈیننس کے تحت عمر سے متعلق کون سی ذمہ داریاں موجود ہیں؟",
+      "urdu_answer": "شہریوں کو اٹھارہ سال کی عمر تک پہنچنے کے نوے دنوں کے اندر شناختی کارڈ کے لیے درخواست دینا ہوگی، ایسا نہ کرنے پر سیکشن 30 کے تحت قابل سزا جرم ہے۔"
+    },
+    {
+      "question": "What data confidentiality obligations exist?",
+      "answer": "NADRA must ensure confidentiality of data and information in its systems, with strict penalties for employees who breach security, reveal unauthorized information, or provide database access to unauthorized persons.",
+      "urdu_question": "ڈیٹا کی رازداری کی کون سی ذمہ داریاں موجود ہیں؟",
+      "urdu_answer": "نادرا کو اپنے سسٹمز میں ڈیٹا اور معلومات کی رازداری کو یقینی بنانا چاہیے، سیکیورٹی کی خلاف ورزی کرنے والے، غیر مجاز معلومات افشا کرنے، یا غیر مجاز افراد کو ڈیٹا بیس تک رسائی فراہم کرنے والے ملازمین کے لیے سخت سزاؤں کے ساتھ۔"
+    },
+    {
+      "question": "What multilateral cooperation provisions exist?",
+      "answer": "The Ordinance enables NADRA to seek advice and assistance from governmental or private bodies, facilitating international cooperation on registration and database technologies.",
+      "urdu_question": "کثیر الجہتی تعاون کی کون سی شرائط موجود ہیں؟",
+      "urdu_answer": "آرڈیننس نادرا کو سرکاری یا نجی اداروں سے مشورہ اور مدد حاصل کرنے کے قابل بناتا ہے، رجسٹریشن اور ڈیٹا بیس ٹیکنالوجیز پر بین الاقوامی تعاون کی سہولت فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What technological advancement powers does NADRA have?",
+      "answer": "NADRA may employ technologically advanced, effective and efficient means including computerization, automation, creation of databases, data warehousing, and networking for registration systems.",
+      "urdu_question": "نادرا کے پاس تکنیکی ترقی کے کیا اختیارات ہیں؟",
+      "urdu_answer": "نادرا تکنیکی طور پر جدید، موثر اور موثر ذرائع استعمال کر سکتا ہے جس میں کمپیوٹرائزیشن، آٹومیشن، ڈیٹا بیس کی تخلیق، ڈیٹا ویئر ہاؤسنگ، اور رجسٹریشن سسٹم کے لیے نیٹ ورکنگ شامل ہیں۔"
+    },
+    {
+      "question": "What quality control mechanisms exist under the Ordinance?",
+      "answer": "The Ordinance requires NADRA to maintain standards for databases and registration systems, with regular reporting to government on performance and achievements ensuring accountability.",
+      "urdu_question": "آرڈیننس کے تحت کوالٹی کنٹرول کے کون سے میکانزم موجود ہیں؟",
+      "urdu_answer": "آرڈیننس کے تحت نادرا کو ڈیٹا بیس اور رجسٹریشن سسٹم کے معیارات برقرار رکھنے کی ضرورت ہے، جس میں کارکردگی اور کامیابیوں کے بارے میں حکومت کو باقاعدہ رپورٹنگ کے ساتھ احتساب کو یقینی بنایا جائے۔"
+    },
+    {
+      "question": "What emergency identification provisions exist?",
+      "answer": "The Ordinance provides NADRA with broad powers to facilitate identification in various circumstances, supporting national security and administrative efficiency through comprehensive registration systems.",
+      "urdu_question": "ہنگامی شناخت کی کونسی دفعات موجود ہیں؟",
+      "urdu_answer": "یہ آرڈیننس نادرا کو وسیع اختیارات فراہم کرتا ہے تاکہ مختلف حالات میں شناخت کی سہولت فراہم کی جا سکے، جامع رجسٹریشن سسٹم کے ذریعے قومی سلامتی اور انتظامی کارکردگی میں مدد ملے۔"
+    },
+    {
+      "question": "What citizen service obligations does NADRA have?",
+      "answer": "NADRA must develop improved and modernized registration systems to efficiently serve citizens, with the ultimate goal of good governance, public service, and minimizing corruption and inefficiency.",
+      "urdu_question": "نادرا کی شہری خدمت کی کونسی ذمہ داریاں ہیں؟",
+      "urdu_answer": "گڈ گورننس، عوامی خدمت، اور بدعنوانی اور نااہلی کو کم کرنے کے حتمی مقصد کے ساتھ، نادرا کو شہریوں کی موثر خدمت کے لیے رجسٹریشن کے بہتر اور جدید نظام کو تیار کرنا چاہیے۔"
+    },
+    {
+      "question": "What database integration requirements exist?",
+      "answer": "NADRA must establish standards for database integration across Federal Government entities and may require their compliance to achieve optimum utilization of registration and database systems.",
+      "urdu_question": "ڈیٹا بیس کے انضمام کی کیا ضروریات موجود ہیں؟",
+      "urdu_answer": "نادرا کو وفاقی حکومت کے اداروں میں ڈیٹا بیس کے انضمام کے لیے معیارات قائم کرنے چاہئیں اور رجسٹریشن اور ڈیٹا بیس کے نظام کے زیادہ سے زیادہ استعمال کو حاصل کرنے کے لیے ان کی تعمیل کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What appeal mechanisms exist under the Ordinance?",
+      "answer": "While specific appeal procedures are detailed in rules and regulations, the Ordinance provides framework for grievance redress and review of NADRA's decisions through prescribed channels.",
+      "urdu_question": "آرڈیننس کے تحت اپیل کا کون سا طریقہ کار موجود ہے؟",
+      "urdu_answer": "اگرچہ اپیل کے مخصوص طریقہ کار قواعد و ضوابط میں تفصیل سے موجود ہیں، آرڈیننس شکایات کے ازالے اور نادرا کے فیصلوں پر تجویز کردہ چینلز کے ذریعے نظرثانی کا فریم ورک فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What territorial jurisdiction does NADRA have?",
+      "answer": "NADRA's jurisdiction extends throughout Pakistan and to Pakistani citizens abroad, with authority to register persons and maintain databases regardless of their physical location.",
+      "urdu_question": "نادرا کے پاس کون سا علاقائی دائرہ اختیار ہے؟",
+      "urdu_answer": "نادرا کا دائرہ اختیار پورے پاکستان اور بیرون ملک پاکستانی شہریوں تک پھیلا ہوا ہے، جس میں افراد کو رجسٹر کرنے اور ڈیٹا بیس کو برقرار رکھنے کا اختیار ان کے جسمانی مقام سے قطع نظر ہے۔"
+    },
+    {
+      "question": "What modernization objectives does the Ordinance establish?",
+      "answer": "The Ordinance aims to create a new, improved and modernized registration and database system for multiple beneficial uses in efficiently running state affairs and serving the public.",
+      "urdu_question": "آرڈیننس جدیدیت کے کیا مقاصد قائم کرتا ہے؟",
+      "urdu_answer": "آرڈیننس کا مقصد ریاستی امور کو موثر طریقے سے چلانے اور عوام کی خدمت میں متعدد فائدہ مند استعمال کے لیے ایک نیا، بہتر اور جدید رجسٹریشن اور ڈیٹا بیس سسٹم بنانا ہے۔"
+    },
+    {
+      "question": "What privacy protection framework does the Ordinance establish?",
+      "answer": "The Ordinance mandates NADRA to provide necessary safeguards for protection and confidentiality of data, establishing a comprehensive privacy protection framework for personal information.",
+      "urdu_question": "آرڈیننس رازداری کے تحفظ کا کون سا فریم ورک قائم کرتا ہے؟",
+      "urdu_answer": "آرڈیننس نادرا کو ڈیٹا کے تحفظ اور رازداری کے لیے ضروری تحفظات فراہم کرنے کا حکم دیتا ہے، ذاتی معلومات کے لیے پرائیویسی پروٹیکشن کا ایک جامع فریم ورک قائم کرتا ہے۔"
+    },
+    {
+      "question": "What public interest considerations guide the Ordinance?",
+      "answer": "The Ordinance is designed to achieve good governance, public service, and minimize corruption and inefficiency through establishment of comprehensive, secure, and efficient registration and database systems.",
+      "urdu_question": "کون سے مفاد عامہ کے تحفظات آرڈیننس کی رہنمائی کرتے ہیں؟",
+      "urdu_answer": "اس آرڈیننس کو جامع، محفوظ اور موثر رجسٹریشن اور ڈیٹا بیس سسٹم کے قیام کے ذریعے اچھی حکمرانی، عوامی خدمت، اور بدعنوانی اور نااہلی کو کم کرنے کے لیے ڈیزائن کیا گیا ہے۔"
+    },
+    {
+      "question": "What evolution from previous registration systems does the Ordinance represent?",
+      "answer": "The Ordinance represents a significant evolution from the National Registration Act, 1973, introducing computerization, automation, and advanced database technologies for more efficient citizen services.",
+      "urdu_question": "آرڈیننس پچھلے رجسٹریشن سسٹم سے کس ارتقاء کی نمائندگی کرتا ہے؟",
+      "urdu_answer": "یہ آرڈیننس نیشنل رجسٹریشن ایکٹ، 1973 کے ایک اہم ارتقاء کی نمائندگی کرتا ہے، جس میں زیادہ موثر شہری خدمات کے لیے کمپیوٹرائزیشن، آٹومیشن، اور جدید ڈیٹا بیس ٹیکنالوجیز متعارف کرائی گئی ہیں۔"
+    },
+    {
+      "question": "What future-proofing provisions exist in the Ordinance?",
+      "answer": "The Ordinance provides NADRA with broad powers to adapt to technological changes, conduct research, and modify systems as needed, ensuring long-term viability of registration and database infrastructure.",
+      "urdu_question": "آرڈیننس میں مستقبل کے حوالے سے کون سی دفعات موجود ہیں؟",
+      "urdu_answer": "آرڈیننس نادرا کو تکنیکی تبدیلیوں کے مطابق ڈھالنے، تحقیق کرنے اور ضرورت کے مطابق سسٹم میں ترمیم کرنے کے وسیع اختیارات فراہم کرتا ہے، جس سے رجسٹریشن اور ڈیٹا بیس کے بنیادی ڈھانچے کی طویل مدتی عملداری کو یقینی بنایا جا سکتا ہے۔"
+    },
+    {
+      "question": "What cross-border registration provisions exist?",
+      "answer": "The Ordinance enables NADRA to register Pakistani citizens abroad and foreigners in Pakistan, facilitating comprehensive population registration regardless of geographical boundaries.",
+      "urdu_question": "سرحد پار رجسٹریشن کی کون سی دفعات موجود ہیں؟",
+      "urdu_answer": "آرڈیننس نادرا کو اس قابل بناتا ہے کہ وہ جغرافیائی حدود سے قطع نظر پاکستانی شہریوں اور پاکستان میں غیر ملکیوں کی رجسٹریشن کر سکے۔"
+    },
+    {
+      "question": "What service delivery standards does the Ordinance establish?",
+      "answer": "The Ordinance requires NADRA to maintain high standards of service delivery through modern technology, efficient processes, and regular performance reporting to ensure citizen satisfaction.",
+      "urdu_question": "آرڈیننس سروس ڈیلیوری کے کیا معیارات قائم کرتا ہے؟",
+      "urdu_answer": "آرڈیننس میں نادرا سے مطالبہ کیا گیا ہے کہ وہ جدید ٹیکنالوجی، موثر طریقہ کار اور شہریوں کی اطمینان کو یقینی بنانے کے لیے کارکردگی کی باقاعدہ رپورٹنگ کے ذریعے خدمات کی فراہمی کے اعلیٰ معیار کو برقرار رکھے۔"
+    },
+    {
+      "question": "What institutional independence does NADRA have?",
+      "answer": "As an autonomous authority, NADRA has significant operational independence while remaining accountable to the Federal Government through prescribed reporting and oversight mechanisms.",
+      "urdu_question": "نادرا کو کون سی ادارہ جاتی آزادی حاصل ہے؟",
+      "urdu_answer": "ایک خودمختار اتھارٹی کے طور پر، نادرا کو آپریشنل آزادی حاصل ہے جبکہ وہ مقررہ رپورٹنگ اور نگرانی کے طریقہ کار کے ذریعے وفاقی حکومت کو جوابدہ ہے۔"
+    },
+    {
+      "question": "What capacity building provisions exist under the Ordinance?",
+      "answer": "The Ordinance allows NADRA to engage experts, consultants, and advisers, and to conduct research and training, supporting continuous capacity building and institutional development.",
+      "urdu_question": "آرڈیننس کے تحت صلاحیت سازی کی کون سی دفعات موجود ہیں؟",
+      "urdu_answer": "آرڈیننس نادرا کو ماہرین، کنسلٹنٹس اور مشیروں کو شامل کرنے، اور تحقیق اور تربیت کا انعقاد کرنے کی اجازت دیتا ہے، جو مسلسل صلاحیت کی تعمیر اور ادارہ جاتی ترقی میں معاونت کرتا ہے۔"
+    },
+    {
+      "question": "What performance measurement requirements exist?",
+      "answer": "NADRA must submit annual performance reports and maintain accounts subject to audit, establishing comprehensive performance measurement and accountability frameworks.",
+      "urdu_question": "کارکردگی کی پیمائش کے کیا تقاضے موجود ہیں؟",
+      "urdu_answer": "نادرا کو سالانہ کارکردگی کی رپورٹیں جمع کرانی ہوں گی اور اکاؤنٹس کو آڈٹ کے تابع رکھنا ہوگا، کارکردگی کی جامع پیمائش اور احتسابی فریم ورک قائم کرنا ہوگا۔"
+    },
+    {
+      "question": "What legal continuity does the Ordinance ensure?",
+      "answer": "The Ordinance ensures legal continuity by deeming actions under previous laws as valid under the new framework, preventing disruption of ongoing registration and identification processes.",
+      "urdu_question": "آرڈیننس کس قانونی تسلسل کو یقینی بناتا ہے؟",
+      "urdu_answer": "آرڈیننس پچھلے قوانین کے تحت کارروائیوں کو نئے فریم ورک کے تحت درست مان کر قانونی تسلسل کو یقینی بناتا ہے، جاری رجسٹریشن اور شناخت کے عمل میں رکاوٹ کو روکتا ہے۔"
+    },
+    {
+      "question": "What enforcement mechanisms does the Ordinance establish?",
+      "answer": "The Ordinance establishes comprehensive enforcement mechanisms through Registration Officers deemed public servants, specific penalties for violations, and prescribed legal procedures for prosecution.",
+      "urdu_question": "آرڈیننس نافذ کرنے کا کون سا طریقہ کار قائم کرتا ہے؟",
+      "urdu_answer": "آرڈیننس رجسٹریشن افسروں کے ذریعے پبلک سرونٹ سمجھے جانے والے، خلاف ورزیوں کے لیے مخصوص سزاؤں، اور قانونی چارہ جوئی کے لیے مقررہ قانونی طریقہ کار کے ذریعے نفاذ کا جامع طریقہ کار قائم کرتا ہے۔"
+    },
+    {
+      "question": "What intergovernmental coordination does the Ordinance facilitate?",
+      "answer": "The Ordinance facilitates coordination between Federal, Provincial, and local governments through shared reporting requirements, cooperative schemes, and standardized database systems.",
+      "urdu_question": "آرڈیننس کس بین الحکومتی کوآرڈینیشن کو سہولت فراہم کرتا ہے؟",
+      "urdu_answer": "یہ آرڈیننس وفاقی، صوبائی اور مقامی حکومتوں کے درمیان مشترکہ رپورٹنگ کی ضروریات، کوآپریٹو اسکیموں، اور معیاری ڈیٹا بیس سسٹمز کے ذریعے رابطہ کاری کی سہولت فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What legislative supremacy does the Ordinance establish?",
+      "answer": "The Ordinance overrides other laws and provides Federal Government with powers to remove implementation difficulties, establishing clear legislative supremacy in registration and database matters.",
+      "urdu_question": "آرڈیننس کس قانون سازی کی بالادستی قائم کرتا ہے؟",
+      "urdu_answer": "آرڈیننس دیگر قوانین کو زیر کرتا ہے اور وفاقی حکومت کو رجسٹریشن اور ڈیٹا بیس کے معاملات میں واضح قانون سازی کی بالادستی قائم کرتے ہوئے عملدرآمد کی مشکلات کو دور کرنے کے اختیارات فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What comprehensive coverage does the Ordinance provide?",
+      "answer": "The Ordinance provides comprehensive coverage of all aspects of registration and database management, from establishment and operations to penalties and accountability, creating a complete legal framework.",
+      "urdu_question": "آرڈیننس کیا جامع کوریج فراہم کرتا ہے؟",
+      "urdu_answer": "آرڈیننس رجسٹریشن اور ڈیٹا بیس کے انتظام کے تمام پہلوؤں کی جامع کوریج فراہم کرتا ہے، اسٹیبلشمنٹ اور آپریشنز سے لے کر جرمانے اور جوابدہی تک، ایک مکمل قانونی فریم ورک تشکیل دیتا ہے۔"
+    }
+  ]
+}

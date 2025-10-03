@@ -1,0 +1,385 @@
+{
+  "file_name": "location.json",
+  "domain": "Location_Services",
+  "total_qa_pairs": 50,
+  "qa_data": [
+    {
+      "question": "Where is the nearest NADRA office?",
+      "answer": "NADRA operates multiple centers nationwide, including some 24/7/extended-hour facilities; the nearest option depends on your area and service needs. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Phone numbers are listed there—call the center to confirm, or reach the NADRA helpline at 1777 (mobile) or +92 51 111 786 100.",
+      "urdu_question": "نادرا کا قریبی دفتر کہاں ہے؟",
+      "urdu_answer": "نادرا ملک بھر میں متعدد مراکز چلاتا ہے، جس میں 24/7/توسیع شدہ گھنٹے کی سہولیات شامل ہیں۔ قریب ترین آپشن آپ کے علاقے اور سروس کی ضروریات پر منحصر ہے۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ فون نمبرز وہاں درج ہیں — تصدیق کے لیے مرکز پر کال کریں، یا نادرا ہیلپ لائن پر 1777 (موبائل) یا +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "NADRA office near me?",
+      "answer": "Availability varies by locality and some areas have more than one center; certain facilities also offer extended or 24/7 hours. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Phone numbers are listed—please call to confirm, or dial the NADRA helpline at 1777 or +92 51 111 786 100.",
+      "urdu_question": "میرے قریب نادرا آفس؟",
+      "urdu_answer": "دستیابی علاقے کے لحاظ سے مختلف ہوتی ہے اور کچھ علاقوں میں ایک سے زیادہ مراکز ہوتے ہیں۔ کچھ سہولیات توسیع یا 24/7 گھنٹے بھی پیش کرتی ہیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ فون نمبرز درج ہیں — براہ کرم تصدیق کے لیے کال کریں، یا نادرا کی ہیلپ لائن 1777 یا +92 51 111 786 100 پر ڈائل کریں۔"
+    },
+    {
+      "question": "How can I find the NADRA office address?",
+      "answer": "Center addresses are published in the official directory and may include map links where available. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Use the listed contact number to confirm before visiting, or call 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں نادرا آفس کا پتہ کیسے تلاش کرسکتا ہوں؟",
+      "urdu_answer": "مرکز کے پتے سرکاری ڈائرکٹری میں شائع کیے جاتے ہیں اور جہاں دستیاب ہوں نقشے کے لنکس شامل ہو سکتے ہیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ تشریف لانے سے پہلے تصدیق کے لیے درج کردہ رابطہ نمبر استعمال کریں، یا 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "What are NADRA office timings today?",
+      "answer": "Operating hours are branch-specific and can change for weekends, Ramadan, or public holidays; same-day status should be verified directly. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Call the listed number to confirm, or contact 1777 / +92 51 111 786 100.",
+      "urdu_question": "آج نادرا آفس کے اوقات کیا ہیں؟",
+      "urdu_answer": "کام کے اوقات شاخ کے لیے مخصوص ہیں اور اختتام ہفتہ، رمضان یا عوامی تعطیلات کے لیے تبدیل ہو سکتے ہیں۔ اسی دن کی حیثیت کی براہ راست تصدیق کی جانی چاہئے۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ تصدیق کے لیے درج نمبر پر کال کریں، یا 1777 / +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Are NADRA offices open on weekends?",
+      "answer": "Some centers open on Saturdays/Sundays or run extended hours; weekend availability depends on the specific branch. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Please call the branch to confirm, or reach the helpline at 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا کے دفاتر ویک اینڈ پر کھلے رہتے ہیں؟",
+      "urdu_answer": "کچھ مراکز ہفتہ/اتوار کو کھلتے ہیں یا اوقات میں توسیع کرتے ہیں۔ ہفتے کے آخر میں دستیابی مخصوص برانچ پر منحصر ہے۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ براہ کرم تصدیق کے لیے برانچ کو کال کریں، یا 1777 / +92 51 111 786 100 پر ہیلپ لائن پر رابطہ کریں۔"
+    },
+    {
+      "question": "Sunday timings for NADRA offices?",
+      "answer": "Sunday schedules vary by branch and may differ across seasons and Ramadan; verify with the center before traveling. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Phone numbers are listed—call to confirm, or dial 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا دفاتر کے لیے اتوار کے اوقات؟",
+      "urdu_answer": "اتوار کے نظام الاوقات شاخ کے لحاظ سے مختلف ہوتے ہیں اور موسموں اور رمضان میں مختلف ہو سکتے ہیں۔ سفر سے پہلے مرکز سے تصدیق کر لیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ فون نمبرز درج ہیں - تصدیق کے لیے کال کریں، یا 1777 / +92 51 111 786 100 ڈائل کریں۔"
+    },
+    {
+      "question": "Saturday timings for NADRA centers?",
+      "answer": "Saturday hours are branch-dependent and can change during Ramadan or holidays; please confirm with the center first. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Use the published phone number or call 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا مراکز کے لیے ہفتہ کے اوقات؟",
+      "urdu_answer": "ہفتہ کے اوقات شاخ پر منحصر ہوتے ہیں اور رمضان یا چھٹیوں کے دوران تبدیل ہو سکتے ہیں۔ براہ کرم پہلے مرکز سے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ شائع شدہ فون نمبر استعمال کریں یا 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Ramadan timings for NADRA centers?",
+      "answer": "Many centers observe revised hours in Ramadan; specific timings vary by branch and may change year to year. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Call the center to confirm, or contact 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا مراکز کے رمضان کے اوقات",
+      "urdu_answer": "بہت سے مراکز رمضان میں نظر ثانی شدہ اوقات کا مشاہدہ کرتے ہیں۔ مخصوص اوقات شاخ کے لحاظ سے مختلف ہوتے ہیں اور سال بہ سال تبدیل ہو سکتے ہیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ تصدیق کے لیے مرکز کو کال کریں، یا 1777 / +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Holiday schedule for NADRA offices (Eid/official holidays)?",
+      "answer": "Holiday hours are branch-specific and updated periodically; check and confirm before visiting. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Use the center’s listed number or call 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا دفاتر کے لیے چھٹیوں کا شیڈول (عید/سرکاری تعطیلات)؟",
+      "urdu_answer": "چھٹیوں کے اوقات برانچ کے لیے مخصوص ہوتے ہیں اور وقتاً فوقتاً اپ ڈیٹ ہوتے رہتے ہیں۔ دیکھنے سے پہلے چیک کریں اور تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ مرکز کا درج نمبر استعمال کریں یا 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Are any NADRA centers open 24/7?",
+      "answer": "Some cities have mega/extended-hour facilities that operate around the clock; availability can change. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Please call the branch to confirm, or reach the helpline at 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا کے کوئی مراکز 24/7 کھلے ہیں؟",
+      "urdu_answer": "کچھ شہروں میں میگا/توسیع شدہ گھنٹے کی سہولیات ہیں جو چوبیس گھنٹے کام کرتی ہیں۔ دستیابی بدل سکتی ہے۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ براہ کرم تصدیق کے لیے برانچ کو کال کریں، یا 1777 / +92 51 111 786 100 پر ہیلپ لائن پر رابطہ کریں۔"
+    },
+    {
+      "question": "Which NADRA centers have Executive services?",
+      "answer": "Executive counters/services are available at selected centers; hours and queues differ by branch. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Call the listed number to confirm, or contact 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا کے کون سے مراکز میں ایگزیکٹو سروسز ہیں؟",
+      "urdu_answer": "منتخب مراکز پر ایگزیکٹو کاؤنٹر/سروسز دستیاب ہیں۔ گھنٹے اور قطاریں شاخ کے لحاظ سے مختلف ہوتی ہیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ تصدیق کے لیے درج نمبر پر کال کریں، یا 1777 / +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Is there a ladies-only NADRA center?",
+      "answer": "Some cities host women-only centers or dedicated ladies counters; availability and hours vary by branch. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, see \"https://www.nadra.gov.pk/internationalOffices\". Please call the center to confirm, or dial 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا صرف خواتین کے لیے نادرا سینٹر ہے؟",
+      "urdu_answer": "کچھ شہر صرف خواتین کے مراکز یا خواتین کے لیے مخصوص کاؤنٹرز کی میزبانی کرتے ہیں۔ دستیابی اور اوقات شاخ کے لحاظ سے مختلف ہوتے ہیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ براہ کرم تصدیق کے لیے مرکز کو کال کریں، یا 1777 / +92 51 111 786 100 پر ڈائل کریں۔"
+    },
+    {
+      "question": "Do NADRA centers have wheelchair access?",
+      "answer": "Many centers are wheelchair accessible, but facilities differ by site; confirm specific accessibility needs with the branch. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For international offices, see \"https://www.nadra.gov.pk/internationalOffices\". Phone numbers are listed for confirmation, or call 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا کے مراکز میں وہیل چیئر تک رسائی ہے؟",
+      "urdu_answer": "بہت سے مراکز وہیل چیئر تک رسائی کے قابل ہیں، لیکن سہولیات سائٹ کے لحاظ سے مختلف ہوتی ہیں۔ برانچ کے ساتھ مخصوص رسائی کی ضروریات کی تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ تصدیق کے لیے فون نمبرز درج ہیں، یا 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Disability access available at NADRA centers?",
+      "answer": "Accessibility features (e.g., ramps) vary by branch; verify with the center before you visit. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For international offices, see \"https://www.nadra.gov.pk/internationalOffices\". Use the listed contact number or dial 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا مراکز پر معذور افراد کی رسائی دستیاب ہے؟",
+      "urdu_answer": "رسائی کی خصوصیات (مثال کے طور پر، ریمپ) شاخ کے لحاظ سے مختلف ہوتی ہیں؛ اپنے دورہ سے پہلے مرکز سے تصدیق کر لیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ درج کردہ رابطہ نمبر استعمال کریں یا 1777 / +92 51 111 786 100 ڈائل کریں۔"
+    },
+    {
+      "question": "Do I need an appointment for NADRA services?",
+      "answer": "Appointment vs walk-in policies can differ by center and by service type; confirm with the selected branch. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For overseas missions, check \"https://www.nadra.gov.pk/internationalOffices\". Call the center or the helpline at 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا مجھے نادرا کی خدمات کے لیے ملاقات کی ضرورت ہے؟",
+      "urdu_answer": "اپوائنٹمنٹ بمقابلہ واک ان پالیسیاں مرکز اور سروس کی قسم کے لحاظ سے مختلف ہو سکتی ہیں۔ منتخب برانچ سے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بیرون ملک مشنز کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" کو چیک کریں۔ مرکز یا ہیلپ لائن کو 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Are walk-ins allowed at NADRA centers?",
+      "answer": "Many services support walk-ins, but some centers or services may require an appointment; please confirm beforehand. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For international offices, see \"https://www.nadra.gov.pk/internationalOffices\". Phone numbers are provided, or call 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا مراکز میں واک ان کی اجازت ہے؟",
+      "urdu_answer": "بہت سی خدمات واک اِن کی حمایت کرتی ہیں، لیکن کچھ مراکز یا خدمات کو ملاقات کی ضرورت پڑ سکتی ہے۔ براہ کرم پہلے سے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ فون نمبر فراہم کیے گئے ہیں، یا 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "How do I get a NADRA center phone number?",
+      "answer": "Contact numbers are listed against each center in the official directory; call to confirm current hours and requirements. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". For international offices, see \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں نادرا سینٹر کا فون نمبر کیسے حاصل کروں؟",
+      "urdu_answer": "رابطہ نمبر ہر مرکز کے خلاف سرکاری ڈائریکٹری میں درج ہیں۔ موجودہ اوقات اور ضروریات کی تصدیق کے لیے کال کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر کے لیے، \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "How do I get the Google map link for a NADRA center?",
+      "answer": "Map links (where available) are published alongside addresses in the directory; use them to plan your route. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\". International locations are listed at \"https://www.nadra.gov.pk/internationalOffices\". Call the center to confirm details, or dial 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں نادرا سینٹر کے لیے گوگل میپ کا لنک کیسے حاصل کرسکتا ہوں؟",
+      "urdu_answer": "نقشہ کے لنکس (جہاں دستیاب ہوں) ڈائریکٹری میں پتوں کے ساتھ شائع کیے جاتے ہیں۔ اپنے راستے کی منصوبہ بندی کے لیے ان کا استعمال کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی مقامات \"https://www.nadra.gov.pk/internationalOffices\" پر درج ہیں۔ تفصیلات کی تصدیق کے لیے مرکز کو کال کریں، یا 1777 / +92 51 111 786 100 ڈائل کریں۔"
+    },
+    {
+      "question": "Which NADRA branch is closest to my area?",
+      "answer": "The closest option depends on your locality and service; choose based on proximity, hours, and service level (e.g., Executive). You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\" and for international offices visit \"https://www.nadra.gov.pk/internationalOffices\". Call the listed number to confirm, or contact 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا کی کون سی برانچ میرے علاقے کے قریب ہے؟",
+      "urdu_answer": "قریب ترین آپشن آپ کے علاقے اور سروس پر منحصر ہے۔ قربت، گھنٹے، اور سروس کی سطح کی بنیاد پر انتخاب کریں (مثال کے طور پر، ایگزیکٹو)۔ آپ نادرا کے مقامات کی مکمل تفصیلات \"https://www.nadra.gov.pk/nadraOffices\" اور بین الاقوامی دفاتر کے لیے \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر حاصل کر سکتے ہیں۔ تصدیق کے لیے درج نمبر پر کال کریں، یا 1777 / +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Which NADRA center has shorter queues?",
+      "answer": "Footfall varies by time and center; Executive/extended-hour sites may help but always confirm current load with the branch. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\" and for international offices visit \"https://www.nadra.gov.pk/internationalOffices\". Call the center or dial 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا کے کس سنٹر میں قطاریں کم ہیں؟",
+      "urdu_answer": "فٹ فال وقت اور مرکز کے لحاظ سے مختلف ہوتا ہے۔ ایگزیکٹو/توسیع شدہ گھنٹے کی سائٹیں مدد کر سکتی ہیں لیکن برانچ کے ساتھ موجودہ بوجھ کی ہمیشہ تصدیق کرتی ہیں۔ آپ نادرا کے مقامات کی مکمل تفصیلات \"https://www.nadra.gov.pk/nadraOffices\" اور بین الاقوامی دفاتر کے لیے \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر حاصل کر سکتے ہیں۔ مرکز کو کال کریں یا 1777 / +92 51 111 786 100 ڈائل کریں۔"
+    },
+    {
+      "question": "Do NADRA centers have evening timings?",
+      "answer": "Some centers offer extended/evening hours; this varies by location and may change in Ramadan. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\" and for international offices see \"https://www.nadra.gov.pk/internationalOffices\". Please call the branch to confirm, or contact 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا مراکز میں شام کے اوقات ہوتے ہیں؟",
+      "urdu_answer": "کچھ مراکز توسیعی/شام کے اوقات پیش کرتے ہیں۔ یہ مقام کے لحاظ سے مختلف ہوتا ہے اور رمضان میں تبدیل ہو سکتا ہے۔ آپ نادرا کے مقامات کی مکمل تفصیلات \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر حاصل کر سکتے ہیں اور بین الاقوامی دفاتر کے لیے \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ براہ کرم تصدیق کے لیے برانچ کو کال کریں، یا 1777 / +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "What are NADRA office lunch/break hours?",
+      "answer": "Break/lunch intervals differ across centers and can change seasonally; verify on the day of your visit. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\" and for international offices see \"https://www.nadra.gov.pk/internationalOffices\". Use the listed number or call 1777 / +92 51 111 786 100.",
+      "urdu_question": "نادرا آفس لنچ/بریک اوقات کیا ہیں؟",
+      "urdu_answer": "وقفے/دوپہر کے کھانے کے وقفے تمام مراکز میں مختلف ہوتے ہیں اور موسمی طور پر تبدیل ہو سکتے ہیں۔ اپنے دورے کے دن تصدیق کریں۔ آپ نادرا کے مقامات کی مکمل تفصیلات \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر حاصل کر سکتے ہیں اور بین الاقوامی دفاتر کے لیے \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ درج نمبر استعمال کریں یا 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Is there a Mobile Registration Van (MRV) service in my area?",
+      "answer": "MRV availability and schedule vary by area and date; check with the nearest center/helpline for the latest plan. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\"; international offices are at \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا میرے علاقے میں موبائل رجسٹریشن وین (MRV) سروس موجود ہے؟",
+      "urdu_answer": "MRV کی دستیابی اور شیڈول علاقے اور تاریخ کے لحاظ سے مختلف ہوتے ہیں۔ تازہ ترین پلان کے لیے قریبی مرکز/ہیلپ لائن سے رابطہ کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر \"https://www.nadra.gov.pk/internationalOffices\" پر ہیں۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are quick-service kiosks available?",
+      "answer": "Kiosk/fast-track facilities may be available in selected locations; availability changes with demand. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\"; for international offices see \"https://www.nadra.gov.pk/internationalOffices\". Call the number provided, or helpline 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا فوری سروس کیوسک دستیاب ہیں؟",
+      "urdu_answer": "کیوسک/فاسٹ ٹریک کی سہولیات منتخب مقامات پر دستیاب ہو سکتی ہیں۔ طلب کے ساتھ دستیابی بدل جاتی ہے۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر کے لیے \"https://www.nadra.gov.pk/internationalOffices\" دیکھیں۔ فراہم کردہ نمبر، یا ہیلپ لائن 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Is the NADRA office open now?",
+      "answer": "Open-now status depends on the specific center and day; please confirm by calling the branch directly. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\"; international offices are listed at \"https://www.nadra.gov.pk/internationalOffices\". Helpline support: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا اب نادرا آفس کھلا ہے؟",
+      "urdu_answer": "اب کھلی حیثیت مخصوص مرکز اور دن پر منحصر ہے؛ براہ کرم برانچ کو براہ راست کال کرکے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ بین الاقوامی دفاتر \"https://www.nadra.gov.pk/internationalOffices\" پر درج ہیں۔ ہیلپ لائن سپورٹ: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are NADRA offices open on public holidays?",
+      "answer": "Public-holiday operations vary by branch and by announcement; verify with the center before visiting. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\" and for international offices visit \"https://www.nadra.gov.pk/internationalOffices\". Phone numbers are listed—call to confirm, or dial 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا کے دفاتر عام تعطیلات پر کھلے ہیں؟",
+      "urdu_answer": "عوامی تعطیل کے آپریشن برانچ اور اعلان کے لحاظ سے مختلف ہوتے ہیں۔ جانے سے پہلے مرکز سے تصدیق کر لیں۔ آپ نادرا کے مقامات کی مکمل تفصیلات \"https://www.nadra.gov.pk/nadraOffices\" اور بین الاقوامی دفاتر کے لیے \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر حاصل کر سکتے ہیں۔ فون نمبرز درج ہیں - تصدیق کے لیے کال کریں، یا 1777 / +92 51 111 786 100 ڈائل کریں۔"
+    },
+    {
+      "question": "Where can I find international NADRA offices?",
+      "answer": "NADRA maintains international counters/missions in multiple countries; services and hours vary by location. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". For domestic centers, see \"https://www.nadra.gov.pk/nadraOffices\". Call the listed number to confirm, or contact the helpline at +92 51 111 786 100 (or 1777 within Pakistan).",
+      "urdu_question": "مجھے نادرا کے بین الاقوامی دفاتر کہاں مل سکتے ہیں؟",
+      "urdu_answer": "نادرا متعدد ممالک میں بین الاقوامی کاؤنٹرز/مشن قائم کرتا ہے۔ خدمات اور گھنٹے مقام کے لحاظ سے مختلف ہوتے ہیں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" دیکھیں۔ تصدیق کے لیے درج کردہ نمبر پر کال کریں، یا +92 51 111 786 100 (یا پاکستان میں 1777) پر ہیلپ لائن سے رابطہ کریں۔"
+    },
+    {
+      "question": "International NADRA office near me?",
+      "answer": "Availability abroad depends on your country/city; services and timings differ by mission. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". For domestic centers, see \"https://www.nadra.gov.pk/nadraOffices\". Please call the mission to confirm, or dial +92 51 111 786 100.",
+      "urdu_question": "میرے قریب انٹرنیشنل نادرا آفس؟",
+      "urdu_answer": "بیرون ملک دستیابی آپ کے ملک/شہر پر منحصر ہے۔ خدمات اور اوقات مشن کے لحاظ سے مختلف ہوتے ہیں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" دیکھیں۔ براہ کرم تصدیق کے لیے مشن کو کال کریں، یا +92 51 111 786 100 ڈائل کریں۔"
+    },
+    {
+      "question": "Contact number for an international NADRA office?",
+      "answer": "Contact details are published per mission; verify timing and service scope directly with the office. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". Domestic centers are listed at \"https://www.nadra.gov.pk/nadraOffices\". Helpline: +92 51 111 786 100 (or 1777 within Pakistan).",
+      "urdu_question": "بین الاقوامی نادرا آفس کے لیے رابطہ نمبر؟",
+      "urdu_answer": "رابطے کی تفصیلات فی مشن شائع کی جاتی ہیں؛ دفتر کے ساتھ براہ راست وقت اور سروس کے دائرہ کار کی تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز \"https://www.nadra.gov.pk/nadraOffices\" پر درج ہیں۔ ہیلپ لائن: +92 51 111 786 100 (یا پاکستان میں 1777)۔"
+    },
+    {
+      "question": "Timings for international NADRA offices?",
+      "answer": "International office hours vary by country and may differ on local weekends/holidays; please confirm before traveling. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". Domestic centers are listed at \"https://www.nadra.gov.pk/nadraOffices\". Call the mission or +92 51 111 786 100.",
+      "urdu_question": "بین الاقوامی نادرا دفاتر کے اوقات؟",
+      "urdu_answer": "بین الاقوامی دفتری اوقات ملک کے لحاظ سے مختلف ہوتے ہیں اور مقامی ویک اینڈ/ چھٹیوں پر مختلف ہو سکتے ہیں۔ براہ کرم سفر سے پہلے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز \"https://www.nadra.gov.pk/nadraOffices\" پر درج ہیں۔ مشن کو کال کریں یا +92 51 111 786 100۔"
+    },
+    {
+      "question": "Do international offices offer Executive services?",
+      "answer": "Executive/priority services vary by mission and may be limited; confirm directly with the office. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". Domestic centers are listed at \"https://www.nadra.gov.pk/nadraOffices\". Helpline: +92 51 111 786 100 (or 1777 in Pakistan).",
+      "urdu_question": "کیا بین الاقوامی دفاتر ایگزیکٹو خدمات پیش کرتے ہیں؟",
+      "urdu_answer": "ایگزیکٹو/ترجیحی خدمات مشن کے لحاظ سے مختلف ہوتی ہیں اور محدود ہو سکتی ہیں۔ دفتر سے براہ راست تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز \"https://www.nadra.gov.pk/nadraOffices\" پر درج ہیں۔ ہیلپ لائن: +92 51 111 786 100 (یا پاکستان میں 1777)۔"
+    },
+    {
+      "question": "Are international NADRA offices open on weekends?",
+      "answer": "Weekend definitions and hours differ by country; check the mission’s local schedule and confirm by phone. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". Domestic offices are at \"https://www.nadra.gov.pk/nadraOffices\". Helpline: +92 51 111 786 100.",
+      "urdu_question": "کیا بین الاقوامی نادرا دفاتر ویک اینڈ پر کھلے رہتے ہیں؟",
+      "urdu_answer": "ویک اینڈ کی تعریفیں اور اوقات ملک کے لحاظ سے مختلف ہوتے ہیں۔ مشن کا مقامی شیڈول چیک کریں اور فون کے ذریعے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو دفاتر \"https://www.nadra.gov.pk/nadraOffices\" پر ہیں۔ ہیلپ لائن: +92 51 111 786 100۔"
+    },
+    {
+      "question": "Do international offices have women-only counters?",
+      "answer": "Facilities and counter policies vary by mission; please confirm with the relevant office. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". For domestic centers: \"https://www.nadra.gov.pk/nadraOffices\". Helpline: +92 51 111 786 100.",
+      "urdu_question": "کیا بین الاقوامی دفاتر میں صرف خواتین کے کاؤنٹر ہیں؟",
+      "urdu_answer": "سہولیات اور جوابی پالیسیاں مشن کے لحاظ سے مختلف ہوتی ہیں۔ براہ کرم متعلقہ دفتر سے تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز کے لیے: \"https://www.nadra.gov.pk/nadraOffices\"۔ ہیلپ لائن: +92 51 111 786 100۔"
+    },
+    {
+      "question": "Wheelchair access at international NADRA offices?",
+      "answer": "Accessibility depends on the mission’s premises; confirm your specific need before visiting. You can get the complete details for international offices by visiting \"https://www.nadra.gov.pk/internationalOffices\". Domestic centers: \"https://www.nadra.gov.pk/nadraOffices\". Helpline: +92 51 111 786 100.",
+      "urdu_question": "بین الاقوامی نادرا دفاتر میں وہیل چیئر تک رسائی؟",
+      "urdu_answer": "رسائی مشن کے احاطے پر منحصر ہے؛ آنے سے پہلے اپنی مخصوص ضرورت کی تصدیق کریں۔ آپ \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر بین الاقوامی دفاتر کی مکمل تفصیلات حاصل کر سکتے ہیں۔ گھریلو مراکز: \"https://www.nadra.gov.pk/nadraOffices\"۔ ہیلپ لائن: +92 51 111 786 100۔"
+    },
+    {
+      "question": "How can I check if a center is open late?",
+      "answer": "Late/evening hours vary; verify with the center by phone as schedules can change due to workload or season. You can get the complete details for NADRA locations by visiting \"https://www.nadra.gov.pk/nadraOffices\" and international offices at \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں کیسے چیک کر سکتا ہوں کہ کوئی سنٹر دیر سے کھلا ہے؟",
+      "urdu_answer": "دیر/شام کے اوقات مختلف ہوتے ہیں۔ مرکز سے فون کے ذریعے تصدیق کریں کیونکہ کام کے بوجھ یا موسم کی وجہ سے شیڈول تبدیل ہو سکتے ہیں۔ آپ \"https://www.nadra.gov.pk/nadraOffices\" اور بین الاقوامی دفاتر \"https://www.nadra.gov.pk/internationalOffices\" پر جا کر نادرا کے مقامات کی مکمل تفصیلات حاصل کر سکتے ہیں۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Do I need to bring any documents before visiting a center?",
+      "answer": "Document requirements depend on the service (e.g., CNIC/NICOP/POC/FRC/CRC) and may vary; confirm with the center or check service guidelines beforehand. For center contacts and addresses, see \"https://www.nadra.gov.pk/nadraOffices\"; international missions are at \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا مجھے سنٹر جانے سے پہلے کوئی دستاویزات لانے کی ضرورت ہے؟",
+      "urdu_answer": "دستاویز کے تقاضے سروس پر منحصر ہیں (مثلاً، CNIC/NICOP/POC/FRC/CRC) اور مختلف ہو سکتے ہیں۔ مرکز سے تصدیق کریں یا خدمت کے رہنما خطوط پہلے سے چیک کریں۔ مرکز کے رابطوں اور پتے کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" دیکھیں؛ بین الاقوامی مشن \"https://www.nadra.gov.pk/internationalOffices\" پر ہیں۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Can I book an appointment online?",
+      "answer": "Appointment mechanisms differ by center/service; some locations may support online booking while others rely on walk-ins/tokens. For the correct link and phone number, see \"https://www.nadra.gov.pk/nadraOffices\"; international missions: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا میں آن لائن اپائنٹمنٹ بک کر سکتا ہوں؟",
+      "urdu_answer": "مرکز/سروس کے لحاظ سے تقرری کا طریقہ کار مختلف ہوتا ہے۔ کچھ مقامات آن لائن بکنگ کی حمایت کر سکتے ہیں جبکہ دیگر واک ان/ٹوکن پر انحصار کرتے ہیں۔ درست لنک اور فون نمبر کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" دیکھیں؛ بین الاقوامی مشن: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "How do I confirm fees and availability before visiting?",
+      "answer": "Fees depend on service type/priority and are separate from location details; confirm current fees and hours by calling the center. For contact details, see \"https://www.nadra.gov.pk/nadraOffices\"; for overseas: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں آنے سے پہلے فیس اور دستیابی کی تصدیق کیسے کروں؟",
+      "urdu_answer": "فیس سروس کی قسم/ترجیح پر منحصر ہے اور مقام کی تفصیلات سے الگ ہے۔ سنٹر پر کال کرکے موجودہ فیس اور اوقات کی تصدیق کریں۔ رابطے کی تفصیلات کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" دیکھیں؛ بیرون ملک مقیم کے لیے: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are tokens issued late in the evening?",
+      "answer": "Token issuance is center-specific and may close earlier than the office; please confirm with the branch by phone. For contacts/addresses, see \"https://www.nadra.gov.pk/nadraOffices\"; international missions: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا ٹوکن دیر شام جاری کیے جاتے ہیں؟",
+      "urdu_answer": "ٹوکن کا اجراء مرکز کے لیے مخصوص ہے اور دفتر سے پہلے بند ہو سکتا ہے۔ براہ کرم برانچ سے فون پر تصدیق کریں۔ رابطوں/پتے کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" دیکھیں؛ بین الاقوامی مشن: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "How early should I arrive at a NADRA center?",
+      "answer": "Arrival time depends on expected footfall and whether you’re using Executive/priority services; calling ahead helps avoid delays. For numbers and addresses, visit \"https://www.nadra.gov.pk/nadraOffices\"; international offices are at \"https://www.nadra.gov.pk/internationalOffices\". Helpline support: 1777 / +92 51 111 786 100.",
+      "urdu_question": "مجھے نادرا سنٹر میں کتنی جلدی پہنچنا چاہئے؟",
+      "urdu_answer": "آمد کا وقت متوقع تعداد پر منحصر ہے اور آیا آپ ایگزیکٹو/ترجیحی خدمات استعمال کر رہے ہیں۔ آگے کال کرنے سے تاخیر سے بچنے میں مدد ملتی ہے۔ نمبروں اور پتوں کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" پر جائیں؛ بین الاقوامی دفاتر \"https://www.nadra.gov.pk/internationalOffices\" پر ہیں۔ ہیلپ لائن سپورٹ: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Is any NADRA office closed today?",
+      "answer": "Closures or shortened hours can occur due to local circumstances, holidays, or maintenance; check and confirm same-day status by phone. For the directory, see \"https://www.nadra.gov.pk/nadraOffices\" and international missions at \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا آج کوئی نادرا آفس بند ہے؟",
+      "urdu_answer": "مقامی حالات، تعطیلات، یا دیکھ بھال کی وجہ سے بندش یا مختصر گھنٹے ہو سکتے ہیں۔ فون کے ذریعے اسی دن کی حیثیت کی جانچ اور تصدیق کریں۔ ڈائریکٹری کے لیے، \"https://www.nadra.gov.pk/nadraOffices\" اور بین الاقوامی مشنز کو \"https://www.nadra.gov.pk/internationalOffices\" پر دیکھیں۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "How do I get center address and contact details?",
+      "answer": "Each listing shows address and phone; some entries also provide map links. Use the directory to find and call your chosen center. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں مرکز کا پتہ اور رابطے کی تفصیلات کیسے حاصل کروں؟",
+      "urdu_answer": "ہر فہرست میں پتہ اور فون دکھاتا ہے۔ کچھ اندراجات نقشے کے لنکس بھی فراہم کرتے ہیں۔ اپنے منتخب کردہ مرکز کو تلاش کرنے اور کال کرنے کے لیے ڈائریکٹری کا استعمال کریں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are centers open during bad weather or strikes?",
+      "answer": "Service continuity can be affected locally; confirm on the day of visit with the center by phone. Directory: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا خراب موسم یا ہڑتالوں کے دوران مراکز کھلے ہیں؟",
+      "urdu_answer": "سروس کا تسلسل مقامی طور پر متاثر ہو سکتا ہے۔ وزٹ کے دن مرکز سے فون پر تصدیق کریں۔ ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Do NADRA centers provide parking?",
+      "answer": "Parking and other on-site facilities vary by center; please verify directly with the branch. Listings at \"https://www.nadra.gov.pk/nadraOffices\"; international missions at \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا سینٹرز پارکنگ فراہم کرتے ہیں؟",
+      "urdu_answer": "پارکنگ اور سائٹ پر دیگر سہولیات مرکز کے لحاظ سے مختلف ہوتی ہیں۔ براہ کرم برانچ سے براہ راست تصدیق کریں۔ فہرستیں \"https://www.nadra.gov.pk/nadraOffices\" پر؛ بین الاقوامی مشن \"https://www.nadra.gov.pk/internationalOffices\" پر۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are there dedicated counters for senior citizens?",
+      "answer": "Some centers provide priority/ladies/senior counters depending on capacity; confirm with the branch before visiting. For contacts/addresses: \"https://www.nadra.gov.pk/nadraOffices\"; for overseas offices: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا بزرگ شہریوں کے لیے مخصوص کاؤنٹر ہیں؟",
+      "urdu_answer": "کچھ مراکز صلاحیت کے لحاظ سے ترجیحی/خواتین/سینئر کاؤنٹر فراہم کرتے ہیں۔ وزٹ کرنے سے پہلے برانچ سے تصدیق کریں۔ رابطوں/پتے کے لیے: \"https://www.nadra.gov.pk/nadraOffices\"؛ بیرون ملک مقیم دفاتر کے لیے: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Can I verify availability before visiting?",
+      "answer": "Yes—use the listed phone number to confirm hours, services, and crowd levels for the day. Directory: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline support: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا میں دورہ کرنے سے پہلے دستیابی کی تصدیق کر سکتا ہوں؟",
+      "urdu_answer": "ہاں — دن کے اوقات، خدمات اور ہجوم کی سطح کی تصدیق کرنے کے لیے درج کردہ فون نمبر کا استعمال کریں۔ ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن سپورٹ: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "NADRA office kidhar hai? (Urdu/Roman Urdu)",
+      "answer": "Aap ke ilaqay ke mutabiq kai centers mojood hotay hain; kuch jagahon par extended ya 24/7 timings bhi hoti hain. Tafseeli address, timing aur phone number ke liye official directory dekhein. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Tasdeeq ke liye listed number par call karein ya 1777 / +92 51 111 786 100 par rabta karein.",
+      "urdu_question": "نادرا آفس کہاں ہے؟ (اردو/رومن اردو)",
+      "urdu_answer": "آپ کے علاقے میں کئی مراکز واقع ہیں۔ کچھ مقامات پر 24/7 کے اوقات بھی بڑھا دیے گئے ہیں۔ تفصیلی پتے، اوقات اور فون نمبرز کے لیے آفیشل ڈائرکٹری دیکھیں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ تصدق کے لیے درج کردہ نمبروں پر کال کریں یا 1777 / +92 51 111 786 100 پر رابطہ کریں۔"
+    },
+    {
+      "question": "Sunday ko NADRA khula hota hai? (Urdu/Roman Urdu)",
+      "answer": "Kuch centers Sunday ko khulay hotay hain jab ke kuch band rehte hain—ye branch-specific hota hai. Barah-e-karam visit se pehle tasdeeq kar lein. Directory: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا اتوار کو کھلا ہے؟ (اردو/رومن اردو)",
+      "urdu_answer": "کچھ مراکز اتوار کو کھلے رہتے ہیں جبکہ دوسرے بند ہوتے ہیں- یہ شاخ کے لیے مخصوص ہے۔ زیارت سے پہلے بارہِ کرم کی تصدیق کر لیں۔ ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Wheelchair access hai? (Urdu/Roman Urdu)",
+      "answer": "Aksar centers wheelchair-accessible hotay hain magar sahulat har jagah mukhtalif ho sakti hai; branch se pehle phone par tasdeeq kar lein. Directory: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا وہیل چیئر تک رسائی ہے؟ (اردو/رومن اردو)",
+      "urdu_answer": "مراکز اکثر وہیل چیئر کے ذریعے قابل رسائی ہوتے ہیں، لیکن سہولیات جگہ جگہ مختلف ہو سکتی ہیں۔ برانچ جانے سے پہلے براہ کرم فون پر چیک کریں۔ ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Executive center kahan milay ga? (Urdu/Roman Urdu)",
+      "answer": "Executive/priority counters kuch selected centers par hotay hain; availability aur timing branch ke mutabiq hoti hai. Tafseel ke liye directory dekhein. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "مجھے ایگزیکٹو سینٹر کہاں مل سکتا ہے؟ (اردو/رومن اردو)",
+      "urdu_answer": "ایگزیکٹو/ترجیحی کاؤنٹر منتخب مراکز پر واقع ہیں۔ دستیابی اور اوقات برانچ کے لحاظ سے مختلف ہوتے ہیں۔ تفصیلات کے لیے ڈائریکٹری دیکھیں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are there women-only counters at NADRA?",
+      "answer": "Dedicated ladies counters may be available at certain centers; policies vary by site and capacity. See the official directory and confirm by phone. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا نادرا میں صرف خواتین کے کاؤنٹر ہیں؟",
+      "urdu_answer": "مخصوص مراکز پر خواتین کے لیے مخصوص کاؤنٹر دستیاب ہو سکتے ہیں۔ پالیسیاں سائٹ اور صلاحیت کے لحاظ سے مختلف ہوتی ہیں۔ آفیشل ڈائرکٹری دیکھیں اور فون کے ذریعے تصدیق کریں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "How do I find a center with extended hours?",
+      "answer": "Extended/evening or 24/7 hours are offered at selected locations and can change; verify with the center on the day. Directory: \"https://www.nadra.gov.pk/nadraOffices\"; International directory: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں توسیع شدہ اوقات کے ساتھ مرکز کیسے تلاش کروں؟",
+      "urdu_answer": "توسیع شدہ/شام یا 24/7 گھنٹے منتخب مقامات پر پیش کیے جاتے ہیں اور بدل سکتے ہیں۔ اس دن مرکز سے تصدیق کریں۔ ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی ڈائریکٹری: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Can I get token details before visiting?",
+      "answer": "Token issuance and cut-off times are center-specific and may end before closing; confirm by calling the branch. Listings: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline support: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا میں وزٹ کرنے سے پہلے ٹوکن کی تفصیلات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ٹوکن کے اجراء اور کٹ آف کے اوقات مرکز کے لیے مخصوص ہیں اور بند ہونے سے پہلے ختم ہو سکتے ہیں۔ برانچ کو کال کرکے تصدیق کریں۔ فہرستیں: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن سپورٹ: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Do centers display a map or directions?",
+      "answer": "Many entries include a map link or detailed address; use the official directory to view and confirm directions. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". For questions, call 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا مراکز نقشہ یا سمت دکھاتے ہیں؟",
+      "urdu_answer": "بہت سے اندراجات میں نقشہ کا لنک یا تفصیلی پتہ شامل ہوتا ہے۔ ہدایات دیکھنے اور تصدیق کرنے کے لیے آفیشل ڈائرکٹری کا استعمال کریں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ سوالات کے لیے، 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "How do I get a center’s email or alternate contact?",
+      "answer": "Contact modes vary by center/mission; the directory lists official numbers and available links. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". For assistance, call 1777 / +92 51 111 786 100.",
+      "urdu_question": "میں مرکز کا ای میل یا متبادل رابطہ کیسے حاصل کروں؟",
+      "urdu_answer": "رابطے کے طریقے مرکز/مشن کے لحاظ سے مختلف ہوتے ہیں۔ ڈائرکٹری میں سرکاری نمبرز اور دستیاب لنکس درج ہیں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ مدد کے لیے، 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Are there special counters for senior citizens or persons with disabilities?",
+      "answer": "Priority counters may be available depending on branch capacity; confirm availability and timing by phone. Directory: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا بزرگ شہریوں یا معذور افراد کے لیے خصوصی کاؤنٹر ہیں؟",
+      "urdu_answer": "ترجیحی کاؤنٹر شاخ کی گنجائش کے لحاظ سے دستیاب ہو سکتے ہیں۔ فون کے ذریعے دستیابی اور وقت کی تصدیق کریں۔ ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Can I verify required service availability (e.g., CNIC/NICOP/POC) at a center?",
+      "answer": "Service menus differ by center; confirm CNIC/NICOP/POC or other services directly with the branch/mission. Domestic directory: \"https://www.nadra.gov.pk/nadraOffices\"; International directory: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا میں کسی مرکز میں مطلوبہ خدمات کی دستیابی (مثلاً CNIC/NICOP/POC) کی تصدیق کر سکتا ہوں؟",
+      "urdu_answer": "سروس مینو مرکز کے لحاظ سے مختلف ہوتے ہیں۔ براہ راست برانچ/مشن سے CNIC/NICOP/POC یا دیگر خدمات کی تصدیق کریں۔ گھریلو ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی ڈائریکٹری: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Are there any fees to enter a center?",
+      "answer": "No entry fee is charged; official service fees apply by product/priority. Confirm details with the center before visiting. For contact info, see Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا سینٹر میں داخلے کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "کوئی داخلہ فیس نہیں لی جاتی ہے۔ سرکاری سروس فیس پروڈکٹ/ترجیح کے لحاظ سے لاگو ہوتی ہے۔ دورہ کرنے سے پہلے مرکز سے تفصیلات کی تصدیق کریں۔ رابطہ کی معلومات کے لیے، ڈومیسٹک دیکھیں: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Is there a dress code or security check at centers?",
+      "answer": "Standard security checks may apply; local instructions vary. Confirm any special requirements by calling ahead. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". For questions, call 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا مراکز پر ڈریس کوڈ یا سیکورٹی چیک ہے؟",
+      "urdu_answer": "معیاری سیکورٹی چیک لاگو ہو سکتے ہیں؛ مقامی ہدایات مختلف ہوتی ہیں۔ آگے کال کرکے کسی خاص تقاضے کی تصدیق کریں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ سوالات کے لیے، 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "How long do centers usually take for token processing?",
+      "answer": "Processing time depends on crowd/center capacity and service type; Executive counters may be faster but confirm in advance. For contacts, Domestic directory: \"https://www.nadra.gov.pk/nadraOffices\"; International directory: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 / +92 51 111 786 100.",
+      "urdu_question": "مراکز عام طور پر ٹوکن پروسیسنگ میں کتنا وقت لیتے ہیں؟",
+      "urdu_answer": "پروسیسنگ کا وقت بھیڑ/مرکز کی صلاحیت اور سروس کی قسم پر منحصر ہے۔ ایگزیکٹو کاؤنٹر تیز ہو سکتے ہیں لیکن پہلے سے تصدیق کریں۔ رابطوں کے لیے، گھریلو ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی ڈائریکٹری: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Can I get help finding the right center for my service?",
+      "answer": "Yes—use the directory to filter by your location and call the center to confirm service availability and hours. Domestic: \"https://www.nadra.gov.pk/nadraOffices\"; International: \"https://www.nadra.gov.pk/internationalOffices\". Helpline support: 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا میں اپنی خدمت کے لیے صحیح مرکز تلاش کرنے میں مدد حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں — اپنے مقام کے مطابق فلٹر کرنے کے لیے ڈائریکٹری کا استعمال کریں اور سروس کی دستیابی اور اوقات کی تصدیق کے لیے مرکز کو کال کریں۔ گھریلو: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن سپورٹ: 1777 / +92 51 111 786 100۔"
+    },
+    {
+      "question": "Do centers accept card payments?",
+      "answer": "Payment options can vary; confirm accepted modes directly with the center/mission. Domestic directory: \"https://www.nadra.gov.pk/nadraOffices\"; International directory: \"https://www.nadra.gov.pk/internationalOffices\". For assistance, call 1777 / +92 51 111 786 100.",
+      "urdu_question": "کیا مراکز کارڈ کی ادائیگی قبول کرتے ہیں؟",
+      "urdu_answer": "ادائیگی کے اختیارات مختلف ہو سکتے ہیں۔ مرکز/مشن کے ساتھ براہ راست قبول شدہ طریقوں کی تصدیق کریں۔ گھریلو ڈائریکٹری: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی ڈائریکٹری: \"https://www.nadra.gov.pk/internationalOffices\"۔ مدد کے لیے، 1777 / +92 51 111 786 100 پر کال کریں۔"
+    },
+    {
+      "question": "Can I contact NADRA for location help if I cannot access the website?",
+      "answer": "Yes—call the NADRA helpline for guidance and contact details for a nearby center/mission. Domestic centers: \"https://www.nadra.gov.pk/nadraOffices\"; International offices: \"https://www.nadra.gov.pk/internationalOffices\". Helpline: 1777 (mobile) or +92 51 111 786 100.",
+      "urdu_question": "اگر میں ویب سائٹ تک رسائی حاصل نہیں کر سکتا ہوں تو کیا میں مقام کی مدد کے لیے نادرا سے رابطہ کر سکتا ہوں؟",
+      "urdu_answer": "ہاں — رہنمائی کے لیے نادرا ہیلپ لائن پر کال کریں اور قریبی مرکز/مشن کے لیے رابطہ کی تفصیلات حاصل کریں۔ گھریلو مراکز: \"https://www.nadra.gov.pk/nadraOffices\"؛ بین الاقوامی دفاتر: \"https://www.nadra.gov.pk/internationalOffices\"۔ ہیلپ لائن: 1777 (موبائل) یا +92 51 111 786 100۔"
+    }
+  ]
+}

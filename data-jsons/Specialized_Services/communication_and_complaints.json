@@ -1,0 +1,337 @@
+{
+  "file_name": "communication_and_complaints.json",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 55,
+  "qa_data": [
+    {
+      "question": "What are the different ways to communicate with NADRA?",
+      "answer": "Stakeholders can communicate with NADRA through various channels: NADRA Centralized Complaint Management System (NCCMS), 24/7 Call Center Support & Self-Service IVR, Prime Minister's Performance Delivery Unit (PMDU), Complaint Register at NRCs and Walk-in at Regional Offices, Khuli/e-Kacheri (Open Forums), Social Media Engagement, Email, and WhatsApp Channel.",
+      "urdu_question": "نادرا کے ساتھ بات چیت کے مختلف طریقے کیا ہیں؟",
+      "urdu_answer": "اسٹیک ہولڈرز مختلف چینلز کے ذریعے نادرا کے ساتھ بات چیت کر سکتے ہیں: نادرا سنٹرلائزڈ کمپلینٹ مینجمنٹ سسٹم (این سی سی ایم ایس)، 24/7 کال سینٹر سپورٹ اینڈ سیلف سروس آئی وی آر، پرائم منسٹرز پرفارمنس ڈیلیوری یونٹ (پی ایم ڈی یو)، این آر سی میں شکایت کا اندراج اور علاقائی دفاتر میں واک ان، سوشل میڈیا کے لیے۔ مشغولیت، ای میل، اور واٹس ایپ چینل۔"
+    },
+    {
+      "question": "What happens when you submit a complaint to NADRA?",
+      "answer": "When contacting NADRA to submit a complaint, a unique query number is provided for the purpose of tracking. This allows applicants to follow up on their complaint status and ensures proper case management.",
+      "urdu_question": "جب آپ نادرا کو شکایت جمع کراتے ہیں تو کیا ہوتا ہے؟",
+      "urdu_answer": "شکایت جمع کرانے کے لیے نادرا سے رابطہ کرنے پر، ٹریکنگ کے مقصد کے لیے ایک منفرد سوال نمبر فراہم کیا جاتا ہے۔ یہ درخواست دہندگان کو ان کی شکایت کی حیثیت پر عمل کرنے کی اجازت دیتا ہے اور کیس کے مناسب انتظام کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What is NADRA's complaint resolution rate and timeframe?",
+      "answer": "Approximately 93% of complaints are resolved within seven days. If a complaint remains unresolved within this period, it is escalated to the higher management to ensure swift resolution.",
+      "urdu_question": "نادرا کی شکایت کے حل کی شرح اور ٹائم فریم کیا ہے؟",
+      "urdu_answer": "تقریباً 93% شکایات سات دنوں کے اندر حل ہو جاتی ہیں۔ اگر کوئی شکایت اس مدت کے اندر حل نہیں ہوتی ہے، تو اسے فوری حل کو یقینی بنانے کے لیے اعلیٰ انتظامیہ تک پہنچایا جاتا ہے۔"
+    },
+    {
+      "question": "What is NCCMS and how can it be accessed?",
+      "answer": "NCCMS stands for NADRA Centralized Complaint Management System. It is an online complaint management system accessible at https://complaints.nadra.gov.pk where users can submit and track their complaints digitally.",
+      "urdu_question": "NCCMS کیا ہے اور اس تک کیسے رسائی حاصل کی جا سکتی ہے؟",
+      "urdu_answer": "NCCMS کا مطلب ہے نادرا سنٹرلائزڈ کمپلینٹ مینجمنٹ سسٹم۔ یہ ایک آن لائن شکایات کا انتظام کرنے والا نظام ہے جو https://complaints.nadra.gov.pk پر قابل رسائی ہے جہاں صارفین اپنی شکایات کو ڈیجیٹل طور پر جمع کر سکتے ہیں اور ٹریک کر سکتے ہیں۔"
+    },
+    {
+      "question": "What are NADRA's helpline numbers?",
+      "answer": "Customers can contact NADRA helpline numbers at 1777 or 051-111-786-100 for immediate support. These provide 24/7 Call Center Support through IVR (Interactive Voice Response) or by talking directly to a call center executive.",
+      "urdu_question": "نادرا کے ہیلپ لائن نمبرز کیا ہیں؟",
+      "urdu_answer": "صارفین فوری مدد کے لیے نادرا کے ہیلپ لائن نمبر 1777 یا 051-111-786-100 پر رابطہ کر سکتے ہیں۔ یہ IVR (انٹرایکٹو وائس رسپانس) کے ذریعے یا کال سینٹر کے ایگزیکٹو سے براہ راست بات کرکے 24/7 کال سینٹر سپورٹ فراہم کرتے ہیں۔"
+    },
+    {
+      "question": "What is the difference between 1777 and 051-111-786-100?",
+      "answer": "Both 1777 and 051-111-786-100 are NADRA helpline numbers providing 24/7 call center support. Customers can use either number for immediate support through IVR or by talking directly to a call center executive.",
+      "urdu_question": "1777 اور 051-111-786-100 کے درمیان کیا فرق ہے؟",
+      "urdu_answer": "1777 اور 051-111-786-100 دونوں نادرا کے ہیلپ لائن نمبر ہیں جو 24/7 کال سینٹر سپورٹ فراہم کرتے ہیں۔ صارفین IVR کے ذریعے یا کال سینٹر کے ایگزیکٹو سے براہ راست بات کر کے فوری مدد کے لیے یا تو نمبر استعمال کر سکتے ہیں۔"
+    },
+    {
+      "question": "What is PMDU and how does NADRA perform on this platform?",
+      "answer": "PMDU stands for Prime Minister's Performance Delivery Unit. This is the Complaint Portal of the Prime Minister Office for complaints regarding public organizations. NADRA has achieved 98% resolution of complaints on PMDU, with the highest citizen satisfaction rate at 69%.",
+      "urdu_question": "PMDU کیا ہے اور نادرا اس پلیٹ فارم پر کیسے کام کرتا ہے؟",
+      "urdu_answer": "PMDU کا مطلب پرائم منسٹر پرفارمنس ڈیلیوری یونٹ ہے۔ یہ عوامی تنظیموں سے متعلق شکایات کے لیے وزیر اعظم آفس کا شکایتی پورٹل ہے۔ نادرا نے PMDU پر شکایات کا 98 فیصد حل حاصل کر لیا ہے، جس میں شہریوں کی سب سے زیادہ اطمینان کی شرح 69 فیصد ہے۔"
+    },
+    {
+      "question": "How can people submit complaints at NADRA Registration Centers?",
+      "answer": "For assistance and to resolve enrollment/registration issues and guidance, individuals can walk in to the respective regional offices. Grievances through this channel are properly recorded on a complaint register placed in a prominent place at each NRC, and their resolution is ensured within 15 days.",
+      "urdu_question": "لوگ نادرا رجسٹریشن سینٹرز پر شکایات کیسے جمع کر سکتے ہیں؟",
+      "urdu_answer": "مدد کے لیے اور اندراج/رجسٹریشن کے مسائل اور رہنمائی کے لیے، افراد متعلقہ علاقائی دفاتر میں جا سکتے ہیں۔ اس چینل کے ذریعے شکایات کو ہر NRC میں نمایاں جگہ پر رکھے گئے شکایت رجسٹر پر مناسب طریقے سے درج کیا جاتا ہے، اور ان کا حل 15 دنوں کے اندر یقینی بنایا جاتا ہے۔"
+    },
+    {
+      "question": "What is the resolution timeframe for complaints submitted at NRCs?",
+      "answer": "Complaints submitted through the complaint register at NRCs and walk-in at regional offices have their resolution ensured within 15 days.",
+      "urdu_question": "NRCs میں جمع کرائی گئی شکایات کے حل کا ٹائم فریم کیا ہے؟",
+      "urdu_answer": "NRCs میں شکایت رجسٹر اور علاقائی دفاتر میں واک ان کے ذریعے جمع کرائی گئی شکایات کو 15 دنوں کے اندر حل کرنے کو یقینی بنایا گیا ہے۔"
+    },
+    {
+      "question": "What are Khuli/e-Kacheri forums?",
+      "answer": "Khuli/e-Kacheri are open forums where the Chairman and the RROs (Regional Registration Officers) directly address public grievances. These forums are conducted each month via calls and social media platforms.",
+      "urdu_question": "کھلی/کچیری فورمز کیا ہیں؟",
+      "urdu_answer": "کھلی/کچیری کھلے فورم ہیں جہاں چیئرمین اور آر آر اوز (ریجنل رجسٹریشن آفیسرز) براہ راست عوامی شکایات کا ازالہ کرتے ہیں۔ یہ فورمز ہر ماہ کالز اور سوشل میڈیا پلیٹ فارمز کے ذریعے منعقد کیے جاتے ہیں۔"
+    },
+    {
+      "question": "How frequently are Khuli/e-Kacheri forums conducted?",
+      "answer": "Khuli/e-Kacheri or open forums are conducted each month via calls and social media platforms, providing regular opportunities for citizens to directly interact with NADRA leadership.",
+      "urdu_question": "کھلی/کچیری فورمز کتنی کثرت سے منعقد کیے جاتے ہیں؟",
+      "urdu_answer": "کھلی/ای-کچیری یا اوپن فورمز ہر ماہ کالز اور سوشل میڈیا پلیٹ فارمز کے ذریعے منعقد کیے جاتے ہیں، جو شہریوں کو نادرا کی قیادت سے براہ راست بات چیت کرنے کے باقاعدہ مواقع فراہم کرتے ہیں۔"
+    },
+    {
+      "question": "What is NADRA's Facebook page?",
+      "answer": "NADRA maintains an active presence on Facebook at @NadraPakistanOffical where users can engage with NADRA and receive updates about services and announcements.",
+      "urdu_question": "نادرا کا فیس بک پیج کیا ہے؟",
+      "urdu_answer": "نادرا نے @NadraPakistanOffical پر فیس بک پر ایک فعال موجودگی برقرار رکھی ہے جہاں صارفین نادرا کے ساتھ منسلک ہو سکتے ہیں اور خدمات اور اعلانات کے بارے میں اپ ڈیٹس حاصل کر سکتے ہیں۔"
+    },
+    {
+      "question": "What is NADRA's Twitter handle?",
+      "answer": "NADRA's official Twitter handle is @NadraPak where they maintain an active social media presence for public engagement and information sharing.",
+      "urdu_question": "نادرا کا ٹوئٹر ہینڈل کیا ہے؟",
+      "urdu_answer": "نادرا کا آفیشل ٹویٹر ہینڈل @NadraPak ہے جہاں وہ عوامی مصروفیت اور معلومات کے تبادلے کے لیے سوشل میڈیا کی ایک فعال موجودگی کو برقرار رکھتے ہیں۔"
+    },
+    {
+      "question": "What is NADRA's official email for support?",
+      "answer": "For users who prefer email communication, NADRA provides support through csd@nadra.gov.pk for customer service and general inquiries.",
+      "urdu_question": "سپورٹ کے لیے نادرا کی آفیشل ای میل کیا ہے؟",
+      "urdu_answer": "ای میل مواصلات کو ترجیح دینے والے صارفین کے لیے، نادرا کسٹمر سروس اور عام پوچھ گچھ کے لیے csd@nadra.gov.pk کے ذریعے مدد فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Does NADRA have a WhatsApp channel?",
+      "answer": "Yes, NADRA has an official WhatsApp Channel for official updates. Users can follow this channel at: https://www.whatsapp.com/channel/0029VaH7JG2I1rckS9XnTg23",
+      "urdu_question": "کیا نادرا کے پاس واٹس ایپ چینل ہے؟",
+      "urdu_answer": "ہاں، نادرا کے پاس آفیشل اپ ڈیٹس کے لیے ایک آفیشل واٹس ایپ چینل ہے۔ صارفین اس چینل کو فالو کر سکتے ہیں: https://www.whatsapp.com/channel/0029VaH7JG2I1rckS9XnTg23"
+    },
+    {
+      "question": "What social media platforms does NADRA use for public engagement?",
+      "answer": "NADRA maintains an active presence on multiple social media platforms including Facebook (@NadraPakistanOffical), Twitter (@NadraPak), Email (csd@nadra.gov.pk), and WhatsApp Channel for official updates and public engagement.",
+      "urdu_question": "نادرا عوامی مصروفیات کے لیے کون سے سوشل میڈیا پلیٹ فارم استعمال کرتا ہے؟",
+      "urdu_answer": "نادرا متعدد سوشل میڈیا پلیٹ فارمز پر فعال موجودگی کو برقرار رکھتا ہے جس میں فیس بک (@NadraPakistanOffical)، ٹویٹر (@NadraPak)، ای میل (csd@nadra.gov.pk)، اور سرکاری اپ ڈیٹس اور عوامی مصروفیت کے لیے واٹس ایپ چینل شامل ہیں۔"
+    },
+    {
+      "question": "Who participates in Khuli/e-Kacheri forums from NADRA's side?",
+      "answer": "The Chairman and the RROs (Regional Registration Officers) directly address public grievances in Khuli/e-Kacheri open forums, providing high-level attention to citizen concerns.",
+      "urdu_question": "کون کون نادرا کی طرف سے کھلی/کچیری فورمز میں شرکت کرتا ہے؟",
+      "urdu_answer": "چیئرمین اور RROs (علاقائی رجسٹریشن آفیسرز) کھلی/کچیری کھلے فورمز میں عوامی شکایات کا براہ راست ازالہ کرتے ہیں، شہریوں کے خدشات پر اعلیٰ سطحی توجہ دیتے ہیں۔"
+    },
+    {
+      "question": "What is NADRA's performance on the Prime Minister's complaint portal?",
+      "answer": "On the Prime Minister's Performance Delivery Unit (PMDU) complaint portal, NADRA has achieved 98% resolution of complaints, with the highest citizen satisfaction rate at 69% among public organizations.",
+      "urdu_question": "وزیراعظم کے شکایتی پورٹل پر نادرا کی کارکردگی کیا ہے؟",
+      "urdu_answer": "پرائم منسٹر پرفارمنس ڈیلیوری یونٹ (PMDU) کمپلینٹ پورٹل پر، نادرا نے شکایات کا 98 فیصد حل حاصل کر لیا ہے، عوامی اداروں میں سب سے زیادہ شہریوں کے اطمینان کی شرح 69 فیصد ہے۔"
+    },
+    {
+      "question": "How are complaints tracked in NADRA's system?",
+      "answer": "When submitting a complaint to NADRA, a unique query number is provided for tracking purposes. This allows applicants to monitor the status and progress of their complaint through the system.",
+      "urdu_question": "نادرا کے سسٹم میں شکایات کو کیسے ٹریک کیا جاتا ہے؟",
+      "urdu_answer": "نادرا کو شکایت جمع کراتے وقت، ٹریکنگ کے مقاصد کے لیے ایک منفرد سوال نمبر فراہم کیا جاتا ہے۔ یہ درخواست دہندگان کو سسٹم کے ذریعے اپنی شکایت کی حیثیت اور پیشرفت کی نگرانی کرنے کی اجازت دیتا ہے۔"
+    },
+    {
+      "question": "What happens if a complaint is not resolved within seven days?",
+      "answer": "If a complaint remains unresolved within the seven-day period, it is escalated to the higher management to ensure swift resolution and prevent delays.",
+      "urdu_question": "اگر کوئی شکایت سات دنوں کے اندر حل نہیں ہوتی ہے تو کیا ہوگا؟",
+      "urdu_answer": "اگر کوئی شکایت سات دن کی مدت میں حل نہیں ہوتی ہے، تو اسے فوری حل کو یقینی بنانے اور تاخیر کو روکنے کے لیے اعلیٰ انتظامیہ تک پہنچایا جاتا ہے۔"
+    },
+    {
+      "question": "Can people visit NADRA offices directly for complaints?",
+      "answer": "Yes, individuals can walk in to the respective regional offices for assistance and to resolve enrollment/registration issues and guidance. Grievances are properly recorded on a complaint register placed prominently at each NRC.",
+      "urdu_question": "کیا لوگ شکایات کے لیے براہ راست نادرا آفس جا سکتے ہیں؟",
+      "urdu_answer": "ہاں، افراد مدد کے لیے اور اندراج/رجسٹریشن کے مسائل اور رہنمائی کے لیے متعلقہ علاقائی دفاتر میں جا سکتے ہیں۔ شکایات کو ہر NRC پر نمایاں طور پر رکھے گئے شکایت رجسٹر پر مناسب طریقے سے درج کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is the role of complaint registers at NRCs?",
+      "answer": "Complaint registers are placed in a prominent place at each NRC where grievances are properly recorded. This ensures that walk-in complaints are formally documented and their resolution is ensured within 15 days.",
+      "urdu_question": "NRCs میں شکایت کے اندراج کا کیا کردار ہے؟",
+      "urdu_answer": "شکایت کے رجسٹر ہر NRC میں ایک نمایاں جگہ پر رکھے جاتے ہیں جہاں شکایات کو صحیح طریقے سے درج کیا جاتا ہے۔ یہ اس بات کو یقینی بناتا ہے کہ واک ان شکایات کو باضابطہ طور پر دستاویز کیا جائے اور 15 دنوں کے اندر ان کا حل یقینی بنایا جائے۔"
+    },
+    {
+      "question": "How does NADRA ensure transparency in complaint handling?",
+      "answer": "NADRA ensures transparency through multiple channels including online tracking with unique query numbers, complaint registers in prominent places at NRCs, regular open forums with leadership, and active social media engagement for public accountability.",
+      "urdu_question": "نادرا شکایات سے نمٹنے میں شفافیت کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "نادرا متعدد چینلز کے ذریعے شفافیت کو یقینی بناتا ہے جس میں منفرد سوال نمبروں کے ساتھ آن لائن ٹریکنگ، NRCs میں نمایاں جگہوں پر شکایت کے اندراج، قیادت کے ساتھ باقاعدہ کھلے فورمز، اور عوامی احتساب کے لیے فعال سوشل میڈیا مصروفیت شامل ہیں۔"
+    },
+    {
+      "question": "What are the different timeframes for complaint resolution across channels?",
+      "answer": "NADRA has different resolution timeframes: approximately 93% of general complaints are resolved within seven days, complaints through NRC registers are resolved within 15 days, and unresolved complaints are escalated to higher management for swift resolution.",
+      "urdu_question": "تمام چینلز میں شکایت کے حل کے لیے مختلف ٹائم فریم کیا ہیں؟",
+      "urdu_answer": "نادرا کے پاس مختلف ریزولیوشن ٹائم فریم ہیں: تقریباً 93 فیصد عام شکایات کو سات دنوں کے اندر حل کیا جاتا ہے، این آر سی رجسٹر کے ذریعے شکایات 15 دنوں کے اندر حل ہو جاتی ہیں، اور غیر حل شدہ شکایات کو فوری حل کے لیے اعلیٰ انتظامیہ تک پہنچایا جاتا ہے۔"
+    },
+    {
+      "question": "Is NADRA's call center available 24/7?",
+      "answer": "Yes, NADRA provides 24/7 Call Center Support & Self-Service IVR through helpline numbers 1777 or 051-111-786-100 for immediate support at any time of day or night.",
+      "urdu_question": "کیا نادرا کا کال سینٹر 24/7 دستیاب ہے؟",
+      "urdu_answer": "ہاں، نادرا دن یا رات کے کسی بھی وقت فوری مدد کے لیے ہیلپ لائن نمبر 1777 یا 051-111-786-100 کے ذریعے 24/7 کال سینٹر سپورٹ اور سیلف سروس IVR فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is Self-Service IVR in NADRA's call center?",
+      "answer": "Self-Service IVR (Interactive Voice Response) is an automated system available through NADRA's helpline numbers that allows customers to get information and support without speaking to a representative, available 24/7 alongside the option to talk directly to call center executives.",
+      "urdu_question": "نادرا کے کال سینٹر میں سیلف سروس IVR کیا ہے؟",
+      "urdu_answer": "سیلف سروس IVR (انٹرایکٹو وائس رسپانس) نادرا کے ہیلپ لائن نمبرز کے ذریعے دستیاب ایک خودکار نظام ہے جو صارفین کو کسی نمائندے سے بات کیے بغیر معلومات اور مدد حاصل کرنے کی اجازت دیتا ہے، کال سینٹر کے ایگزیکٹوز سے براہ راست بات کرنے کے آپشن کے ساتھ 24/7 دستیاب ہے۔"
+    },
+    {
+      "question": "How can citizens participate in Khuli/e-Kacheri forums?",
+      "answer": "Citizens can participate in Khuli/e-Kacheri open forums through calls and social media platforms. These monthly forums provide direct access to the Chairman and Regional Registration Officers for addressing public grievances.",
+      "urdu_question": "شہری کھلی/کچیری فورمز میں کیسے حصہ لے سکتے ہیں؟",
+      "urdu_answer": "شہری کھلی/کچیری اوپن فورمز میں کالز اور سوشل میڈیا پلیٹ فارمز کے ذریعے حصہ لے سکتے ہیں۔ یہ ماہانہ فورم عوامی شکایات کے ازالے کے لیے چیئرمین اور علاقائی رجسٹریشن افسران تک براہ راست رسائی فراہم کرتے ہیں۔"
+    },
+    {
+      "question": "What makes NADRA's complaint resolution system effective?",
+      "answer": "NADRA's complaint resolution system is effective due to multiple accessible channels, unique tracking numbers, high resolution rates (93% within 7 days, 98% on PMDU), automatic escalation to higher management for unresolved cases, and regular monitoring through various platforms.",
+      "urdu_question": "نادرا کے شکایات کے حل کے نظام کو کیا چیز موثر بناتی ہے؟",
+      "urdu_answer": "نادرا کا شکایات کے حل کا نظام متعدد قابل رسائی چینلز، منفرد ٹریکنگ نمبرز، ہائی ریزولیوشن ریٹ (7 دنوں کے اندر 93%، PMDU پر 98%)، حل نہ ہونے والے کیسز کے لیے خود کار طریقے سے اعلیٰ انتظام میں اضافے، اور مختلف پلیٹ فارمز کے ذریعے باقاعدہ نگرانی کی وجہ سے موثر ہے۔"
+    },
+    {
+      "question": "What type of issues can be addressed through NADRA's communication channels?",
+      "answer": "NADRA's communication channels can address enrollment/registration issues, guidance requests, service complaints, document processing concerns, and general inquiries about NADRA services and procedures.",
+      "urdu_question": "نادرا کے مواصلاتی چینلز کے ذریعے کس قسم کے مسائل کو حل کیا جا سکتا ہے؟",
+      "urdu_answer": "نادرا کے کمیونیکیشن چینلز اندراج/رجسٹریشن کے مسائل، رہنمائی کی درخواستوں، سروس کی شکایات، دستاویز پر کارروائی کے خدشات، اور نادرا کی خدمات اور طریقہ کار کے بارے میں عمومی استفسارات کو حل کر سکتے ہیں۔"
+    },
+    {
+      "question": "What is the significance of NADRA's 69% citizen satisfaction rate?",
+      "answer": "NADRA's 69% citizen satisfaction rate on the Prime Minister's Performance Delivery Unit (PMDU) represents the highest satisfaction rate among public organizations, indicating superior performance in addressing citizen complaints and concerns compared to other government entities.",
+      "urdu_question": "نادرا کی 69% شہریوں کے اطمینان کی شرح کی کیا اہمیت ہے؟",
+      "urdu_answer": "پرائم منسٹر پرفارمنس ڈیلیوری یونٹ (PMDU) پر نادرا کی 69% شہریوں کے اطمینان کی شرح عوامی اداروں کے درمیان سب سے زیادہ اطمینان کی شرح کی نمائندگی کرتی ہے، جو شہریوں کی شکایات اور خدشات کو دور کرنے میں دیگر سرکاری اداروں کے مقابلے میں بہتر کارکردگی کی نشاندہی کرتی ہے۔"
+    },
+    {
+      "question": "What information should I prepare before contacting NADRA for a complaint?",
+      "answer": "Before contacting NADRA, prepare your CNIC number, application reference number (if any), specific details of your issue, relevant documents, previous correspondence, and your contact information. This helps expedite the complaint resolution process.",
+      "urdu_question": "شکایت کے لیے نادرا سے رابطہ کرنے سے پہلے مجھے کون سی معلومات تیار کرنی چاہیے؟",
+      "urdu_answer": "نادرا سے رابطہ کرنے سے پہلے، اپنا شناختی کارڈ نمبر، درخواست کا حوالہ نمبر (اگر کوئی ہے)، اپنے مسئلے کی مخصوص تفصیلات، متعلقہ دستاویزات، سابقہ خط و کتابت، اور اپنی رابطہ کی معلومات تیار کریں۔ اس سے شکایت کے حل کے عمل کو تیز کرنے میں مدد ملتی ہے۔"
+    },
+    {
+      "question": "Can I submit anonymous complaints to NADRA?",
+      "answer": "While NADRA accepts various types of complaints, providing your contact information and CNIC helps in proper follow-up and resolution. For sensitive matters, you can contact through the Prime Minister's complaint portal or specify confidentiality requirements when submitting complaints.",
+      "urdu_question": "کیا میں نادرا کو گمنام شکایات جمع کروا سکتا ہوں؟",
+      "urdu_answer": "جبکہ نادرا مختلف قسم کی شکایات کو قبول کرتا ہے، آپ کے رابطہ کی معلومات اور CNIC فراہم کرنے سے مناسب پیروی اور حل میں مدد ملتی ہے۔ حساس معاملات کے لیے، آپ وزیر اعظم کے شکایتی پورٹل کے ذریعے رابطہ کر سکتے ہیں یا شکایات جمع کرواتے وقت رازداری کے تقاضے بتا سکتے ہیں۔"
+    },
+    {
+      "question": "Which communication channel is fastest for urgent issues?",
+      "answer": "For urgent issues, the fastest channels are the 24/7 call center (1777 or 051-111-786-100) for immediate assistance, or visiting the nearest NRC directly. The online NCCMS system also provides quick submission with tracking capabilities.",
+      "urdu_question": "فوری مسائل کے لیے کون سا مواصلاتی چینل سب سے تیز ہے؟",
+      "urdu_answer": "فوری مسائل کے لیے، فوری مدد کے لیے، یا براہ راست قریبی NRC پر جانے کے لیے تیز ترین چینلز 24/7 کال سینٹر (1777 یا 051-111-786-100) ہیں۔ آن لائن NCCMS سسٹم ٹریکنگ کی صلاحیتوں کے ساتھ فوری جمع کرانے کی سہولت بھی فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Are NADRA's communication channels available in multiple languages?",
+      "answer": "NADRA's call center and NRC staff can typically assist in Urdu and English. For regional language support, visiting local NRCs may provide staff familiar with local languages. Social media channels primarily use Urdu and English.",
+      "urdu_question": "کیا نادرا کے مواصلاتی چینلز متعدد زبانوں میں دستیاب ہیں؟",
+      "urdu_answer": "نادرا کا کال سینٹر اور NRC کا عملہ عام طور پر اردو اور انگریزی میں مدد کر سکتا ہے۔ علاقائی زبان کی مدد کے لیے، مقامی NRCs کا دورہ مقامی زبانوں سے واقف عملہ فراہم کر سکتا ہے۔ سوشل میڈیا چینلز بنیادی طور پر اردو اور انگریزی استعمال کرتے ہیں۔"
+    },
+    {
+      "question": "How do I follow up on my complaint after submitting it?",
+      "answer": "Use your unique query number to track your complaint status through the same channel you submitted it. For NCCMS, check online at https://complaints.nadra.gov.pk. For call center complaints, call back with your query number. For NRC complaints, visit or call the specific center.",
+      "urdu_question": "میں اپنی شکایت کو جمع کروانے کے بعد اس کی پیروی کیسے کروں؟",
+      "urdu_answer": "اسی چینل کے ذریعے اپنی شکایت کی صورتحال کو ٹریک کرنے کے لیے اپنا منفرد استفسار نمبر استعمال کریں۔ NCCMS کے لیے، https://complaints.nadra.gov.pk پر آن لائن چیک کریں۔ کال سینٹر کی شکایات کے لیے، اپنے استفسار نمبر کے ساتھ واپس کال کریں۔ NRC کی شکایات کے لیے، مخصوص مرکز پر جائیں یا کال کریں۔"
+    },
+    {
+      "question": "What if multiple communication channels give different responses to my query?",
+      "answer": "If you receive conflicting information from different channels, escalate the matter to higher management through the complaint escalation process, document all responses received, and request written clarification through the formal NCCMS system for official record.",
+      "urdu_question": "کیا ہوگا اگر متعدد مواصلاتی چینلز میرے استفسار پر مختلف جوابات دیں؟",
+      "urdu_answer": "اگر آپ کو مختلف چینلز سے متضاد معلومات موصول ہوتی ہیں، تو شکایت بڑھانے کے عمل کے ذریعے معاملے کو اعلیٰ انتظامیہ تک پہنچائیں، موصول ہونے والے تمام جوابات کو دستاویز کریں، اور سرکاری ریکارڈ کے لیے رسمی NCCMS سسٹم کے ذریعے تحریری وضاحت کی درخواست کریں۔"
+    },
+    {
+      "question": "Can institutions or organizations submit bulk complaints to NADRA?",
+      "answer": "Yes, institutions can submit complaints through multiple channels. For bulk issues, it's recommended to use the formal NCCMS system or contact the call center to arrange for dedicated support. Large organizations may also coordinate directly with regional offices.",
+      "urdu_question": "کیا ادارے یا ادارے نادرا کو بڑی تعداد میں شکایات جمع کروا سکتے ہیں؟",
+      "urdu_answer": "ہاں، ادارے متعدد چینلز کے ذریعے شکایات جمع کرا سکتے ہیں۔ بڑی تعداد میں مسائل کے لیے، یہ تجویز کی جاتی ہے کہ رسمی NCCMS سسٹم استعمال کریں یا وقف امداد کا بندوبست کرنے کے لیے کال سینٹر سے رابطہ کریں۔ بڑی تنظیمیں علاقائی دفاتر کے ساتھ براہ راست رابطہ بھی کر سکتی ہیں۔"
+    },
+    {
+      "question": "What are the peak hours for NADRA's call center?",
+      "answer": "While NADRA's call center operates 24/7, peak hours are typically during business hours (9 AM to 5 PM). For faster service, consider calling during early morning or evening hours when call volume may be lower.",
+      "urdu_question": "نادرا کے کال سینٹر کے اوقات کار کیا ہیں؟",
+      "urdu_answer": "جبکہ نادرا کا کال سنٹر 24/7 کام کرتا ہے، عام طور پر کام کے اوقات (صبح 9 سے شام 5 بجے) کے دوران ہوتے ہیں۔ تیز سروس کے لیے، صبح یا شام کے اوقات میں کال کرنے پر غور کریں جب کال والیوم کم ہو سکتا ہے۔"
+    },
+    {
+      "question": "How does NADRA handle complaints about its own staff or services?",
+      "answer": "Complaints about NADRA staff or services can be submitted through any communication channel, with serious matters being escalated to higher management. The PMDU portal and formal NCCMS system provide additional oversight for service-related complaints.",
+      "urdu_question": "نادرا اپنے عملے یا خدمات کے بارے میں شکایات کو کیسے ہینڈل کرتا ہے؟",
+      "urdu_answer": "نادرا کے عملے یا خدمات کے بارے میں شکایات کسی بھی مواصلاتی چینل کے ذریعے جمع کرائی جا سکتی ہیں، سنگین معاملات کو اعلیٰ انتظامیہ تک پہنچایا جا سکتا ہے۔ PMDU پورٹل اور رسمی NCCMS سسٹم سروس سے متعلقہ شکایات کے لیے اضافی نگرانی فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Is there a mobile app for NADRA complaints and communication?",
+      "answer": "While NADRA has the PAK-ID mobile app for some services, complaints are primarily handled through the web-based NCCMS system at https://complaints.nadra.gov.pk, call center, and physical centers. The WhatsApp channel provides updates and basic information.",
+      "urdu_question": "کیا نادرا کی شکایات اور رابطے کے لیے کوئی موبائل ایپ موجود ہے؟",
+      "urdu_answer": "جبکہ نادرا کے پاس کچھ خدمات کے لیے PAK-ID موبائل ایپ موجود ہے، شکایات کو بنیادی طور پر ویب پر مبنی NCCMS سسٹم کے ذریعے https://complaints.nadra.gov.pk، کال سینٹر اور فزیکل سینٹرز پر ہینڈل کیا جاتا ہے۔ واٹس ایپ چینل اپ ڈیٹس اور بنیادی معلومات فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What documentation do I need when visiting an NRC for complaints?",
+      "answer": "When visiting an NRC for complaints, bring your original CNIC, any relevant documents related to your issue, previous correspondence with NADRA, application forms or receipts, and written details of your complaint for proper recording in the complaint register.",
+      "urdu_question": "شکایات کے لیے NRC پر جاتے وقت مجھے کن دستاویزات کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "شکایات کے لیے NRC پر جاتے وقت، اپنا اصل CNIC، آپ کے مسئلے سے متعلق کوئی بھی متعلقہ دستاویزات، نادرا کے ساتھ سابقہ خط و کتابت، درخواست فارم یا رسیدیں، اور شکایت رجسٹر میں مناسب ریکارڈنگ کے لیے اپنی شکایت کی تحریری تفصیلات لائیں۔"
+    },
+    {
+      "question": "Can I escalate my complaint if not satisfied with the initial response?",
+      "answer": "Yes, you can escalate complaints through the automatic escalation system after 7 days, request escalation during Khuli/e-Kacheri forums with senior officials, submit to PMDU portal for external oversight, or request higher management review through the NCCMS system.",
+      "urdu_question": "اگر ابتدائی جواب سے مطمئن نہیں ہوں تو کیا میں اپنی شکایت بڑھا سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ 7 دنوں کے بعد خودکار اضافہ کے نظام کے ذریعے شکایات کو بڑھا سکتے ہیں، سینئر حکام کے ساتھ کھلی/ای-کچیری فورمز کے دوران اضافے کی درخواست کر سکتے ہیں، بیرونی نگرانی کے لیے PMDU پورٹل پر جمع کر سکتے ہیں، یا NCCMS سسٹم کے ذریعے اعلیٰ انتظامی جائزہ کی درخواست کر سکتے ہیں۔"
+    },
+    {
+      "question": "How does NADRA protect privacy when handling complaints through different channels?",
+      "answer": "NADRA follows strict data protection protocols across all channels. Personal information is secured according to NADRA Ordinance 2000, complaints are handled confidentially, unique tracking numbers protect identity, and access is restricted to authorized personnel only.",
+      "urdu_question": "نادرا مختلف چینلز کے ذریعے شکایات سے نمٹنے کے دوران رازداری کی حفاظت کیسے کرتا ہے؟",
+      "urdu_answer": "نادرا تمام چینلز پر سخت ڈیٹا پروٹیکشن پروٹوکول کی پیروی کرتا ہے۔ ذاتی معلومات کو نادرا آرڈیننس 2000 کے مطابق محفوظ کیا جاتا ہے، شکایات کو خفیہ طریقے سے نمٹا جاتا ہے، منفرد ٹریکنگ نمبرز شناخت کی حفاظت کرتے ہیں، اور رسائی صرف مجاز اہلکاروں تک محدود ہے۔"
+    },
+    {
+      "question": "What if I lose my complaint tracking number?",
+      "answer": "If you lose your tracking number, contact the same channel where you submitted the complaint with your CNIC number and complaint details. The call center can help retrieve tracking information, and NRCs can check their complaint registers using your identification.",
+      "urdu_question": "اگر میں اپنا شکایت سے باخبر رہنے کا نمبر کھو دوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ اپنا ٹریکنگ نمبر کھو دیتے ہیں تو اسی چینل سے رابطہ کریں جہاں آپ نے اپنے CNIC نمبر اور شکایت کی تفصیلات کے ساتھ شکایت جمع کروائی تھی۔ کال سینٹر سے باخبر رہنے کی معلومات کی بازیافت میں مدد مل سکتی ہے، اور NRCs آپ کی شناخت کا استعمال کرتے ہوئے اپنے شکایتی رجسٹروں کو چیک کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can overseas Pakistanis use all NADRA communication channels?",
+      "answer": "Overseas Pakistanis can use online NCCMS, email (csd@nadra.gov.pk), social media channels, and WhatsApp. International calling rates apply for helpline numbers. They should also contact local Pakistani consulates for region-specific support.",
+      "urdu_question": "کیا بیرون ملک مقیم پاکستانی نادرا کے تمام مواصلاتی ذرائع استعمال کر سکتے ہیں؟",
+      "urdu_answer": "بیرون ملک مقیم پاکستانی آن لائن NCCMS، ای میل (csd@nadra.gov.pk)، سوشل میڈیا چینلز، اور WhatsApp استعمال کر سکتے ہیں۔ ہیلپ لائن نمبرز کے لیے بین الاقوامی کالنگ کی شرحیں لاگو ہوتی ہیں۔ انہیں خطے کے لحاظ سے مدد کے لیے مقامی پاکستانی قونصل خانوں سے بھی رابطہ کرنا چاہیے۔"
+    },
+    {
+      "question": "What happens during Khuli/e-Kacheri sessions and how can I participate?",
+      "answer": "During monthly Khuli/e-Kacheri sessions, the Chairman and RROs directly address public grievances via calls and social media. Citizens can participate by calling designated numbers during scheduled times or submitting queries through social media platforms when sessions are announced.",
+      "urdu_question": "کھلی/کچیری سیشن کے دوران کیا ہوتا ہے اور میں کس طرح حصہ لے سکتا ہوں؟",
+      "urdu_answer": "ماہانہ کھلی/ای-کچیری سیشن کے دوران، چیئرمین اور آر آر اوز براہ راست کالز اور سوشل میڈیا کے ذریعے عوامی شکایات کا ازالہ کرتے ہیں۔ شہری مقررہ اوقات کے دوران نامزد نمبروں پر کال کرکے یا سیشن کا اعلان ہونے پر سوشل میڈیا پلیٹ فارمز کے ذریعے سوالات جمع کر کے حصہ لے سکتے ہیں۔"
+    },
+    {
+      "question": "Are there any charges for using NADRA's communication channels?",
+      "answer": "NADRA's communication services are generally free, including the online NCCMS system, email support, social media engagement, and visiting NRCs. Only standard calling charges apply for helpline numbers (1777 or 051-111-786-100) as per your telecom provider's rates.",
+      "urdu_question": "کیا نادرا کے کمیونیکیشن چینلز استعمال کرنے کے کوئی چارجز ہیں؟",
+      "urdu_answer": "نادرا کی مواصلاتی خدمات عام طور پر مفت ہیں، بشمول آن لائن NCCMS سسٹم، ای میل سپورٹ، سوشل میڈیا مصروفیت، اور NRCs کا دورہ۔ آپ کے ٹیلی کام فراہم کنندہ کے نرخوں کے مطابق ہیلپ لائن نمبرز (1777 یا 051-111-786-100) کے لیے صرف معیاری کالنگ چارجز لاگو ہوتے ہیں۔"
+    },
+    {
+      "question": "How can I provide feedback about NADRA's communication service quality?",
+      "answer": "You can provide feedback through the NCCMS system, during Khuli/e-Kacheri forums, via email to csd@nadra.gov.pk, through social media platforms, or through the PMDU portal. Feedback helps NADRA improve its service quality and resolution processes.",
+      "urdu_question": "میں نادرا کی کمیونیکیشن سروس کے معیار کے بارے میں رائے کیسے دے سکتا ہوں؟",
+      "urdu_answer": "آپ NCCMS سسٹم کے ذریعے، Khuli/e-Kacheri فورمز کے دوران، csd@nadra.gov.pk پر ای میل کے ذریعے، سوشل میڈیا پلیٹ فارم کے ذریعے، یا PMDU پورٹل کے ذریعے رائے دے سکتے ہیں۔ فیڈ بیک نادرا کو اپنی سروس کے معیار اور ریزولوشن کے عمل کو بہتر بنانے میں مدد کرتا ہے۔"
+    },
+    {
+      "question": "What should I do if all communication channels are unresponsive?",
+      "answer": "If all channels are unresponsive, try alternative timing for calls, use multiple channels simultaneously, visit the nearest NRC physically, submit complaints through the PMDU portal for external oversight, or contact through social media for public accountability.",
+      "urdu_question": "اگر تمام مواصلاتی چینلز غیر جوابدہ ہوں تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر تمام چینلز غیر جوابدہ ہیں، کالوں کے لیے متبادل وقت کی کوشش کریں، ایک ساتھ متعدد چینلز کا استعمال کریں، قریبی NRC کو جسمانی طور پر دیکھیں، بیرونی نگرانی کے لیے PMDU پورٹل کے ذریعے شکایات جمع کریں، یا عوامی احتساب کے لیے سوشل میڈیا کے ذریعے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I request written responses to my complaints from NADRA?",
+      "answer": "Yes, you can request written responses through the formal NCCMS system which provides documented communications, email correspondence to csd@nadra.gov.pk, or formal written requests submitted at NRCs. This ensures you have official written records of responses.",
+      "urdu_question": "کیا میں نادرا سے اپنی شکایات کے تحریری جواب کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ رسمی NCCMS سسٹم کے ذریعے تحریری جوابات کی درخواست کر سکتے ہیں جو دستاویزی مواصلات، csd@nadra.gov.pk پر ای میل خط و کتابت، یا NRCs پر جمع کرائی گئی رسمی تحریری درخواستیں فراہم کرتا ہے۔ یہ یقینی بناتا ہے کہ آپ کے پاس جوابات کا سرکاری تحریری ریکارڈ موجود ہے۔"
+    },
+    {
+      "question": "How does NADRA coordinate between different communication channels for the same complaint?",
+      "answer": "NADRA's centralized system links complaints across channels using unique tracking numbers and CNIC identification. This prevents duplicate handling, ensures consistent responses, and maintains a complete record regardless of which channel is used for follow-up.",
+      "urdu_question": "نادرا ایک ہی شکایت کے لیے مختلف مواصلاتی ذرائع کے درمیان ہم آہنگی کیسے پیدا کرتا ہے؟",
+      "urdu_answer": "نادرا کا مرکزی نظام منفرد ٹریکنگ نمبرز اور CNIC شناخت کا استعمال کرتے ہوئے تمام چینلز کی شکایات کو جوڑتا ہے۔ یہ ڈپلیکیٹ ہینڈلنگ کو روکتا ہے، مسلسل جوابات کو یقینی بناتا ہے، اور مکمل ریکارڈ برقرار رکھتا ہے قطع نظر اس کے کہ فالو اپ کے لیے کون سا چینل استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "What training do NADRA communication staff receive for handling complaints?",
+      "answer": "NADRA staff receive training in customer service, complaint resolution procedures, data protection, system operation, and handling sensitive matters. This ensures consistent, professional service across all communication channels and proper escalation of complex issues.",
+      "urdu_question": "شکایات سے نمٹنے کے لیے نادرا کمیونیکیشن عملہ کونسی تربیت حاصل کرتا ہے؟",
+      "urdu_answer": "نادرا کا عملہ کسٹمر سروس، شکایات کے حل کے طریقہ کار، ڈیٹا کے تحفظ، سسٹم کے آپریشن اور حساس معاملات سے نمٹنے کی تربیت حاصل کرتا ہے۔ یہ تمام مواصلاتی چینلز پر مستقل، پیشہ ورانہ خدمات اور پیچیدہ مسائل کے مناسب اضافے کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "Can I track the resolution progress of my complaint in real-time?",
+      "answer": "The NCCMS online system provides status updates that you can check using your unique query number. For other channels, periodic follow-up calls or visits may be needed. The system shows stages like 'submitted,' 'under review,' 'in progress,' and 'resolved.'",
+      "urdu_question": "کیا میں ریئل ٹائم میں اپنی شکایت کے حل کی پیشرفت کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "NCCMS آن لائن سسٹم اسٹیٹس اپ ڈیٹ فراہم کرتا ہے جسے آپ اپنے منفرد سوال نمبر کا استعمال کرکے چیک کرسکتے ہیں۔ دوسرے چینلز کے لیے، وقتاً فوقتاً فالو اپ کالز یا وزٹ کی ضرورت پڑ سکتی ہے۔ یہ نظام 'جمع کرایا گیا'، 'زیر جائزہ'، 'جاری ہے' اور 'حل شدہ' جیسے مراحل دکھاتا ہے۔"
+    },
+    {
+      "question": "What accessibility features are available in NADRA's communication channels?",
+      "answer": "NADRA provides accessible services including physical access at NRCs, priority assistance for disabled persons, Urdu and English language support, visual and hearing assistance at centers, and simplified online complaint forms for easy navigation.",
+      "urdu_question": "نادرا کے کمیونیکیشن چینلز میں کونسی قابل رسائی خصوصیات دستیاب ہیں؟",
+      "urdu_answer": "نادرا قابل رسائی خدمات فراہم کرتا ہے جس میں NRCs پر جسمانی رسائی، معذور افراد کے لیے ترجیحی امداد، اردو اور انگریزی زبان کی مدد، مراکز میں بصری اور سماعت کی مدد، اور آسان نیویگیشن کے لیے آسان آن لائن شکایتی فارم شامل ہیں۔"
+    },
+    {
+      "question": "How does NADRA handle complaints that require technical expertise?",
+      "answer": "Technical complaints are escalated to specialized departments through the internal routing system. NADRA's technical teams provide expert resolution, and complex cases may be elevated to higher management or external technical consultants for specialized solutions.",
+      "urdu_question": "نادرا ان شکایات کو کیسے نمٹاتا ہے جن کے لیے تکنیکی مہارت کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "تکنیکی شکایات کو اندرونی روٹنگ سسٹم کے ذریعے خصوصی محکموں تک پہنچایا جاتا ہے۔ نادرا کی تکنیکی ٹیمیں ماہرانہ حل فراہم کرتی ہیں، اور پیچیدہ معاملات کو خصوصی حل کے لیے اعلیٰ انتظامیہ یا بیرونی تکنیکی مشیروں تک پہنچایا جا سکتا ہے۔"
+    }
+  ]
+}

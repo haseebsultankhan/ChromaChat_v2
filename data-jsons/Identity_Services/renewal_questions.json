@@ -1,0 +1,661 @@
+{
+  "file_name": "renewal_questions.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 120,
+  "qa_data": [
+    {
+      "question": "What is the validity period for CNIC for adults under 53?",
+      "answer": "CNIC for adults (18+) has a validity period of 10 years.",
+      "urdu_question": "53 سال سے کم عمر کے بالغوں کے لیے CNIC کی مدت کتنی ہے؟",
+      "urdu_answer": "بالغوں (18+) کے لیے CNIC کی مدت 10 سال ہے۔"
+    },
+    {
+      "question": "What is the validity period for CNIC for adults 53 and above?",
+      "answer": "CNIC for adults who are 53 years old and above has lifetime validity and does not require renewal.",
+      "urdu_question": "53 سال اور اس سے اوپر کے بالغوں کے لیے CNIC کی مدت کتنی ہے؟",
+      "urdu_answer": "53 سال یا اس سے زیادہ عمر کے بالغوں کے لیے CNIC تاحیات درست ہے اور اسے تجدید کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "When should I renew my CNIC?",
+      "answer": "You should renew your CNIC up to 1 month before expiry. You may also need to renew earlier if there are changes to your name, photo, marital status, or address, or if your card is lost, stolen, or damaged.",
+      "urdu_question": "مجھے اپنے CNIC کی تجدید کب کرنی چاہیے؟",
+      "urdu_answer": "آپ کو اپنے CNIC کی میعاد ختم ہونے سے 1 ماہ پہلے تک تجدید کرنی چاہیے۔ اگر آپ کے نام، تصویر، ازدواجی حیثیت، یا پتے میں تبدیلیاں ہیں، یا اگر آپ کا کارڈ گم، چوری، یا خراب ہو گیا ہے تو آپ کو پہلے تجدید کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Do children get CNIC renewal?",
+      "answer": "No, children do not get CNIC renewal. CRC (Child Registration Certificate) is issued to children instead, which is valid until age 18.",
+      "urdu_question": "کیا بچے CNIC کی تجدید کرواتے ہیں؟",
+      "urdu_answer": "نہیں، بچوں کو CNIC کی تجدید نہیں ہوتی۔ اس کے بجائے بچوں کو CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) جاری کیا جاتا ہے، جو 18 سال کی عمر تک درست ہے۔"
+    },
+    {
+      "question": "What is the validity period for CRC?",
+      "answer": "CRC (Child Registration Certificate) is valid until the child reaches age 18.",
+      "urdu_question": "سی آر سی کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) اس وقت تک درست ہے جب تک کہ بچہ 18 سال کی عمر کو نہ پہنچ جائے۔"
+    },
+    {
+      "question": "When should I update my CRC?",
+      "answer": "You should update CRC to correct parent or child information. The CRC must be replaced with CNIC upon the child turning 18.",
+      "urdu_question": "مجھے اپنا CRC کب اپ ڈیٹ کرنا چاہیے؟",
+      "urdu_answer": "آپ کو والدین یا بچے کی معلومات کو درست کرنے کے لیے CRC کو اپ ڈیٹ کرنا چاہیے۔ بچے کے 18 سال کے ہونے پر CRC کو CNIC سے تبدیل کرنا ضروری ہے۔"
+    },
+    {
+      "question": "What happens to CRC when a child turns 18?",
+      "answer": "CRC must be replaced with CNIC when the child turns 18 years old.",
+      "urdu_question": "جب بچہ 18 سال کا ہو جاتا ہے تو CRC کا کیا ہوتا ہے؟",
+      "urdu_answer": "جب بچہ 18 سال کا ہو جائے تو CRC کو CNIC سے تبدیل کرنا ضروری ہے۔"
+    },
+    {
+      "question": "Does FRC have an expiry date?",
+      "answer": "No, FRC (Family Registration Certificate) has no expiry date and remains valid indefinitely.",
+      "urdu_question": "کیا FRC کی میعاد ختم ہونے کی تاریخ ہے؟",
+      "urdu_answer": "نہیں، FRC (فیملی رجسٹریشن سرٹیفکیٹ) کی کوئی میعاد ختم ہونے کی تاریخ نہیں ہے اور یہ غیر معینہ مدت تک کارآمد رہتا ہے۔"
+    },
+    {
+      "question": "What is the purpose of FRC?",
+      "answer": "FRC is used for family verification purposes, such as for embassies and schools.",
+      "urdu_question": "FRC کا مقصد کیا ہے؟",
+      "urdu_answer": "FRC خاندانی تصدیق کے مقاصد کے لیے استعمال کیا جاتا ہے، جیسے کہ سفارت خانوں اور اسکولوں کے لیے۔"
+    },
+    {
+      "question": "When should I reapply for FRC?",
+      "answer": "You should reapply for FRC upon major family changes such as birth, marriage, divorce, or death of family members.",
+      "urdu_question": "مجھے FRC کے لیے کب دوبارہ درخواست دینی چاہیے؟",
+      "urdu_answer": "آپ کو خاندانی تبدیلیوں جیسے پیدائش، شادی، طلاق، یا خاندان کے اراکین کی موت پر FRC کے لیے دوبارہ درخواست دینی چاہیے۔"
+    },
+    {
+      "question": "What is the validity period for NICOP for adults?",
+      "answer": "NICOP for adults has a validity period of 10 years.",
+      "urdu_question": "بالغوں کے لیے NICOP کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "بالغوں کے لیے NICOP کی میعاد 10 سال ہے۔"
+    },
+    {
+      "question": "What is the validity period for NICOP for minors?",
+      "answer": "NICOP for minors (under 18) has a validity period of 5 years.",
+      "urdu_question": "نابالغوں کے لیے NICOP کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "نابالغوں (18 سال سے کم) کے لیے NICOP کی میعاد 5 سال ہے۔"
+    },
+    {
+      "question": "When should I renew my NICOP?",
+      "answer": "You should renew your NICOP up to 6 months before expiry. You may need to renew earlier if there are changes to your passport, marital status updates, or changes to your name or photo.",
+      "urdu_question": "مجھے اپنے NICOP کی تجدید کب کرنی چاہیے؟",
+      "urdu_answer": "آپ کو اپنے NICOP کی میعاد ختم ہونے سے 6 ماہ پہلے تک تجدید کرنی چاہیے۔ اگر آپ کے پاسپورٹ، ازدواجی حیثیت کی تازہ کاری، یا آپ کے نام یا تصویر میں تبدیلیاں ہوں تو آپ کو پہلے تجدید کرنے کی ضرورت پڑسکتی ہے۔"
+    },
+    {
+      "question": "What is the validity period for POC?",
+      "answer": "POC (Pakistan Origin Card) has a validity period of 5 years.",
+      "urdu_question": "پی او سی کی میعاد کی مدت کیا ہے؟",
+      "urdu_answer": "پی او سی (پاکستان اوریجن کارڈ) کی میعاد 5 سال ہے۔"
+    },
+    {
+      "question": "When should I renew my POC?",
+      "answer": "You should renew your POC up to 6 months before expiry. You may need to renew earlier if there are changes in your passport or personal details.",
+      "urdu_question": "مجھے اپنے POC کی تجدید کب کرنی چاہیے؟",
+      "urdu_answer": "آپ کو اپنے پی او سی کی میعاد ختم ہونے سے 6 ماہ پہلے تک تجدید کرنی چاہیے۔ اگر آپ کے پاسپورٹ یا ذاتی تفصیلات میں تبدیلیاں آتی ہیں تو آپ کو پہلے تجدید کرنے کی ضرورت پڑسکتی ہے۔"
+    },
+    {
+      "question": "Does Succession Certificate have an expiry date?",
+      "answer": "Succession Certificate has no formal expiry date.",
+      "urdu_question": "کیا جانشینی کے سرٹیفکیٹ کی میعاد ختم ہونے کی تاریخ ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ کی کوئی باضابطہ میعاد ختم ہونے کی تاریخ نہیں ہے۔"
+    },
+    {
+      "question": "When might I need to renew or reissue a Succession Certificate?",
+      "answer": "Succession Certificate is not typically renewed, but may require reissuance if new assets are discovered, legal challenges arise, or updates or corrections are necessary.",
+      "urdu_question": "مجھے جانشینی کے سرٹیفکیٹ کی تجدید یا دوبارہ جاری کرنے کی کب ضرورت ہو سکتی ہے؟",
+      "urdu_answer": "جانشینی کے سرٹیفکیٹ کی عام طور پر تجدید نہیں کی جاتی ہے، لیکن اگر نئے اثاثے دریافت ہوتے ہیں، قانونی چیلنجز پیدا ہوتے ہیں، یا اپ ڈیٹ یا اصلاحات ضروری ہیں تو اسے دوبارہ جاری کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "How early can I apply for CNIC renewal before expiry?",
+      "answer": "You can apply for CNIC renewal up to 1 month before the expiry date.",
+      "urdu_question": "میعاد ختم ہونے سے پہلے میں کتنی جلدی CNIC کی تجدید کے لیے درخواست دے سکتا ہوں؟",
+      "urdu_answer": "آپ میعاد ختم ہونے کی تاریخ سے 1 ماہ قبل تک CNIC کی تجدید کے لیے درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "How early can I apply for NICOP renewal before expiry?",
+      "answer": "You can apply for NICOP renewal up to 6 months before the expiry date.",
+      "urdu_question": "میں میعاد ختم ہونے سے پہلے NICOP کی تجدید کے لیے کتنی جلدی درخواست دے سکتا ہوں؟",
+      "urdu_answer": "آپ NICOP کی تجدید کے لیے میعاد ختم ہونے کی تاریخ سے 6 ماہ پہلے تک درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "How early can I apply for POC renewal before expiry?",
+      "answer": "You can apply for POC renewal up to 6 months before the expiry date.",
+      "urdu_question": "میعاد ختم ہونے سے پہلے میں پی او سی کی تجدید کے لیے کتنی جلدی درخواست دے سکتا ہوں؟",
+      "urdu_answer": "آپ پی او سی کی تجدید کے لیے میعاد ختم ہونے کی تاریخ سے 6 ماہ پہلے تک درخواست دے سکتے ہیں۔"
+    },
+    {
+      "question": "What situations require early CNIC renewal before expiry?",
+      "answer": "Early CNIC renewal may be required if your name, photo, marital status, or address changes, or if your card is lost, stolen, or damaged.",
+      "urdu_question": "کن حالات میں میعاد ختم ہونے سے پہلے ابتدائی CNIC کی تجدید کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "اگر آپ کا نام، تصویر، ازدواجی حیثیت، یا پتہ تبدیل ہو جاتا ہے، یا اگر آپ کا کارڈ گم، چوری، یا خراب ہو جاتا ہے تو ابتدائی CNIC تجدید کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "What situations require early NICOP renewal before expiry?",
+      "answer": "Early NICOP renewal may be required if your passport changes, marital status updates, or if there are changes to your name or photo.",
+      "urdu_question": "کن حالات میں میعاد ختم ہونے سے پہلے NICOP کی جلد تجدید کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "اگر آپ کا پاسپورٹ تبدیل ہوتا ہے، ازدواجی حیثیت کی تازہ کاری ہوتی ہے، یا آپ کے نام یا تصویر میں تبدیلیاں ہوتی ہیں تو ابتدائی NICOP تجدید کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What situations require early POC renewal before expiry?",
+      "answer": "Early POC renewal may be required if there are changes in your passport or personal details.",
+      "urdu_question": "کن حالات میں میعاد ختم ہونے سے پہلے ابتدائی POC تجدید کی ضرورت ہوتی ہے؟",
+      "urdu_answer": "اگر آپ کے پاسپورٹ یا ذاتی تفصیلات میں تبدیلیاں ہوتی ہیں تو ابتدائی POC تجدید کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Do all NADRA identity documents have the same validity period?",
+      "answer": "No, validity periods vary: CNIC (10 years for adults under 53, lifetime for 53+), CRC (until age 18), FRC (no expiry), NICOP (10 years for adults, 5 years for minors), POC (5 years), Succession Certificate (no formal expiry).",
+      "urdu_question": "کیا نادرا کی تمام شناختی دستاویزات کی مدت ایک ہی ہے؟",
+      "urdu_answer": "نہیں۔"
+    },
+    {
+      "question": "Which NADRA documents never expire?",
+      "answer": "FRC (Family Registration Certificate) never expires, CNIC for people 53+ has lifetime validity, and Succession Certificate has no formal expiry date.",
+      "urdu_question": "نادرا کی کون سی دستاویزات کبھی ختم نہیں ہوتیں؟",
+      "urdu_answer": "FRC (فیملی رجسٹریشن سرٹیفکیٹ) کی میعاد کبھی ختم نہیں ہوتی، 53+ لوگوں کے لیے CNIC کی تاحیات درستگی ہے، اور جانشینی کے سرٹیفکیٹ کی کوئی باضابطہ میعاد ختم ہونے کی تاریخ نہیں ہے۔"
+    },
+    {
+      "question": "What is the difference in NICOP validity for adults versus minors?",
+      "answer": "NICOP for adults is valid for 10 years, while NICOP for minors (under 18) is valid for only 5 years.",
+      "urdu_question": "بالغوں کے مقابلے میں نابالغوں کے لیے NICOP کی میعاد میں کیا فرق ہے؟",
+      "urdu_answer": "بالغوں کے لیے NICOP 10 سال کے لیے درست ہے، جبکہ نابالغوں کے لیے NICOP (18 سال سے کم) صرف 5 سال کے لیے درست ہے۔"
+    },
+    {
+      "question": "Which identity document has the shortest validity period?",
+      "answer": "POC (Pakistan Origin Card) and NICOP for minors both have the shortest validity period of 5 years.",
+      "urdu_question": "کون سی شناختی دستاویز کی میعاد سب سے کم ہے؟",
+      "urdu_answer": "نابالغوں کے لیے POC (پاکستان اوریجن کارڈ) اور NICOP دونوں کی میعاد 5 سال کی کم ترین ہے۔"
+    },
+    {
+      "question": "Can I renew my CNIC if I'm over 53 years old?",
+      "answer": "If you're 53 or above, your CNIC has lifetime validity and does not require renewal unless there are changes to your information or the card is damaged, lost, or stolen.",
+      "urdu_question": "کیا میں اپنے CNIC کی تجدید کر سکتا ہوں اگر میری عمر 53 سال سے زیادہ ہے؟",
+      "urdu_answer": "اگر آپ کی عمر 53 سال یا اس سے اوپر ہے تو آپ کے CNIC کی تاحیات درستگی ہے اور اسے تجدید کی ضرورت نہیں ہے جب تک کہ آپ کی معلومات میں کوئی تبدیلی نہ ہو یا کارڈ خراب، گم یا چوری نہ ہو جائے۔"
+    },
+    {
+      "question": "What major family changes require FRC reapplication?",
+      "answer": "Major family changes that require FRC reapplication include birth of a family member, marriage, divorce, or death of family members.",
+      "urdu_question": "کن اہم خاندانی تبدیلیوں کے لیے FRC دوبارہ درخواست کی ضرورت ہے؟",
+      "urdu_answer": "اہم خاندانی تبدیلیاں جن کے لیے FRC کی دوبارہ درخواست کی ضرورت ہوتی ہے ان میں خاندان کے کسی رکن کی پیدائش، شادی، طلاق، یا خاندان کے افراد کی موت شامل ہے۔"
+    },
+    {
+      "question": "At what age must a child transition from CRC to CNIC?",
+      "answer": "A child must transition from CRC to CNIC when they turn 18 years old. The CRC must be replaced with CNIC upon reaching this age.",
+      "urdu_question": "بچے کو کس عمر میں CRC سے CNIC میں منتقل ہونا چاہیے؟",
+      "urdu_answer": "جب بچہ 18 سال کا ہو جائے تو اسے CRC سے CNIC میں منتقل کرنا ضروری ہے۔ اس عمر کو پہنچنے پر CRC کو CNIC سے تبدیل کرنا ضروری ہے۔"
+    },
+    {
+      "question": "What happens if I don't renew my CNIC before it expires?",
+      "answer": "If your CNIC expires, you'll need to apply for renewal as soon as possible. Late renewal may require additional verification and could affect your ability to access services that require valid CNIC.",
+      "urdu_question": "اگر میں اپنے CNIC کی میعاد ختم ہونے سے پہلے اس کی تجدید نہیں کرتا ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کے CNIC کی میعاد ختم ہوجاتی ہے، تو آپ کو جلد از جلد تجدید کے لیے درخواست دینے کی ضرورت ہوگی۔ دیر سے تجدید کے لیے اضافی تصدیق کی ضرورت پڑ سکتی ہے اور یہ آپ کی خدمات تک رسائی کی اہلیت کو متاثر کر سکتا ہے جن کے لیے درست CNIC کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can I travel internationally with an expired CNIC?",
+      "answer": "An expired CNIC may not be accepted for international travel or visa applications. It's recommended to renew your CNIC before expiry to avoid travel complications.",
+      "urdu_question": "کیا میں میعاد ختم ہونے والے CNIC کے ساتھ بین الاقوامی سفر کر سکتا ہوں؟",
+      "urdu_answer": "بین الاقوامی سفر یا ویزا کی درخواستوں کے لیے میعاد ختم ہونے والا CNIC قبول نہیں کیا جا سکتا ہے۔ سفری پیچیدگیوں سے بچنے کے لیے میعاد ختم ہونے سے پہلے اپنے CNIC کی تجدید کرنے کی سفارش کی جاتی ہے۔"
+    },
+    {
+      "question": "What documents do I need for CNIC renewal?",
+      "answer": "For CNIC renewal, you typically need your current/expired CNIC, original supporting documents (if information changed), and any additional documents based on modifications required during renewal.",
+      "urdu_question": "CNIC کی تجدید کے لیے مجھے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "CNIC کی تجدید کے لیے، آپ کو عام طور پر اپنے موجودہ/ختم شدہ CNIC، اصل معاون دستاویزات (اگر معلومات میں تبدیلی کی گئی ہے) اور تجدید کے دوران درکار ترمیم پر مبنی کوئی اضافی دستاویزات درکار ہوں گی۔"
+    },
+    {
+      "question": "What documents do I need for NICOP renewal?",
+      "answer": "For NICOP renewal, you need your current/expired NICOP, valid foreign passport, proof of overseas residence, and any additional documents if personal information has changed.",
+      "urdu_question": "NICOP کی تجدید کے لیے مجھے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "NICOP کی تجدید کے لیے، آپ کو اپنا موجودہ/میعاد ختم ہونے والا NICOP، درست غیر ملکی پاسپورٹ، بیرون ملک رہائش کا ثبوت، اور اگر ذاتی معلومات میں تبدیلی ہوئی ہے تو کوئی اضافی دستاویزات درکار ہیں۔"
+    },
+    {
+      "question": "What documents do I need for POC renewal?",
+      "answer": "For POC renewal, you need your current/expired POC, valid foreign passport (with at least 6 months validity), and proof of Pakistani origin or connection to Pakistan.",
+      "urdu_question": "POC کی تجدید کے لیے مجھے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "POC کی تجدید کے لیے، آپ کو اپنا موجودہ/میعاد ختم ہونے والا POC، درست غیر ملکی پاسپورٹ (کم از کم 6 ماہ کی میعاد کے ساتھ) اور پاکستانی نژاد یا پاکستان سے تعلق کا ثبوت درکار ہے۔"
+    },
+    {
+      "question": "Do I need new biometrics for renewal?",
+      "answer": "Yes, biometric capture (fingerprints and photograph) is typically required for all NADRA document renewals to ensure current and accurate biometric data.",
+      "urdu_question": "کیا مجھے تجدید کے لیے نئے بائیو میٹرکس کی ضرورت ہے؟",
+      "urdu_answer": "جی ہاں، بائیو میٹرک کیپچر (انگلیوں کے نشانات اور تصویر) عام طور پر تمام نادرا دستاویزات کی تجدید کے لیے ضروری ہے تاکہ موجودہ اور درست بائیو میٹرک ڈیٹا کو یقینی بنایا جا سکے۔"
+    },
+    {
+      "question": "Can I renew my CNIC online?",
+      "answer": "Some CNIC renewal services may be available through PAK-ID mobile app, though physical biometric capture may still be required at NADRA centers for complete renewal processing.",
+      "urdu_question": "کیا میں اپنے CNIC کی آن لائن تجدید کر سکتا ہوں؟",
+      "urdu_answer": "CNIC کی تجدید کی کچھ خدمات PAK-ID موبائل ایپ کے ذریعے دستیاب ہو سکتی ہیں، حالانکہ مکمل تجدید پروسیسنگ کے لیے نادرا کے مراکز میں جسمانی بائیو میٹرک کیپچر کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I renew my NICOP from outside Pakistan?",
+      "answer": "Yes, NICOP renewal can be done from Pakistani consulates and embassies abroad, or through designated NADRA service centers in various countries.",
+      "urdu_question": "کیا میں پاکستان سے باہر اپنے NICOP کی تجدید کروا سکتا ہوں؟",
+      "urdu_answer": "ہاں، NICOP کی تجدید بیرون ملک پاکستانی قونصل خانوں اور سفارت خانوں سے، یا مختلف ممالک میں نامزد نادرا سروس سینٹرز کے ذریعے کی جا سکتی ہے۔"
+    },
+    {
+      "question": "Can I renew my POC from outside Pakistan?",
+      "answer": "Yes, POC renewal can be processed through Pakistani consulates and embassies abroad, subject to availability of NADRA services in your country of residence.",
+      "urdu_question": "کیا میں پاکستان سے باہر اپنے POC کی تجدید کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، POC کی تجدید بیرون ملک پاکستانی قونصل خانوں اور سفارت خانوں کے ذریعے عمل میں لائی جا سکتی ہے، آپ کے ملک میں نادرا کی خدمات کی دستیابی سے مشروط۔"
+    },
+    {
+      "question": "What are the fees for CNIC renewal?",
+      "answer": "CNIC renewal fees vary by processing category: Normal (PKR 400), Urgent (PKR 1,150), Executive (PKR 2,150). Check current fee structure on NADRA website for updated rates.",
+      "urdu_question": "CNIC کی تجدید کی فیس کیا ہے؟",
+      "urdu_answer": "CNIC کی تجدید کی فیس پروسیسنگ کے زمرے کے لحاظ سے مختلف ہوتی ہے: نارمل (PKR 400)، ارجنٹ (PKR 1,150)، ایگزیکٹو (PKR 2,150)۔ تازہ ترین نرخوں کے لیے نادرا کی ویب سائٹ پر موجودہ فیس کا ڈھانچہ چیک کریں۔"
+    },
+    {
+      "question": "What are the fees for NICOP renewal?",
+      "answer": "NICOP renewal fees depend on zone and processing type: Zone A (USA/Europe) $36-72, Zone B (Middle East/Africa) $17-37. Smart NICOP costs $3 more than regular NICOP.",
+      "urdu_question": "NICOP کی تجدید کی فیس کیا ہے؟",
+      "urdu_answer": "NICOP کی تجدید کی فیس زون اور پروسیسنگ کی قسم پر منحصر ہے: زون A (USA/Europe) $36-72، Zone B (مشرق وسطی/افریقہ) $17-37۔ اسمارٹ NICOP کی قیمت باقاعدہ NICOP سے $3 زیادہ ہے۔"
+    },
+    {
+      "question": "What are the fees for POC renewal?",
+      "answer": "POC renewal fees are: Normal $150, Urgent $200, Executive $200. These are in USD and may be paid in PKR at the official conversion rate.",
+      "urdu_question": "پی او سی کی تجدید کی فیس کیا ہے؟",
+      "urdu_answer": "POC تجدید کی فیسیں ہیں: نارمل $150، فوری $200، ایگزیکٹو $200۔ یہ USD میں ہیں اور سرکاری تبادلوں کی شرح پر PKR میں ادا کیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "How long does CNIC renewal take?",
+      "answer": "CNIC renewal processing time depends on category selected: Normal (30 days), Urgent (12 days), Executive (7 days).",
+      "urdu_question": "CNIC کی تجدید میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "CNIC کی تجدید کی کارروائی کا وقت منتخب کردہ زمرہ پر منحصر ہے: نارمل (30 دن)، ارجنٹ (12 دن)، ایگزیکٹو (7 دن)۔"
+    },
+    {
+      "question": "How long does NICOP renewal take?",
+      "answer": "NICOP renewal follows standard processing times: Normal (30 days), Urgent (12 days), Executive (7 days), plus additional time for international delivery if applicable.",
+      "urdu_question": "NICOP کی تجدید میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "NICOP کی تجدید معیاری پروسیسنگ اوقات کی پیروی کرتی ہے: نارمل (30 دن)، ارجنٹ (12 دن)، ایگزیکٹو (7 دن)، اور اگر قابل اطلاق ہو تو بین الاقوامی ترسیل کے لیے اضافی وقت۔"
+    },
+    {
+      "question": "How long does POC renewal take?",
+      "answer": "POC renewal processing time follows standard categories: Normal (30 days), Urgent (12 days), Executive (7 days), plus delivery time for international applicants.",
+      "urdu_question": "پی او سی کی تجدید میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "پی او سی کی تجدید کی کارروائی کا وقت معیاری زمروں کی پیروی کرتا ہے: عام (30 دن)، ارجنٹ (12 دن)، ایگزیکٹو (7 دن)، علاوہ بین الاقوامی درخواست دہندگان کے لیے ترسیل کا وقت۔"
+    },
+    {
+      "question": "Can I expedite my renewal if I have urgent travel plans?",
+      "answer": "Yes, you can choose Executive processing (7 days) for fastest renewal. For emergency travel situations, contact NADRA at 1777 to discuss special emergency procedures if available.",
+      "urdu_question": "اگر میرے پاس فوری سفری منصوبے ہیں تو کیا میں اپنی تجدید کو تیز کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ تیز ترین تجدید کے لیے ایگزیکٹو پروسیسنگ (7 دن) کا انتخاب کر سکتے ہیں۔ ہنگامی سفری حالات کے لیے، اگر دستیاب ہو تو خصوصی ہنگامی طریقہ کار پر بات کرنے کے لیے نادرا سے 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "What happens if my renewal application is rejected?",
+      "answer": "If renewal is rejected, you'll receive information about the reason for rejection. You can address the issues, provide additional documentation, or contact NADRA for clarification and reapplication.",
+      "urdu_question": "اگر میری تجدید کی درخواست مسترد ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر تجدید کو مسترد کر دیا جاتا ہے، تو آپ کو مسترد ہونے کی وجہ کے بارے میں معلومات موصول ہوں گی۔ آپ مسائل کو حل کر سکتے ہیں، اضافی دستاویزات فراہم کر سکتے ہیں، یا وضاحت اور دوبارہ درخواست کے لیے نادرا سے رابطہ کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I use my expired CNIC while renewal is in process?",
+      "answer": "An expired CNIC may have limited acceptance. Some services may accept it temporarily if you provide proof of renewal application, but it's best to complete renewal before expiry.",
+      "urdu_question": "کیا میں تجدید کے عمل کے دوران اپنا میعاد ختم ہونے والا CNIC استعمال کر سکتا ہوں؟",
+      "urdu_answer": "ختم شدہ CNIC کی قبولیت محدود ہو سکتی ہے۔ اگر آپ تجدید کی درخواست کا ثبوت فراہم کرتے ہیں تو کچھ سروسز اسے عارضی طور پر قبول کر سکتی ہیں، لیکن بہتر ہے کہ میعاد ختم ہونے سے پہلے تجدید مکمل کر لیں۔"
+    },
+    {
+      "question": "Can I change information during renewal?",
+      "answer": "Yes, renewal is an opportunity to update information like address, marital status, or correct errors. Additional documentation may be required for any changes made during renewal.",
+      "urdu_question": "کیا میں تجدید کے دوران معلومات کو تبدیل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، تجدید پتہ، ازدواجی حیثیت، یا غلطیاں درست کرنے جیسی معلومات کو اپ ڈیٹ کرنے کا ایک موقع ہے۔ تجدید کے دوران کی گئی کسی بھی تبدیلی کے لیے اضافی دستاویزات درکار ہو سکتی ہیں۔"
+    },
+    {
+      "question": "Do I need to visit NADRA center for renewal?",
+      "answer": "Most renewals require visiting NADRA centers for biometric capture and verification. Some initial steps may be completed online, but physical presence is typically required for complete processing.",
+      "urdu_question": "کیا مجھے تجدید کے لیے نادرا سینٹر جانا ہوگا؟",
+      "urdu_answer": "زیادہ تر تجدیدات کے لیے بائیو میٹرک کیپچر اور تصدیق کے لیے نادرا کے مراکز کا دورہ کرنے کی ضرورت ہوتی ہے۔ کچھ ابتدائی مراحل آن لائن مکمل کیے جا سکتے ہیں، لیکن مکمل پروسیسنگ کے لیے عام طور پر جسمانی موجودگی کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can family members renew documents together?",
+      "answer": "Family members can visit together and apply for renewals simultaneously, but each person needs individual processing including separate biometric capture, documentation, and interviews.",
+      "urdu_question": "کیا خاندان کے افراد ایک ساتھ دستاویزات کی تجدید کر سکتے ہیں؟",
+      "urdu_answer": "خاندان کے افراد ایک ساتھ مل کر مل سکتے ہیں اور تجدید کے لیے بیک وقت درخواست دے سکتے ہیں، لیکن ہر فرد کو الگ الگ بائیو میٹرک کیپچر، دستاویزات، اور انٹرویو سمیت انفرادی پروسیسنگ کی ضرورت ہے۔"
+    },
+    {
+      "question": "What if I lost my CNIC and it's also expired?",
+      "answer": "If your CNIC is both lost and expired, you'll need to apply for a duplicate/reprint with renewal. This requires biometric verification and may need additional documentation to establish identity.",
+      "urdu_question": "اگر میرا شناختی کارڈ کھو جائے اور اس کی میعاد بھی ختم ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کا CNIC دونوں گم ہو چکا ہے اور ختم ہو چکا ہے، تو آپ کو تجدید کے ساتھ ڈپلیکیٹ/دوبارہ پرنٹ کے لیے درخواست دینے کی ضرورت ہوگی۔ اس کے لیے بائیو میٹرک تصدیق کی ضرورت ہے اور شناخت قائم کرنے کے لیے اضافی دستاویزات کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I renew a damaged CNIC?",
+      "answer": "Yes, damaged CNIC can be renewed. Bring the damaged card to the NADRA center along with renewal application. The renewal process will provide you with a new card.",
+      "urdu_question": "کیا میں خراب شدہ CNIC کی تجدید کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، خراب شدہ CNIC کی تجدید کی جا سکتی ہے۔ تجدید کی درخواست کے ساتھ خراب شدہ کارڈ نادرا سنٹر پر لائیں۔ تجدید کا عمل آپ کو نیا کارڈ فراہم کرے گا۔"
+    },
+    {
+      "question": "What happens to my old CNIC after renewal?",
+      "answer": "After renewal, your old CNIC becomes invalid. You should keep it until you receive the new card, then dispose of it securely or as instructed by NADRA to prevent misuse.",
+      "urdu_question": "تجدید کے بعد میرے پرانے CNIC کا کیا ہوتا ہے؟",
+      "urdu_answer": "تجدید کے بعد، آپ کا پرانا CNIC غلط ہو جاتا ہے۔ آپ اسے اس وقت تک اپنے پاس رکھیں جب تک کہ آپ کو نیا کارڈ نہ مل جائے، پھر اسے محفوظ طریقے سے ضائع کر دیں یا غلط استعمال کو روکنے کے لیے نادرا کی ہدایت کے مطابق۔"
+    },
+    {
+      "question": "Can I renew if I've lost my original documents?",
+      "answer": "If you've lost original documents needed for renewal, you may need to obtain duplicate copies from issuing authorities first, or NADRA may accept alternative documentation in some cases.",
+      "urdu_question": "کیا میں تجدید کر سکتا ہوں اگر میں نے اپنی اصل دستاویزات کھو دی ہوں؟",
+      "urdu_answer": "اگر آپ تجدید کے لیے درکار اصل دستاویزات کھو چکے ہیں، تو آپ کو پہلے جاری کرنے والے حکام سے ڈپلیکیٹ کاپیاں حاصل کرنے کی ضرورت پڑ سکتی ہے، یا نادرا کچھ معاملات میں متبادل دستاویزات کو قبول کر سکتا ہے۔"
+    },
+    {
+      "question": "Do I need attestation for renewal documents?",
+      "answer": "Document attestation requirements for renewal depend on the type of changes being made. Simple renewals may not require attestation, but modifications might need attested supporting documents.",
+      "urdu_question": "کیا مجھے تجدید دستاویزات کے لیے تصدیق کی ضرورت ہے؟",
+      "urdu_answer": "تجدید کے لیے دستاویز کی تصدیق کے تقاضے تبدیلیوں کی قسم پر منحصر ہیں۔ سادہ تجدید کے لیے تصدیق کی ضرورت نہیں ہو سکتی ہے، لیکن ترمیم کے لیے تصدیق شدہ معاون دستاویزات کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I track my renewal application status?",
+      "answer": "Yes, you can track renewal status using tracking number provided, PAK-ID mobile app, SMS services, calling 1777, or visiting NADRA centers with your receipt.",
+      "urdu_question": "کیا میں اپنی تجدید کی درخواست کی حیثیت کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ فراہم کردہ ٹریکنگ نمبر، PAK-ID موبائل ایپ، ایس ایم ایس سروسز، 1777 پر کال کرنے، یا اپنی رسید کے ساتھ نادرا مراکز کا دورہ کرکے تجدید کی صورتحال کو ٹریک کرسکتے ہیں۔"
+    },
+    {
+      "question": "What if there are errors in my renewed document?",
+      "answer": "If errors are found in your renewed document, contact NADRA immediately. Office mistakes are corrected free of charge, while other corrections may require the standard modification process.",
+      "urdu_question": "اگر میری تجدید شدہ دستاویز میں غلطیاں ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کی تجدید شدہ دستاویز میں غلطیاں پائی جاتی ہیں تو فوری طور پر نادرا سے رابطہ کریں۔ دفتری غلطیوں کو مفت میں درست کیا جاتا ہے، جبکہ دیگر تصحیحات کے لیے معیاری ترمیم کے عمل کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can I renew before the early renewal window opens?",
+      "answer": "Generally, you cannot renew before the designated early renewal period (1 month for CNIC, 6 months for NICOP/POC). However, special circumstances like travel plans might allow exceptions.",
+      "urdu_question": "کیا میں ابتدائی تجدید ونڈو کھلنے سے پہلے تجدید کر سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، آپ نامزد ابتدائی تجدید کی مدت (CNIC کے لیے 1 ماہ، NICOP/POC کے لیے 6 ماہ) سے پہلے تجدید نہیں کر سکتے۔ تاہم، خاص حالات جیسے سفری منصوبے مستثنیات کی اجازت دے سکتے ہیں۔"
+    },
+    {
+      "question": "What if I'm outside Pakistan when my CNIC expires?",
+      "answer": "If you're abroad when your CNIC expires, contact the nearest Pakistani consulate or embassy. They may provide guidance on emergency procedures or facilitate renewal through diplomatic channels.",
+      "urdu_question": "کیا ہوگا اگر میں پاکستان سے باہر ہوں جب میرے CNIC کی میعاد ختم ہو جائے؟",
+      "urdu_answer": "اگر آپ کے CNIC کی میعاد ختم ہونے پر آپ بیرون ملک ہیں تو قریبی پاکستانی قونصل خانے یا سفارت خانے سے رابطہ کریں۔ وہ ہنگامی طریقہ کار کے بارے میں رہنمائی فراہم کر سکتے ہیں یا سفارتی ذرائع سے تجدید کی سہولت فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I renew my spouse's document on their behalf?",
+      "answer": "No, document renewal requires personal biometric capture and verification. Each individual must personally appear for their renewal application.",
+      "urdu_question": "کیا میں ان کی طرف سے اپنے شریک حیات کے دستاویز کی تجدید کر سکتا ہوں؟",
+      "urdu_answer": "نہیں، دستاویز کی تجدید کے لیے ذاتی بائیو میٹرک کیپچر اور تصدیق کی ضرورت ہوتی ہے۔ ہر فرد کو اپنی تجدید کی درخواست کے لیے ذاتی طور پر حاضر ہونا چاہیے۔"
+    },
+    {
+      "question": "What if my passport expires before POC renewal?",
+      "answer": "For POC renewal, your foreign passport must be valid for at least 6 months. If your passport is expiring, renew it first before applying for POC renewal.",
+      "urdu_question": "اگر میرے پاسپورٹ کی میعاد POC کی تجدید سے پہلے ختم ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "POC کی تجدید کے لیے، آپ کا غیر ملکی پاسپورٹ کم از کم 6 ماہ کے لیے درست ہونا چاہیے۔ اگر آپ کے پاسپورٹ کی میعاد ختم ہو رہی ہے، تو POC کی تجدید کے لیے درخواست دینے سے پہلے پہلے اس کی تجدید کریں۔"
+    },
+    {
+      "question": "Can I continue using services with an expired Juvenile Card?",
+      "answer": "Expired Juvenile Cards are not valid for official use. When a child turns 18, they must transition to CNIC regardless of the Juvenile Card's printed expiry date.",
+      "urdu_question": "کیا میں میعاد ختم ہونے والے جووینائل کارڈ کے ساتھ خدمات کا استعمال جاری رکھ سکتا ہوں؟",
+      "urdu_answer": "میعاد ختم ہونے والے نوجوان کارڈ سرکاری استعمال کے لیے درست نہیں ہیں۔ جب کوئی بچہ 18 سال کا ہو جاتا ہے، تو اسے جووینائل کارڈ کی پرنٹ شدہ میعاد ختم ہونے کی تاریخ سے قطع نظر CNIC میں منتقل ہونا چاہیے۔"
+    },
+    {
+      "question": "What happens if I miss the renewal window?",
+      "answer": "If you miss the early renewal window, you can still renew after expiry. However, late renewal may cause inconvenience as expired documents may not be accepted for various services.",
+      "urdu_question": "اگر میں تجدید ونڈو سے محروم رہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ ابتدائی تجدید ونڈو کو کھو دیتے ہیں، تو آپ میعاد ختم ہونے کے بعد بھی تجدید کر سکتے ہیں۔ تاہم، دیر سے تجدید تکلیف کا باعث بن سکتی ہے کیونکہ میعاد ختم ہونے والی دستاویزات مختلف خدمات کے لیے قبول نہیں کی جا سکتی ہیں۔"
+    },
+    {
+      "question": "Are there grace periods for expired documents?",
+      "answer": "NADRA doesn't typically provide official grace periods for expired documents. It's best to renew before expiry to avoid any service disruptions or complications.",
+      "urdu_question": "کیا میعاد ختم ہونے والی دستاویزات کے لیے رعایتی مدت ہے؟",
+      "urdu_answer": "نادرا عام طور پر میعاد ختم ہونے والی دستاویزات کے لیے سرکاری رعایتی مدت فراہم نہیں کرتا ہے۔ سروس میں رکاوٹوں یا پیچیدگیوں سے بچنے کے لیے میعاد ختم ہونے سے پہلے تجدید کرنا بہتر ہے۔"
+    },
+    {
+      "question": "Can I renew at any NADRA center?",
+      "answer": "Generally, you can renew at any NADRA center in Pakistan. However, some specialized services or international renewals may have specific location requirements.",
+      "urdu_question": "کیا میں نادرا کے کسی سینٹر میں تجدید کر سکتا ہوں؟",
+      "urdu_answer": "عام طور پر، آپ پاکستان میں کسی بھی نادرا سینٹر میں تجدید کر سکتے ہیں۔ تاہم، کچھ مخصوص خدمات یا بین الاقوامی تجدید کے لیے مخصوص مقام کے تقاضے ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What if biometric capture fails during renewal?",
+      "answer": "If biometric capture fails during renewal, NADRA staff will attempt alternative methods, use different fingers, or reschedule for better capture. The process may be delayed until successful biometric capture.",
+      "urdu_question": "اگر تجدید کے دوران بائیو میٹرک کیپچر ناکام ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر تجدید کے دوران بائیو میٹرک کیپچر ناکام ہو جاتا ہے تو، نادرا کا عملہ متبادل طریقوں کی کوشش کرے گا، مختلف انگلیاں استعمال کرے گا، یا بہتر کیپچر کے لیے دوبارہ شیڈول کرے گا۔ کامیاب بائیو میٹرک کیپچر تک عمل میں تاخیر ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I renew if I have physical disabilities?",
+      "answer": "Yes, NADRA provides accommodations for people with disabilities during renewal, including alternative biometric methods, assistance with forms, and accessible facilities.",
+      "urdu_question": "اگر مجھے جسمانی معذوری ہے تو کیا میں تجدید کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا تجدید کے دوران معذور افراد کے لیے رہائش فراہم کرتا ہے، بشمول متبادل بائیو میٹرک طریقے، فارم میں مدد، اور قابل رسائی سہولیات۔"
+    },
+    {
+      "question": "Do military personnel have special renewal procedures?",
+      "answer": "Military personnel may have access to special NADRA services at military installations, but generally follow the same renewal procedures with possible priority processing arrangements.",
+      "urdu_question": "کیا فوجی اہلکاروں کے پاس تجدید کے خصوصی طریقہ کار ہوتے ہیں؟",
+      "urdu_answer": "فوجی اہلکاروں کو فوجی تنصیبات پر نادرا کی خصوصی خدمات تک رسائی حاصل ہو سکتی ہے، لیکن عام طور پر ممکنہ ترجیحی پروسیسنگ انتظامات کے ساتھ تجدید کے انہی طریقہ کار پر عمل کریں۔"
+    },
+    {
+      "question": "Can I renew multiple documents in one visit?",
+      "answer": "If you hold multiple NADRA documents (like CNIC and NICOP), you may be able to renew them in the same visit, though each document requires separate processing and fees.",
+      "urdu_question": "کیا میں ایک وزٹ میں متعدد دستاویزات کی تجدید کر سکتا ہوں؟",
+      "urdu_answer": "اگر آپ کے پاس نادرا کی متعدد دستاویزات ہیں (جیسے CNIC اور NICOP)، تو آپ ایک ہی وزٹ میں ان کی تجدید کر سکتے ہیں، حالانکہ ہر دستاویز کے لیے الگ پروسیسنگ اور فیس کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What if I changed my name legally - how does this affect renewal?",
+      "answer": "Legal name changes require additional documentation during renewal, such as marriage certificates, court orders, or gazette notifications, depending on the reason for name change.",
+      "urdu_question": "اگر میں نے اپنا نام قانونی طور پر تبدیل کیا تو کیا ہوگا - یہ تجدید کو کیسے متاثر کرتا ہے؟",
+      "urdu_answer": "نام کی تبدیلی کی وجہ کی بنیاد پر قانونی نام کی تبدیلیوں کے لیے تجدید کے دوران اضافی دستاویزات کی ضرورت ہوتی ہے، جیسے نکاح نامہ، عدالتی احکامات، یا گزٹ اطلاعات۔"
+    },
+    {
+      "question": "Can I renew if I have dual nationality?",
+      "answer": "Dual nationals should use appropriate documents (NICOP for overseas residence, CNIC for local residence) based on their current status and residence location for renewal.",
+      "urdu_question": "اگر میرے پاس دوہری شہریت ہے تو کیا میں تجدید کر سکتا ہوں؟",
+      "urdu_answer": "دوہری شہریت رکھنے والوں کو ان کی موجودہ حیثیت اور تجدید کے لیے رہائش کے مقام کی بنیاد پر مناسب دستاویزات (بیرون ملک رہائش کے لیے NICOP، مقامی رہائش کے لیے CNIC) استعمال کرنا چاہیے۔"
+    },
+    {
+      "question": "What if my old address is incorrect during renewal?",
+      "answer": "Address corrections can be made during renewal by providing proper address verification documents like utility bills, property documents, or local certificates.",
+      "urdu_question": "اگر تجدید کے دوران میرا پرانا پتہ غلط ہو تو کیا ہوگا؟",
+      "urdu_answer": "ایڈریس کی درستگی تجدید کے دوران ایڈریس کی درست تصدیقی دستاویزات جیسے یوٹیلیٹی بلز، پراپرٹی کے دستاویزات، یا مقامی سرٹیفکیٹس فراہم کرکے کی جاسکتی ہے۔"
+    },
+    {
+      "question": "Are there special renewal rates for senior citizens?",
+      "answer": "While fees are generally standard, senior citizens (especially those 53+) getting lifetime CNIC validity may have different considerations. Check with NADRA for any special provisions.",
+      "urdu_question": "کیا بزرگ شہریوں کے لیے تجدید کی خصوصی شرحیں ہیں؟",
+      "urdu_answer": "اگرچہ فیسیں عام طور پر معیاری ہوتی ہیں، بزرگ شہریوں (خاص طور پر وہ 53+) تاحیات CNIC کی میعاد حاصل کرنے کے لیے مختلف تحفظات ہو سکتے ہیں۔ کسی بھی خصوصی دفعات کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can students get priority renewal services?",
+      "answer": "Students may not have automatic priority, but those with urgent academic deadlines (like admission or scholarship applications) can choose expedited processing categories for faster renewal.",
+      "urdu_question": "کیا طلباء ترجیحی تجدید کی خدمات حاصل کر سکتے ہیں؟",
+      "urdu_answer": "طلباء کے پاس خودکار ترجیح نہیں ہو سکتی ہے، لیکن جن کی فوری تعلیمی ڈیڈ لائن ہے (جیسے داخلہ یا اسکالرشپ کی درخواستیں) وہ تیزی سے تجدید کے لیے تیز رفتار پروسیسنگ زمروں کا انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "What if I lost my tracking number for renewal?",
+      "answer": "If you lost your tracking number, you can retrieve it by providing your CNIC number and other identification at NADRA centers, or through customer service at 1777.",
+      "urdu_question": "اگر میں تجدید کے لیے اپنا ٹریکنگ نمبر کھو دیتا ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ نے اپنا ٹریکنگ نمبر کھو دیا ہے، تو آپ اسے اپنا CNIC نمبر اور دیگر شناخت نادرا مراکز پر فراہم کر کے یا 1777 پر کسٹمر سروس کے ذریعے حاصل کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I cancel a renewal application?",
+      "answer": "Renewal applications may be cancelled early in the process. Contact NADRA to discuss cancellation procedures and potential refund eligibility depending on processing stage.",
+      "urdu_question": "کیا میں تجدید کی درخواست منسوخ کر سکتا ہوں؟",
+      "urdu_answer": "تجدید کی درخواستیں عمل کے اوائل میں منسوخ کی جا سکتی ہیں۔ پروسیسنگ مرحلے کے لحاظ سے منسوخی کے طریقہ کار اور ممکنہ رقم کی واپسی کی اہلیت پر بات کرنے کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What if I need urgent renewal for medical treatment abroad?",
+      "answer": "For medical emergencies requiring urgent travel, choose Executive processing and contact NADRA explaining your situation. They may provide guidance on emergency procedures or expedited handling.",
+      "urdu_question": "اگر مجھے بیرون ملک طبی علاج کے لیے فوری تجدید کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "طبی ہنگامی صورت حال کے لیے جن میں فوری سفر کی ضرورت ہوتی ہے، ایگزیکٹو پروسیسنگ کا انتخاب کریں اور اپنی صورتحال کی وضاحت کرتے ہوئے نادرا سے رابطہ کریں۔ وہ ہنگامی طریقہ کار یا فوری ہینڈلنگ کے بارے میں رہنمائی فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "How often do renewal procedures change?",
+      "answer": "NADRA periodically updates renewal procedures, fees, and requirements. Always check the official NADRA website or contact centers for the most current renewal procedures before applying.",
+      "urdu_question": "تجدید کے طریقہ کار کتنی بار تبدیل ہوتے ہیں؟",
+      "urdu_answer": "نادرا وقتاً فوقتاً تجدید کے طریقہ کار، فیسوں اور ضروریات کو اپ ڈیٹ کرتا رہتا ہے۔ درخواست دینے سے پہلے ہمیشہ تازہ ترین تجدید کے طریقہ کار کے لیے نادرا کی آفیشل ویب سائٹ یا رابطہ مراکز کو چیک کریں۔"
+    },
+    {
+      "question": "Can I renew using old photographs?",
+      "answer": "No, renewal requires new photograph capture at NADRA centers to ensure current appearance and maintain security standards. Old photographs are not acceptable for renewal.",
+      "urdu_question": "کیا میں پرانی تصاویر کا استعمال کرتے ہوئے تجدید کر سکتا ہوں؟",
+      "urdu_answer": "نہیں، تجدید کے لیے نادرا مراکز میں نئی تصویر کھینچنے کی ضرورت ہوتی ہے تاکہ موجودہ ظاہری شکل کو یقینی بنایا جا سکے اور حفاظتی معیارات کو برقرار رکھا جا سکے۔ پرانی تصاویر تجدید کے لیے قابل قبول نہیں ہیں۔"
+    },
+    {
+      "question": "What if there are system outages during my renewal appointment?",
+      "answer": "If system outages occur during renewal, NADRA may provide temporary receipts and complete processing when systems are restored, or reschedule your appointment without additional fees.",
+      "urdu_question": "کیا ہوگا اگر میری تجدید اپائنٹمنٹ کے دوران سسٹم کی بندشیں ہوں؟",
+      "urdu_answer": "اگر تجدید کے دوران سسٹم کی بندش ہوتی ہے تو، نادرا عارضی رسیدیں فراہم کر سکتا ہے اور سسٹم بحال ہونے پر مکمل پروسیسنگ کر سکتا ہے، یا اضافی فیس کے بغیر آپ کی ملاقات کو دوبارہ شیڈول کر سکتا ہے۔"
+    },
+    {
+      "question": "Can I get renewal receipt via email?",
+      "answer": "NADRA provides receipts and tracking information through multiple channels including SMS, email (if provided), and physical receipts. Ensure your contact information is current for notifications.",
+      "urdu_question": "کیا میں ای میل کے ذریعے تجدید کی رسید حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نادرا متعدد چینلز کے ذریعے رسیدیں اور ٹریکنگ کی معلومات فراہم کرتا ہے جس میں SMS، ای میل (اگر فراہم کیا گیا ہے) اور جسمانی رسیدیں شامل ہیں۔ یقینی بنائیں کہ آپ کے رابطے کی معلومات اطلاعات کے لیے موجودہ ہے۔"
+    },
+    {
+      "question": "What security features are in renewed documents?",
+      "answer": "Renewed NADRA documents include updated security features like enhanced biometric chips, improved printing technology, and advanced security elements to prevent counterfeiting.",
+      "urdu_question": "تجدید شدہ دستاویزات میں کون سی حفاظتی خصوصیات ہیں؟",
+      "urdu_answer": "نادرا کی تجدید شدہ دستاویزات میں جدید ترین حفاظتی خصوصیات شامل ہیں جیسے بہتر بائیو میٹرک چپس، بہتر پرنٹنگ ٹیکنالوجی، اور جعل سازی کو روکنے کے لیے جدید سیکیورٹی عناصر۔"
+    },
+    {
+      "question": "Can I request specific validity dates for renewal?",
+      "answer": "No, validity periods are standardized based on document type and applicant age. You cannot request custom validity dates - they follow NADRA's standard validity periods.",
+      "urdu_question": "کیا میں تجدید کے لیے مخصوص تاریخوں کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "نہیں، میعاد کی مدت دستاویز کی قسم اور درخواست گزار کی عمر کی بنیاد پر معیاری ہوتی ہے۔ آپ اپنی مرضی کے مطابق میعاد کی تاریخوں کی درخواست نہیں کر سکتے ہیں - وہ نادرا کے معیاری میعاد کی پیروی کرتے ہیں۔"
+    },
+    {
+      "question": "What if I'm renewing shortly before turning 53?",
+      "answer": "If you're close to 53 when renewing CNIC, it may be beneficial to wait until after your 53rd birthday to get lifetime validity instead of another 10-year validity period.",
+      "urdu_question": "اگر میں 53 سال کا ہونے سے کچھ دیر پہلے تجدید کر رہا ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ CNIC کی تجدید کرتے وقت 53 کے قریب ہیں، تو یہ فائدہ مند ہو سکتا ہے کہ آپ اپنی 53 ویں سالگرہ کے بعد تک انتظار کریں تاکہ 10 سال کی میعاد کی مدت کے بجائے تاحیات میعاد حاصل ہو سکے۔"
+    },
+    {
+      "question": "Are there special renewal procedures during COVID-19 or emergencies?",
+      "answer": "During emergencies, NADRA may implement special procedures like appointment systems, health protocols, or modified processing. Check NADRA's announcements for current emergency procedures.",
+      "urdu_question": "کیا COVID-19 یا ہنگامی حالات کے دوران تجدید کے خصوصی طریقہ کار ہیں؟",
+      "urdu_answer": "ہنگامی حالات کے دوران، نادرا خصوصی طریقہ کار جیسے اپوائنٹمنٹ سسٹم، ہیلتھ پروٹوکول، یا ترمیم شدہ پروسیسنگ کو نافذ کر سکتا ہے۔ موجودہ ہنگامی طریقہ کار کے لیے نادرا کے اعلانات دیکھیں۔"
+    },
+    {
+      "question": "Can I submit renewal applications through mobile vans?",
+      "answer": "Yes, NADRA Mobile Registration Vans (MRV) that visit remote areas typically provide renewal services following the same procedures as fixed centers, subject to equipment availability.",
+      "urdu_question": "کیا میں موبائل وین کے ذریعے تجدید کی درخواستیں جمع کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا موبائل رجسٹریشن وینز (MRV) جو دور دراز کے علاقوں کا دورہ کرتی ہیں عموماً تجدید کی خدمات فراہم کرتی ہیں جیسا کہ فکسڈ سینٹرز، آلات کی دستیابی سے مشروط ہے۔"
+    },
+    {
+      "question": "What happens to my renewal if NADRA policies change during processing?",
+      "answer": "Applications in process typically follow the policies in effect when submitted. Major policy changes usually have transition periods to accommodate pending applications.",
+      "urdu_question": "اگر پروسیسنگ کے دوران نادرا کی پالیسیاں بدل جاتی ہیں تو میری تجدید کا کیا ہوگا؟",
+      "urdu_answer": "عمل میں آنے والی درخواستیں عام طور پر ان پالیسیوں کی پیروی کرتی ہیں جب جمع کرائی جاتی ہیں۔ بڑی پالیسی تبدیلیوں میں زیر التواء درخواستوں کو ایڈجسٹ کرنے کے لیے عام طور پر منتقلی کی مدت ہوتی ہے۔"
+    },
+    {
+      "question": "Can I get renewal status updates via SMS?",
+      "answer": "Yes, NADRA provides SMS updates for renewal applications at various stages including processing start, completion, and dispatch. Ensure your mobile number is correctly provided.",
+      "urdu_question": "کیا میں ایس ایم ایس کے ذریعے تجدید کے اسٹیٹس اپ ڈیٹس حاصل کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، نادرا تجدید کی درخواستوں کے لیے ایس ایم ایس اپ ڈیٹس فراہم کرتا ہے جس میں پروسیسنگ شروع، تکمیل اور ڈسپیچ شامل ہیں۔ یقینی بنائیں کہ آپ کا موبائل نمبر صحیح طریقے سے فراہم کیا گیا ہے۔"
+    },
+    {
+      "question": "What if I need certified copies of my renewal application?",
+      "answer": "For certified copies or additional documentation related to your renewal application, contact NADRA centers or customer service. Some documents may be available through PAK-ID app.",
+      "urdu_question": "اگر مجھے اپنی تجدید کی درخواست کی مصدقہ کاپیوں کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "تصدیق شدہ کاپیوں یا اپنی تجدید کی درخواست سے متعلق اضافی دستاویزات کے لیے، نادرا مراکز یا کسٹمر سروس سے رابطہ کریں۔ کچھ دستاویزات PAK-ID ایپ کے ذریعے دستیاب ہو سکتی ہیں۔"
+    },
+    {
+      "question": "Can employers help with employee renewal processes?",
+      "answer": "Some employers arrange group renewal services or provide support for employee document renewal, especially for overseas workers. Check with your employer about available assistance programs.",
+      "urdu_question": "کیا آجر ملازمین کی تجدید کے عمل میں مدد کر سکتے ہیں؟",
+      "urdu_answer": "کچھ آجر گروپ کی تجدید کی خدمات کا بندوبست کرتے ہیں یا ملازمین کی دستاویز کی تجدید کے لیے معاونت فراہم کرتے ہیں، خاص طور پر بیرون ملک مقیم کارکنوں کے لیے۔ دستیاب امدادی پروگراموں کے بارے میں اپنے آجر سے رابطہ کریں۔"
+    },
+    {
+      "question": "What if renewal reveals discrepancies in my original data?",
+      "answer": "If discrepancies are found during renewal, NADRA may require additional verification, documentation, or investigation before completing the renewal process.",
+      "urdu_question": "کیا ہوگا اگر تجدید میرے اصل ڈیٹا میں تضادات کو ظاہر کرے؟",
+      "urdu_answer": "اگر تجدید کے دوران تضادات پائے جاتے ہیں تو، نادرا کو تجدید کے عمل کو مکمل کرنے سے پہلے اضافی تصدیق، دستاویزات، یا چھان بین کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "Can I appeal if my renewal is rejected?",
+      "answer": "Yes, renewal rejections can be appealed through NADRA's grievance mechanism. Contact customer service at 1777 or visit centers to understand rejection reasons and appeal procedures.",
+      "urdu_question": "کیا میں اپیل کر سکتا ہوں اگر میری تجدید مسترد ہو جائے؟",
+      "urdu_answer": "ہاں، تجدید مستردوں کی اپیل نادرا کے شکایات کے طریقہ کار کے ذریعے کی جا سکتی ہے۔ 1777 پر کسٹمر سروس سے رابطہ کریں یا مسترد ہونے کی وجوہات اور اپیل کے طریقہ کار کو سمجھنے کے لیے سنٹرز دیکھیں۔"
+    },
+    {
+      "question": "How long should I keep my old document after renewal?",
+      "answer": "Keep your old document until you receive the renewed one. After receiving the new document, dispose of the old one securely to prevent identity theft or misuse.",
+      "urdu_question": "تجدید کے بعد مجھے اپنے پرانے دستاویز کو کب تک رکھنا چاہیے؟",
+      "urdu_answer": "اپنے پرانے دستاویز کو اس وقت تک رکھیں جب تک کہ آپ کو تجدید شدہ دستاویز موصول نہ ہو جائے۔ نئی دستاویز حاصل کرنے کے بعد، شناخت کی چوری یا غلط استعمال کو روکنے کے لیے پرانے کو محفوظ طریقے سے ٹھکانے لگائیں۔"
+    },
+    {
+      "question": "What future improvements are planned for renewal processes?",
+      "answer": "NADRA continuously works on improving renewal processes through digital integration, faster processing, better customer experience, and enhanced security. Check official announcements for upcoming improvements.",
+      "urdu_question": "تجدید کے عمل کے لیے مستقبل میں کیا بہتری کی منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "نادرا ڈیجیٹل انضمام، تیز تر پروسیسنگ، بہتر کسٹمر کے تجربے، اور بہتر سیکورٹی کے ذریعے تجدید کے عمل کو بہتر بنانے پر مسلسل کام کرتا ہے۔ آنے والی بہتری کے لیے سرکاری اعلانات دیکھیں۔"
+    },
+    {
+      "question": "Can I provide feedback about my renewal experience?",
+      "answer": "Yes, you can provide feedback about renewal services through NADRA's feedback mechanisms including online portals, customer service at 1777, feedback boxes at centers, or social media channels.",
+      "urdu_question": "کیا میں اپنے تجدید کے تجربے کے بارے میں رائے دے سکتا ہوں؟",
+      "urdu_answer": "ہاں، آپ آن لائن پورٹلز، کسٹمر سروس 1777، سینٹرز پر فیڈ بیک بکس، یا سوشل میڈیا چینلز سمیت نادرا کے فیڈ بیک میکانزم کے ذریعے تجدید کی خدمات کے بارے میں فیڈ بیک فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "Are there any documents that cannot be renewed?",
+      "answer": "Most NADRA identity documents can be renewed, but some certificates like Succession Certificates are typically reissued rather than renewed. Check specific document types for renewal availability.",
+      "urdu_question": "کیا کوئی ایسی دستاویزات ہیں جن کی تجدید نہیں ہو سکتی؟",
+      "urdu_answer": "نادرا کی زیادہ تر شناختی دستاویزات کی تجدید کی جا سکتی ہے، لیکن کچھ سرٹیفکیٹس جیسے جانشینی سرٹیفکیٹ عام طور پر تجدید کے بجائے دوبارہ جاری کیے جاتے ہیں۔ تجدید کی دستیابی کے لیے مخصوص دستاویز کی اقسام کو چیک کریں۔"
+    },
+    {
+      "question": "What training do NADRA staff receive for handling renewals?",
+      "answer": "NADRA staff receive comprehensive training on renewal procedures, document verification, customer service, system operation, and quality standards to ensure consistent and professional renewal services.",
+      "urdu_question": "نادرا کے عملے کو تجدید سے نمٹنے کے لیے کیا تربیت ملتی ہے؟",
+      "urdu_answer": "مستقل اور پیشہ ورانہ تجدید خدمات کو یقینی بنانے کے لیے نادرا کا عملہ تجدید کے طریقہ کار، دستاویزات کی تصدیق، کسٹمر سروس، سسٹم آپریشن، اور معیار کے معیارات کے بارے میں جامع تربیت حاصل کرتا ہے۔"
+    },
+    {
+      "question": "Can I schedule renewal appointments in advance?",
+      "answer": "Some NADRA centers offer appointment scheduling systems for renewals. Check with your local center about appointment availability or use online booking systems where available.",
+      "urdu_question": "کیا میں تجدید کی تقرریوں کو پہلے سے طے کر سکتا ہوں؟",
+      "urdu_answer": "نادرا کے کچھ مراکز تجدید کے لیے اپوائنٹمنٹ شیڈولنگ سسٹم پیش کرتے ہیں۔ اپوائنٹمنٹ کی دستیابی کے بارے میں اپنے مقامی مرکز سے چیک کریں یا جہاں دستیاب ہو آن لائن بکنگ سسٹم استعمال کریں۔"
+    },
+    {
+      "question": "What contingency plans exist for high-volume renewal periods?",
+      "answer": "During high-demand periods, NADRA may deploy additional staff, extend service hours, activate mobile services, or implement appointment systems to manage renewal volumes effectively.",
+      "urdu_question": "اعلی حجم کی تجدید کی مدت کے لیے کون سے ہنگامی منصوبے موجود ہیں؟",
+      "urdu_answer": "زیادہ مانگ کی مدت کے دوران، نادرا اضافی عملہ تعینات کر سکتا ہے، سروس کے اوقات میں توسیع کر سکتا ہے، موبائل سروسز کو چالو کر سکتا ہے، یا تجدید کے حجم کو مؤثر طریقے سے منظم کرنے کے لیے اپوائنٹمنٹ سسٹم نافذ کر سکتا ہے۔"
+    },
+    {
+      "question": "How does NADRA ensure quality control in renewal processing?",
+      "answer": "NADRA implements quality control through supervisor reviews, automated system checks, biometric verification, document authentication, and regular audits of renewal processing procedures.",
+      "urdu_question": "نادرا تجدید پروسیسنگ میں کوالٹی کنٹرول کو کیسے یقینی بناتا ہے؟",
+      "urdu_answer": "نادرا سپروائزر کے جائزوں، خودکار نظام کی جانچ پڑتال، بائیو میٹرک تصدیق، دستاویزات کی تصدیق، اور تجدید کی کارروائی کے طریقہ کار کے باقاعدہ آڈٹ کے ذریعے کوالٹی کنٹرول کو نافذ کرتا ہے۔"
+    },
+    {
+      "question": "Can I get assistance with renewal if I have literacy issues?",
+      "answer": "Yes, NADRA centers provide assistance for applicants with literacy challenges, including help with form filling, explanation of procedures, and guidance throughout the renewal process.",
+      "urdu_question": "اگر مجھے خواندگی کے مسائل درپیش ہوں تو کیا میں تجدید میں مدد حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا کے مراکز خواندگی کے چیلنجز کے ساتھ درخواست دہندگان کو مدد فراہم کرتے ہیں، بشمول فارم بھرنے میں مدد، طریقہ کار کی وضاحت، اور تجدید کے پورے عمل میں رہنمائی۔"
+    },
+    {
+      "question": "What coordination exists between NADRA centers for renewals?",
+      "answer": "NADRA centers are connected through centralized systems enabling data sharing, application tracking, and coordination. Renewals can typically be tracked and supported across different centers.",
+      "urdu_question": "تجدید کے لیے نادرا مراکز کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "نادرا کے مراکز سینٹرلائزڈ سسٹمز کے ذریعے منسلک ہیں جو ڈیٹا شیئرنگ، ایپلیکیشن ٹریکنگ اور کوآرڈینیشن کو قابل بناتے ہیں۔ تجدید کو عام طور پر مختلف مراکز میں ٹریک اور سپورٹ کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Are there any environmental considerations in the renewal process?",
+      "answer": "NADRA is working toward more sustainable practices including digital processes, reduced paper usage, efficient resource utilization, and proper disposal of old documents during renewal.",
+      "urdu_question": "کیا تجدید کے عمل میں کوئی ماحولیاتی تحفظات ہیں؟",
+      "urdu_answer": "نادرا مزید پائیدار طریقوں کی طرف کام کر رہا ہے جس میں ڈیجیٹل عمل، کاغذ کا کم استعمال، وسائل کا موثر استعمال، اور تجدید کے دوران پرانی دستاویزات کا مناسب طریقے سے تصرف شامل ہے۔"
+    },
+    {
+      "question": "Can I get renewal services during after-hours or weekends?",
+      "answer": "Regular renewal services are typically available during standard business hours. Some centers may have extended hours or special weekend services. Check with local centers for specific schedules.",
+      "urdu_question": "کیا میں بعد کے اوقات یا اختتام ہفتہ کے دوران تجدید کی خدمات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "باقاعدہ تجدید کی خدمات عام طور پر معیاری کاروباری اوقات کے دوران دستیاب ہوتی ہیں۔ کچھ مراکز میں اوقات کار یا اختتام ہفتہ کی خصوصی خدمات ہو سکتی ہیں۔ مخصوص نظام الاوقات کے لیے مقامی مراکز سے رابطہ کریں۔"
+    },
+    {
+      "question": "What technological innovations are being implemented in renewal processes?",
+      "answer": "NADRA continuously upgrades renewal technology including improved biometric systems, digital workflows, automated processing, online services, and enhanced security features to improve renewal efficiency.",
+      "urdu_question": "تجدید کے عمل میں کون سی تکنیکی اختراعات لاگو کی جا رہی ہیں؟",
+      "urdu_answer": "نادرا تجدید کی ٹیکنالوجی کو مسلسل اپ گریڈ کرتا ہے جس میں بہتر بائیو میٹرک سسٹم، ڈیجیٹل ورک فلو، خودکار پروسیسنگ، آن لائن خدمات، اور تجدید کی کارکردگی کو بہتر بنانے کے لیے سیکیورٹی کی بہتر خصوصیات شامل ہیں۔"
+    },
+    {
+      "question": "How does international law affect NADRA document renewals?",
+      "answer": "International agreements and diplomatic protocols may affect renewal procedures for overseas Pakistanis, dual nationals, and international document recognition, particularly for NICOP and POC renewals.",
+      "urdu_question": "بین الاقوامی قانون نادرا کی دستاویزات کی تجدید کو کیسے متاثر کرتا ہے؟",
+      "urdu_answer": "بین الاقوامی معاہدے اور سفارتی پروٹوکول بیرون ملک مقیم پاکستانیوں، دوہری شہریت اور بین الاقوامی دستاویز کی شناخت، خاص طور پر NICOP اور POC کی تجدید کے لیے تجدید کے طریقہ کار کو متاثر کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can I get renewal services if I have pending legal cases?",
+      "answer": "Legal cases may affect renewal eligibility depending on the nature of the case and any court orders. Contact NADRA directly to discuss your specific situation and any restrictions.",
+      "urdu_question": "اگر میرے پاس قانونی مقدمات زیر التوا ہیں تو کیا میں تجدید کی خدمات حاصل کر سکتا ہوں؟",
+      "urdu_answer": "قانونی مقدمات کیس کی نوعیت اور عدالتی احکامات کے لحاظ سے تجدید کی اہلیت کو متاثر کر سکتے ہیں۔ اپنی مخصوص صورتحال اور کسی بھی پابندی پر بات کرنے کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "What research and development activities improve renewal services?",
+      "answer": "NADRA invests in R&D for renewal improvements including advanced biometrics, artificial intelligence, blockchain technology, improved security features, and enhanced user experience in renewal processes.",
+      "urdu_question": "کون سی تحقیق اور ترقیاتی سرگرمیاں تجدید کی خدمات کو بہتر کرتی ہیں؟",
+      "urdu_answer": "نادرا تجدید میں بہتری کے لیے R&D میں سرمایہ کاری کرتا ہے جس میں جدید بایومیٹرکس، مصنوعی ذہانت، بلاک چین ٹیکنالوجی، بہتر سیکیورٹی خصوصیات، اور تجدید کے عمل میں صارف کے تجربے کو بڑھانا شامل ہے۔"
+    }
+  ]
+}

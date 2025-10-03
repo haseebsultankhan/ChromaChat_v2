@@ -1,0 +1,517 @@
+{
+  "file_name": "products.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 100,
+  "qa_data": [
+    {
+      "question": "What types of products does NADRA offer?",
+      "answer": "NADRA offers various types of identity documents and certificates to eligible applicants. These include Identity Cards (National Identity Card, Juvenile Card, Pakistan Origin Card, National Identity Card for Overseas Pakistanis) and Certificates (Cancellation Certificate, Child Registration Certificate, Family Registration Certificate, Succession Certificate).",
+      "urdu_question": "نادرا کس قسم کی مصنوعات پیش کرتا ہے؟",
+      "urdu_answer": "نادرا اہل درخواست دہندگان کو مختلف قسم کے شناختی دستاویزات اور سرٹیفکیٹ پیش کرتا ہے۔ ان میں شناختی کارڈ (قومی شناختی کارڈ، نوعمر کارڈ، پاکستان اوریجن کارڈ، بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ) اور سرٹیفکیٹ (منسوخی سرٹیفکیٹ، چائلڈ رجسٹریشن سرٹیفکیٹ، فیملی رجسٹریشن سرٹیفکیٹ، جانشینی کا سرٹیفکیٹ) شامل ہیں۔"
+    },
+    {
+      "question": "What is a National Identity Card (NIC)?",
+      "answer": "National Identity Card (NIC) is issued to citizens of Pakistan as a legal form of identification.",
+      "urdu_question": "قومی شناختی کارڈ (NIC) کیا ہے؟",
+      "urdu_answer": "قومی شناختی کارڈ (NIC) پاکستان کے شہریوں کو شناخت کی قانونی شکل کے طور پر جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is a Juvenile Card and who is it for?",
+      "answer": "Juvenile Card is issued to children under the age of 18 years as their identity document.",
+      "urdu_question": "جوینائل کارڈ کیا ہے اور یہ کس کے لیے ہے؟",
+      "urdu_answer": "جوونائل کارڈ 18 سال سے کم عمر بچوں کو ان کی شناختی دستاویز کے طور پر جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is a Pakistan Origin Card (POC)?",
+      "answer": "Pakistan Origin Card (POC) is designed for eligible foreigners with Pakistani roots to help maintain connections with Pakistan.",
+      "urdu_question": "پاکستان اوریجن کارڈ (POC) کیا ہے؟",
+      "urdu_answer": "پاکستان اوریجن کارڈ (POC) پاکستانی جڑوں والے اہل غیر ملکیوں کے لیے ڈیزائن کیا گیا ہے تاکہ پاکستان کے ساتھ روابط برقرار رکھنے میں مدد کی جا سکے۔"
+    },
+    {
+      "question": "What is NICOP and who can get it?",
+      "answer": "National Identity Card for Overseas Pakistanis (NICOP) is issued to Pakistani citizens living or intending to live abroad.",
+      "urdu_question": "NICOP کیا ہے اور کون اسے حاصل کر سکتا ہے؟",
+      "urdu_answer": "بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ (NICOP) پاکستانی شہریوں کو جاری کیا جاتا ہے جو بیرون ملک مقیم یا رہنے کا ارادہ رکھتے ہیں۔"
+    },
+    {
+      "question": "What is a Cancellation Certificate (CC)?",
+      "answer": "Cancellation Certificate (CC) is issued to confirm the cancellation of a record or identity, often in the case of death or legal termination.",
+      "urdu_question": "منسوخی کا سرٹیفکیٹ (CC) کیا ہے؟",
+      "urdu_answer": "منسوخی کا سرٹیفکیٹ (CC) کسی ریکارڈ یا شناخت کی منسوخی کی تصدیق کے لیے جاری کیا جاتا ہے، اکثر موت یا قانونی طور پر ختم ہونے کی صورت میں۔"
+    },
+    {
+      "question": "What is a Child Registration Certificate (CRC)?",
+      "answer": "Child Registration Certificate (CRC) is used to register a newborn into the NADRA database.",
+      "urdu_question": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کیا ہے؟",
+      "urdu_answer": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کو نادرا ڈیٹا بیس میں نومولود کو رجسٹر کرنے کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is a Family Registration Certificate (FRC)?",
+      "answer": "Family Registration Certificate (FRC) provides a family-level record based on NADRA's database for identification or verification purposes.",
+      "urdu_question": "فیملی رجسٹریشن سرٹیفکیٹ (FRC) کیا ہے؟",
+      "urdu_answer": "فیملی رجسٹریشن سرٹیفکیٹ (FRC) شناخت یا تصدیق کے مقاصد کے لیے نادرا کے ڈیٹا بیس پر مبنی خاندانی سطح کا ریکارڈ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is a Succession Certificate?",
+      "answer": "Succession Certificate is issued to the legal successor(s) of a deceased person to facilitate inheritance or legal processes.",
+      "urdu_question": "جانشینی کا سرٹیفکیٹ کیا ہے؟",
+      "urdu_answer": "جانشینی کا سرٹیفکیٹ وراثت یا قانونی عمل میں سہولت فراہم کرنے کے لیے کسی متوفی کے قانونی جانشین کو جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "How many main categories of NADRA products are there?",
+      "answer": "NADRA products are divided into two main categories: Identity Cards (which includes 4 types) and Certificates (which includes 4 types).",
+      "urdu_question": "نادرا کی مصنوعات کی کتنی اہم کیٹیگریز ہیں؟",
+      "urdu_answer": "نادرا کی مصنوعات کو دو اہم زمروں میں تقسیم کیا گیا ہے: شناختی کارڈ (جس میں 4 اقسام شامل ہیں) اور سرٹیفکیٹ (جس میں 4 اقسام شامل ہیں)۔"
+    },
+    {
+      "question": "What identity documents are available for Pakistani citizens?",
+      "answer": "For Pakistani citizens, NADRA offers National Identity Card (NIC) for those 18 and above, Juvenile Card for children under 18, and National Identity Card for Overseas Pakistanis (NICOP) for those living or intending to live abroad.",
+      "urdu_question": "پاکستانی شہریوں کے لیے کون سے شناختی دستاویزات دستیاب ہیں؟",
+      "urdu_answer": "پاکستانی شہریوں کے لیے، نادرا 18 سال یا اس سے زیادہ عمر کے بچوں کے لیے قومی شناختی کارڈ (این آئی سی)، 18 سال سے کم عمر کے بچوں کے لیے جووینائل کارڈ، اور بیرون ملک مقیم یا رہنے کا ارادہ رکھنے والوں کے لیے اوورسیز پاکستانیوں کے لیے قومی شناختی کارڈ (این آئی سی او پی) پیش کرتا ہے۔"
+    },
+    {
+      "question": "What documents are available for foreigners with Pakistani connections?",
+      "answer": "Foreigners with Pakistani roots can obtain a Pakistan Origin Card (POC) to help maintain connections with Pakistan.",
+      "urdu_question": "پاکستانی کنکشن والے غیر ملکیوں کے لیے کون سی دستاویزات دستیاب ہیں؟",
+      "urdu_answer": "پاکستانی جڑوں والے غیر ملکی پاکستان کے ساتھ روابط برقرار رکھنے میں مدد کے لیے پاکستان اوریجن کارڈ (POC) حاصل کر سکتے ہیں۔"
+    },
+    {
+      "question": "What certificates does NADRA issue for family-related matters?",
+      "answer": "For family-related matters, NADRA issues Child Registration Certificate (CRC) for newborn registration, Family Registration Certificate (FRC) for family-level records, and Succession Certificate for inheritance and legal processes.",
+      "urdu_question": "نادرا خاندانی معاملات کے لیے کون سے سرٹیفکیٹ جاری کرتا ہے؟",
+      "urdu_answer": "خاندان سے متعلقہ معاملات کے لیے، نادرا نومولود کی رجسٹریشن کے لیے چائلڈ رجسٹریشن سرٹیفکیٹ (CRC)، فیملی لیول ریکارڈز کے لیے فیملی رجسٹریشن سرٹیفکیٹ (FRC)، اور وراثت اور قانونی عمل کے لیے جانشینی کا سرٹیفکیٹ جاری کرتا ہے۔"
+    },
+    {
+      "question": "Which NADRA product is used for newborn registration?",
+      "answer": "Child Registration Certificate (CRC) is used to register a newborn into the NADRA database.",
+      "urdu_question": "نومولود کی رجسٹریشن کے لیے نادرا کی کون سی پروڈکٹ استعمال کی جاتی ہے؟",
+      "urdu_answer": "چائلڈ رجسٹریشن سرٹیفکیٹ (CRC) کو نادرا ڈیٹا بیس میں نومولود کو رجسٹر کرنے کے لیے استعمال کیا جاتا ہے۔"
+    },
+    {
+      "question": "What document helps maintain connections with Pakistan for eligible foreigners?",
+      "answer": "Pakistan Origin Card (POC) is designed for eligible foreigners with Pakistani roots to help maintain connections with Pakistan.",
+      "urdu_question": "کون سی دستاویز اہل غیر ملکیوں کے لیے پاکستان کے ساتھ روابط برقرار رکھنے میں مدد کرتی ہے؟",
+      "urdu_answer": "پاکستان اوریجن کارڈ (POC) پاکستانی جڑوں والے اہل غیر ملکیوں کے لیے ڈیزائن کیا گیا ہے تاکہ پاکستان کے ساتھ روابط برقرار رکھنے میں مدد کی جا سکے۔"
+    },
+    {
+      "question": "What certificate is needed for inheritance or legal processes?",
+      "answer": "Succession Certificate is issued to the legal successor(s) of a deceased person to facilitate inheritance or legal processes.",
+      "urdu_question": "وراثت یا قانونی عمل کے لیے کس سرٹیفکیٹ کی ضرورت ہے؟",
+      "urdu_answer": "جانشینی کا سرٹیفکیٹ وراثت یا قانونی عمل میں سہولت فراہم کرنے کے لیے کسی متوفی کے قانونی جانشین کو جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What is the main identity document for adult Pakistani citizens?",
+      "answer": "National Identity Card (NIC) is issued to citizens of Pakistan as their main legal form of identification.",
+      "urdu_question": "بالغ پاکستانی شہریوں کے لیے بنیادی شناختی دستاویز کیا ہے؟",
+      "urdu_answer": "قومی شناختی کارڈ (NIC) پاکستان کے شہریوں کو ان کی شناخت کی اہم قانونی شکل کے طور پر جاری کیا جاتا ہے۔"
+    },
+    {
+      "question": "What certificate confirms the cancellation of a record or identity?",
+      "answer": "Cancellation Certificate (CC) is issued to confirm the cancellation of a record or identity, often in the case of death or legal termination.",
+      "urdu_question": "کون سا سرٹیفکیٹ ریکارڈ یا شناخت کی منسوخی کی تصدیق کرتا ہے؟",
+      "urdu_answer": "منسوخی کا سرٹیفکیٹ (CC) کسی ریکارڈ یا شناخت کی منسوخی کی تصدیق کے لیے جاری کیا جاتا ہے، اکثر موت یا قانونی طور پر ختم ہونے کی صورت میں۔"
+    },
+    {
+      "question": "Which NADRA product provides family-level records for verification?",
+      "answer": "Family Registration Certificate (FRC) provides a family-level record based on NADRA's database for identification or verification purposes.",
+      "urdu_question": "نادرا کی کون سی پروڈکٹ تصدیق کے لیے فیملی لیول ریکارڈ فراہم کرتی ہے؟",
+      "urdu_answer": "فیملی رجسٹریشن سرٹیفکیٹ (FRC) شناخت یا تصدیق کے مقاصد کے لیے نادرا کے ڈیٹا بیس پر مبنی خاندانی سطح کا ریکارڈ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What are all the identity cards offered by NADRA?",
+      "answer": "NADRA offers four types of identity cards: National Identity Card (NIC) for Pakistani citizens, Juvenile Card for children under 18, Pakistan Origin Card (POC) for eligible foreigners with Pakistani roots, and National Identity Card for Overseas Pakistanis (NICOP) for Pakistani citizens living or intending to live abroad.",
+      "urdu_question": "نادرا کی طرف سے پیش کردہ تمام شناختی کارڈ کیا ہیں؟",
+      "urdu_answer": "نادرا چار قسم کے شناختی کارڈ پیش کرتا ہے: پاکستانی شہریوں کے لیے قومی شناختی کارڈ (این آئی سی)، 18 سال سے کم عمر بچوں کے لیے جووینائل کارڈ، پاکستانی جڑوں والے اہل غیر ملکیوں کے لیے پاکستان اوریجن کارڈ (پی او سی)، اور بیرون ملک مقیم پاکستانی شہریوں کے لیے قومی شناختی کارڈ (این آئی سی او پی)۔"
+    },
+    {
+      "question": "What are all the certificates offered by NADRA?",
+      "answer": "NADRA offers four types of certificates: Cancellation Certificate (CC) for record cancellation, Child Registration Certificate (CRC) for newborn registration, Family Registration Certificate (FRC) for family records, and Succession Certificate for inheritance and legal processes.",
+      "urdu_question": "نادرا کی طرف سے پیش کردہ تمام سرٹیفکیٹس کیا ہیں؟",
+      "urdu_answer": "نادرا چار قسم کے سرٹیفکیٹ پیش کرتا ہے: ریکارڈ کینسلیشن کے لیے کینسلیشن سرٹیفکیٹ (CC)، نومولود کی رجسٹریشن کے لیے چائلڈ رجسٹریشن سرٹیفکیٹ (CRC)، فیملی ریکارڈ کے لیے فیملی رجسٹریشن سرٹیفکیٹ (FRC)، اور وراثت اور قانونی عمل کے لیے Succession Certificate۔"
+    },
+    {
+      "question": "What is the difference between NIC and NICOP?",
+      "answer": "NIC (National Identity Card) is for Pakistani citizens residing in Pakistan, while NICOP (National Identity Card for Overseas Pakistanis) is specifically for Pakistani citizens living or intending to live abroad. Both serve as legal identification but NICOP is designed for overseas use.",
+      "urdu_question": "NIC اور NICOP میں کیا فرق ہے؟",
+      "urdu_answer": "NIC (قومی شناختی کارڈ) پاکستان میں مقیم پاکستانی شہریوں کے لیے ہے، جبکہ NICOP (بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ) خاص طور پر پاکستانی شہریوں کے لیے ہے جو بیرون ملک مقیم ہیں یا رہنے کا ارادہ رکھتے ہیں۔ دونوں قانونی شناخت کے طور پر کام کرتے ہیں لیکن NICOP بیرون ملک استعمال کے لیے ڈیزائن کیا گیا ہے۔"
+    },
+    {
+      "question": "Can a Pakistani citizen have both NIC and NICOP?",
+      "answer": "Typically, a Pakistani citizen would have either NIC or NICOP based on their residency status. NICOP is specifically for those living or intending to live abroad, while NIC is for residents of Pakistan.",
+      "urdu_question": "کیا پاکستانی شہری کے پاس NIC اور NICOP دونوں ہیں؟",
+      "urdu_answer": "عام طور پر، پاکستانی شہری کے پاس رہائش کی حیثیت کی بنیاد پر یا تو NIC یا NICOP ہوتا ہے۔ NICOP خاص طور پر ان لوگوں کے لیے ہے جو بیرون ملک مقیم ہیں یا رہنے کا ارادہ رکھتے ہیں، جبکہ NIC پاکستان کے رہائشیوں کے لیے ہے۔"
+    },
+    {
+      "question": "What is the difference between Juvenile Card and CRC?",
+      "answer": "Juvenile Card is an identity document for children under 18 with biometric data, while CRC (Child Registration Certificate) is used to register a newborn into the NADRA database and typically doesn't contain biometric information.",
+      "urdu_question": "جوینائل کارڈ اور سی آر سی میں کیا فرق ہے؟",
+      "urdu_answer": "جووینائل کارڈ بائیو میٹرک ڈیٹا کے ساتھ 18 سال سے کم عمر بچوں کے لیے ایک شناختی دستاویز ہے، جبکہ CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) کو نادرا ڈیٹا بیس میں نومولود کو رجسٹر کرنے کے لیے استعمال کیا جاتا ہے اور عام طور پر اس میں بائیو میٹرک معلومات نہیں ہوتی ہیں۔"
+    },
+    {
+      "question": "Who needs a POC instead of NICOP?",
+      "answer": "POC (Pakistan Origin Card) is for eligible foreigners with Pakistani roots who are not Pakistani citizens, while NICOP is for actual Pakistani citizens living abroad. POC helps maintain connections with Pakistan for those of Pakistani origin.",
+      "urdu_question": "کس کو NICOP کے بجائے POC کی ضرورت ہے؟",
+      "urdu_answer": "POC (پاکستان اوریجن کارڈ) پاکستانی جڑوں والے اہل غیر ملکیوں کے لیے ہے جو پاکستانی شہری نہیں ہیں، جبکہ NICOP بیرون ملک مقیم حقیقی پاکستانی شہریوں کے لیے ہے۔ POC پاکستانی نژاد لوگوں کے لیے پاکستان کے ساتھ روابط برقرار رکھنے میں مدد کرتا ہے۔"
+    },
+    {
+      "question": "What is the purpose of FRC in official processes?",
+      "answer": "FRC (Family Registration Certificate) provides official family-level records for identification or verification purposes, commonly used for visa applications, legal matters, succession cases, and educational admissions where family composition proof is required.",
+      "urdu_question": "سرکاری عمل میں FRC کا مقصد کیا ہے؟",
+      "urdu_answer": "FRC (فیملی رجسٹریشن سرٹیفکیٹ) شناخت یا تصدیق کے مقاصد کے لیے خاندانی سطح کے سرکاری ریکارڈ فراہم کرتا ہے، جو عام طور پر ویزا کی درخواستوں، قانونی معاملات، جانشینی کے معاملات، اور تعلیمی داخلوں کے لیے استعمال ہوتا ہے جہاں خاندانی ساخت کا ثبوت درکار ہوتا ہے۔"
+    },
+    {
+      "question": "When would someone need a Cancellation Certificate?",
+      "answer": "A Cancellation Certificate is needed to confirm the cancellation of a record or identity, commonly required in cases of death (to cancel a deceased person's identity), legal termination of status, or when officially discontinuing an identity record.",
+      "urdu_question": "کب کسی کو منسوخی کے سرٹیفکیٹ کی ضرورت ہوگی؟",
+      "urdu_answer": "کسی ریکارڈ یا شناخت کی منسوخی کی تصدیق کرنے کے لیے منسوخی کے سرٹیفکیٹ کی ضرورت ہوتی ہے، جو عام طور پر موت کی صورتوں میں (مرنے والے شخص کی شناخت کو منسوخ کرنے کے لیے)، حیثیت کے قانونی خاتمے، یا سرکاری طور پر شناختی ریکارڈ کو بند کرنے کے لیے درکار ہوتا ہے۔"
+    },
+    {
+      "question": "Are NADRA products available in smart card format?",
+      "answer": "Yes, NADRA offers smart card versions of identity documents, including Smart National Identity Card (SNIC), Smart NICOP, and Smart POC, which contain chip-based technology for enhanced security and functionality.",
+      "urdu_question": "کیا نادرا کی مصنوعات سمارٹ کارڈ کی شکل میں دستیاب ہیں؟",
+      "urdu_answer": "جی ہاں، نادرا شناختی دستاویزات کے سمارٹ کارڈ ورژن پیش کرتا ہے، بشمول اسمارٹ نیشنل آئیڈینٹی کارڈ (SNIC)، Smart NICOP، اور Smart POC، جو بہتر سیکیورٹی اور فعالیت کے لیے چپ پر مبنی ٹیکنالوجی پر مشتمل ہے۔"
+    },
+    {
+      "question": "What smart card products does NADRA offer?",
+      "answer": "NADRA offers Smart National Identity Card (SNIC), Smart NICOP for overseas Pakistanis, and Smart POC for foreign nationals of Pakistani origin. These smart cards contain embedded chips for enhanced security and digital functionality.",
+      "urdu_question": "نادرا کون سے سمارٹ کارڈ پروڈکٹس پیش کرتا ہے؟",
+      "urdu_answer": "نادرا سمارٹ قومی شناختی کارڈ (SNIC)، سمندر پار پاکستانیوں کے لیے اسمارٹ NICOP، اور پاکستانی نژاد غیر ملکی شہریوں کے لیے اسمارٹ POC پیش کرتا ہے۔ یہ سمارٹ کارڈز بہتر سیکورٹی اور ڈیجیٹل فعالیت کے لیے ایمبیڈڈ چپس پر مشتمل ہیں۔"
+    },
+    {
+      "question": "What is the difference between regular and smart card versions?",
+      "answer": "Smart card versions contain embedded chips that store data electronically and offer enhanced security features, digital verification capabilities, and better protection against forgery compared to regular cards which are standard printed documents.",
+      "urdu_question": "ریگولر اور سمارٹ کارڈ ورژن میں کیا فرق ہے؟",
+      "urdu_answer": "سمارٹ کارڈ کے ورژن میں ایمبیڈڈ چپس ہوتی ہیں جو ڈیٹا کو الیکٹرانک طور پر اسٹور کرتی ہیں اور معیاری پرنٹ شدہ دستاویزات کے مقابلے میں بہتر حفاظتی خصوصیات، ڈیجیٹل تصدیق کی صلاحیتیں، اور جعلسازی کے خلاف بہتر تحفظ فراہم کرتی ہیں۔"
+    },
+    {
+      "question": "Can children get smart cards?",
+      "answer": "Children can get Juvenile Cards, but the availability of smart card versions for children may depend on current NADRA policies and technological implementations. Check with NADRA for current options for children's identity documents.",
+      "urdu_question": "کیا بچوں کو سمارٹ کارڈ مل سکتے ہیں؟",
+      "urdu_answer": "بچے جووینائل کارڈ حاصل کر سکتے ہیں، لیکن بچوں کے لیے سمارٹ کارڈ ورژن کی دستیابی نادرا کی موجودہ پالیسیوں اور تکنیکی نفاذ پر منحصر ہو سکتی ہے۔ بچوں کی شناختی دستاویزات کے موجودہ اختیارات کے لیے نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What age transitions require changing NADRA products?",
+      "answer": "The main age transition is at 18 years, when individuals must transition from child documents (CRC or Juvenile Card) to adult National Identity Card (NIC). This is a mandatory transition for Pakistani citizens reaching adulthood.",
+      "urdu_question": "کس عمر کی تبدیلی کے لیے نادرا کی مصنوعات کو تبدیل کرنے کی ضرورت ہے؟",
+      "urdu_answer": "بنیادی عمر کی منتقلی 18 سال میں ہوتی ہے، جب افراد کو چائلڈ دستاویزات (CRC یا نوجوان کارڈ) سے بالغوں کے قومی شناختی کارڈ (NIC) میں منتقل ہونا ضروری ہے۔ بالغ ہونے والے پاکستانی شہریوں کے لیے یہ ایک لازمی منتقلی ہے۔"
+    },
+    {
+      "question": "Do NADRA products have expiration dates?",
+      "answer": "Yes, NADRA identity products have validity periods: NIC (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until age 18 or 10 years, whichever comes first), POC (7 years). Certificates may have different validity periods depending on their purpose.",
+      "urdu_question": "کیا نادرا کی مصنوعات کی میعاد ختم ہونے کی تاریخیں ہیں؟",
+      "urdu_answer": "جی ہاں، نادرا کی شناختی مصنوعات کی میعاد کی مدت ہوتی ہے: NIC (10 سال، عمر بھر 53+)، NICOP (10 سال)، جووینائل کارڈ (18 یا 10 سال کی عمر تک، جو بھی پہلے آئے)، POC (7 سال)۔ سرٹیفکیٹس میں ان کے مقصد کے لحاظ سے مختلف میعاد کی مدت ہوسکتی ہے۔"
+    },
+    {
+      "question": "Which NADRA products need regular renewal?",
+      "answer": "Identity cards like NIC, NICOP, POC, and Juvenile Card require renewal based on their validity periods. Certificates like CRC, FRC, and Succession Certificate typically don't require renewal as they serve specific purposes, though duplicates can be obtained if needed.",
+      "urdu_question": "نادرا کی کون سی مصنوعات کو باقاعدہ تجدید کی ضرورت ہے؟",
+      "urdu_answer": "شناختی کارڈ جیسے این آئی سی، این آئی سی او پی، پی او سی، اور جووینائل کارڈ کو ان کی میعاد کی مدت کی بنیاد پر تجدید کی ضرورت ہوتی ہے۔ CRC، FRC، اور Succession Certificate جیسے سرٹیفکیٹس کو عام طور پر تجدید کی ضرورت نہیں ہوتی ہے کیونکہ وہ مخصوص مقاصد کو پورا کرتے ہیں، اگرچہ ضرورت پڑنے پر ڈپلیکیٹس حاصل کیے جا سکتے ہیں۔"
+    },
+    {
+      "question": "Can NADRA products be modified after issuance?",
+      "answer": "Yes, most NADRA identity products can be modified to update information like address, marital status, or correct errors. However, the types of modifications allowed and required documentation vary by product type.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو جاری کرنے کے بعد تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "جی ہاں، نادرا کی زیادہ تر شناختی مصنوعات کو ایڈریس، ازدواجی حیثیت، یا غلطیاں درست کرنے جیسی معلومات کو اپ ڈیٹ کرنے کے لیے تبدیل کیا جا سکتا ہے۔ تاہم، ترمیم کی قسموں کی اجازت اور مطلوبہ دستاویزات پروڈکٹ کی قسم کے لحاظ سے مختلف ہوتی ہیں۔"
+    },
+    {
+      "question": "What information is stored on NADRA identity products?",
+      "answer": "NADRA identity products typically contain personal information such as name, father's name, date of birth, CNIC number, address, photograph, and biometric data (fingerprints). The specific information varies by product type and purpose.",
+      "urdu_question": "نادرا کی شناختی مصنوعات پر کون سی معلومات محفوظ ہیں؟",
+      "urdu_answer": "نادرا کی شناختی مصنوعات میں عام طور پر ذاتی معلومات جیسے نام، والد کا نام، تاریخ پیدائش، CNIC نمبر، پتہ، تصویر، اور بائیو میٹرک ڈیٹا (انگلیوں کے نشانات) شامل ہوتے ہیں۔ مخصوص معلومات مصنوعات کی قسم اور مقصد کے لحاظ سے مختلف ہوتی ہیں۔"
+    },
+    {
+      "question": "Are NADRA products accepted internationally?",
+      "answer": "NADRA products like NICOP and POC are specifically designed for international use and recognition. NIC may be accepted in some international contexts, but NICOP is the preferred document for Pakistani citizens abroad.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو بین الاقوامی سطح پر قبول کیا جاتا ہے؟",
+      "urdu_answer": "NADRA کی مصنوعات جیسے NICOP اور POC خاص طور پر بین الاقوامی استعمال اور پہچان کے لیے تیار کی گئی ہیں۔ NIC کچھ بین الاقوامی سیاق و سباق میں قبول کیا جا سکتا ہے، لیکن NICOP بیرون ملک پاکستانی شہریوں کے لیے ترجیحی دستاویز ہے۔"
+    },
+    {
+      "question": "Can NADRA products be used for travel?",
+      "answer": "NICOP can be used for visa-free entry to Pakistan and serves as identity documentation abroad. However, for international travel, a passport is typically required. NADRA identity documents support passport applications and other travel-related processes.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو سفر کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "NICOP پاکستان میں ویزا فری داخلے کے لیے استعمال کیا جا سکتا ہے اور بیرون ملک شناختی دستاویزات کے طور پر کام کرتا ہے۔ تاہم، بین الاقوامی سفر کے لیے، عام طور پر پاسپورٹ کی ضرورت ہوتی ہے۔ نادرا کی شناختی دستاویزات پاسپورٹ کی درخواستوں اور سفر سے متعلق دیگر عمل کی حمایت کرتی ہیں۔"
+    },
+    {
+      "question": "What NADRA products are required for passport applications?",
+      "answer": "For Pakistani passport applications, you typically need a valid National Identity Card (NIC) or National Identity Card for Overseas Pakistanis (NICOP) as proof of citizenship and identity.",
+      "urdu_question": "پاسپورٹ کی درخواستوں کے لیے نادرا کی کون سی مصنوعات درکار ہیں؟",
+      "urdu_answer": "پاکستانی پاسپورٹ کی درخواستوں کے لیے، آپ کو عام طور پر شہریت اور شناخت کے ثبوت کے طور پر ایک درست قومی شناختی کارڈ (NIC) یا بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ (NICOP) کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can lost NADRA products be replaced?",
+      "answer": "Yes, lost NADRA products can be replaced through duplicate issuance procedures. You need to apply for a duplicate/reprint by providing your identity information and biometric verification, along with applicable fees.",
+      "urdu_question": "کیا نادرا کی گمشدہ مصنوعات کو تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کی گمشدہ مصنوعات کو ڈپلیکیٹ جاری کرنے کے طریقہ کار کے ذریعے تبدیل کیا جا سکتا ہے۔ آپ کو قابل اطلاق فیس کے ساتھ اپنی شناخت کی معلومات اور بائیو میٹرک تصدیق فراہم کرکے ڈپلیکیٹ/دوبارہ پرنٹ کے لیے درخواست دینے کی ضرورت ہے۔"
+    },
+    {
+      "question": "What is the cost difference between NADRA products?",
+      "answer": "Costs vary significantly between products and processing types. For example, new CNIC is free for normal processing, while NICOP costs vary by zone ($17-72), POC ranges from $150-300, and certificates have different fee structures. Check current fee schedules for exact amounts.",
+      "urdu_question": "نادرا کی مصنوعات کی قیمتوں میں کیا فرق ہے؟",
+      "urdu_answer": "قیمتیں مصنوعات اور پروسیسنگ کی اقسام کے درمیان نمایاں طور پر مختلف ہوتی ہیں۔ مثال کے طور پر، نیا CNIC عام پروسیسنگ کے لیے مفت ہے، جبکہ NICOP کی لاگت زون ($17-72) کے لحاظ سے مختلف ہوتی ہے، POC کی حد $150-300 تک ہوتی ہے، اور سرٹیفکیٹس کی فیس کے ڈھانچے مختلف ہوتے ہیں۔ درست رقم کے لیے موجودہ فیس کے نظام الاوقات کو چیک کریں۔"
+    },
+    {
+      "question": "Which NADRA products have the highest fees?",
+      "answer": "POC (Pakistan Origin Card) typically has the highest fees among NADRA products, ranging from $150-300 depending on the service type and processing category, followed by NICOP fees which vary by geographical zone.",
+      "urdu_question": "نادرا کی کون سی مصنوعات کی فیس سب سے زیادہ ہے؟",
+      "urdu_answer": "POC (پاکستان اوریجن کارڈ) کی عام طور پر نادرا کی مصنوعات میں سب سے زیادہ فیس ہوتی ہے، جو سروس کی قسم اور پروسیسنگ کے زمرے کے لحاظ سے $150-300 تک ہوتی ہے، اس کے بعد NICOP فیس جو جغرافیائی زون کے لحاظ سے مختلف ہوتی ہے۔"
+    },
+    {
+      "question": "Are there any free NADRA products?",
+      "answer": "Yes, new CNIC with normal processing is free of cost. Additionally, CNIC cancellation due to death and office mistake corrections for all products are provided free of charge.",
+      "urdu_question": "کیا نادرا کی کوئی پروڈکٹس مفت ہیں؟",
+      "urdu_answer": "جی ہاں، عام پروسیسنگ کے ساتھ نیا CNIC مفت ہے۔ مزید برآں، موت کی وجہ سے CNIC کی منسوخی اور تمام پروڈکٹس کے لیے دفتری غلطی کی اصلاح مفت فراہم کی جاتی ہے۔"
+    },
+    {
+      "question": "What documents are required to apply for each NADRA product?",
+      "answer": "Required documents vary by product: NIC requires birth certificate and family documents; NICOP needs proof of overseas residence; POC requires Pakistani origin documentation; CRC needs birth certificate; FRC requires family member documents; Succession Certificate needs death certificates and asset documents.",
+      "urdu_question": "ہر نادرا پروڈکٹ کے لیے درخواست دینے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مطلوبہ دستاویزات پروڈکٹ کے لحاظ سے مختلف ہوتی ہیں: NIC کو پیدائشی سرٹیفکیٹ اور خاندانی دستاویزات کی ضرورت ہوتی ہے۔ NICOP کو بیرون ملک رہائش کا ثبوت درکار ہے۔ POC پاکستانی نژاد دستاویزات کی ضرورت ہے؛ سی آر سی کو پیدائشی سرٹیفکیٹ کی ضرورت ہے۔ FRC کو فیملی ممبر کی دستاویزات درکار ہوتی ہیں۔ جانشینی کے سرٹیفکیٹ کے لیے موت کے سرٹیفکیٹ اور اثاثہ جات کے دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can family members apply for NADRA products together?",
+      "answer": "Yes, family members can apply for their respective NADRA products together, and some products like FRC specifically document family relationships. However, each person needs their individual identity document based on their eligibility.",
+      "urdu_question": "کیا خاندان کے افراد نادرا کی مصنوعات کے لیے ایک ساتھ درخواست دے سکتے ہیں؟",
+      "urdu_answer": "ہاں، خاندان کے افراد اپنے متعلقہ نادرا پروڈکٹس کے لیے ایک ساتھ درخواست دے سکتے ہیں، اور کچھ پروڈکٹس جیسے FRC خاص طور پر خاندانی تعلقات کو دستاویز کرتی ہے۔ تاہم، ہر فرد کو ان کی اہلیت کی بنیاد پر انفرادی شناختی دستاویز کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What biometric requirements apply to NADRA products?",
+      "answer": "Most NADRA identity products require biometric data including fingerprints and photographs. The specific biometric requirements may vary by product type and applicant age, with children having different requirements than adults.",
+      "urdu_question": "نادرا کی مصنوعات پر کیا بائیومیٹرک تقاضے لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا کی زیادہ تر شناختی مصنوعات میں فنگر پرنٹس اور تصاویر سمیت بائیو میٹرک ڈیٹا کی ضرورت ہوتی ہے۔ مخصوص بائیو میٹرک تقاضے پروڈکٹ کی قسم اور درخواست دہندہ کی عمر کے لحاظ سے مختلف ہو سکتے ہیں، بچوں کے لیے بالغوں سے مختلف تقاضے ہوتے ہیں۔"
+    },
+    {
+      "question": "Are there special NADRA products for persons with disabilities?",
+      "answer": "NADRA provides accommodations for persons with disabilities in the application process for all products, but the products themselves are generally the same. Special assistance is available during application and biometric capture processes.",
+      "urdu_question": "کیا معذور افراد کے لیے نادرا کی خصوصی مصنوعات ہیں؟",
+      "urdu_answer": "نادرا تمام پروڈکٹس کے لیے درخواست کے عمل میں معذور افراد کے لیے رہائش فراہم کرتا ہے، لیکن مصنوعات خود عام طور پر ایک جیسی ہوتی ہیں۔ درخواست اور بائیو میٹرک کیپچر کے عمل کے دوران خصوصی مدد دستیاب ہے۔"
+    },
+    {
+      "question": "Can NADRA products be used for banking and financial services?",
+      "answer": "Yes, NADRA identity products, particularly NIC and NICOP, are widely accepted by banks and financial institutions in Pakistan for account opening, loan applications, and various financial services as proof of identity and citizenship.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو بینکنگ اور مالیاتی خدمات کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کی شناختی مصنوعات، خاص طور پر NIC اور NICOP، کو پاکستان میں بینکوں اور مالیاتی اداروں کی طرف سے شناخت اور شہریت کے ثبوت کے طور پر اکاؤنٹ کھولنے، قرض کی درخواستوں اور مختلف مالیاتی خدمات کے لیے بڑے پیمانے پر قبول کیا جاتا ہے۔"
+    },
+    {
+      "question": "What NADRA products are needed for employment verification?",
+      "answer": "For employment verification, NIC or NICOP are typically required as primary identity documents. Employers may also use NADRA's verification services to confirm the authenticity of these documents.",
+      "urdu_question": "ملازمت کی تصدیق کے لیے نادرا کی کن مصنوعات کی ضرورت ہے؟",
+      "urdu_answer": "ملازمت کی تصدیق کے لیے، NIC یا NICOP کو عام طور پر بنیادی شناختی دستاویزات کے طور پر درکار ہوتا ہے۔ آجر ان دستاویزات کی صداقت کی تصدیق کے لیے نادرا کی تصدیقی خدمات بھی استعمال کر سکتے ہیں۔"
+    },
+    {
+      "question": "Can NADRA products be digitally verified?",
+      "answer": "Yes, NADRA provides digital verification services for its products through various channels including online portals, mobile applications, and API services for institutions. This helps prevent fraud and ensures document authenticity.",
+      "urdu_question": "کیا نادرا کی مصنوعات کی ڈیجیٹل تصدیق کی جا سکتی ہے؟",
+      "urdu_answer": "ہاں، نادرا اپنی مصنوعات کے لیے مختلف چینلز کے ذریعے ڈیجیٹل تصدیقی خدمات فراہم کرتا ہے جس میں آن لائن پورٹلز، موبائل ایپلیکیشنز، اور اداروں کے لیے API خدمات شامل ہیں۔ یہ دھوکہ دہی کو روکنے میں مدد کرتا ہے اور دستاویز کی صداقت کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What security features do NADRA products have?",
+      "answer": "NADRA products include various security features such as biometric data, unique identification numbers, special printing techniques, holograms, smart chip technology (for smart cards), and secure design elements to prevent counterfeiting and fraud.",
+      "urdu_question": "نادرا کی مصنوعات میں کیا حفاظتی خصوصیات ہیں؟",
+      "urdu_answer": "نادرا کی مصنوعات میں مختلف حفاظتی خصوصیات شامل ہیں جیسے بائیو میٹرک ڈیٹا، منفرد شناختی نمبر، پرنٹنگ کی خصوصی تکنیک، ہولوگرام، سمارٹ چپ ٹیکنالوجی (سمارٹ کارڈز کے لیے) اور جعل سازی اور دھوکہ دہی کو روکنے کے لیے محفوظ ڈیزائن عناصر۔"
+    },
+    {
+      "question": "How do I choose the right NADRA product for my needs?",
+      "answer": "Choose based on your status and needs: Pakistani citizens 18+ need NIC; children under 18 need Juvenile Card or CRC; overseas Pakistanis need NICOP; foreigners of Pakistani origin need POC; for family records get FRC; for inheritance matters get Succession Certificate.",
+      "urdu_question": "میں اپنی ضروریات کے لیے صحیح نادرا پروڈکٹ کا انتخاب کیسے کروں؟",
+      "urdu_answer": "اپنی حیثیت اور ضروریات کی بنیاد پر انتخاب کریں: پاکستانی شہریوں کو 18+ NIC کی ضرورت ہے۔ 18 سال سے کم عمر کے بچوں کو جووینائل کارڈ یا CRC کی ضرورت ہے۔ بیرون ملک مقیم پاکستانیوں کو NICOP کی ضرورت ہے۔ پاکستانی نژاد غیر ملکیوں کو POC کی ضرورت ہے۔ خاندانی ریکارڈ کے لیے FRC حاصل کریں۔ وراثت کے معاملات کے لیے جانشینی کا سرٹیفکیٹ حاصل کریں۔"
+    },
+    {
+      "question": "Can NADRA products be transferred between family members?",
+      "answer": "No, NADRA identity products are individual documents that cannot be transferred between family members. Each person must apply for their own documents based on their individual eligibility and circumstances.",
+      "urdu_question": "کیا نادرا کی مصنوعات خاندان کے افراد کے درمیان منتقل کی جا سکتی ہیں؟",
+      "urdu_answer": "نہیں، نادرا کی شناختی مصنوعات انفرادی دستاویزات ہیں جو خاندان کے افراد کے درمیان منتقل نہیں کی جا سکتیں۔ ہر فرد کو اپنی انفرادی اہلیت اور حالات کی بنیاد پر اپنے کاغذات کے لیے درخواست دینی چاہیے۔"
+    },
+    {
+      "question": "What happens to NADRA products when someone dies?",
+      "answer": "When someone dies, their NADRA identity document should be cancelled through a Cancellation Certificate process. Family members can apply for this cancellation and may need Succession Certificate for inheritance and legal matters.",
+      "urdu_question": "جب کوئی مر جاتا ہے تو نادرا کی مصنوعات کا کیا ہوتا ہے؟",
+      "urdu_answer": "جب کوئی مر جاتا ہے، تو اس کی نادرا شناختی دستاویز کو منسوخی سرٹیفکیٹ کے عمل کے ذریعے منسوخ کر دیا جانا چاہیے۔ خاندان کے افراد اس منسوخی کے لیے درخواست دے سکتے ہیں اور انہیں وراثت اور قانونی معاملات کے لیے جانشینی کے سرٹیفکیٹ کی ضرورت ہو سکتی ہے۔"
+    },
+    {
+      "question": "Are there bulk application processes for NADRA products?",
+      "answer": "NADRA may provide bulk application facilities for organizations, educational institutions, or large families. Contact NADRA directly to inquire about bulk processing options, requirements, and potential discounts for multiple applications.",
+      "urdu_question": "کیا نادرا کی مصنوعات کے لیے بڑی تعداد میں درخواست کے عمل ہیں؟",
+      "urdu_answer": "نادرا تنظیموں، تعلیمی اداروں یا بڑے خاندانوں کے لیے درخواست کی بڑی سہولیات فراہم کر سکتا ہے۔ بلک پروسیسنگ کے اختیارات، ضروریات اور متعدد درخواستوں کے لیے ممکنہ چھوٹ کے بارے میں پوچھ گچھ کرنے کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "Can NADRA products be delivered internationally?",
+      "answer": "NADRA products for overseas applicants can often be delivered through Pakistani consulates and embassies. Specific delivery options depend on the country and local NADRA service arrangements with diplomatic missions.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو بین الاقوامی سطح پر پہنچایا جا سکتا ہے؟",
+      "urdu_answer": "بیرون ملک مقیم درخواست گزاروں کے لیے نادرا کی مصنوعات اکثر پاکستانی قونصل خانوں اور سفارت خانوں کے ذریعے پہنچائی جا سکتی ہیں۔ ترسیل کے مخصوص اختیارات کا انحصار سفارتی مشنوں کے ساتھ ملک اور مقامی نادرا سروس کے انتظامات پر ہوتا ہے۔"
+    },
+    {
+      "question": "What is the processing time for different NADRA products?",
+      "answer": "Processing times vary by product and priority level: Normal (30 days), Urgent (12 days), Executive (7 days). Some products like certain certificates may have different timelines. Complex cases may require additional processing time.",
+      "urdu_question": "نادرا کی مختلف مصنوعات کی پروسیسنگ کا وقت کیا ہے؟",
+      "urdu_answer": "پروسیسنگ کے اوقات پروڈکٹ اور ترجیحی سطح کے لحاظ سے مختلف ہوتے ہیں: عام (30 دن)، ارجنٹ (12 دن)، ایگزیکٹو (7 دن)۔ کچھ پروڈکٹس جیسے کچھ سرٹیفکیٹس کی ٹائم لائنز مختلف ہو سکتی ہیں۔ پیچیدہ معاملات میں اضافی پروسیسنگ وقت درکار ہو سکتا ہے۔"
+    },
+    {
+      "question": "Can I track the status of my NADRA product application?",
+      "answer": "Yes, you can track your NADRA product application status through PAK-ID mobile app, SMS services, online tracking portals, calling helpline 1777, or visiting NADRA centers with your tracking number.",
+      "urdu_question": "کیا میں اپنی نادرا پروڈکٹ کی درخواست کی حیثیت کو ٹریک کر سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ PAK-ID موبائل ایپ، ایس ایم ایس سروسز، آن لائن ٹریکنگ پورٹلز، کالنگ ہیلپ لائن 1777، یا اپنے ٹریکنگ نمبر کے ساتھ نادرا مراکز پر جا کر اپنی نادرا پروڈکٹ کی درخواست کی حیثیت کو ٹریک کر سکتے ہیں۔"
+    },
+    {
+      "question": "What quality assurance measures apply to NADRA products?",
+      "answer": "NADRA implements multiple quality assurance measures including document verification, biometric authentication, data accuracy checks, supervisor reviews, and final quality control before product issuance to ensure accuracy and security.",
+      "urdu_question": "نادرا کی مصنوعات پر کوالٹی ایشورنس کے کون سے اقدامات لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا متعدد معیار کی یقین دہانی کے اقدامات کو لاگو کرتا ہے جس میں دستاویز کی تصدیق، بائیو میٹرک تصدیق، ڈیٹا کی درستگی کی جانچ، سپروائزر کے جائزے، اور مصنوعات کے اجراء سے قبل حتمی کوالٹی کنٹرول کی درستگی اور حفاظت کو یقینی بنایا جاتا ہے۔"
+    },
+    {
+      "question": "Are there mobile services available for NADRA products?",
+      "answer": "Yes, NADRA provides mobile registration services through Mobile Registration Vans (MRV) for remote areas, and mobile application services through PAK-ID app for various transactions and applications.",
+      "urdu_question": "کیا نادرا کی مصنوعات کے لیے موبائل سروسز دستیاب ہیں؟",
+      "urdu_answer": "ہاں، نادرا دور دراز علاقوں کے لیے موبائل رجسٹریشن وینز (MRV) کے ذریعے موبائل رجسٹریشن کی خدمات فراہم کرتا ہے، اور PAK-ID ایپ کے ذریعے مختلف ٹرانزیکشنز اور ایپلی کیشنز کے لیے موبائل ایپلیکیشن سروسز فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Can educational institutions verify NADRA products?",
+      "answer": "Yes, educational institutions can verify NADRA products through official verification services. This is commonly done for admissions, student records, and educational document authentication processes.",
+      "urdu_question": "کیا تعلیمی ادارے نادرا کی مصنوعات کی تصدیق کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، تعلیمی ادارے نادرا کی مصنوعات کی تصدیق سرکاری تصدیقی خدمات کے ذریعے کر سکتے ہیں۔ یہ عام طور پر داخلوں، طلباء کے ریکارڈ، اور تعلیمی دستاویز کی تصدیق کے عمل کے لیے کیا جاتا ہے۔"
+    },
+    {
+      "question": "What backup procedures exist if NADRA products are damaged?",
+      "answer": "If NADRA products are damaged, you can apply for duplicate/replacement documents by providing the damaged card, relevant identification, and paying applicable fees. The process is similar to replacing lost documents.",
+      "urdu_question": "اگر نادرا کی مصنوعات کو نقصان پہنچے تو کیا بیک اپ طریقہ کار موجود ہے؟",
+      "urdu_answer": "اگر نادرا کی مصنوعات کو نقصان پہنچتا ہے، تو آپ خراب شدہ کارڈ، متعلقہ شناخت فراہم کرکے، اور قابل اطلاق فیس ادا کرکے ڈپلیکیٹ/متبادل دستاویزات کے لیے درخواست دے سکتے ہیں۔ یہ عمل گمشدہ دستاویزات کو تبدیل کرنے کے مترادف ہے۔"
+    },
+    {
+      "question": "Are there seasonal considerations for NADRA product applications?",
+      "answer": "Application volumes may increase during certain seasons (like before Hajj, school admissions, or travel seasons). Plan ahead during peak periods and consider applying early to avoid delays during high-demand times.",
+      "urdu_question": "کیا نادرا پروڈکٹ ایپلی کیشنز کے لیے موسمی تحفظات ہیں؟",
+      "urdu_answer": "بعض موسموں میں درخواست کی مقدار بڑھ سکتی ہے (جیسے حج سے پہلے، اسکول میں داخلے، یا سفر کے موسم)۔ زیادہ وقت کے دوران پیشگی منصوبہ بندی کریں اور زیادہ مانگ کے اوقات میں تاخیر سے بچنے کے لیے جلد درخواست دینے پر غور کریں۔"
+    },
+    {
+      "question": "Can NADRA products be used for legal proceedings?",
+      "answer": "Yes, NADRA products are legally recognized documents in Pakistan and can be used as evidence in legal proceedings for identity verification, family relationships (FRC), inheritance matters (Succession Certificate), and other legal purposes.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو قانونی کارروائی کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کی مصنوعات پاکستان میں قانونی طور پر تسلیم شدہ دستاویزات ہیں اور انہیں شناخت کی تصدیق، خاندانی تعلقات (FRC)، وراثت کے معاملات (جارحیت کا سرٹیفکیٹ) اور دیگر قانونی مقاصد کے لیے قانونی کارروائی میں بطور ثبوت استعمال کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "What environmental considerations apply to NADRA products?",
+      "answer": "NADRA is working towards more sustainable practices in document production. Expired or damaged cards should be disposed of securely, and digital services are increasingly available to reduce paper usage.",
+      "urdu_question": "نادرا کی مصنوعات پر کون سے ماحولیاتی تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا دستاویز کی تیاری میں مزید پائیدار طریقوں کے لیے کام کر رہا ہے۔ میعاد ختم یا خراب شدہ کارڈز کو محفوظ طریقے سے ٹھکانے لگانا چاہیے، اور کاغذ کے استعمال کو کم کرنے کے لیے ڈیجیٹل خدمات تیزی سے دستیاب ہیں۔"
+    },
+    {
+      "question": "Are there different NADRA products for dual nationals?",
+      "answer": "Dual nationals typically use NICOP if they are Pakistani citizens living abroad, or POC if they are foreign nationals of Pakistani origin. The choice depends on their citizenship status and relationship to Pakistan.",
+      "urdu_question": "کیا دوہری شہریوں کے لیے نادرا کی مختلف مصنوعات ہیں؟",
+      "urdu_answer": "دوہری شہریت والے عام طور پر NICOP استعمال کرتے ہیں اگر وہ بیرون ملک مقیم پاکستانی شہری ہیں، یا POC اگر وہ پاکستانی نژاد غیر ملکی شہری ہیں۔ انتخاب ان کی شہریت کی حیثیت اور پاکستان سے تعلق پر منحصر ہے۔"
+    },
+    {
+      "question": "Can NADRA products be used for property transactions?",
+      "answer": "Yes, NADRA identity products are essential for property transactions in Pakistan. NIC or NICOP serve as proof of identity, while FRC may be needed for family property matters and Succession Certificate for inheritance of property.",
+      "urdu_question": "کیا جائیداد کے لین دین کے لیے نادرا کی مصنوعات استعمال کی جا سکتی ہیں؟",
+      "urdu_answer": "ہاں، پاکستان میں جائیداد کے لین دین کے لیے نادرا کی شناختی مصنوعات ضروری ہیں۔ NIC یا NICOP شناخت کے ثبوت کے طور پر کام کرتے ہیں، جبکہ خاندانی جائیداد کے معاملات کے لیے FRC اور جائیداد کی وراثت کے لیے جانشینی کا سرٹیفکیٹ درکار ہو سکتا ہے۔"
+    },
+    {
+      "question": "What privacy protections apply to NADRA products?",
+      "answer": "NADRA implements strict privacy protections including data encryption, restricted access to personal information, secure storage systems, and compliance with data protection regulations to safeguard personal information on all products.",
+      "urdu_question": "نادرا کی مصنوعات پر رازداری کے کون سے تحفظات لاگو ہوتے ہیں؟",
+      "urdu_answer": "نادرا تمام پروڈکٹس پر ذاتی معلومات کی حفاظت کے لیے ڈیٹا انکرپشن، ذاتی معلومات تک محدود رسائی، محفوظ اسٹوریج سسٹم، اور ڈیٹا کے تحفظ کے ضوابط کی تعمیل سمیت رازداری کے سخت تحفظات کو نافذ کرتا ہے۔"
+    },
+    {
+      "question": "Are there emergency procedures for urgent NADRA product needs?",
+      "answer": "For urgent needs, NADRA offers Executive processing (7 days) as the fastest standard option. In exceptional emergencies, contact NADRA directly to discuss special procedures, though these require additional approval and documentation.",
+      "urdu_question": "کیا نادرا کی مصنوعات کی فوری ضروریات کے لیے ہنگامی طریقہ کار موجود ہیں؟",
+      "urdu_answer": "فوری ضروریات کے لیے، نادرا ایک تیز ترین معیاری آپشن کے طور پر ایگزیکٹو پروسیسنگ (7 دن) پیش کرتا ہے۔ غیر معمولی ہنگامی حالات میں، خصوصی طریقہ کار پر بات کرنے کے لیے براہ راست نادرا سے رابطہ کریں، حالانکہ ان کے لیے اضافی منظوری اور دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can NADRA products be integrated with other government services?",
+      "answer": "Yes, NADRA products are widely integrated with other government services including passport offices, voter registration, social welfare programs, tax systems, and various online government services for seamless citizen service delivery.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو دیگر سرکاری خدمات کے ساتھ ضم کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کی مصنوعات کو دیگر سرکاری خدمات بشمول پاسپورٹ دفاتر، ووٹر رجسٹریشن، سماجی بہبود کے پروگرام، ٹیکس سسٹم، اور شہریوں کو بغیر کسی رکاوٹ کے خدمات کی فراہمی کے لیے مختلف آن لائن سرکاری خدمات کے ساتھ وسیع پیمانے پر مربوط کیا گیا ہے۔"
+    },
+    {
+      "question": "What future developments are planned for NADRA products?",
+      "answer": "NADRA continues to evolve its products with new technology, enhanced security features, digital integration, and improved user experience. Check NADRA's official announcements for information about upcoming product enhancements and new services.",
+      "urdu_question": "نادرا کی مصنوعات کے لیے مستقبل میں کیا منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "نادرا اپنی مصنوعات کو نئی ٹیکنالوجی، بہتر سیکورٹی فیچرز، ڈیجیٹل انٹیگریشن اور بہتر صارف کے تجربے کے ساتھ تیار کرنا جاری رکھے ہوئے ہے۔ آنے والی مصنوعات میں اضافہ اور نئی خدمات کے بارے میں معلومات کے لیے نادرا کے سرکاری اعلانات دیکھیں۔"
+    },
+    {
+      "question": "How do I report fraud or misuse of NADRA products?",
+      "answer": "Report fraud or misuse of NADRA products by contacting NADRA security immediately at 1777, visiting the nearest NADRA center, or using official complaint channels. Provide details about the suspected fraud for investigation.",
+      "urdu_question": "میں نادرا کی مصنوعات کے فراڈ یا غلط استعمال کی اطلاع کیسے دوں؟",
+      "urdu_answer": "نادرا پراڈکٹس کے فراڈ یا غلط استعمال کی اطلاع فوری طور پر نادرا سیکیورٹی سے 1777 پر رابطہ کر کے، قریبی نادرا سنٹر پر جا کر، یا سرکاری شکایتی چینلز کا استعمال کر کے دیں۔ تفتیش کے لیے مشتبہ فراڈ کے بارے میں تفصیلات فراہم کریں۔"
+    },
+    {
+      "question": "Can NADRA products be used for online services?",
+      "answer": "Yes, NADRA products can be used for various online services through digital verification systems, PAK-ID mobile app, e-government portals, and online banking services that integrate with NADRA's verification systems.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو آن لائن خدمات کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کی مصنوعات کو ڈیجیٹل تصدیقی نظام، PAK-ID موبائل ایپ، ای گورنمنٹ پورٹلز، اور آن لائن بینکنگ سروسز کے ذریعے مختلف آن لائن خدمات کے لیے استعمال کیا جا سکتا ہے جو نادرا کے تصدیقی نظام کے ساتھ مربوط ہیں۔"
+    },
+    {
+      "question": "What technical requirements exist for NADRA product applications?",
+      "answer": "Technical requirements include biometric capture capability, digital photography, document scanning, and internet connectivity for online applications. NADRA centers provide all necessary technical infrastructure for applications.",
+      "urdu_question": "نادرا پروڈکٹ ایپلی کیشنز کے لیے کونسی تکنیکی ضروریات موجود ہیں؟",
+      "urdu_answer": "تکنیکی ضروریات میں بائیو میٹرک کیپچر کی صلاحیت، ڈیجیٹل فوٹو گرافی، دستاویز اسکیننگ، اور آن لائن ایپلی کیشنز کے لیے انٹرنیٹ کنیکٹیویٹی شامل ہیں۔ نادرا مراکز درخواستوں کے لیے تمام ضروری تکنیکی ڈھانچہ فراہم کرتے ہیں۔"
+    },
+    {
+      "question": "Are there consultation services available for NADRA product selection?",
+      "answer": "Yes, NADRA provides customer service consultation through helpline 1777, center staff, and information resources to help applicants choose the right products for their needs and understand application requirements.",
+      "urdu_question": "کیا نادرا کی مصنوعات کے انتخاب کے لیے مشاورتی خدمات دستیاب ہیں؟",
+      "urdu_answer": "ہاں، نادرا ہیلپ لائن 1777، سینٹر کے عملے، اور معلوماتی وسائل کے ذریعے درخواست دہندگان کو اپنی ضروریات کے لیے صحیح مصنوعات کا انتخاب کرنے اور درخواست کی ضروریات کو سمجھنے میں مدد کے لیے کسٹمر سروس سے متعلق مشاورت فراہم کرتا ہے۔"
+    },
+    {
+      "question": "Can NADRA products be used for healthcare services?",
+      "answer": "Yes, NADRA identity products are used for healthcare service registration, medical insurance enrollment, hospital admissions, and accessing various health programs where identity verification is required.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو صحت کی خدمات کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، نادرا کی شناختی پروڈکٹس کا استعمال ہیلتھ کیئر سروس کے اندراج، میڈیکل انشورنس کے اندراج، ہسپتال میں داخلے، اور صحت کے مختلف پروگراموں تک رسائی کے لیے کیا جاتا ہے جہاں شناخت کی تصدیق کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What accessibility features are available for NADRA products?",
+      "answer": "NADRA provides accessibility features including assistance for visually impaired applicants, wheelchair accessibility at centers, special assistance for elderly applicants, and accommodations for various disabilities during the application process.",
+      "urdu_question": "نادرا کی مصنوعات کے لیے کونسی قابل رسائی خصوصیات دستیاب ہیں؟",
+      "urdu_answer": "نادرا رسائی کی خصوصیات فراہم کرتا ہے جس میں نابینا درخواست دہندگان کے لیے امداد، مراکز میں وہیل چیئر تک رسائی، عمر رسیدہ درخواست دہندگان کے لیے خصوصی مدد، اور درخواست کے عمل کے دوران مختلف معذوروں کے لیے رہائش شامل ہیں۔"
+    },
+    {
+      "question": "Can NADRA products be replaced if policies change?",
+      "answer": "When NADRA policies change significantly, existing products typically remain valid until their expiration date. However, major system changes may require updating to new versions during renewal or modification processes.",
+      "urdu_question": "کیا پالیسیوں میں تبدیلی کی صورت میں نادرا کی مصنوعات کو تبدیل کیا جا سکتا ہے؟",
+      "urdu_answer": "جب نادرا کی پالیسیاں نمایاں طور پر تبدیل ہوتی ہیں، تو موجودہ مصنوعات عام طور پر اپنی میعاد ختم ہونے تک درست رہتی ہیں۔ تاہم، نظام کی بڑی تبدیلیوں کے لیے تجدید یا ترمیم کے عمل کے دوران نئے ورژن کو اپ ڈیٹ کرنے کی ضرورت پڑ سکتی ہے۔"
+    },
+    {
+      "question": "What customer feedback mechanisms exist for NADRA products?",
+      "answer": "Customer feedback can be provided through NADRA's complaint portal, helpline 1777, feedback forms at centers, social media channels, and email services. NADRA uses this feedback to improve products and services.",
+      "urdu_question": "نادرا کی مصنوعات کے لیے کسٹمر فیڈ بیک میکانزم موجود ہیں؟",
+      "urdu_answer": "صارفین کی رائے نادرا کے شکایتی پورٹل، ہیلپ لائن 1777، مراکز پر فیڈ بیک فارم، سوشل میڈیا چینلز اور ای میل سروسز کے ذریعے فراہم کی جا سکتی ہے۔ نادرا اس فیڈ بیک کو مصنوعات اور خدمات کو بہتر بنانے کے لیے استعمال کرتا ہے۔"
+    },
+    {
+      "question": "Are there training programs for understanding NADRA products?",
+      "answer": "NADRA provides information sessions, online resources, user guides, and training for institutional users. Educational materials are available to help citizens understand product features, application processes, and proper usage.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو سمجھنے کے لیے تربیتی پروگرام ہیں؟",
+      "urdu_answer": "نادرا ادارہ جاتی صارفین کے لیے معلوماتی سیشن، آن لائن وسائل، صارف رہنما اور تربیت فراہم کرتا ہے۔ شہریوں کو مصنوعات کی خصوصیات، درخواست کے عمل، اور مناسب استعمال کو سمجھنے میں مدد کے لیے تعلیمی مواد دستیاب ہے۔"
+    },
+    {
+      "question": "Can NADRA products be used for international education verification?",
+      "answer": "Yes, NADRA products serve as official identity documents for international education applications, student visa processes, and educational credential verification when Pakistani students apply to foreign institutions.",
+      "urdu_question": "کیا نادرا کی مصنوعات کو بین الاقوامی تعلیمی تصدیق کے لیے استعمال کیا جا سکتا ہے؟",
+      "urdu_answer": "ہاں، جب پاکستانی طلباء غیر ملکی اداروں میں درخواست دیتے ہیں تو نادرا کی مصنوعات بین الاقوامی تعلیمی درخواستوں، طلباء کے ویزا کے عمل، اور تعلیمی اسناد کی تصدیق کے لیے سرکاری شناختی دستاویزات کے طور پر کام کرتی ہیں۔"
+    },
+    {
+      "question": "What research and development activities improve NADRA products?",
+      "answer": "NADRA continuously invests in research and development to enhance product security, introduce new technologies, improve user experience, and adapt to changing international standards and technological advancements.",
+      "urdu_question": "کون سی تحقیق اور ترقیاتی سرگرمیاں نادرا کی مصنوعات کو بہتر کرتی ہیں؟",
+      "urdu_answer": "نادرا مصنوعات کی حفاظت کو بڑھانے، نئی ٹیکنالوجیز متعارف کرانے، صارف کے تجربے کو بہتر بنانے اور بدلتے ہوئے بین الاقوامی معیارات اور تکنیکی ترقی کے مطابق ڈھالنے کے لیے تحقیق اور ترقی میں مسلسل سرمایہ کاری کرتا ہے۔"
+    },
+    {
+      "question": "Are there corporate services available for NADRA product verification?",
+      "answer": "Yes, NADRA offers corporate services including bulk verification, API access for businesses, institutional verification services, and specialized solutions for organizations requiring regular NADRA product authentication.",
+      "urdu_question": "کیا نادرا پروڈکٹ کی تصدیق کے لیے کارپوریٹ خدمات دستیاب ہیں؟",
+      "urdu_answer": "ہاں، نادرا کارپوریٹ خدمات پیش کرتا ہے جس میں بلک تصدیق، کاروبار کے لیے API رسائی، ادارہ جاتی تصدیقی خدمات، اور ان تنظیموں کے لیے خصوصی حل شامل ہیں جن کے لیے نادرا پروڈکٹ کی باقاعدہ تصدیق کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can NADRA products be used for social welfare program enrollment?",
+      "answer": "Yes, NADRA identity products are essential for enrolling in social welfare programs like BISP (Benazir Income Support Program), health insurance schemes, and other government social services that require identity verification.",
+      "urdu_question": "کیا سوشل ویلفیئر پروگرام کے اندراج کے لیے نادرا کی مصنوعات استعمال کی جا سکتی ہیں؟",
+      "urdu_answer": "ہاں، سماجی بہبود کے پروگراموں جیسے بی آئی ایس پی (بینظیر انکم سپورٹ پروگرام)، ہیلتھ انشورنس اسکیموں، اور دیگر سرکاری سماجی خدمات میں اندراج کے لیے نادرا کی شناختی مصنوعات ضروری ہیں جن کے لیے شناخت کی تصدیق کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "What coordination exists between NADRA products and other identity systems?",
+      "answer": "NADRA coordinates with various systems including passport offices, election commission databases, tax authorities, and international identity systems to ensure seamless integration and data consistency across government services.",
+      "urdu_question": "نادرا کی مصنوعات اور دیگر شناختی نظاموں کے درمیان کیا ہم آہنگی موجود ہے؟",
+      "urdu_answer": "نادرا مختلف سسٹمز بشمول پاسپورٹ دفاتر، الیکشن کمیشن ڈیٹا بیس، ٹیکس اتھارٹیز، اور بین الاقوامی شناختی نظام کے ساتھ ہم آہنگی کرتا ہے تاکہ سرکاری خدمات میں ڈیٹا کی ہموار انضمام اور مستقل مزاجی کو یقینی بنایا جا سکے۔"
+    }
+  ]
+}

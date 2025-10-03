@@ -1,0 +1,475 @@
+{
+  "file_name": "glossary_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 80,
+  "qa_data": [
+    {
+      "question": "What does ACC stand for?",
+      "answer": "ACC stands for Afghan Citizen Card.",
+      "urdu_question": "ACC کا مطلب کیا ہے؟",
+      "urdu_answer": "ACC کا مطلب افغان شہری کارڈ ہے۔"
+    },
+    {
+      "question": "What is ARC in NADRA terminology?",
+      "answer": "ARC stands for Alien Registration Card.",
+      "urdu_question": "نادرا کی اصطلاح میں اے آر سی کیا ہے؟",
+      "urdu_answer": "اے آر سی کا مطلب ہے ایلین رجسٹریشن کارڈ۔"
+    },
+    {
+      "question": "What does BISP mean?",
+      "answer": "BISP stands for Benazir Income Support Program.",
+      "urdu_question": "BISP کا کیا مطلب ہے؟",
+      "urdu_answer": "بی آئی ایس پی کا مطلب بے نظیر انکم سپورٹ پروگرام ہے۔"
+    },
+    {
+      "question": "What is CBRC?",
+      "answer": "CBRC stands for Computerized Birth Registration Certificate.",
+      "urdu_question": "سی بی آر سی کیا ہے؟",
+      "urdu_answer": "سی بی آر سی کا مطلب ہے کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ۔"
+    },
+    {
+      "question": "What does CNIC stand for?",
+      "answer": "CNIC stands for Computerized National Identity Card.",
+      "urdu_question": "CNIC کا مطلب کیا ہے؟",
+      "urdu_answer": "CNIC کا مطلب کمپیوٹرائزڈ قومی شناختی کارڈ ہے۔"
+    },
+    {
+      "question": "What is CRC in NADRA services?",
+      "answer": "CRC stands for Child Registration Certificate.",
+      "urdu_question": "نادرا کی خدمات میں CRC کیا ہے؟",
+      "urdu_answer": "CRC کا مطلب چائلڈ رجسٹریشن سرٹیفکیٹ ہے۔"
+    },
+    {
+      "question": "What does CSE mean?",
+      "answer": "CSE stands for Customer Service Executive.",
+      "urdu_question": "CSE کا کیا مطلب ہے؟",
+      "urdu_answer": "CSE کا مطلب ہے کسٹمر سروس ایگزیکٹو۔"
+    },
+    {
+      "question": "What is DAU?",
+      "answer": "DAU stands for Data Acquisition Unit.",
+      "urdu_question": "DAU کیا ہے؟",
+      "urdu_answer": "ڈی اے یو کا مطلب ہے ڈیٹا ایکوزیشن یونٹ۔"
+    },
+    {
+      "question": "What does DEE stand for?",
+      "answer": "DEE stands for Data Entry Executive.",
+      "urdu_question": "DEE کا مطلب کیا ہے؟",
+      "urdu_answer": "ڈی ای ای کا مطلب ہے ڈیٹا انٹری ایگزیکٹو۔"
+    },
+    {
+      "question": "What is DG I&P?",
+      "answer": "DG I&P stands for Directorate General of Immigration and Passport.",
+      "urdu_question": "ڈی جی آئی اینڈ پی کیا ہے؟",
+      "urdu_answer": "DG I&P کا مطلب ڈائریکٹوریٹ جنرل آف امیگریشن اینڈ پاسپورٹ ہے۔"
+    },
+    {
+      "question": "What does e-KYC mean?",
+      "answer": "e-KYC stands for electronic Know Your Customer.",
+      "urdu_question": "e-KYC کا کیا مطلب ہے؟",
+      "urdu_answer": "e-KYC کا مطلب ہے الیکٹرانک Know Your Customer۔"
+    },
+    {
+      "question": "What is ETO?",
+      "answer": "ETO stands for Excise and Taxation Officer.",
+      "urdu_question": "ETO کیا ہے؟",
+      "urdu_answer": "ETO کا مطلب ہے ایکسائز اینڈ ٹیکسیشن آفیسر۔"
+    },
+    {
+      "question": "What does FIA stand for?",
+      "answer": "FIA stands for Federal Investigation Agency.",
+      "urdu_question": "ایف آئی اے کا کیا مطلب ہے؟",
+      "urdu_answer": "ایف آئی اے کا مطلب وفاقی تحقیقاتی ایجنسی ہے۔"
+    },
+    {
+      "question": "What is FRC?",
+      "answer": "FRC stands for Family Registration Certificate.",
+      "urdu_question": "FRC کیا ہے؟",
+      "urdu_answer": "FRC کا مطلب فیملی رجسٹریشن سرٹیفکیٹ ہے۔"
+    },
+    {
+      "question": "What does GDPR mean?",
+      "answer": "GDPR stands for General Data Protection Regulation.",
+      "urdu_question": "جی ڈی پی آر کا کیا مطلب ہے؟",
+      "urdu_answer": "GDPR کا مطلب جنرل ڈیٹا پروٹیکشن ریگولیشن ہے۔"
+    },
+    {
+      "question": "What is HOF in NADRA terminology?",
+      "answer": "HOF stands for Head of Family.",
+      "urdu_question": "نادرا کی اصطلاح میں HOF کیا ہے؟",
+      "urdu_answer": "HOF کا مطلب ہے ہیڈ آف فیملی۔"
+    },
+    {
+      "question": "What does ICAO stand for?",
+      "answer": "ICAO stands for International Civil Aviation Organization.",
+      "urdu_question": "ICAO کا مطلب کیا ہے؟",
+      "urdu_answer": "ICAO کا مطلب بین الاقوامی سول ایوی ایشن آرگنائزیشن ہے۔"
+    },
+    {
+      "question": "What is IMPASS?",
+      "answer": "IMPASS stands for Immigration and Passport Services.",
+      "urdu_question": "IMPASS کیا ہے؟",
+      "urdu_answer": "IMPASS کا مطلب امیگریشن اور پاسپورٹ سروسز ہے۔"
+    },
+    {
+      "question": "What does ISO mean?",
+      "answer": "ISO stands for International Organization for Standardization.",
+      "urdu_question": "ISO کا کیا مطلب ہے؟",
+      "urdu_answer": "ISO کا مطلب ہے بین الاقوامی تنظیم برائے معیاری کاری۔"
+    },
+    {
+      "question": "What is IVR?",
+      "answer": "IVR stands for Interactive Voice Response.",
+      "urdu_question": "IVR کیا ہے؟",
+      "urdu_answer": "IVR کا مطلب انٹرایکٹو وائس رسپانس ہے۔"
+    },
+    {
+      "question": "What does MOFA stand for?",
+      "answer": "MOFA stands for Ministry of Foreign Affairs.",
+      "urdu_question": "MOFA کا کیا مطلب ہے؟",
+      "urdu_answer": "MOFA کا مطلب وزارت خارجہ ہے۔"
+    },
+    {
+      "question": "What is MOI?",
+      "answer": "MOI stands for Ministry of Interior.",
+      "urdu_question": "MOI کیا ہے؟",
+      "urdu_answer": "MOI کا مطلب وزارت داخلہ ہے۔"
+    },
+    {
+      "question": "What does MRV mean?",
+      "answer": "MRV stands for Mobile Registration Van.",
+      "urdu_question": "کیا MRV کا مطلب ہے؟",
+      "urdu_answer": "ایم آر وی کا مطلب موبائل رجسٹریشن وین ہے۔"
+    },
+    {
+      "question": "What is NDW?",
+      "answer": "NDW stands for National Data Warehouse.",
+      "urdu_question": "NDW کیا ہے؟",
+      "urdu_answer": "NDW کا مطلب ہے نیشنل ڈیٹا ویئر ہاؤس۔"
+    },
+    {
+      "question": "What does NICOP stand for?",
+      "answer": "NICOP stands for National Identity Card for Overseas Pakistanis.",
+      "urdu_question": "NICOP کا مطلب کیا ہے؟",
+      "urdu_answer": "NICOP کا مطلب بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ ہے۔"
+    },
+    {
+      "question": "What is NID?",
+      "answer": "NID stands for National Identity Document.",
+      "urdu_question": "NID کیا ہے؟",
+      "urdu_answer": "NID کا مطلب ہے قومی شناختی دستاویز۔"
+    },
+    {
+      "question": "What does NIMS mean?",
+      "answer": "NIMS stands for National Immunization Management System.",
+      "urdu_question": "کیا NIMS کا مطلب ہے؟",
+      "urdu_answer": "NIMS کا مطلب نیشنل امیونائزیشن مینجمنٹ سسٹم ہے۔"
+    },
+    {
+      "question": "What is NRC?",
+      "answer": "NRC stands for NADRA Registration Center.",
+      "urdu_question": "NRC کیا ہے؟",
+      "urdu_answer": "NRC کا مطلب ہے نادرا رجسٹریشن سینٹر۔"
+    },
+    {
+      "question": "What does PCA stand for?",
+      "answer": "PCA stands for Pakistan Citizenship Act.",
+      "urdu_question": "PCA کا مطلب کیا ہے؟",
+      "urdu_answer": "PCA کا مطلب ہے پاکستان سٹیزن شپ ایکٹ۔"
+    },
+    {
+      "question": "What is PCO?",
+      "answer": "PCO stands for Public Call Office.",
+      "urdu_question": "پی سی او کیا ہے؟",
+      "urdu_answer": "پی سی او کا مطلب پبلک کال آفس ہے۔"
+    },
+    {
+      "question": "What does PIO mean?",
+      "answer": "PIO stands for Public Information Officer.",
+      "urdu_question": "PIO کا کیا مطلب ہے؟",
+      "urdu_answer": "پی آئی او کا مطلب پبلک انفارمیشن آفیسر ہے۔"
+    },
+    {
+      "question": "What is POA?",
+      "answer": "POA stands for Power of Attorney.",
+      "urdu_question": "POA کیا ہے؟",
+      "urdu_answer": "POA کا مطلب پاور آف اٹارنی ہے۔"
+    },
+    {
+      "question": "What does POC stand for?",
+      "answer": "POC stands for Pakistan Origin Card.",
+      "urdu_question": "POC کا مطلب کیا ہے؟",
+      "urdu_answer": "POC کا مطلب ہے پاکستان اوریجن کارڈ۔"
+    },
+    {
+      "question": "What is POE?",
+      "answer": "POE stands for Proof of Evidence.",
+      "urdu_question": "POE کیا ہے؟",
+      "urdu_answer": "POE کا مطلب ثبوت کا ثبوت ہے۔"
+    },
+    {
+      "question": "What does POR mean?",
+      "answer": "POR stands for Proof of Registration.",
+      "urdu_question": "POR کا کیا مطلب ہے؟",
+      "urdu_answer": "POR کا مطلب رجسٹریشن کا ثبوت ہے۔"
+    },
+    {
+      "question": "What is PWD?",
+      "answer": "PWD stands for Person with Disabilities.",
+      "urdu_question": "PWD کیا ہے؟",
+      "urdu_answer": "PWD کا مطلب ہے معذور افراد۔"
+    },
+    {
+      "question": "What does RCMS stand for?",
+      "answer": "RCMS stands for Readmission Case Management System.",
+      "urdu_question": "RCMS کا کیا مطلب ہے؟",
+      "urdu_answer": "RCMS کا مطلب ہے ریڈمیشن کیس مینجمنٹ سسٹم۔"
+    },
+    {
+      "question": "What is SDG?",
+      "answer": "SDG stands for Sustainable Development Goals.",
+      "urdu_question": "SDG کیا ہے؟",
+      "urdu_answer": "SDG کا مطلب ہے پائیدار ترقی کے اہداف۔"
+    },
+    {
+      "question": "What does SESSI mean?",
+      "answer": "SESSI stands for Sindh Employee Social Security Institute.",
+      "urdu_question": "SESSI کا کیا مطلب ہے؟",
+      "urdu_answer": "SESSI کا مطلب سندھ ایمپلائی سوشل سیکیورٹی انسٹی ٹیوٹ ہے۔"
+    },
+    {
+      "question": "What is SI?",
+      "answer": "SI stands for System Independent.",
+      "urdu_question": "ایس آئی کیا ہے؟",
+      "urdu_answer": "SI کا مطلب ہے سسٹم انڈیپنڈنٹ۔"
+    },
+    {
+      "question": "What does SIEM stand for?",
+      "answer": "SIEM stands for Security Information and Event Management.",
+      "urdu_question": "SIEM کا کیا مطلب ہے؟",
+      "urdu_answer": "SIEM کا مطلب سیکیورٹی انفارمیشن اور ایونٹ مینجمنٹ ہے۔"
+    },
+    {
+      "question": "What is SNIC?",
+      "answer": "SNIC stands for Smart National Identity Card.",
+      "urdu_question": "SNIC کیا ہے؟",
+      "urdu_answer": "SNIC کا مطلب اسمارٹ قومی شناختی کارڈ ہے۔"
+    },
+    {
+      "question": "What does SOAR mean?",
+      "answer": "SOAR stands for Security Orchestration and Automated Response.",
+      "urdu_question": "کیا SOAR کا مطلب ہے؟",
+      "urdu_answer": "SOAR کا مطلب سیکیورٹی آرکیسٹریشن اور خودکار رسپانس ہے۔"
+    },
+    {
+      "question": "What is SOC?",
+      "answer": "SOC stands for Security Operations Center.",
+      "urdu_question": "SOC کیا ہے؟",
+      "urdu_answer": "SOC کا مطلب سیکیورٹی آپریشنز سینٹر ہے۔"
+    },
+    {
+      "question": "What does UNHCR stand for?",
+      "answer": "UNHCR stands for United Nations High Commissioner for Refugees.",
+      "urdu_question": "UNHCR کا کیا مطلب ہے؟",
+      "urdu_answer": "UNHCR کا مطلب ہے اقوام متحدہ کے ہائی کمشنر برائے مہاجرین۔"
+    },
+    {
+      "question": "What is VRA?",
+      "answer": "VRA stands for Voluntary Repatriation Agreement.",
+      "urdu_question": "VRA کیا ہے؟",
+      "urdu_answer": "VRA کا مطلب رضاکارانہ وطن واپسی کا معاہدہ ہے۔"
+    },
+    {
+      "question": "What does SMS mean in NADRA services?",
+      "answer": "SMS stands for Short Message Service.",
+      "urdu_question": "نادرا سروسز میں SMS کا کیا مطلب ہے؟",
+      "urdu_answer": "ایس ایم ایس کا مطلب مختصر پیغام کی خدمت ہے۔"
+    },
+    {
+      "question": "What are the different types of birth certificates mentioned in NADRA glossary?",
+      "answer": "The birth certificates include CBRC (Computerized Birth Registration Certificate) issued by Union Councils through CRMS, and regular Birth Certificates that may be manual or computerized.",
+      "urdu_question": "نادرا کی لغت میں بتائے گئے پیدائشی سرٹیفکیٹس کی مختلف اقسام کیا ہیں؟",
+      "urdu_answer": "پیدائش کے سرٹیفیکیٹس میں سی بی آر سی (کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ) شامل ہیں جو یونین کونسلز کی طرف سے CRMS کے ذریعے جاری کیے جاتے ہیں، اور باقاعدہ پیدائشی سرٹیفکیٹ جو دستی یا کمپیوٹرائزڈ ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What are the different types of identity cards for Pakistani citizens?",
+      "answer": "Pakistani citizens can have CNIC (Computerized National Identity Card), SNIC (Smart National Identity Card), NICOP (National Identity Card for Overseas Pakistanis), and children can have CRC (Child Registration Certificate) or Juvenile Cards.",
+      "urdu_question": "پاکستانی شہریوں کے لیے شناختی کارڈ کی مختلف اقسام کیا ہیں؟",
+      "urdu_answer": "پاکستانی شہری CNIC (کمپیوٹرائزڈ قومی شناختی کارڈ)، SNIC (سمارٹ قومی شناختی کارڈ)، NICOP (بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ) اور بچوں کے پاس CRC (چائلڈ رجسٹریشن سرٹیفکیٹ) یا نوعمر کارڈ ہو سکتے ہیں۔"
+    },
+    {
+      "question": "What are the identity documents available for non-Pakistani citizens?",
+      "answer": "Non-Pakistani citizens can have POC (Pakistan Origin Card) for those of Pakistani origin, ARC (Alien Registration Card) for foreign residents, and ACC (Afghan Citizen Card) for Afghan nationals.",
+      "urdu_question": "غیر پاکستانی شہریوں کے لیے کون سے شناختی دستاویزات دستیاب ہیں؟",
+      "urdu_answer": "غیر پاکستانی شہری پاکستانی نژاد کے لیے پی او سی (پاکستان اوریجن کارڈ)، غیر ملکی باشندوں کے لیے اے آر سی (ایلین رجسٹریشن کارڈ) اور افغان شہریوں کے لیے اے سی سی (افغان شہری کارڈ) رکھ سکتے ہیں۔"
+    },
+    {
+      "question": "What organizational units handle NADRA registrations?",
+      "answer": "Registrations are handled by NRC (NADRA Registration Centers), DAU (Data Acquisition Units), and MRV (Mobile Registration Vans) for remote areas.",
+      "urdu_question": "کون سی تنظیمی اکائیاں نادرا کی رجسٹریشن کو سنبھالتی ہیں؟",
+      "urdu_answer": "رجسٹریشن کا انتظام NRC (نادرا رجسٹریشن سینٹرز)، ڈی اے یو (ڈیٹا ایکوزیشن یونٹس) اور دور دراز علاقوں کے لیے ایم آر وی (موبائل رجسٹریشن وین) کے ذریعے کیا جاتا ہے۔"
+    },
+    {
+      "question": "What are the key staff positions in NADRA operations?",
+      "answer": "Key staff include CSE (Customer Service Executive), DEE (Data Entry Executive), and HOF (Head of Family) designation for family-related services.",
+      "urdu_question": "نادرا کی کارروائیوں میں عملے کے اہم عہدے کیا ہیں؟",
+      "urdu_answer": "کلیدی عملے میں CSE (کسٹمر سروس ایگزیکٹو)، DEE (ڈیٹا انٹری ایگزیکٹو) اور HOF (ہیڈ آف فیملی) کا عہدہ خاندان سے متعلق خدمات کے لیے شامل ہے۔"
+    },
+    {
+      "question": "What external agencies does NADRA coordinate with?",
+      "answer": "NADRA coordinates with MOFA (Ministry of Foreign Affairs), MOI (Ministry of Interior), FIA (Federal Investigation Agency), DG I&P (Directorate General of Immigration and Passport), and UNHCR (United Nations High Commissioner for Refugees).",
+      "urdu_question": "نادرا کن بیرونی ایجنسیوں کے ساتھ تعاون کرتا ہے؟",
+      "urdu_answer": "نادرا MOFA (وزارت خارجہ امور)، MOI (وزارت داخلہ)، FIA (وفاقی تحقیقاتی ایجنسی)، DG I&P (ڈائریکٹوریٹ جنرل آف امیگریشن اینڈ پاسپورٹ) اور UNHCR (اقوام متحدہ کے ہائی کمشنر برائے مہاجرین) کے ساتھ تعاون کرتا ہے۔"
+    },
+    {
+      "question": "What technology systems are used in NADRA operations?",
+      "answer": "Technology systems include NDW (National Data Warehouse), IVR (Interactive Voice Response), e-KYC (electronic Know Your Customer), NIMS (National Immunization Management System), and RCMS (Readmission Case Management System).",
+      "urdu_question": "نادرا کے آپریشنز میں کون سے ٹیکنالوجی سسٹم استعمال ہوتے ہیں؟",
+      "urdu_answer": "ٹیکنالوجی سسٹمز میں NDW (نیشنل ڈیٹا ویئر ہاؤس)، IVR (انٹرایکٹو وائس رسپانس)، e-KYC (الیکٹرانک اپنے کسٹمر کو جانیں)، NIMS (نیشنل امیونائزیشن مینجمنٹ سسٹم)، اور RCMS (ریڈمیشن کیس مینجمنٹ سسٹم) شامل ہیں۔"
+    },
+    {
+      "question": "What security-related systems does NADRA use?",
+      "answer": "Security systems include SIEM (Security Information and Event Management), SOAR (Security Orchestration and Automated Response), SOC (Security Operations Center), and SI (System Independent) protocols.",
+      "urdu_question": "نادرا سیکیورٹی سے متعلق کون سا نظام استعمال کرتا ہے؟",
+      "urdu_answer": "سیکیورٹی سسٹمز میں SIEM (سیکیورٹی انفارمیشن اینڈ ایونٹ مینجمنٹ)، SOAR (سیکیورٹی آرکیسٹریشن اینڈ آٹومیٹڈ ریسپانس)، SOC (سیکیورٹی آپریشن سینٹر) اور SI (سسٹم انڈیپنڈنٹ) پروٹوکول شامل ہیں۔"
+    },
+    {
+      "question": "What legal and regulatory frameworks apply to NADRA?",
+      "answer": "Legal frameworks include PCA (Pakistan Citizenship Act), GDPR (General Data Protection Regulation), VRA (Voluntary Repatriation Agreement), and various POE (Proof of Evidence) requirements.",
+      "urdu_question": "نادرا پر کون سے قانونی اور ریگولیٹری فریم ورک لاگو ہوتے ہیں؟",
+      "urdu_answer": "قانونی فریم ورک میں پی سی اے (پاکستان سٹیزن شپ ایکٹ)، جی ڈی پی آر (جنرل ڈیٹا پروٹیکشن ریگولیشن)، وی آر اے (رضاکارانہ وطن واپسی کا معاہدہ)، اور مختلف پی او ای (ثبوت کا ثبوت) کے تقاضے شامل ہیں۔"
+    },
+    {
+      "question": "What document types are used for verification and authorization?",
+      "answer": "Document types include POA (Power of Attorney), POR (Proof of Registration), POE (Proof of Evidence), and various certificates for different purposes.",
+      "urdu_question": "تصدیق اور اجازت کے لیے کون سی دستاویز کی اقسام استعمال کی جاتی ہیں؟",
+      "urdu_answer": "دستاویز کی اقسام میں POA (پاور آف اٹارنی)، POR (رجسٹریشن کا ثبوت)، POE (ثبوت کا ثبوت) اور مختلف مقاصد کے لیے مختلف سرٹیفکیٹ شامل ہیں۔"
+    },
+    {
+      "question": "What social welfare programs are connected to NADRA services?",
+      "answer": "Connected programs include BISP (Benazir Income Support Program), SESSI (Sindh Employee Social Security Institute), and SDG (Sustainable Development Goals) initiatives.",
+      "urdu_question": "کون سے سماجی بہبود کے پروگرام نادرا کی خدمات سے منسلک ہیں؟",
+      "urdu_answer": "مربوط پروگراموں میں BISP (بینظیر انکم سپورٹ پروگرام)، SESSI (سندھ ایمپلائی سوشل سیکیورٹی انسٹی ٹیوٹ) اور SDG (پائیدار ترقی کے اہداف) کے اقدامات شامل ہیں۔"
+    },
+    {
+      "question": "What communication methods does NADRA use for customer service?",
+      "answer": "Communication methods include SMS (Short Message Service), IVR (Interactive Voice Response), and services through PCO (Public Call Office) networks.",
+      "urdu_question": "نادرا کسٹمر سروس کے لیے مواصلات کے کون سے طریقے استعمال کرتا ہے؟",
+      "urdu_answer": "مواصلات کے طریقوں میں ایس ایم ایس (شارٹ میسج سروس)، آئی وی آر (انٹرایکٹو وائس رسپانس) اور پی سی او (پبلک کال آفس) نیٹ ورکس کے ذریعے خدمات شامل ہیں۔"
+    },
+    {
+      "question": "What international standards does NADRA follow?",
+      "answer": "NADRA follows standards from ICAO (International Civil Aviation Organization), ISO (International Organization for Standardization), and GDPR (General Data Protection Regulation) compliance.",
+      "urdu_question": "نادرا کن بین الاقوامی معیارات پر عمل پیرا ہے؟",
+      "urdu_answer": "نادرا آئی سی اے او (انٹرنیشنل سول ایوی ایشن آرگنائزیشن)، آئی ایس او (انٹرنیشنل آرگنائزیشن فار اسٹینڈرڈائزیشن) اور جی ڈی پی آر (جنرل ڈیٹا پروٹیکشن ریگولیشن) کی تعمیل کے معیارات کی پیروی کرتا ہے۔"
+    },
+    {
+      "question": "What special services does NADRA provide for specific populations?",
+      "answer": "Special services include provisions for PWD (Person with Disabilities), ACC (Afghan Citizen Card) for Afghan nationals, and specialized processing through various systems.",
+      "urdu_question": "نادرا مخصوص آبادیوں کے لیے کونسی خصوصی خدمات فراہم کرتا ہے؟",
+      "urdu_answer": "خصوصی خدمات میں PWD (معذور افراد)، افغان شہریوں کے لیے ACC (افغان شہری کارڈ) اور مختلف نظاموں کے ذریعے خصوصی پروسیسنگ کے انتظامات شامل ہیں۔"
+    },
+    {
+      "question": "How are family relationships documented in NADRA systems?",
+      "answer": "Family relationships are documented through FRC (Family Registration Certificate), HOF (Head of Family) designations, and various family member linkages in the database.",
+      "urdu_question": "نادرا سسٹم میں خاندانی رشتوں کی دستاویز کیسے کی جاتی ہے؟",
+      "urdu_answer": "خاندانی تعلقات FRC (فیملی رجسٹریشن سرٹیفکیٹ)، HOF (فیملی کے سربراہ) کے عہدوں، اور ڈیٹا بیس میں خاندان کے مختلف ارکان کے روابط کے ذریعے دستاویزی ہوتے ہیں۔"
+    },
+    {
+      "question": "What role do Union Councils play in NADRA services?",
+      "answer": "Union Councils issue CBRC (Computerized Birth Registration Certificate) and work with NADRA for civil registration through various certificate issuance processes.",
+      "urdu_question": "یونین کونسلز نادرا کی خدمات میں کیا کردار ادا کرتی ہیں؟",
+      "urdu_answer": "یونین کونسلز CBRC (کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ) جاری کرتی ہیں اور مختلف سرٹیفکیٹ جاری کرنے کے عمل کے ذریعے سول رجسٹریشن کے لیے نادرا کے ساتھ کام کرتی ہیں۔"
+    },
+    {
+      "question": "What is the difference between CNIC and SNIC?",
+      "answer": "CNIC (Computerized National Identity Card) is the traditional computerized card, while SNIC (Smart National Identity Card) is the newer smart card version with enhanced security features.",
+      "urdu_question": "CNIC اور SNIC میں کیا فرق ہے؟",
+      "urdu_answer": "CNIC (کمپیوٹرائزڈ قومی شناختی کارڈ) روایتی کمپیوٹرائزڈ کارڈ ہے، جبکہ SNIC (Smart National Identity Card) بہتر سیکورٹی خصوصیات کے ساتھ سمارٹ کارڈ کا نیا ورژن ہے۔"
+    },
+    {
+      "question": "What types of registration centers does NADRA operate?",
+      "answer": "NADRA operates NRC (NADRA Registration Centers) as permanent centers, MRV (Mobile Registration Vans) for mobile services, and DAU (Data Acquisition Units) for specialized data collection.",
+      "urdu_question": "نادرا کس قسم کے رجسٹریشن مراکز چلاتا ہے؟",
+      "urdu_answer": "نادرا NRC (نادرا رجسٹریشن مراکز) کو مستقل مراکز کے طور پر چلاتا ہے، موبائل سروسز کے لیے MRV (موبائل رجسٹریشن وین) اور خصوصی ڈیٹا اکٹھا کرنے کے لیے DAU (ڈیٹا ایکوزیشن یونٹس) چلاتا ہے۔"
+    },
+    {
+      "question": "What verification methods are available in NADRA services?",
+      "answer": "Verification methods include e-KYC (electronic Know Your Customer), biometric verification, POE (Proof of Evidence) documentation, and POR (Proof of Registration) processes.",
+      "urdu_question": "نادرا سروسز میں تصدیق کے کون سے طریقے دستیاب ہیں؟",
+      "urdu_answer": "تصدیق کے طریقوں میں e-KYC (الیکٹرانک اپنے صارف کو جانیں)، بائیو میٹرک تصدیق، POE (ثبوت کا ثبوت) دستاویزات، اور POR (رجسٹریشن کا ثبوت) کے عمل شامل ہیں۔"
+    },
+    {
+      "question": "What administrative positions work with NADRA services?",
+      "answer": "Administrative positions include ETO (Excise and Taxation Officer), PIO (Public Information Officer), and various government officials who interact with NADRA for verification purposes.",
+      "urdu_question": "نادرا سروسز کے ساتھ کون سے انتظامی عہدے کام کرتے ہیں؟",
+      "urdu_answer": "انتظامی عہدوں میں ای ٹی او (ایکسائز اینڈ ٹیکسیشن آفیسر)، پی آئی او (پبلک انفارمیشن آفیسر) اور مختلف سرکاری اہلکار شامل ہیں جو تصدیق کے مقاصد کے لیے نادرا کے ساتھ بات چیت کرتے ہیں۔"
+    },
+    {
+      "question": "What international organizations does NADRA work with?",
+      "answer": "NADRA works with UNHCR (United Nations High Commissioner for Refugees), ICAO (International Civil Aviation Organization), and follows international standards like ISO and GDPR.",
+      "urdu_question": "نادرا کن بین الاقوامی اداروں کے ساتھ کام کرتا ہے؟",
+      "urdu_answer": "نادرا UNHCR (اقوام متحدہ کے ہائی کمشنر برائے مہاجرین)، ICAO (انٹرنیشنل سول ایوی ایشن آرگنائزیشن) کے ساتھ کام کرتا ہے اور آئی ایس او اور جی ڈی پی آر جیسے بین الاقوامی معیارات پر عمل کرتا ہے۔"
+    },
+    {
+      "question": "What data management systems are part of NADRA infrastructure?",
+      "answer": "Data management includes NDW (National Data Warehouse), NIMS (National Immunization Management System), RCMS (Readmission Case Management System), and various SI (System Independent) components.",
+      "urdu_question": "کون سے ڈیٹا مینجمنٹ سسٹم نادرا کے انفراسٹرکچر کا حصہ ہیں؟",
+      "urdu_answer": "ڈیٹا مینجمنٹ میں NDW (نیشنل ڈیٹا ویئر ہاؤس)، NIMS (نیشنل امیونائزیشن مینجمنٹ سسٹم)، RCMS (ریڈمیشن کیس مینجمنٹ سسٹم)، اور مختلف SI (سسٹم انڈیپنڈنٹ) اجزاء شامل ہیں۔"
+    },
+    {
+      "question": "What customer support systems does NADRA use?",
+      "answer": "Customer support includes CSE (Customer Service Executive) staff, IVR (Interactive Voice Response) systems, SMS (Short Message Service) notifications, and PIO (Public Information Officer) services.",
+      "urdu_question": "نادرا کون سا کسٹمر سپورٹ سسٹم استعمال کرتا ہے؟",
+      "urdu_answer": "کسٹمر سپورٹ میں CSE (کسٹمر سروس ایگزیکٹو) کا عملہ، IVR (انٹرایکٹو وائس رسپانس) سسٹمز، ایس ایم ایس (شارٹ میسیج سروس) اطلاعات، اور PIO (پبلک انفارمیشن آفیسر) کی خدمات شامل ہیں۔"
+    },
+    {
+      "question": "What types of certificates and documents can NADRA issue?",
+      "answer": "NADRA can issue CRC (Child Registration Certificate), FRC (Family Registration Certificate), various identity cards, and process CBRC (Computerized Birth Registration Certificate) related services.",
+      "urdu_question": "نادرا کس قسم کے سرٹیفکیٹ اور دستاویزات جاری کر سکتا ہے؟",
+      "urdu_answer": "نادرا سی آر سی (چائلڈ رجسٹریشن سرٹیفکیٹ)، ایف آر سی (فیملی رجسٹریشن سرٹیفکیٹ)، مختلف شناختی کارڈ، اور سی بی آر سی (کمپیوٹرائزڈ برتھ رجسٹریشن سرٹیفکیٹ) سے متعلق خدمات پر کارروائی کر سکتا ہے۔"
+    },
+    {
+      "question": "What security measures are implemented in NADRA systems?",
+      "answer": "Security measures include SIEM (Security Information and Event Management), SOC (Security Operations Center), SOAR (Security Orchestration and Automated Response), and SI (System Independent) protocols.",
+      "urdu_question": "نادرا کے نظام میں کیا حفاظتی اقدامات نافذ ہیں؟",
+      "urdu_answer": "حفاظتی اقدامات میں SIEM (سیکیورٹی انفارمیشن اینڈ ایونٹ مینجمنٹ)، SOC (سیکیورٹی آپریشن سینٹر)، SOAR (سیکیورٹی آرکیسٹریشن اور خودکار رسپانس)، اور SI (سسٹم انڈیپنڈنٹ) پروٹوکول شامل ہیں۔"
+    },
+    {
+      "question": "What government departments regularly interact with NADRA?",
+      "answer": "Departments include MOI (Ministry of Interior), MOFA (Ministry of Foreign Affairs), FIA (Federal Investigation Agency), DG I&P (Directorate General of Immigration and Passport), and various provincial departments.",
+      "urdu_question": "کون سے سرکاری محکمے نادرا کے ساتھ باقاعدگی سے بات چیت کرتے ہیں؟",
+      "urdu_answer": "محکموں میں MOI (وزارت داخلہ)، MOFA (وزارت خارجہ)، FIA (وفاقی تحقیقاتی ایجنسی)، DG I&P (ڈائریکٹوریٹ جنرل آف امیگریشن اینڈ پاسپورٹ) اور مختلف صوبائی محکمے شامل ہیں۔"
+    },
+    {
+      "question": "What legal documents and agreements are relevant to NADRA operations?",
+      "answer": "Relevant legal documents include PCA (Pakistan Citizenship Act), VRA (Voluntary Repatriation Agreement), POA (Power of Attorney) documents, and GDPR (General Data Protection Regulation) compliance requirements.",
+      "urdu_question": "کون سے قانونی دستاویزات اور معاہدے نادرا کے آپریشنز سے متعلق ہیں؟",
+      "urdu_answer": "متعلقہ قانونی دستاویزات میں PCA (پاکستان سٹیزن شپ ایکٹ)، VRA (رضاکارانہ وطن واپسی کا معاہدہ)، POA (پاور آف اٹارنی) دستاویزات، اور GDPR (جنرل ڈیٹا پروٹیکشن ریگولیشن) کی تعمیل کے تقاضے شامل ہیں۔"
+    },
+    {
+      "question": "What welfare and social security programs integrate with NADRA?",
+      "answer": "Programs include BISP (Benazir Income Support Program), SESSI (Sindh Employee Social Security Institute), and various SDG (Sustainable Development Goals) related initiatives.",
+      "urdu_question": "کون سے فلاحی اور سماجی تحفظ کے پروگرام نادرا کے ساتھ مربوط ہیں؟",
+      "urdu_answer": "پروگراموں میں BISP (بے نظیر انکم سپورٹ پروگرام)، SESSI (سندھ ایمپلائی سوشل سیکیورٹی انسٹی ٹیوٹ)، اور مختلف SDG (پائیدار ترقیاتی اہداف) سے متعلق اقدامات شامل ہیں۔"
+    },
+    {
+      "question": "What technology infrastructure supports NADRA operations?",
+      "answer": "Infrastructure includes NDW (National Data Warehouse), various SI (System Independent) components, e-KYC (electronic Know Your Customer) systems, and comprehensive security through SIEM and SOC.",
+      "urdu_question": "کون سا ٹیکنالوجی انفراسٹرکچر نادرا کے آپریشنز کو سپورٹ کرتا ہے؟",
+      "urdu_answer": "انفراسٹرکچر میں NDW (نیشنل ڈیٹا ویئر ہاؤس)، مختلف SI (سسٹم انڈیپنڈنٹ) اجزاء، e-KYC (الیکٹرانک اپنے کسٹمر کو جانیں) سسٹمز، اور SIEM اور SOC کے ذریعے جامع سیکیورٹی شامل ہیں۔"
+    },
+    {
+      "question": "What communication and outreach methods does NADRA employ?",
+      "answer": "Methods include SMS (Short Message Service) for notifications, IVR (Interactive Voice Response) for automated assistance, PCO (Public Call Office) network access, and PIO (Public Information Officer) services.",
+      "urdu_question": "نادرا مواصلات اور رسائی کے کون سے طریقے استعمال کرتا ہے؟",
+      "urdu_answer": "طریقوں میں اطلاعات کے لیے ایس ایم ایس (شارٹ میسج سروس)، خودکار مدد کے لیے آئی وی آر (انٹرایکٹو وائس رسپانس)، پی سی او (پبلک کال آفس) نیٹ ورک تک رسائی، اور پی آئی او (پبلک انفارمیشن آفیسر) کی خدمات شامل ہیں۔"
+    },
+    {
+      "question": "What special populations and cases does NADRA handle?",
+      "answer": "Special cases include PWD (Person with Disabilities) services, ACC (Afghan Citizen Card) processing, UNHCR-related documentation, and various refugee and immigrant processing through specialized systems.",
+      "urdu_question": "نادرا کن خاص آبادیوں اور کیسز کو ہینڈل کرتا ہے؟",
+      "urdu_answer": "خصوصی معاملات میں PWD (Person with Disabilities) کی خدمات، ACC (افغان شہری کارڈ) پروسیسنگ، UNHCR سے متعلقہ دستاویزات، اور خصوصی نظاموں کے ذریعے مختلف پناہ گزینوں اور تارکین وطن کی پروسیسنگ شامل ہیں۔"
+    }
+  ]
+}

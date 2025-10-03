@@ -1,0 +1,169 @@
+{
+  "file_name": "biometric_update.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 27,
+  "qa_data": [
+    {
+      "question": "What is a biometric update in NADRA services?",
+      "answer": "A biometric update is a process where NADRA captures and updates fingerprints and facial biometric data for identity documents when there are authentication issues or system problems during initial registration.",
+      "urdu_question": "نادرا سروسز میں بائیو میٹرک اپ ڈیٹ کیا ہے؟",
+      "urdu_answer": "بائیو میٹرک اپ ڈیٹ ایک ایسا عمل ہے جہاں نادرا شناختی دستاویزات کے لیے فنگر پرنٹس اور چہرے کے بائیو میٹرک ڈیٹا کو پکڑتا اور اپ ڈیٹ کرتا ہے جب ابتدائی رجسٹریشن کے دوران تصدیق کے مسائل یا سسٹم کے مسائل ہوتے ہیں۔"
+    },
+    {
+      "question": "Is there any fee for biometric updates?",
+      "answer": "No, biometric updates are performed free of charge if there are authentication issues or if the system was unavailable during registration.",
+      "urdu_question": "کیا بائیو میٹرک اپ ڈیٹس کے لیے کوئی فیس ہے؟",
+      "urdu_answer": "نہیں، اگر تصدیق کے مسائل ہوں یا رجسٹریشن کے دوران سسٹم دستیاب نہ ہو تو بایومیٹرک اپ ڈیٹس مفت کیے جاتے ہیں۔"
+    },
+    {
+      "question": "When are biometric updates done free of charge?",
+      "answer": "Biometric updates are performed free of charge in two specific situations: when there are authentication issues with existing biometrics, or when the system was unavailable during the original registration process.",
+      "urdu_question": "بائیو میٹرک اپ ڈیٹس کب مفت کیے جاتے ہیں؟",
+      "urdu_answer": "بائیو میٹرک اپ ڈیٹس دو مخصوص حالات میں مفت کی جاتی ہیں: جب موجودہ بائیو میٹرکس کے ساتھ تصدیق کے مسائل ہوں، یا جب رجسٹریشن کے اصل عمل کے دوران سسٹم دستیاب نہ ہو۔"
+    },
+    {
+      "question": "What happens if there are authentication issues with my biometrics?",
+      "answer": "If there are authentication issues with your biometrics, NADRA will perform a biometric update free of charge to resolve the authentication problems.",
+      "urdu_question": "اگر میرے بائیو میٹرکس کے ساتھ تصدیق کے مسائل ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ کے بایومیٹرکس میں تصدیق کے مسائل ہیں تو، نادرا تصدیق کے مسائل کو حل کرنے کے لیے مفت بائیو میٹرک اپ ڈیٹ کرے گا۔"
+    },
+    {
+      "question": "Do I need to pay if the system was unavailable during my registration?",
+      "answer": "No, if the system was unavailable during your original registration, NADRA will perform the biometric update free of charge.",
+      "urdu_question": "کیا مجھے ادائیگی کرنے کی ضرورت ہے اگر میرے رجسٹریشن کے دوران سسٹم دستیاب نہیں تھا؟",
+      "urdu_answer": "نہیں، اگر آپ کی اصل رجسٹریشن کے دوران سسٹم دستیاب نہیں تھا، تو نادرا بائیو میٹرک اپ ڈیٹ مفت کرے گا۔"
+    },
+    {
+      "question": "What are authentication issues in biometric systems?",
+      "answer": "Authentication issues refer to problems where the biometric system cannot properly verify or match your fingerprints or facial features, requiring an update to capture clearer biometric data.",
+      "urdu_question": "بائیو میٹرک سسٹم میں تصدیق کے مسائل کیا ہیں؟",
+      "urdu_answer": "توثیق کے مسائل سے مراد ایسے مسائل ہیں جہاں بایومیٹرک سسٹم آپ کے فنگر پرنٹس یا چہرے کے فیچرز کی درست طریقے سے تصدیق یا میچ نہیں کر سکتا، واضح بائیو میٹرک ڈیٹا حاصل کرنے کے لیے اپ ڈیٹ کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Can I get a free biometric update if I paid for my original registration?",
+      "answer": "Yes, you can get a free biometric update if there are authentication issues with your biometrics or if the system was unavailable during your original registration, regardless of whether you paid for the initial registration.",
+      "urdu_question": "اگر میں نے اپنی اصل رجسٹریشن کی ادائیگی کی تو کیا میں مفت بایومیٹرک اپ ڈیٹ حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، اگر آپ کے بائیو میٹرکس میں تصدیقی مسائل ہیں یا اگر آپ کی اصل رجسٹریشن کے دوران سسٹم دستیاب نہیں تھا تو آپ مفت بایومیٹرک اپ ڈیٹ حاصل کر سکتے ہیں، قطع نظر اس کے کہ آپ نے ابتدائی رجسٹریشن کے لیے ادائیگی کی ہو۔"
+    },
+    {
+      "question": "What should I do if my biometrics are not working properly?",
+      "answer": "If your biometrics are not working properly due to authentication issues, you should visit a NADRA center for a free biometric update to resolve the problem.",
+      "urdu_question": "اگر میرا بایومیٹرکس ٹھیک سے کام نہیں کر رہا ہے تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر تصدیقی مسائل کی وجہ سے آپ کا بایومیٹرکس صحیح طریقے سے کام نہیں کر رہا ہے، تو آپ کو مسئلہ کو حل کرنے کے لیے مفت بائیو میٹرک اپ ڈیٹ کے لیے نادرا سنٹر پر جانا چاہیے۔"
+    },
+    {
+      "question": "Are there any conditions for free biometric updates?",
+      "answer": "Yes, free biometric updates are only provided when there are authentication issues or when the system was unavailable during the original registration. Other reasons may incur charges.",
+      "urdu_question": "کیا مفت بائیو میٹرک اپ ڈیٹس کے لیے کوئی شرائط ہیں؟",
+      "urdu_answer": "جی ہاں، مفت بایومیٹرک اپ ڈیٹس صرف اس وقت فراہم کیے جاتے ہیں جب تصدیق کے مسائل ہوں یا جب اصل رجسٹریشن کے دوران سسٹم دستیاب نہ ہو۔ دیگر وجوہات چارجز کا سامنا کر سکتے ہیں."
+    },
+    {
+      "question": "What types of biometric data are updated during a biometric update?",
+      "answer": "During a biometric update, NADRA typically captures and updates fingerprints and facial biometric data to ensure proper authentication and verification.",
+      "urdu_question": "بائیو میٹرک اپ ڈیٹ کے دوران کس قسم کے بائیو میٹرک ڈیٹا کو اپ ڈیٹ کیا جاتا ہے؟",
+      "urdu_answer": "بائیو میٹرک اپ ڈیٹ کے دوران، نادرا عام طور پر انگلیوں کے نشانات اور چہرے کے بائیو میٹرک ڈیٹا کو پکڑتا اور اپ ڈیٹ کرتا ہے تاکہ مناسب تصدیق اور تصدیق کو یقینی بنایا جا سکے۔"
+    },
+    {
+      "question": "How do I know if I need a biometric update?",
+      "answer": "You may need a biometric update if you experience authentication issues when using NADRA services, or if you were told during registration that the system was unavailable and biometrics couldn't be properly captured.",
+      "urdu_question": "مجھے کیسے پتہ چلے گا کہ مجھے بائیو میٹرک اپ ڈیٹ کی ضرورت ہے؟",
+      "urdu_answer": "آپ کو بائیو میٹرک اپ ڈیٹ کی ضرورت ہو سکتی ہے اگر آپ نادرا سروسز استعمال کرتے وقت تصدیق کے مسائل کا سامنا کرتے ہیں، یا اگر آپ کو رجسٹریشن کے دوران بتایا گیا کہ سسٹم دستیاب نہیں ہے اور بائیو میٹرکس کو صحیح طریقے سے نہیں لیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Where can I get a biometric update done?",
+      "answer": "You can get a biometric update done at any NADRA Data Acquisition Unit (DAU) or National Registration Center (NRC) where biometric capture facilities are available.",
+      "urdu_question": "میں بائیو میٹرک اپ ڈیٹ کہاں سے کروا سکتا ہوں؟",
+      "urdu_answer": "آپ بائیو میٹرک اپ ڈیٹ کسی بھی نادرا ڈیٹا ایکوزیشن یونٹ (DAU) یا نیشنل رجسٹریشن سینٹر (NRC) سے کروا سکتے ہیں جہاں بائیو میٹرک کیپچر کی سہولیات دستیاب ہیں۔"
+    },
+    {
+      "question": "What specific problems are considered authentication issues for free biometric updates?",
+      "answer": "Authentication issues include: fingerprints not matching due to cuts, scars, or faded prints; poor quality biometric capture during original registration; system showing \"No Match Found\" errors; facial recognition problems due to aging, weight changes, or medical conditions; damaged or worn fingerprints from manual labor; and technical glitches during original biometric capture.",
+      "urdu_question": "مفت بایومیٹرک اپ ڈیٹس کے لیے کن مخصوص مسائل کو تصدیق کے مسائل سمجھا جاتا ہے؟",
+      "urdu_answer": "تصدیق کے مسائل میں شامل ہیں: کٹوں، نشانات، یا دھندلے پرنٹس کی وجہ سے فنگر پرنٹس مماثل نہیں ہیں۔ اصل رجسٹریشن کے دوران ناقص معیار کی بائیو میٹرک کیپچر؛ سسٹم جو \"کوئی میچ نہیں ملا\" غلطیاں دکھا رہا ہے۔ عمر بڑھنے، وزن میں تبدیلی، یا طبی حالات کی وجہ سے چہرے کی شناخت کے مسائل؛ دستی مشقت سے فنگر پرنٹس کو نقصان پہنچا اور اصل بائیو میٹرک کیپچر کے دوران تکنیکی خرابیاں۔"
+    },
+    {
+      "question": "How do I request a biometric update at NADRA?",
+      "answer": "To request a biometric update: 1) Visit any NADRA center with your original CNIC/NICOP, 2) Explain the authentication issue you're facing, 3) Staff will verify your identity through available means, 4) Complete a biometric update request form, 5) Undergo fresh biometric capture (fingerprints and photo), 6) Receive confirmation of update completion.",
+      "urdu_question": "میں نادرا میں بائیو میٹرک اپ ڈیٹ کی درخواست کیسے کر سکتا ہوں؟",
+      "urdu_answer": "بائیو میٹرک اپ ڈیٹ کی درخواست کرنے کے لیے: 1) اپنے اصل CNIC/NICOP کے ساتھ کسی بھی نادرا سینٹر پر جائیں، 2) تصدیقی مسئلہ کی وضاحت کریں جس کا آپ کو سامنا ہے، 3) عملہ دستیاب ذرائع سے آپ کی شناخت کی تصدیق کرے گا، 4) بائیو میٹرک اپ ڈیٹ کی درخواست فارم مکمل کریں، 5) تازہ بائیو میٹرک کیپچر سے گزریں (انگلیوں کے نشانات کی دوبارہ تصدیق)"
+    },
+    {
+      "question": "What documents do I need to bring for a biometric update?",
+      "answer": "For a biometric update, bring: your original CNIC/NICOP/POC (if available), any medical certificates if you have hand injuries or medical conditions affecting biometrics, and a copy of your previous application receipt (if available). No additional documents are required for authentication issue cases.",
+      "urdu_question": "بائیو میٹرک اپ ڈیٹ کے لیے مجھے کن دستاویزات لانے کی ضرورت ہے؟",
+      "urdu_answer": "بائیو میٹرک اپ ڈیٹ کے لیے، لائیں: اپنا اصل CNIC/NICOP/POC (اگر دستیاب ہو)، کوئی میڈیکل سرٹیفکیٹ اگر آپ کے ہاتھ کی چوٹیں ہیں یا بائیو میٹرکس کو متاثر کرنے والے طبی حالات ہیں، اور آپ کی پچھلی درخواست کی رسید کی ایک کاپی (اگر دستیاب ہو)۔ تصدیق کے معاملے کے لیے کسی اضافی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "How long does a biometric update process take?",
+      "answer": "A biometric update typically takes 15-30 minutes at the center for the capture process. The system update is usually immediate, but may take up to 24-48 hours to reflect across all NADRA systems and databases.",
+      "urdu_question": "بائیو میٹرک اپ ڈیٹ کے عمل میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "ایک بائیو میٹرک اپ ڈیٹ عام طور پر مرکز میں پکڑنے کے عمل میں 15-30 منٹ لیتا ہے۔ سسٹم اپڈیٹ عام طور پر فوری ہوتا ہے، لیکن نادرا کے تمام سسٹمز اور ڈیٹا بیسز پر ظاہر ہونے میں 24-48 گھنٹے لگ سکتے ہیں۔"
+    },
+    {
+      "question": "What happens if my biometric update fails multiple times?",
+      "answer": "If biometric update fails repeatedly: 1) Technical staff will try alternative capture methods, 2) Medical examination may be recommended for hand/finger conditions, 3) Alternative verification methods may be used, 4) Facial biometric may be prioritized over fingerprints, 5) Manual verification process may be initiated with additional documentation.",
+      "urdu_question": "اگر میرا بائیو میٹرک اپ ڈیٹ متعدد بار ناکام ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "اگر بایومیٹرک اپ ڈیٹ بار بار ناکام ہو جاتا ہے: 1) تکنیکی عملہ گرفتاری کے متبادل طریقے آزمائے گا، 2) ہاتھ/انگلی کے حالات کے لیے طبی معائنے کی سفارش کی جا سکتی ہے، 3) تصدیق کے متبادل طریقے استعمال کیے جا سکتے ہیں، 4) چہرے کے بائیو میٹرک کو انگلیوں کے نشانات پر ترجیح دی جا سکتی ہے، 5) اضافی دستاویزات کے ساتھ دستی تصدیق کا عمل شروع کیا جا سکتا ہے۔"
+    },
+    {
+      "question": "Can I get a biometric update done abroad at Pakistani consulates?",
+      "answer": "Biometric updates at Pakistani consulates abroad depend on the facility's technical capabilities. Some major consulates have biometric systems, while others may require you to update during your next visit to Pakistan. Contact your nearest Pakistani consulate for specific availability.",
+      "urdu_question": "کیا میں بیرون ملک پاکستانی قونصل خانوں میں بائیو میٹرک اپ ڈیٹ کروا سکتا ہوں؟",
+      "urdu_answer": "بیرون ملک پاکستانی قونصل خانوں میں بائیو میٹرک اپ ڈیٹس کا انحصار اس سہولت کی تکنیکی صلاحیتوں پر ہے۔ کچھ بڑے قونصل خانوں میں بائیو میٹرک سسٹم ہوتا ہے، جبکہ دیگر آپ کو اپنے اگلے دورہ پاکستان کے دوران اپ ڈیٹ کرنے کا مطالبہ کر سکتے ہیں۔ مخصوص دستیابی کے لیے اپنے قریبی پاکستانی قونصل خانے سے رابطہ کریں۔"
+    },
+    {
+      "question": "What is the difference between biometric update and biometric verification?",
+      "answer": "Biometric update involves capturing fresh biometric data to replace existing problematic biometrics in NADRA's database. Biometric verification is simply checking your current biometrics against existing database records for identity confirmation during transactions.",
+      "urdu_question": "بائیو میٹرک اپ ڈیٹ اور بائیو میٹرک تصدیق میں کیا فرق ہے؟",
+      "urdu_answer": "بائیو میٹرک اپڈیٹ میں نادرا کے ڈیٹا بیس میں موجودہ مشکل بائیو میٹرکس کو تبدیل کرنے کے لیے تازہ بائیو میٹرک ڈیٹا حاصل کرنا شامل ہے۔ بایومیٹرک تصدیق لین دین کے دوران شناخت کی تصدیق کے لیے موجودہ ڈیٹا بیس ریکارڈز کے خلاف آپ کے موجودہ بائیو میٹرکس کی جانچ کر رہی ہے۔"
+    },
+    {
+      "question": "Why do biometrics sometimes fail to authenticate?",
+      "answer": "Biometrics may fail due to: physical changes like cuts, scars, or burns on fingertips; aging effects on skin texture; medical conditions affecting fingerprints; poor initial capture quality; system technical issues; dirty or damaged biometric scanners; or significant weight/facial changes affecting facial recognition.",
+      "urdu_question": "بائیو میٹرکس بعض اوقات تصدیق کرنے میں کیوں ناکام ہو جاتے ہیں؟",
+      "urdu_answer": "بایومیٹرکس اس وجہ سے ناکام ہو سکتے ہیں: جسمانی تبدیلیاں جیسے کٹ، نشان، یا انگلیوں پر جلنا؛ جلد کی ساخت پر عمر بڑھنے کے اثرات؛ فنگر پرنٹس کو متاثر کرنے والے طبی حالات؛ ناقص ابتدائی گرفتاری کا معیار؛ نظام تکنیکی مسائل؛ گندے یا خراب شدہ بائیو میٹرک اسکینر؛ یا اہم وزن/چہرے کی تبدیلیاں جو چہرے کی شناخت کو متاثر کرتی ہیں۔"
+    },
+    {
+      "question": "How can I prevent biometric authentication problems?",
+      "answer": "To prevent biometric issues: keep hands clean and moisturized for clear fingerprints; avoid cuts or injuries to fingertips when possible; inform NADRA staff of any hand injuries during capture; ensure good lighting for facial capture; follow staff instructions during biometric sessions; and report any technical problems immediately.",
+      "urdu_question": "میں بائیو میٹرک تصدیق کے مسائل کو کیسے روک سکتا ہوں؟",
+      "urdu_answer": "بایومیٹرک مسائل کو روکنے کے لیے: انگلیوں کے نشانات صاف کرنے کے لیے ہاتھوں کو صاف اور نمی میں رکھیں؛ جب ممکن ہو انگلیوں کو کاٹنے یا چوٹوں سے بچیں؛ گرفتاری کے دوران ہاتھ پر کسی قسم کی چوٹ کی اطلاع نادرا کے عملے کو دیں؛ چہرے کی گرفت کے لیے اچھی روشنی کو یقینی بنانا؛ بائیو میٹرک سیشن کے دوران عملے کی ہدایات پر عمل کریں؛ اور کسی بھی تکنیکی خرابی کی فوری اطلاع دیں۔"
+    },
+    {
+      "question": "Is there a limit to how many times I can get free biometric updates?",
+      "answer": "There is no specific limit mentioned for free biometric updates due to authentication issues or system unavailability. However, if repeated failures occur due to personal negligence or non-medical reasons, charges may apply for additional updates.",
+      "urdu_question": "کیا کوئی حد ہے کہ میں کتنی بار مفت بایومیٹرک اپ ڈیٹ حاصل کر سکتا ہوں؟",
+      "urdu_answer": "تصدیق کے مسائل یا سسٹم کی عدم دستیابی کی وجہ سے مفت بائیو میٹرک اپ ڈیٹس کے لیے کوئی مخصوص حد نہیں بتائی گئی ہے۔ تاہم، اگر ذاتی غفلت یا غیر طبی وجوہات کی وجہ سے بار بار ناکامی ہوتی ہے، تو اضافی اپ ڈیٹس کے لیے چارجز لاگو ہو سکتے ہیں۔"
+    },
+    {
+      "question": "Are there special provisions for elderly people with biometric issues?",
+      "answer": "Yes, NADRA provides special assistance for elderly applicants with biometric difficulties: priority service, additional attempts for capture, alternative verification methods if needed, assistance from family members during the process, and medical consideration for age-related biometric changes.",
+      "urdu_question": "کیا بائیو میٹرک مسائل والے بزرگ افراد کے لیے خصوصی انتظامات ہیں؟",
+      "urdu_answer": "جی ہاں، نادرا عمر رسیدہ درخواست دہندگان کے لیے بائیو میٹرک مشکلات کے لیے خصوصی مدد فراہم کرتا ہے: ترجیحی خدمت، گرفتاری کے لیے اضافی کوششیں، اگر ضرورت ہو تو تصدیق کے متبادل طریقے، عمل کے دوران خاندان کے افراد کی مدد، اور عمر سے متعلق بائیو میٹرک تبدیلیوں کے لیے طبی خیال۔"
+    },
+    {
+      "question": "What should I do if I have a medical condition affecting my fingerprints?",
+      "answer": "If you have medical conditions affecting fingerprints (diabetes, skin conditions, chemotherapy effects): bring medical documentation, inform NADRA staff about your condition, request alternative biometric methods if available, consider using facial recognition as primary biometric, and get medical clearance for any special handling requirements.",
+      "urdu_question": "اگر میری انگلیوں کے نشانات کو متاثر کرنے والی طبی حالت ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "اگر آپ کے فنگر پرنٹس (ذیابیطس، جلد کی حالت، کیموتھراپی کے اثرات) پر اثر انداز ہونے والے طبی حالات ہیں: طبی دستاویزات لائیں، نادرا کے عملے کو اپنی حالت کے بارے میں مطلع کریں، اگر دستیاب ہو تو متبادل بائیو میٹرک طریقوں کی درخواست کریں، چہرے کی شناخت کو بنیادی بائیو میٹرک کے طور پر استعمال کرنے پر غور کریں، اور کسی بھی خصوصی ہینڈلنگ کی ضروریات کے لیے میڈیکل کلیئرنس حاصل کریں۔"
+    },
+    {
+      "question": "Can fingerprint damage from manual labor qualify for free biometric updates?",
+      "answer": "Yes, fingerprint damage from manual labor can qualify for free biometric updates if it causes authentication issues. This includes construction workers, mechanics, farmers, or others whose work naturally wears down fingerprint patterns, making them unreadable by biometric systems.",
+      "urdu_question": "کیا دستی مزدوری سے فنگر پرنٹ کا نقصان مفت بایومیٹرک اپ ڈیٹس کے لیے اہل ہو سکتا ہے؟",
+      "urdu_answer": "جی ہاں، دستی مشقت سے فنگر پرنٹ کا نقصان مفت بایومیٹرک اپ ڈیٹس کے لیے اہل ہو سکتا ہے اگر اس سے تصدیق کے مسائل پیدا ہوں۔ اس میں تعمیراتی کارکن، مکینکس، کسان، یا دیگر شامل ہیں جن کا کام فطری طور پر فنگر پرنٹ پیٹرن کو کم کر دیتا ہے، جس کی وجہ سے وہ بائیو میٹرک سسٹم کے ذریعے پڑھنے کے قابل نہیں ہوتے۔"
+    },
+    {
+      "question": "What happens to my old biometric data when I get an update?",
+      "answer": "When you get a biometric update: old biometric data is archived in NADRA's system for record-keeping, new biometric data becomes the active reference for all future authentications, system automatically links the update to your existing record, and all NADRA services will use the new biometric data for verification.",
+      "urdu_question": "میرے پرانے بائیو میٹرک ڈیٹا کا کیا ہوتا ہے جب مجھے اپ ڈیٹ ملتا ہے؟",
+      "urdu_answer": "جب آپ کو بائیو میٹرک اپ ڈیٹ ملتا ہے: ریکارڈ رکھنے کے لیے پرانا بائیو میٹرک ڈیٹا نادرا کے سسٹم میں محفوظ کیا جاتا ہے، نیا بائیو میٹرک ڈیٹا مستقبل کی تمام تصدیقوں کے لیے ایکٹو ریفرنس بن جاتا ہے، سسٹم خود بخود اپ ڈیٹ کو آپ کے موجودہ ریکارڈ سے جوڑ دیتا ہے، اور نادرا کی تمام سروسز نئے بائیو میٹرک ڈیٹا کو تصدیق کے لیے استعمال کریں گی۔"
+    },
+    {
+      "question": "Can I check if my biometrics need updating before visiting NADRA?",
+      "answer": "You can check if your biometrics need updating by: trying biometric verification at any NADRA service point, using PAK-ID app biometric features, attempting verification at partner institutions (banks, telecom), or visiting any NADRA center for a quick biometric test before formal application processing.",
+      "urdu_question": "کیا میں چیک کر سکتا ہوں کہ کیا نادرا جانے سے پہلے میرے بائیو میٹرکس کو اپ ڈیٹ کرنے کی ضرورت ہے؟",
+      "urdu_answer": "آپ چیک کر سکتے ہیں کہ آیا آپ کے بائیو میٹرک کو اپ ڈیٹ کرنے کی ضرورت ہے: کسی بھی نادرا سروس پوائنٹ پر بائیو میٹرک تصدیق کی کوشش کرنا، PAK-ID ایپ بائیو میٹرک فیچرز کا استعمال کرنا، پارٹنر اداروں (بینکوں، ٹیلی کام) میں تصدیق کی کوشش کرنا، یا درخواست کی رسمی کارروائی سے پہلے فوری بائیو میٹرک ٹیسٹ کے لیے کسی نادرا سینٹر کا دورہ کرنا۔"
+    }
+  ]
+}

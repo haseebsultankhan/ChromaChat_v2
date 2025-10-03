@@ -1,0 +1,859 @@
+{
+  "file_name": "qa_data_with_context.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 142,
+  "qa_data": [
+    {
+      "question": "What documents are needed to new a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Foreign Birth Certificate\n- S1 Form\n- Naturalization Certificate\n- Guardianship Certificate\nDocuments Required 2: (Bring any of the following)\n- Attestation\n- Verification by ID holder\n- Spouse Verification",
+      "urdu_question": "نئے CRC کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - غیر ملکی پیدائش کا سرٹیفکیٹ - S1 فارم - نیچرلائزیشن سرٹیفکیٹ - گارڈین شپ سرٹیفکیٹ کی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - تصدیق - شناختی تصدیق نامہ کے ذریعے تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C1\n- Certificate from  Dar-Ul-Afta",
+      "urdu_question": "سی آر سی میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - انڈرٹیکنگ RP 6.0.0 C1 - دارالافتا سے سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the father’s name field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification",
+      "urdu_question": "CRC میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بائیو میٹرک تصدیق - سرپرست کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the mother’s name field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification",
+      "urdu_question": "CRC میں ماں کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بائیو میٹرک تصدیق - سرپرست کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ Approval",
+      "urdu_question": "سی آر سی میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - S1 فارم - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سرکاری اسکول چھوڑنے کا سرٹیفکیٹ - ڈومیسائل / سی کیویکل - ایپ کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "CRC میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "سی آر سی میں جائے پیدائش کی جگہ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to reprint a CRC?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "CRC کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Foreign Birth Certificate\n- S1 Form\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification\n- Attestation\n- Verification by ID holder",
+      "urdu_question": "نوعمر کارڈ کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - سرپرست CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - غیر ملکی پیدائش کا سرٹیفکیٹ - S1 فارم - نیچرلائزیشن سرٹیفکیٹ - مندرجہ ذیل میں سے کوئی بھی دو دستاویزات کے برابر: تصدیق - سرپرست کی توثیق - تصدیق - ID ہولڈر کے ذریعہ تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Mother CNIC\n- Undertaking RP 6.0.0 C1\n- Certificate from Dar-Ul-Afta",
+      "urdu_question": "جووینائل کارڈ میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - سرپرست CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدہ CNIC - انڈرٹیکنگ RP 6.0.0 C1 - دارالافتا سے سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the father’s name field in a Juvenile  Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- HQ   Approval",
+      "urdu_question": "جووینائل کارڈ میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - خود شناختی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - S1 فارم - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10th کی مارک شیٹ - گورنمنٹ سی ای او 10 ویں کی مارک شیٹ۔ ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a Juvenile  Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification",
+      "urdu_question": "جووینائل کارڈ میں ماں کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بائیو میٹرک تصدیق - سرپرست کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of  9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ  Approval",
+      "urdu_question": "جووینائل کارڈ میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - S1 فارم - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سرکاری اسکول چھوڑنے کا سرٹیفکیٹ - ڈومیسائل / سی کیویکل - ایپ کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "جوینائل کارڈ میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a Juvenile  Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "جووینائل کارڈ میں جائے پیدائش کی جگہ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "جووینائل کارڈ میں موجودہ ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document",
+      "urdu_question": "جوینائل کارڈ میں مستقل ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to renewal a Juvenile Card?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "جوینائل کارڈ کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to reprint a Juvenile Card?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "نوعمر کارڈ کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to office mistake a Juvenile Card?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "جووینائل کارڈ سے دفتری غلطی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a NICOP/SNICOP (Under 18)Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Foreign  Birth Certificate\n- S1 Form\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 4: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification\n- Attestation\n- Verification by ID holder",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی نئے ہونے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مندرجہ ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - سرپرست CNIC دستاویزات درکار 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - غیر ملکی پیدائش کا سرٹیفکیٹ - S1 فارم - نیچرلائزیشن سرٹیفکیٹ دستاویزات درکار ہیں 3: (درج ذیل میں سے کوئی بھی پاکستانی سفری سفر کے لیے لائیں - پاکستانی پاسپورٹ کے لیے درج ذیل میں سے کوئی بھی پاسپورٹ لائیں) دستاویز - انڈرٹیکنگ RP 6.0.0 A دستاویزات کی ضرورت ہے 4: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بایومیٹرک تصدیق - سرپرست کی تصدیق - تصدیق - شناختی ہولڈر کے ذریعہ تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a NICOP/SNICOP  (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- S1 Form\n- Name change deed (notarized/attested)\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - S1 فارم - نام کی تبدیلی کا عمل (نوٹرائزڈ/تصدیق شدہ) دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the father’s name field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name  Correction\n- Affidavit by one for Parents Name Correction\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation Board\nDocuments Required 3: (Bring any of the following)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation Board",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 ایک دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی طرف سے حلف نامہ والدین کے نام کی تصحیح - ایک حلف نامہ والدین کی طرف سے والدین کے نام کی تصحیح۔ تصحیح - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک/مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیقی بورڈ کے دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک/مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیقی بورڈ"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a  NICOP/SNICOP (Under 18) Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Affidavit by one for Parents Name Correction\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation Board\nDocuments Required 3: (Bring any of the following)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verification Board",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں ماں کے نام کے فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 ایک دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی طرف سے حلف نامہ والدین کے نام کی تصحیح - ایک حلف نامہ والدین کی طرف سے والدین کے نام کی تصحیح۔ تصحیح - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک/مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیق بورڈ کے دستاویزات درکار 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک/مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیقی بورڈ"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a NICOP/SNICOP  (Under 18) Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government  School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ   Approval\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "مندرجہ ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - S1 فارم - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سرکاری اسکول چھوڑنے کا سرٹیفکیٹ - ڈومیسائل / سی کیویکل ایپ - سی سی کیویکل کارڈ مطلوبہ 2: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a NICOP/SNICOP  (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں جائے پیدائش کی جگہ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں موجودہ ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں مستقل ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to modification the present address(foreign) field in  a NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں موجودہ پتہ (غیر ملکی) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address (foreign)  field in a NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی میں مستقل پتہ (غیر ملکی) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to renewal a NICOP/SNICOP (Under 18) Non- Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to reprint a NICOP/SNICOP (Under 18)Non  Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to office mistake a NICOP/SNICOP(Under 18) Non  Resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی دفتری غلطی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a NICOP/SNICOP(Under 18)Intending Non  Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification\n- Attestation",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی کے لیے نئے ہونے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - سرپرست CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - نیچرلائزیشن سرٹیفکیٹ دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی پیرینٹ ویریفیکیشن - بائیو میٹرک پاس لائیں)"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a  NICOP/SNICOP(Under18) Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Mother CNIC\n- Undertaking RP 6.0.0 C1\n- Certificate from Dar-Ul-Afta",
+      "urdu_question": "NICOP/SNICOP(Under18) Intending Non Resident میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - سرپرست CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدہ CNIC - انڈرٹیکنگ RP 6.0.0 C1 - دارالافتا سے سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a  NICOP/SNICOP(Under 18) Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- HQ  Approval",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی کے ارادے میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - خود شناختی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - S1 فارم - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10th کی مارک شیٹ - گورنمنٹ سی ای او 10 ویں کی مارک شیٹ۔ ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a  NICOP/SNICOP (Under 18)Intending Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی کے ارادے میں ماں کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بائیو میٹرک تصدیق - سرپرست کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a  NICOP/SNICOP(Under 18)Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government  School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ   Approval",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی کے ارادے میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - S1 فارم - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سرکاری اسکول چھوڑنے کا سرٹیفکیٹ - ڈومیسائل / سی کیویکل - ایپ کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a NICOP/SNICOP  (Under 18)Intending Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم) غیر رہائشی کے ارادے میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a  NICOP/SNICOP (Under 18) Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی کے ارادے میں جائے پیدائش میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  NICOP/SNICOP (Under 18) Intending Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی کے ارادے میں موجودہ ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  NICOP/SNICOP (Under 18) Intending Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property document",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر رہائشی کے لیے مستقل ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to modification a NICOP/SNICOP (Under 18)  Intending Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- F16",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر کے) غیر رہائشی کے ارادے میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - F16"
+    },
+    {
+      "question": "What documents are needed to modification a NICOP/SNICOP (Under 18)  Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- F17",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر کے) غیر رہائشی کے ارادے میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - F17"
+    },
+    {
+      "question": "What documents are needed to office mistake a NICOP/SNICOP (Under 18)  Intending Non Resident ?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر مقیم کے ارادے سے دفتری غلطی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to renewal a NICOP/SNICOP (Under 18) Intending  Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر مقیم افراد کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to reprint a NICOP/SNICOP (Under 18) Intending  Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP/SNICOP (18 سال سے کم عمر) غیر مقیم افراد کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\n- Undertaking RP  6.0.0 B\n- Paternal Relative (Witness)\n- Maternal Relative (Witness)\n- Any CNIC  holder(Witnes)\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Attestation\n- Sibling Verifier-1",
+      "urdu_question": "اسمارٹ آئی ڈی کو نئی کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - بہن بھائی_1 شناختی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - نیچرلائزیشن سرٹیفکیٹ - انڈرٹیکنگ RP 6.0.0 B - والدینی پنشن (مدرانہ پن) - کسی بھی CNIC ہولڈر (گواہوں) کی دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بائیو میٹرک تصدیق - تصدیق - بہن بھائی تصدیق کنندہ -1"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C2\n- Certificate from  Dar-Ul-Afta",
+      "urdu_question": "اسمارٹ آئی ڈی میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - انڈرٹیکنگ RP 6.0.0 C2 - دارالافتا سے سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verification Board",
+      "urdu_question": "اسمارٹ آئی ڈی میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - والدین کی بائیو میٹرک تصدیق - بہن بھائی (گواہ) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - RG-1 - RG-II - RG-III - M&E بورڈ کی تصدیق کی رپورٹ"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board",
+      "urdu_question": "اسمارٹ آئی ڈی میں ماں کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - والدین کی بائیو میٹرک تصدیق - بہن بھائی (گواہ) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - RG-1 - RG-II - RG-III - M&E رپورٹ کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record  &Departmental NOC\n- MNIC\n- Registered Nikkahnama\n- Government School  Leaving Certificate\n- Domicile/Local Certificate\n- Driving license\n- Civil card\n- HQ Approval",
+      "urdu_question": "اسمارٹ آئی ڈی میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سروس ریکارڈ اور محکمانہ NOC - MNIC - سرکاری اسکول رجسٹریشن - رجسٹریشن ڈومیسائل/مقامی سرٹیفکیٹ - ڈرائیونگ لائسنس - سول کارڈ - ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card",
+      "urdu_question": "اسمارٹ آئی ڈی میں ازدواجی حیثیت (شادی شدہ) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ میرج سرٹیفکیٹ - غیر ملکی شادی کے سرٹیفکیٹ کی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - شریک حیات کی شناخت - POC - POR کارڈ - ACC کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)",
+      "urdu_question": "سمارٹ آئی ڈی میں ازدواجی حیثیت (طلاق) کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ طلاق نامہ - غیر ملکی طلاق کا سرٹیفکیٹ - حلف نامہ (غیر مسلم کے لیے)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate",
+      "urdu_question": "اسمارٹ آئی ڈی میں ازدواجی حیثیت (بیوہ) کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ ڈیتھ سرٹیفکیٹ - غیر ملکی موت کا سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF",
+      "urdu_question": "سمارٹ آئی ڈی میں مذہب کے شعبے میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - CNICF پر کام کرنے کا اعلان"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "اسمارٹ آئی ڈی میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "سمارٹ آئی ڈی میں جائے پیدائش کی جگہ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a Smart  ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "اسمارٹ آئی ڈی میں موجودہ ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Govt /society Allotment letter\n- Affidavit from  House owner\n- CNIC of House owner\n- Property document",
+      "urdu_question": "اسمارٹ آئی ڈی میں مستقل ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to renewal a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID",
+      "urdu_question": "اسمارٹ آئی ڈی کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - Self ID"
+    },
+    {
+      "question": "What documents are needed to reprint a Smart ID?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "اسمارٹ آئی ڈی کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to office mistake a Smart ID?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "سمارٹ آئی ڈی کی غلطی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\n- Undertaking RP  6.0.0 B\n- Paternal Relative (Witness)\n- Maternal Relative (Witness)\n- Any CNIC  holder (Witness)\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Attestation\n- Sibling Verifier-1",
+      "urdu_question": "نئے CNIC کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - بہن بھائی_1 شناختی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - نیچرلائزیشن سرٹیفکیٹ - انڈرٹیکنگ RP 6.0.0 B - والدینی پنشن (مدرانہ پن) - کوئی بھی CNIC ہولڈر (گواہ) دستاویزات درکار ہیں 3: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی بائیو میٹرک تصدیق - تصدیق - بہن بھائی تصدیق کنندہ -1"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C2\n- Certificate from  Dar-Ul-Afta",
+      "urdu_question": "CNIC میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - انڈرٹیکنگ RP 6.0.0 C2 - دارالافتا سے سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verification Board",
+      "urdu_question": "CNIC میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - والدین کی بائیو میٹرک تصدیق - بہن بھائی (گواہ) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - RG-1 - RG-II - RG-III - M&E بورڈ کی تصدیق کی رپورٹ"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board",
+      "urdu_question": "CNIC میں ماں کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - والدین کی بائیو میٹرک تصدیق - بہن بھائی (گواہ) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - RG-1 - RG-II - RG-III - M&E رپورٹ کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record &Departmental  NOC\n- MNIC\n- Registered  Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local  Certificate\n- Driving license\n- Civil card\n- HQ  Approval",
+      "urdu_question": "CNIC میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سروس ریکارڈ اور محکمانہ NOC - MNIC - سرکاری اسکول رجسٹریشن - رجسٹریشن ڈومیسائل/مقامی سرٹیفکیٹ - ڈرائیونگ لائسنس - سول کارڈ - ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card",
+      "urdu_question": "CNIC میں ازدواجی حیثیت (شادی شدہ) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ میرج سرٹیفکیٹ - غیر ملکی شادی کے سرٹیفکیٹ کی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - شریک حیات کی شناخت - POC - POR کارڈ - ACC کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)",
+      "urdu_question": "CNIC میں ازدواجی حیثیت (طلاق) کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ طلاق نامہ - غیر ملکی طلاق کا سرٹیفکیٹ - حلف نامہ (غیر مسلم کے لیے)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate",
+      "urdu_question": "CNIC میں ازدواجی حیثیت (بیوہ) کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ ڈیتھ سرٹیفکیٹ - غیر ملکی موت کا سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF",
+      "urdu_question": "CNIC میں مذہب کے شعبے میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - CNICF پر کام کرنے کا اعلان"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "CNIC میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "CNIC میں جائے پیدائش کی جگہ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile certificate\n- PRC  Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "CNIC میں موجودہ ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document",
+      "urdu_question": "CNIC میں مستقل ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to renewal a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID",
+      "urdu_question": "CNIC کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - Self ID"
+    },
+    {
+      "question": "What documents are needed to reprint  a CNIC ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "CNIC کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to office mistake a CNIC ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "CNIC میں دفتری غلطی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to conversion a Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID",
+      "urdu_question": "اسمارٹ آئی ڈی کی تبدیلی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - Self ID"
+    },
+    {
+      "question": "What documents are needed to conversion the name field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C2\n- Certificate from  Dar-Ul-Afta",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں نام کی فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - انڈرٹیکنگ RP 6.0.0 C2 - دارالافتا سے سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to conversion the father name field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board",
+      "urdu_question": "اسمارٹ آئی ڈی کنورژن میں والد کے نام کی فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - والدین کی بائیو میٹرک تصدیق - بہن بھائی (گواہ) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - RG-1 - RG-II - RG-III - M&E رپورٹ کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to conversion the mother name field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں ماں کے نام کی فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - والدین کی بائیو میٹرک تصدیق - بہن بھائی (گواہ) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - RG-1 - RG-II - RG-III - M&E رپورٹ کی تصدیق"
+    },
+    {
+      "question": "What documents are needed to conversion the dob field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Service record & Departmental NOC\n- MNIC\n- Registered Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- Driving  license\n- Civil card\n- HQ Approval",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں ڈوب فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سروس ریکارڈ اور ڈیپارٹمنٹل این او سی - ایم این آئی سی - رجسٹرڈ سی ای او اسکول - رجسٹرڈ سی ایم اے سرٹیفکیٹ - ڈرائیونگ لائسنس - سول کارڈ - ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to conversion the marital status (married) field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں ازدواجی حیثیت (شادی شدہ) فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ میرج سرٹیفکیٹ - غیر ملکی شادی کے سرٹیفکیٹ کی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - شریک حیات کی شناخت - POC - POR کارڈ - ACC کارڈ"
+    },
+    {
+      "question": "What documents are needed to conversion the marital status (divorce) field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں ازدواجی حیثیت (طلاق) کی فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ طلاق نامہ - غیر ملکی طلاق کا سرٹیفکیٹ - حلف نامہ (غیر مسلم کے لیے)"
+    },
+    {
+      "question": "What documents are needed to conversion the marital status (widow) field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں ازدواجی حیثیت (بیوہ) کی فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ ڈیتھ سرٹیفکیٹ - غیر ملکی موت کا سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to conversion the religion field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں مذہب کی تبدیلی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - CNICF پر کام کرنے کا اعلان"
+    },
+    {
+      "question": "What documents are needed to conversion the gender field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "اسمارٹ آئی ڈی کنورژن میں صنفی فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to conversion the place of birth field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "سمارٹ آئی ڈی کنورژن میں جائے پیدائش کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to conversion the present address field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "اسمارٹ آئی ڈی کنورژن میں موجودہ ایڈریس فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to conversion the permanent address field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document",
+      "urdu_question": "اسمارٹ آئی ڈی کنورژن میں مستقل ایڈریس فیلڈ کو تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to new a SNICOP Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\n- Undertaking RP 6.0.0 B\nDocuments Required 2: (Bring any of the following)\n- Foreign  Birth Certificate\n- S1 Form\n- Naturalization Certificate\n- Manual  Birth Certiifcate\nDocuments Required 3: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 4: (Bring any of the following)\n- Parent Biometric verification\n- Sibling Verifier-1\n- Any CNIC holder verifier",
+      "urdu_question": "نئے SNICOP غیر رہائشی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - بہن بھائی_1 ID - انڈرٹیکنگ RP 6.0.0 B دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - غیر ملکی پیدائش کا سرٹیفکیٹ - S1 فارم - نیچرلائزیشن سرٹیفکیٹ (درج ذیل میں سے کوئی بھی لے کر آئیں)۔ ان میں سے کوئی"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a SNICOP Non- Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- S1 Form\n- Name change deed (notarized/attested)\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "SNICOP غیر رہائشی میں نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - S1 فارم - نام کی تبدیلی کا عمل (نوٹرائزڈ/تصدیق شدہ) دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a SNICOP  Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verification  Board",
+      "urdu_question": "SNICOP غیر رہائشی میں والد کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی طرف سے حلف نامہ والدین کے نام کی تصحیح - حلف نامہ والدین کی طرف سے ایک ہی والدین کے ساتھ ایک ہی والدین کے ساتھ ایک ہی درخواست کے ساتھ۔ والدین کا نام - ایک ہی والدین کے نام کے ساتھ دو بہن بھائیوں کے ذریعہ معاہدہ - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیقی بورڈ"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a SNICOP  Non resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation  Board",
+      "urdu_question": "SNICOP غیر رہائشی میں ماں کے نام کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی طرف سے حلف نامہ والدین کے نام کی تصحیح - حلف نامہ والدین کی طرف سے ایک ہی والدین کے ساتھ دوسرے والدین کے ساتھ ایک ہی درخواست کے ساتھ۔ والدین کا نام - ایک ہی والدین کے نام کے ساتھ دو بہن بھائیوں کے ذریعہ معاہدہ - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیق بورڈ"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a SNICOP Non  resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record &Departmental NOC\n- MNIC\n- Registered  Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local  Certificate\n- Driving license\n- Civil card\n- HQ Approval",
+      "urdu_question": "SNICOP غیر رہائشی میں ڈوب فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سروس ریکارڈ اور محکمانہ NOC - MNIC - سرکاری اسکول رجسٹریشن - رجسٹریشن ڈومیسائل/مقامی سرٹیفکیٹ - ڈرائیونگ لائسنس - سول کارڈ - ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a SNICOP Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card",
+      "urdu_question": "SNICOP غیر رہائشی میں ازدواجی حیثیت (شادی شدہ) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ میرج سرٹیفکیٹ - غیر ملکی شادی کے سرٹیفکیٹ کی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - شریک حیات کی شناخت - POC - POR کارڈ - ACC کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)",
+      "urdu_question": "SNICOP غیر رہائشی میں ازدواجی حیثیت (طلاق) کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ طلاق نامہ - غیر ملکی طلاق کا سرٹیفکیٹ - حلف نامہ (غیر مسلم کے لیے)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate",
+      "urdu_question": "SNICOP غیر رہائشی میں ازدواجی حیثیت (بیوہ) کی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ ڈیتھ سرٹیفکیٹ - غیر ملکی موت کا سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a SNICOP Non  resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF",
+      "urdu_question": "SNICOP غیر رہائشی میں مذہب کے شعبے میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - CNICF پر کام کرنے کا اعلان"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a SNICOP Non  resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "SNICOP غیر رہائشی میں صنفی فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a SNICOP  Non resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "SNICOP غیر رہائشی میں جائے پیدائش کی جگہ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  SNICOP Non resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "SNICOP غیر رہائشی میں موجودہ ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document",
+      "urdu_question": "SNICOP غیر رہائشی میں مستقل ایڈریس فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to modification the present address(foreign) field in  a SNICOP Non resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "SNICOP غیر رہائشی میں موجودہ ایڈریس (غیر ملکی) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address (foreign)  field in a SNICOP Non resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "SNICOP غیر رہائشی میں مستقل پتہ (غیر ملکی) فیلڈ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to renewal a SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "SNICOP غیر رہائشی کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - خود شناختی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to reprint  a SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "SNICOP غیر رہائشی کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to office mistake a SNICOP Non resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "SNICOP غیر رہائشی سے دفتر میں غلطی کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a SNICOP Intending to  Non resident Citizen ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\n- Undertaking RP 6.0.0 B\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Attestation\n- Paternal Relative (Witness)\n- Maternal Relative (Witness)\n- Any CNIC holder(Witness)\n- Sibling Verifier-1",
+      "urdu_question": "SNICOP Intending to Non resident Citizen کو نئے بنانے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - والد CNIC - والدہ CNIC - بہن بھائی_1 ID - انڈرٹیکنگ RP 6.0.0 B دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں۔ تصدیق - تصدیق - پدرانہ رشتہ دار (گواہ) - ماں کا رشتہ دار (گواہ) - کوئی بھی CNIC ہولڈر (گواہ) - بہن بھائی تصدیق کنندہ -1"
+    },
+    {
+      "question": "What documents are needed to conversion a NICOP to SNICOP ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "NICOP کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - خود شناختی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- S1 Form\n- Name change deed (notarized/attested)\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A",
+      "urdu_question": "NICOP میں نام کی فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - S1 فارم - نام کی تبدیلی کا عمل (نوٹرائزڈ/تصدیق شدہ) دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation  Board",
+      "urdu_question": "NICOP میں والد کے نام کی فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی طرف سے حلف نامہ والدین کے نام کی تصحیح - حلف نامہ والدین کی طرف سے ایک ہی والدین کے ساتھ دوسرے والدین کے ساتھ ایک ہی درخواست کے ساتھ۔ والدین کا نام - ایک ہی والدین کے نام کے ساتھ دو بہن بھائیوں کے ذریعہ معاہدہ - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیق بورڈ"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verification  Board",
+      "urdu_question": "NICOP میں ماں کے نام کی فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی ساتھ لائیں) - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - انڈرٹیکنگ RP 6.0.0 A دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والدین کی طرف سے حلف نامہ والدین کے نام کی تصحیح - حلف نامہ والدین کی طرف سے ایک ہی والدین کے ساتھ دوسرے والدین کے ساتھ ایک ہی درخواست کے ساتھ۔ والدین کا نام - ایک ہی والدین کے نام کے ساتھ دو بہن بھائیوں کے ذریعہ معاہدہ - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میٹرک / مساوی سرٹیفکیٹ - M&E رپورٹ - زونل تصدیقی بورڈ"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record & Departmental NOC\n- MNIC\n- Registered  Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local  Certificate\n- Driving license\n- Civil card\n- HQ Approval",
+      "urdu_question": "NICOP میں ڈوب فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - پاکستانی پاسپورٹ - غیر ملکی پاسپورٹ - رہائشی اجازت نامہ - سفری دستاویز - میٹرک / مساوی سرٹیفکیٹ - 9 ویں / 10 ویں کی مارک شیٹ - سروس ریکارڈ اور ڈیپارٹمنٹل این او سی - ایم این آئی سی - رجسٹرڈ سی ای او اسکول - رجسٹرڈ سی ایم اے سرٹیفکیٹ - ڈرائیونگ لائسنس - سول کارڈ - ہیڈکوارٹر کی منظوری"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card",
+      "urdu_question": "NICOP میں ازدواجی حیثیت (شادی شدہ) فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ میرج سرٹیفکیٹ - غیر ملکی شادی کے سرٹیفکیٹ کی دستاویزات درکار ہیں 2: (مندرجہ ذیل میں سے کوئی بھی لائیں) - شریک حیات کی شناخت - POC - POR کارڈ - ACC کارڈ"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)",
+      "urdu_question": "NICOP میں ازدواجی حیثیت (طلاق) کی فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی ایک ساتھ لائیں) - کمپیوٹرائزڈ طلاق نامہ - غیر ملکی طلاق کا سرٹیفکیٹ - حلف نامہ (غیر مسلم کے لیے)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate",
+      "urdu_question": "NICOP میں ازدواجی حیثیت (بیوہ) کی فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ ڈیتھ سرٹیفکیٹ - غیر ملکی موت کا سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF",
+      "urdu_question": "NICOP میں مذہب کے شعبے کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - CNICF پر کام کرنے کا اعلان"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate",
+      "urdu_question": "NICOP میں صنفی فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - میڈیکل سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth",
+      "urdu_question": "NICOP میں جگہ پیدائش کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - کمپیوٹرائزڈ برتھ سرٹیفکیٹ - کوئی بھی دستاویز جس میں جائے پیدائش ہو"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a NICOP  to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter",
+      "urdu_question": "NICOP میں موجودہ ایڈریس فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد کا CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - کرایہ نامہ - سرکاری / سوسائٹی الاٹمنٹ لیٹر"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment   letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document",
+      "urdu_question": "NICOP میں مستقل ایڈریس فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - والد CNIC - والدہ CNIC - شریک حیات کی شناخت - Sibling_1 ID - ڈومیسائل/مقامی سرٹیفکیٹ - کمپیوٹرائزڈ یوٹیلیٹی بل - رہائشی جائیداد کا دستاویز - مقامی سرٹیفکیٹ - ڈومیسائل سرٹیفکیٹ - PRC سرٹیفکیٹ - CNIC/Ondoic گھر کے مالک کی طرف سے الاٹمنٹ لیٹر۔ مکان کا مالک - جائیداد کی دستاویز"
+    },
+    {
+      "question": "What documents are needed to modification the present address(foreign) field in  a NICOP to SNICOP?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP میں موجودہ ایڈریس (غیر ملکی) فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address (foreign)  field in a NICOP to SNICOP?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "NICOP میں مستقل پتہ (غیر ملکی) فیلڈ کو SNICOP میں تبدیل کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a FRC?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure.",
+      "urdu_question": "نئے FRC کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "آپ اپنے فون پر PAK-ID استعمال کر سکتے ہیں یا قریبی نادرا سنٹر پر جا سکتے ہیں۔ اس طریقہ کار کے لیے کسی دستاویزات کی ضرورت نہیں ہے۔"
+    },
+    {
+      "question": "What documents are needed to new a cancellation due to death?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Affdavite for Dup cancellation",
+      "urdu_question": "موت کی وجہ سے نئی منسوخی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - ڈیپ کینسلیشن کا حلف نامہ"
+    },
+    {
+      "question": "What documents are needed to new a cancellation due to Nationality Surrender?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Renunciation certificate",
+      "urdu_question": "نیشنلٹی سرنڈر کی وجہ سے نئی منسوخی کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: دستاویزات درکار ہیں 1: (مندرجہ ذیل میں سے کوئی بھی لائیں) - دستبرداری کا سرٹیفکیٹ"
+    },
+    {
+      "question": "What documents are needed to new a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary.",
+      "urdu_question": "نئی جانشینی کے سرٹیفکیٹ کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (لازمی) - جانشینی کا درخواست فارم - درخواست دہندہ CNIC/NICOP/POC - دیگر تمام قانونی ورثاء کی CNIC کاپیاں درکار دستاویزات 2: (متوفی کے کیسز کے لیے) - میت کا کارڈ کینسل کرنا - کارڈ کی منسوخی کے دیگر قانونی دستاویزات: (خاندانی رجسٹریشن سرٹیفکیٹ) - FRC الفا (بذریعہ پیدائش) - FRC بیٹا (بذریعہ ازدواجی) دستاویزات درکار ہیں 4: (اثاثہ کی دستاویزات) - منقولہ اور غیر منقولہ اثاثوں کے لیے اصل اثاثہ کی دستاویز درکار 5: (مجاز کی دستاویزات) - اسپیشلائزیشن کے مطابق اضافی معلومات کے حلف نامے کے مطابق۔ فیڈرل لیٹرز آف ایڈمنسٹریشن اینڈ سکسیشن سرٹیفکیٹ ایکٹ کا رول 4، اتھارٹی کو درخواست گزار سے اضافی ثبوت یا دستاویزات درکار ہو سکتی ہیں۔ - اتھارٹی ضروری سمجھے جانے پر انکوائری بھی کر سکتی ہے۔"
+    },
+    {
+      "question": "What documents are needed to renewal a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کی تجدید کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (لازمی) - جانشینی کا درخواست فارم - درخواست دہندہ CNIC/NICOP/POC - دیگر تمام قانونی ورثاء کی CNIC کاپیاں درکار دستاویزات 2: (متوفی کے کیسز کے لیے) - میت کا کارڈ کینسل کرنا - کارڈ کی منسوخی کے دیگر قانونی دستاویزات: (خاندانی رجسٹریشن سرٹیفکیٹ) - FRC الفا (بذریعہ پیدائش) - FRC بیٹا (بذریعہ ازدواجی) دستاویزات درکار ہیں 4: (اثاثہ کی دستاویزات) - منقولہ اور غیر منقولہ اثاثوں کے لیے اصل اثاثہ کی دستاویز درکار 5: (مجاز کی دستاویزات) - اسپیشلائزیشن کے مطابق اضافی معلومات کے حلف نامے کے مطابق۔ فیڈرل لیٹرز آف ایڈمنسٹریشن اینڈ سکسیشن سرٹیفکیٹ ایکٹ کا رول 4، اتھارٹی کو درخواست گزار سے اضافی ثبوت یا دستاویزات درکار ہو سکتی ہیں۔ - اتھارٹی ضروری سمجھے جانے پر انکوائری بھی کر سکتی ہے۔"
+    },
+    {
+      "question": "What documents are needed to reprint a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ کو دوبارہ پرنٹ کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (لازمی) - جانشینی کا درخواست فارم - درخواست دہندہ CNIC/NICOP/POC - دیگر تمام قانونی ورثاء کی CNIC کاپیاں درکار دستاویزات 2: (متوفی کے کیسز کے لیے) - میت کا کارڈ کینسل کرنا - کارڈ کی منسوخی کے دیگر قانونی دستاویزات: (خاندانی رجسٹریشن سرٹیفکیٹ) - FRC الفا (بذریعہ پیدائش) - FRC بیٹا (بذریعہ ازدواجی) دستاویزات درکار ہیں 4: (اثاثہ کی دستاویزات) - منقولہ اور غیر منقولہ اثاثوں کے لیے اصل اثاثہ کی دستاویز درکار 5: (مجاز کی دستاویزات) - اسپیشلائزیشن کے مطابق اضافی معلومات کے حلف نامے کے مطابق۔ فیڈرل لیٹرز آف ایڈمنسٹریشن اینڈ سکسیشن سرٹیفکیٹ ایکٹ کا رول 4، اتھارٹی کو درخواست گزار سے اضافی ثبوت یا دستاویزات درکار ہو سکتی ہیں۔ - اتھارٹی ضروری سمجھے جانے پر انکوائری بھی کر سکتی ہے۔"
+    },
+    {
+      "question": "What documents are needed to modification a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary.",
+      "urdu_question": "جانشینی کے سرٹیفکیٹ میں ترمیم کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "درج ذیل دستاویزات درکار ہیں: مطلوبہ دستاویزات 1: (لازمی) - جانشینی کا درخواست فارم - درخواست دہندہ CNIC/NICOP/POC - دیگر تمام قانونی ورثاء کی CNIC کاپیاں درکار دستاویزات 2: (متوفی کے کیسز کے لیے) - میت کا کارڈ کینسل کرنا - کارڈ کی منسوخی کے دیگر قانونی دستاویزات: (خاندانی رجسٹریشن سرٹیفکیٹ) - FRC الفا (بذریعہ پیدائش) - FRC بیٹا (بذریعہ ازدواجی) دستاویزات درکار ہیں 4: (اثاثہ کی دستاویزات) - منقولہ اور غیر منقولہ اثاثوں کے لیے اصل اثاثہ کی دستاویز درکار 5: (مجاز کی دستاویزات) - اسپیشلائزیشن کے مطابق اضافی معلومات کے حلف نامے کے مطابق۔ فیڈرل لیٹرز آف ایڈمنسٹریشن اینڈ سکسیشن سرٹیفکیٹ ایکٹ کا رول 4، اتھارٹی کو درخواست گزار سے اضافی ثبوت یا دستاویزات درکار ہو سکتی ہیں۔ - اتھارٹی ضروری سمجھے جانے پر انکوائری بھی کر سکتی ہے۔"
+    },
+    {
+      "question": "What is NADRA",
+      "answer": "NADRA (National Database & Registration Authority) is an autonomous agency under Pakistans Interior Ministry, responsible for managing the national citizen database and issuing identification documents. It ensures secure registration, identity verification for elections, passports, and public services, utilizing advanced biometric systems for data security.",
+      "urdu_question": "نادرا کیا ہے؟",
+      "urdu_answer": "نادرا (نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی) پاکستان کی وزارت داخلہ کے تحت ایک خود مختار ادارہ ہے، جو قومی شہریوں کے ڈیٹا بیس کا انتظام کرنے اور شناختی دستاویزات جاری کرنے کا ذمہ دار ہے۔ یہ ڈیٹا کی حفاظت کے لیے جدید بائیو میٹرک سسٹم کا استعمال کرتے ہوئے، انتخابات، پاسپورٹ اور عوامی خدمات کے لیے محفوظ رجسٹریشن، شناخت کی تصدیق کو یقینی بناتا ہے۔"
+    },
+    {
+      "question": "What is CNIC",
+      "answer": "CNIC (Computerized National Identity Card) is a national identity card issued by NADRA to Pakistani citizens. It contains biometric data, personal information, and a unique identification number for official identification and verification purposes.",
+      "urdu_question": "CNIC کیا ہے؟",
+      "urdu_answer": "CNIC (کمپیوٹرائزڈ قومی شناختی کارڈ) ایک قومی شناختی کارڈ ہے جو نادرا کی طرف سے پاکستانی شہریوں کو جاری کیا جاتا ہے۔ اس میں بایومیٹرک ڈیٹا، ذاتی معلومات، اور سرکاری شناخت اور تصدیق کے مقاصد کے لیے ایک منفرد شناختی نمبر ہوتا ہے۔"
+    },
+    {
+      "question": "What is NICOP",
+      "answer": "NICOP (National Identity Card for Overseas Pakistanis) is a smart identity card issued by NADRA to Pakistani expatriates and dual nationals. It provides official identification, travel, and visa-free entry to Pakistan for overseas Pakistanis.",
+      "urdu_question": "NICOP کیا ہے؟",
+      "urdu_answer": "NICOP (بیرون ملک مقیم پاکستانیوں کے لیے قومی شناختی کارڈ) نادرا کی طرف سے پاکستانی تارکین وطن اور دوہری شہریت رکھنے والوں کو جاری کیا جانے والا ایک سمارٹ شناختی کارڈ ہے۔ یہ بیرون ملک مقیم پاکستانیوں کے لیے پاکستان میں باضابطہ شناخت، سفر، اور ویزا فری داخلہ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is SNICOP",
+      "answer": "SNICOP (Smart National Identity Card for Overseas Pakistanis) is a smart identity card issued by NADRA to Pakistani expatriates and dual nationals. It provides official identification, travel, and visa-free entry to Pakistan for overseas Pakistanis.",
+      "urdu_question": "SNICOP کیا ہے؟",
+      "urdu_answer": "SNICOP (سمارٹ قومی شناختی کارڈ برائے سمندر پار پاکستانیوں) ایک سمارٹ شناختی کارڈ ہے جو نادرا کی طرف سے پاکستانی تارکین وطن اور دوہری شہریوں کو جاری کیا جاتا ہے۔ یہ بیرون ملک مقیم پاکستانیوں کے لیے پاکستان میں باضابطہ شناخت، سفر، اور ویزا فری داخلہ فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is FRC",
+      "answer": "FRC (Family Registration Certificate) is a document issued by NADRA that lists family members and their relationships. It is used for legal and official purposes, such as inheritance, succession, and family registration.",
+      "urdu_question": "FRC کیا ہے؟",
+      "urdu_answer": "FRC (فیملی رجسٹریشن سرٹیفکیٹ) نادرا کی طرف سے جاری کردہ ایک دستاویز ہے جس میں خاندان کے افراد اور ان کے رشتوں کی فہرست ہے۔ اسے قانونی اور سرکاری مقاصد کے لیے استعمال کیا جاتا ہے، جیسے وراثت، جانشینی، اور خاندانی رجسٹریشن۔"
+    },
+    {
+      "question": "What is ACC",
+      "answer": "ACC (Alien Card for Afghan Nationals) is an identity card issued by NADRA to registered Afghan refugees in Pakistan. It provides legal status, protection, and access to services for Afghan nationals residing in Pakistan.",
+      "urdu_question": "ACC کیا ہے؟",
+      "urdu_answer": "اے سی سی (افغان شہریوں کے لیے ایلین کارڈ) ایک شناختی کارڈ ہے جو نادرا کی طرف سے پاکستان میں رجسٹرڈ افغان مہاجرین کو جاری کیا جاتا ہے۔ یہ پاکستان میں مقیم افغان شہریوں کے لیے قانونی حیثیت، تحفظ اور خدمات تک رسائی فراہم کرتا ہے۔"
+    },
+    {
+      "question": "What is PAK-ID",
+      "answer": "PAK-ID is a digital identity application developed by NADRA for Pakistani citizens to access their identity information, documents, and services online through a mobile application. It allows users to manage their identity, apply for documents, and verify their identity securely. The application is free to download , available on Google Play Store and Apple App Store.",
+      "urdu_question": "PAK-ID کیا ہے؟",
+      "urdu_answer": "PAK-ID ایک ڈیجیٹل شناختی ایپلی کیشن ہے جسے نادرا نے پاکستانی شہریوں کے لیے تیار کیا ہے تاکہ وہ موبائل ایپلیکیشن کے ذریعے اپنی شناختی معلومات، دستاویزات اور خدمات آن لائن تک رسائی حاصل کر سکیں۔ یہ صارفین کو اپنی شناخت کا انتظام کرنے، دستاویزات کے لیے درخواست دینے اور محفوظ طریقے سے اپنی شناخت کی تصدیق کرنے کی اجازت دیتا ہے۔ ایپلی کیشن ڈاؤن لوڈ کرنے کے لیے مفت ہے، گوگل پلے اسٹور اور ایپل ایپ اسٹور پر دستیاب ہے۔"
+    },
+    {
+      "question": "What is NADRA KIOSK",
+      "answer": "NADRA KIOSK is a self-service machine installed at NADRA centers for citizens to apply for identity documents, update information, and access services. It provides a convenient and efficient way to interact with NADRA for various needs.",
+      "urdu_question": "نادرا کیوسک کیا ہے؟",
+      "urdu_answer": "نادرا کیوسک ایک سیلف سروس مشین ہے جو نادرا مراکز میں شہریوں کے لیے شناختی دستاویزات کے لیے درخواست دینے، معلومات کو اپ ڈیٹ کرنے اور خدمات تک رسائی کے لیے نصب ہے۔ یہ مختلف ضروریات کے لیے نادرا کے ساتھ بات چیت کرنے کا ایک آسان اور موثر طریقہ فراہم کرتا ہے۔"
+    }
+  ]
+}

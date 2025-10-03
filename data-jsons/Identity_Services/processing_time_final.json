@@ -1,0 +1,415 @@
+{
+  "file_name": "processing_time_final.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 70,
+  "qa_data": [
+    {
+      "question": "What processing categories are available for NADRA applications?",
+      "answer": "NADRA offers three different categories of urgency for processing applications: Normal (30 days delivery), Urgent (12 days delivery), and Executive (7 days delivery). Fees and processing times vary according to the selected priority of delivery timeline.",
+      "urdu_question": "نادرا کی درخواستوں کے لیے کونسی پروسیسنگ کیٹیگریز دستیاب ہیں؟",
+      "urdu_answer": "نادرا درخواستوں پر کارروائی کے لیے فوری طور پر تین مختلف زمروں کی پیشکش کرتا ہے: نارمل (30 دن کی ترسیل)، ارجنٹ (12 دن کی ترسیل) اور ایگزیکٹو (7 دن کی ترسیل)۔ ڈیلیوری ٹائم لائن کی منتخب ترجیح کے مطابق فیس اور پروسیسنگ کے اوقات مختلف ہوتے ہیں۔"
+    },
+    {
+      "question": "How long does Normal processing take for NADRA applications?",
+      "answer": "Normal processing takes 30 days for delivery of NADRA documents.",
+      "urdu_question": "نادرا کی درخواستوں کے لیے نارمل پروسیسنگ میں کتنا وقت لگتا ہے؟",
+      "urdu_answer": "نادرا دستاویزات کی ترسیل کے لیے نارمل پروسیسنگ میں 30 دن لگتے ہیں۔"
+    },
+    {
+      "question": "What is the delivery time for Urgent processing?",
+      "answer": "Urgent processing has a delivery time of 12 days.",
+      "urdu_question": "ارجنٹ پروسیسنگ کے لیے ڈیلیوری کا وقت کیا ہے؟",
+      "urdu_answer": "ارجنٹ پروسیسنگ میں ڈیلیوری کا وقت 12 دن ہوتا ہے۔"
+    },
+    {
+      "question": "How fast is Executive processing for NADRA services?",
+      "answer": "Executive processing is the fastest option with a delivery time of 7 days.",
+      "urdu_question": "نادرا سروسز کے لیے ایگزیکٹو پروسیسنگ کتنی تیز ہے؟",
+      "urdu_answer": "ایگزیکٹو پروسیسنگ 7 دن کے ڈیلیوری وقت کے ساتھ تیز ترین آپشن ہے۔"
+    },
+    {
+      "question": "Do fees vary based on processing priority?",
+      "answer": "Yes, fees and processing times vary according to the selected priority of delivery timeline. Higher priority processing (Executive and Urgent) costs more than Normal processing.",
+      "urdu_question": "کیا پروسیسنگ کی ترجیح کی بنیاد پر فیس مختلف ہوتی ہے؟",
+      "urdu_answer": "ہاں، ڈیلیوری ٹائم لائن کی منتخب ترجیح کے مطابق فیس اور پروسیسنگ کے اوقات مختلف ہوتے ہیں۔ اعلی ترجیحی پروسیسنگ (ایگزیکٹیو اور ارجنٹ) کی لاگت نارمل پروسیسنگ سے زیادہ ہے۔"
+    },
+    {
+      "question": "What is NADRA's commitment regarding processing timelines?",
+      "answer": "NADRA is committed to meeting the specified timelines for each processing category: Normal (30 days), Urgent (12 days), and Executive (7 days).",
+      "urdu_question": "پروسیسنگ ٹائم لائنز کے حوالے سے نادرا کا کیا عزم ہے؟",
+      "urdu_answer": "نادرا ہر پروسیسنگ زمرے کے لیے مخصوص ٹائم لائنز کو پورا کرنے کے لیے پرعزم ہے: نارمل (30 دن)، ارجنٹ (12 دن)، اور ایگزیکٹو (7 دن)۔"
+    },
+    {
+      "question": "Can I choose my processing priority when applying for NADRA services?",
+      "answer": "Yes, applicants can choose from three different categories of urgency for processing their applications: Normal, Urgent, or Executive, each with different delivery times and fees.",
+      "urdu_question": "کیا میں نادرا کی خدمات کے لیے درخواست دیتے وقت اپنی پروسیسنگ ترجیح کا انتخاب کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، درخواست دہندگان اپنی درخواستوں پر کارروائی کے لیے فوری طور پر تین مختلف زمروں میں سے انتخاب کر سکتے ہیں: نارمل، ارجنٹ، یا ایگزیکٹو، ہر ایک مختلف ڈیلیوری کے اوقات اور فیس کے ساتھ۔"
+    },
+    {
+      "question": "What is the difference in delivery time between Normal and Executive processing?",
+      "answer": "The difference between Normal and Executive processing is 23 days. Normal processing takes 30 days while Executive processing takes only 7 days.",
+      "urdu_question": "نارمل اور ایگزیکٹو پروسیسنگ کے درمیان ترسیل کے وقت میں کیا فرق ہے؟",
+      "urdu_answer": "نارمل اور ایگزیکٹو پروسیسنگ کے درمیان فرق 23 دن ہے۔ عام پروسیسنگ میں 30 دن لگتے ہیں جبکہ ایگزیکٹو پروسیسنگ میں صرف 7 دن لگتے ہیں۔"
+    },
+    {
+      "question": "How much faster is Urgent processing compared to Normal processing?",
+      "answer": "Urgent processing (12 days) is 18 days faster than Normal processing (30 days).",
+      "urdu_question": "نارمل پروسیسنگ کے مقابلے ارجنٹ پروسیسنگ کتنی تیز ہے؟",
+      "urdu_answer": "ارجنٹ پروسیسنگ (12 دن) نارمل پروسیسنگ (30 دن) سے 18 دن تیز ہے۔"
+    },
+    {
+      "question": "What is another name for processing categories in NADRA?",
+      "answer": "Processing categories are also known as 'priority of delivery timeline' or simply 'category' in NADRA terminology.",
+      "urdu_question": "نادرا میں پروسیسنگ کیٹیگریز کا دوسرا نام کیا ہے؟",
+      "urdu_answer": "پروسیسنگ کیٹیگریز کو نادرا کی اصطلاح میں 'ڈیلیوری ٹائم لائن کی ترجیح' یا محض 'زمرہ' کے نام سے بھی جانا جاتا ہے۔"
+    },
+    {
+      "question": "Is Executive processing worth the extra cost?",
+      "answer": "Executive processing delivers documents in 7 days compared to 30 days for Normal processing, making it 23 days faster. Whether it's worth the extra cost depends on your urgency and budget.",
+      "urdu_question": "کیا ایگزیکٹو پروسیسنگ اضافی لاگت کے قابل ہے؟",
+      "urdu_answer": "ایگزیکٹیو پروسیسنگ عام پروسیسنگ کے 30 دنوں کے مقابلے 7 دنوں میں دستاویزات فراہم کرتی ہے، جس سے یہ 23 دن تیز ہوتی ہے۔ آیا یہ اضافی لاگت کے قابل ہے یا نہیں اس کا انحصار آپ کی عجلت اور بجٹ پر ہے۔"
+    },
+    {
+      "question": "Can I upgrade my processing priority after submitting my application?",
+      "answer": "The document doesn't specify upgrade options. You should contact NADRA directly to inquire about changing your processing priority after application submission.",
+      "urdu_question": "کیا میں اپنی درخواست جمع کروانے کے بعد اپنی پروسیسنگ ترجیح کو اپ گریڈ کر سکتا ہوں؟",
+      "urdu_answer": "دستاویز میں اپ گریڈ کے اختیارات کی وضاحت نہیں کی گئی ہے۔ درخواست جمع کروانے کے بعد اپنی پروسیسنگ ترجیح میں تبدیلی کے بارے میں استفسار کرنے کے لیے آپ کو براہ راست نادرا سے رابطہ کرنا چاہیے۔"
+    },
+    {
+      "question": "Are the processing times guaranteed by NADRA?",
+      "answer": "Yes, NADRA is committed to meeting the specified timelines for each category, indicating these are target delivery times they aim to achieve.",
+      "urdu_question": "کیا پروسیسنگ کے اوقات کی ضمانت نادرا نے دی ہے؟",
+      "urdu_answer": "ہاں، نادرا ہر زمرے کے لیے مخصوص ٹائم لائنز کو پورا کرنے کے لیے پرعزم ہے، جس سے ظاہر ہوتا ہے کہ یہ ٹارگٹ ڈیلیوری کے اوقات ہیں جن کا مقصد حاصل کرنا ہے۔"
+    },
+    {
+      "question": "What factors determine the processing time for NADRA applications?",
+      "answer": "The processing time is primarily determined by the priority category you select: Normal (30 days), Urgent (12 days), or Executive (7 days). The complexity of your case may also affect processing.",
+      "urdu_question": "کون سے عوامل نادرا کی درخواستوں پر کارروائی کے وقت کا تعین کرتے ہیں؟",
+      "urdu_answer": "پروسیسنگ کا وقت بنیادی طور پر آپ کے منتخب کردہ ترجیحی زمرے سے طے ہوتا ہے: نارمل (30 دن)، ارجنٹ (12 دن) یا ایگزیکٹو (7 دن)۔ آپ کے کیس کی پیچیدگی پروسیسنگ کو بھی متاثر کر سکتی ہے۔"
+    },
+    {
+      "question": "How should I choose between Normal, Urgent, and Executive processing?",
+      "answer": "Choose based on your urgency and budget. Normal (30 days) is most economical, Urgent (12 days) offers middle ground, and Executive (7 days) is fastest but most expensive.",
+      "urdu_question": "مجھے نارمل، ارجنٹ، اور ایگزیکٹو پروسیسنگ کے درمیان کیسے انتخاب کرنا چاہیے؟",
+      "urdu_answer": "اپنی عجلت اور بجٹ کی بنیاد پر انتخاب کریں۔ عام (30 دن) سب سے زیادہ کفایتی ہے، ارجنٹ (12 دن) درمیانی جگہ پیش کرتا ہے، اور ایگزیکٹو (7 دن) سب سے تیز لیکن سب سے مہنگا ہے۔"
+    },
+    {
+      "question": "Do all NADRA services offer the same processing time options?",
+      "answer": "While the document suggests these three categories are standard, specific services may have different options. Check the specific service requirements when applying.",
+      "urdu_question": "کیا نادرا کی تمام سروسز ایک جیسے پروسیسنگ ٹائم آپشنز پیش کرتی ہیں؟",
+      "urdu_answer": "اگرچہ دستاویز بتاتی ہے کہ یہ تینوں زمرے معیاری ہیں، لیکن مخصوص خدمات کے پاس مختلف اختیارات ہو سکتے ہیں۔ درخواست دیتے وقت مخصوص سروس کی ضروریات کو چیک کریں۔"
+    },
+    {
+      "question": "What happens if NADRA doesn't meet the promised delivery timeline?",
+      "answer": "While NADRA commits to meeting timelines, the document doesn't specify remedies for delays. Contact NADRA customer service if your application exceeds the promised delivery time.",
+      "urdu_question": "اگر نادرا ڈیلیوری کے وعدے کی ٹائم لائن کو پورا نہیں کرتا ہے تو کیا ہوگا؟",
+      "urdu_answer": "جبکہ نادرا ٹائم لائنز کو پورا کرنے کا عہد کرتا ہے، لیکن دستاویز میں تاخیر کے علاج کی وضاحت نہیں کی گئی ہے۔ نادرا کسٹمر سروس سے رابطہ کریں اگر آپ کی درخواست ڈیلیوری کے وعدے کے وقت سے زیادہ ہے۔"
+    },
+    {
+      "question": "Are these processing times the same for all types of NADRA documents?",
+      "answer": "The document presents these as general processing categories. However, different document types (CNIC, NICOP, POC, etc.) may have specific processing considerations, so verify when applying for your specific document.",
+      "urdu_question": "کیا یہ پروسیسنگ کے اوقات تمام قسم کے نادرا دستاویزات کے لیے یکساں ہیں؟",
+      "urdu_answer": "دستاویز ان کو عام پروسیسنگ زمروں کے طور پر پیش کرتی ہے۔ تاہم، مختلف دستاویزات کی اقسام (CNIC، NICOP، POC، وغیرہ) میں مخصوص پروسیسنگ تحفظات ہو سکتے ہیں، اس لیے اپنی مخصوص دستاویز کے لیے درخواست دیتے وقت تصدیق کریں۔"
+    },
+    {
+      "question": "What should I do if I need my document faster than 7 days?",
+      "answer": "Executive processing (7 days) is the fastest standard option available. For genuine emergencies, contact NADRA directly at 1777 to discuss special circumstances or alternative urgent arrangements.",
+      "urdu_question": "اگر مجھے اپنے دستاویز کی 7 دن سے زیادہ تیزی سے ضرورت ہو تو مجھے کیا کرنا چاہیے؟",
+      "urdu_answer": "ایگزیکٹو پروسیسنگ (7 دن) دستیاب تیز ترین معیاری آپشن ہے۔ حقیقی ہنگامی صورتحال کے لیے، خصوصی حالات یا متبادل ہنگامی انتظامات پر بات کرنے کے لیے نادرا سے براہ راست 1777 پر رابطہ کریں۔"
+    },
+    {
+      "question": "How much more does Executive processing cost compared to Normal?",
+      "answer": "Executive processing costs significantly more than Normal processing. The exact cost difference varies by document type - for example, CNIC Executive costs PKR 2,150 vs Normal which is free, while for modifications, Executive costs PKR 2,150 vs Normal PKR 400.",
+      "urdu_question": "عام کے مقابلے ایگزیکٹو پروسیسنگ کی لاگت کتنی زیادہ ہے؟",
+      "urdu_answer": "ایگزیکٹو پروسیسنگ کی لاگت عام پروسیسنگ سے نمایاں طور پر زیادہ ہے۔ لاگت کا صحیح فرق دستاویز کی قسم کے لحاظ سے مختلف ہوتا ہے - مثال کے طور پر، CNIC ایگزیکٹو کی لاگت PKR 2,150 بمقابلہ نارمل ہے جو کہ مفت ہے، جبکہ ترمیم کے لیے، ایگزیکٹو کی لاگت PKR 2,150 بمقابلہ نارمل PKR 400 ہے۔"
+    },
+    {
+      "question": "Can I downgrade my processing priority to save money?",
+      "answer": "Contact NADRA at 1777 to inquire about downgrading your processing priority. This may be possible early in the process but could depend on how far your application has progressed.",
+      "urdu_question": "کیا میں پیسے بچانے کے لیے اپنی پروسیسنگ کی ترجیح کو کم کر سکتا ہوں؟",
+      "urdu_answer": "اپنی پروسیسنگ کی ترجیح کو کم کرنے کے لیے نادرا سے 1777 پر رابطہ کریں۔ یہ عمل کے شروع میں ممکن ہو سکتا ہے لیکن اس کا انحصار اس بات پر ہو سکتا ہے کہ آپ کی درخواست کتنی آگے بڑھی ہے۔"
+    },
+    {
+      "question": "Do processing times include weekends and holidays?",
+      "answer": "Processing times are typically calculated in working days. Weekends and public holidays may extend the actual calendar time needed. Contact NADRA for clarification on how holidays affect your specific timeline.",
+      "urdu_question": "کیا پروسیسنگ کے اوقات میں اختتام ہفتہ اور تعطیلات شامل ہیں؟",
+      "urdu_answer": "پروسیسنگ کے اوقات کا حساب عام طور پر کام کے دنوں میں کیا جاتا ہے۔ اختتام ہفتہ اور عام تعطیلات کیلنڈر کے درکار وقت کو بڑھا سکتے ہیں۔ اس بات کی وضاحت کے لیے نادرا سے رابطہ کریں کہ تعطیلات آپ کی مخصوص ٹائم لائن کو کیسے متاثر کرتی ہیں۔"
+    },
+    {
+      "question": "When does the processing timeline start counting?",
+      "answer": "Processing time typically begins counting from when your complete application is received and verified by NADRA, not from when you submit incomplete documents. Ensure all required documents are provided to start the official timeline.",
+      "urdu_question": "پروسیسنگ ٹائم لائن کب گنتی شروع ہوتی ہے؟",
+      "urdu_answer": "پروسیسنگ کا وقت عام طور پر اس وقت سے شروع ہوتا ہے جب آپ کی مکمل درخواست موصول ہوتی ہے اور نادرا کی تصدیق ہوتی ہے، نہ کہ اس وقت سے جب آپ نامکمل دستاویزات جمع کراتے ہیں۔ یقینی بنائیں کہ آفیشل ٹائم لائن شروع کرنے کے لیے تمام مطلوبہ دستاویزات فراہم کیے گئے ہیں۔"
+    },
+    {
+      "question": "What if I submit incomplete documents - does this affect processing time?",
+      "answer": "Yes, incomplete documentation can delay processing. The official processing timeline usually starts only after all required documents are properly submitted and verified. Complete your documentation to avoid delays.",
+      "urdu_question": "اگر میں نامکمل دستاویزات جمع کراؤں تو کیا ہوگا - کیا اس سے پروسیسنگ کا وقت متاثر ہوتا ہے؟",
+      "urdu_answer": "ہاں، نامکمل دستاویزات پروسیسنگ میں تاخیر کر سکتی ہیں۔ باضابطہ پروسیسنگ ٹائم لائن عام طور پر تمام مطلوبہ دستاویزات کو صحیح طریقے سے جمع کروانے اور تصدیق کرنے کے بعد ہی شروع ہوتی ہے۔ تاخیر سے بچنے کے لیے اپنی دستاویزات مکمل کریں۔"
+    },
+    {
+      "question": "Are there different processing times for first-time applicants vs renewals?",
+      "answer": "The three processing categories (Normal, Urgent, Executive) generally apply to all application types. However, complexity of first-time applications might require additional verification time within the selected category.",
+      "urdu_question": "کیا پہلی بار درخواست دہندگان بمقابلہ تجدید کے لیے مختلف پروسیسنگ کے اوقات ہیں؟",
+      "urdu_answer": "پروسیسنگ کے تین زمرے (نارمل، ارجنٹ، ایگزیکٹو) عام طور پر درخواست کی تمام اقسام پر لاگو ہوتے ہیں۔ تاہم، پہلی بار درخواستوں کی پیچیدگی کے لیے منتخب زمرے میں اضافی تصدیقی وقت درکار ہو سکتا ہے۔"
+    },
+    {
+      "question": "Can I track my application progress during the processing time?",
+      "answer": "Yes, you can track your application status using PAK-ID mobile app, SMS services, calling 1777, or visiting NADRA centers with your tracking number. This helps monitor progress within the selected processing timeline.",
+      "urdu_question": "کیا میں پروسیسنگ کے دوران اپنی درخواست کی پیشرفت کو ٹریک کرسکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ PAK-ID موبائل ایپ، ایس ایم ایس سروسز، 1777 پر کال کرنے، یا اپنے ٹریکنگ نمبر کے ساتھ نادرا مراکز پر جا کر اپنی درخواست کی حیثیت کو ٹریک کر سکتے ہیں۔ یہ منتخب پروسیسنگ ٹائم لائن کے اندر پیش رفت کی نگرانی میں مدد کرتا ہے۔"
+    },
+    {
+      "question": "What happens if there are errors in my application during processing?",
+      "answer": "If errors are found during processing, NADRA may contact you for corrections, which could extend the processing time beyond the original category timeline. Ensure accuracy when submitting to avoid delays.",
+      "urdu_question": "اگر پروسیسنگ کے دوران میری درخواست میں غلطیاں ہوں تو کیا ہوگا؟",
+      "urdu_answer": "اگر پروسیسنگ کے دوران غلطیاں پائی جاتی ہیں، تو نادرا آپ سے تصحیح کے لیے رابطہ کر سکتا ہے، جس سے پروسیسنگ کا وقت اصل کیٹیگری کی ٹائم لائن سے آگے بڑھ سکتا ہے۔ تاخیر سے بچنے کے لیے جمع کرواتے وقت درستگی کو یقینی بنائیں۔"
+    },
+    {
+      "question": "Do overseas applicants have the same processing time options?",
+      "answer": "Overseas applicants typically have access to the same processing categories, though logistics of international delivery may add additional time beyond the processing period. Check with your local consulate for specific timelines.",
+      "urdu_question": "کیا بیرون ملک مقیم درخواست دہندگان کے پاس پروسیسنگ ٹائم کے ایک جیسے اختیارات ہیں؟",
+      "urdu_answer": "بیرون ملک مقیم درخواست دہندگان کو عام طور پر اسی پروسیسنگ کیٹیگریز تک رسائی حاصل ہوتی ہے، حالانکہ بین الاقوامی ترسیل کی لاجسٹکس پروسیسنگ کی مدت کے بعد اضافی وقت کا اضافہ کر سکتی ہے۔ مخصوص ٹائم لائنز کے لیے اپنے مقامی قونصل خانے سے رابطہ کریں۔"
+    },
+    {
+      "question": "Is there a rush processing option faster than Executive?",
+      "answer": "Executive (7 days) is the fastest standard processing option. For extraordinary circumstances, contact NADRA directly to discuss emergency procedures, though these may have special requirements and approvals.",
+      "urdu_question": "کیا ایگزیکٹو سے تیز تر پروسیسنگ کا کوئی آپشن ہے؟",
+      "urdu_answer": "ایگزیکٹو (7 دن) تیز ترین معیاری پروسیسنگ آپشن ہے۔ غیر معمولی حالات کے لیے، ہنگامی طریقہ کار پر بات کرنے کے لیے براہ راست نادرا سے رابطہ کریں، حالانکہ ان میں خصوصی تقاضے اور منظوری ہو سکتی ہے۔"
+    },
+    {
+      "question": "How does document delivery method affect overall timeline?",
+      "answer": "The processing categories (Normal, Urgent, Executive) refer to processing time. Delivery method (pickup vs home delivery) may add 1-3 additional days to your total timeline depending on location and delivery logistics.",
+      "urdu_question": "دستاویز کی ترسیل کا طریقہ مجموعی ٹائم لائن کو کیسے متاثر کرتا ہے؟",
+      "urdu_answer": "پروسیسنگ کیٹیگریز (نارمل، ارجنٹ، ایگزیکٹو) پروسیسنگ ٹائم کا حوالہ دیتے ہیں۔ ڈلیوری کا طریقہ (پک اپ بمقابلہ ہوم ڈیلیوری) مقام اور ڈیلیوری لاجسٹکس کے لحاظ سے آپ کی کل ٹائم لائن میں 1-3 اضافی دن کا اضافہ کر سکتا ہے۔"
+    },
+    {
+      "question": "Can multiple family members get the same processing priority?",
+      "answer": "Yes, each family member can select their preferred processing category independently. You might choose different priorities based on individual urgency and budget considerations for each family member.",
+      "urdu_question": "کیا ایک سے زیادہ خاندان کے افراد کو ایک ہی پروسیسنگ ترجیح مل سکتی ہے؟",
+      "urdu_answer": "ہاں، خاندان کا ہر فرد اپنی ترجیحی پروسیسنگ زمرہ کو آزادانہ طور پر منتخب کر سکتا ہے۔ آپ خاندان کے ہر فرد کے لیے انفرادی عجلت اور بجٹ کے تحفظات کی بنیاد پر مختلف ترجیحات کا انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "What documentation do I need to prove urgency for faster processing?",
+      "answer": "No special documentation is typically required to select Urgent or Executive processing - these are fee-based service levels. Simply pay the higher fee for faster processing without needing to justify the urgency.",
+      "urdu_question": "مجھے تیز تر پروسیسنگ کے لیے عجلت ثابت کرنے کے لیے کن دستاویزات کی ضرورت ہے؟",
+      "urdu_answer": "ارجنٹ یا ایگزیکٹو پروسیسنگ کو منتخب کرنے کے لیے عام طور پر کسی خاص دستاویزات کی ضرورت نہیں ہوتی ہے - یہ فیس پر مبنی سروس لیولز ہیں۔ عجلت کا جواز پیش کیے بغیر تیز تر پروسیسنگ کے لیے بس زیادہ فیس ادا کریں۔"
+    },
+    {
+      "question": "Are there discounts for urgent processing for students, seniors, or disabled applicants?",
+      "answer": "Processing category fees are generally standard regardless of applicant category. Check with NADRA about any special programs or discounts for students, seniors, or disabled applicants for priority processing.",
+      "urdu_question": "کیا طلباء، بزرگوں، یا معذور درخواست دہندگان کے لیے فوری کارروائی کے لیے رعایتیں ہیں؟",
+      "urdu_answer": "پروسیسنگ کے زمرے کی فیس عام طور پر معیاری ہوتی ہے قطع نظر درخواست دہندگان کے زمرے سے۔ ترجیحی کارروائی کے لیے طلباء، بزرگوں، یا معذور درخواست دہندگان کے لیے کسی خاص پروگرام یا رعایت کے بارے میں نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "Can I get partial refund if my Urgent/Executive processing is delayed?",
+      "answer": "NADRA's refund policy for processing delays isn't specified in the standard documentation. Contact NADRA customer service at 1777 if your priority processing exceeds the promised timeline to discuss compensation options.",
+      "urdu_question": "اگر میری ارجنٹ/ایگزیکٹو پروسیسنگ میں تاخیر ہوتی ہے تو کیا میں جزوی رقم کی واپسی حاصل کر سکتا ہوں؟",
+      "urdu_answer": "نادرا کی ریفنڈ پالیسی میں تاخیر کی پروسیسنگ معیاری دستاویزات میں وضاحت نہیں کی گئی ہے۔ 1777 پر نادرا کسٹمر سروس سے رابطہ کریں اگر آپ کی ترجیحی پروسیسنگ معاوضے کے اختیارات پر بات کرنے کے لیے وعدہ کردہ ٹائم لائن سے زیادہ ہے۔"
+    },
+    {
+      "question": "What if I need multiple documents with different urgencies?",
+      "answer": "You can select different processing categories for different documents based on your individual needs. For example, you might choose Executive for CNIC and Normal for FRC based on your priorities and budget.",
+      "urdu_question": "اگر مجھے مختلف عجلت کے ساتھ متعدد دستاویزات کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "آپ اپنی انفرادی ضروریات کی بنیاد پر مختلف دستاویزات کے لیے مختلف پروسیسنگ زمرے منتخب کر سکتے ہیں۔ مثال کے طور پر، آپ اپنی ترجیحات اور بجٹ کی بنیاد پر CNIC کے لیے ایگزیکٹو اور FRC کے لیے نارمل کا انتخاب کر سکتے ہیں۔"
+    },
+    {
+      "question": "How early can I apply if I need my document by a specific date?",
+      "answer": "Plan backwards from your needed date: add 30 days for Normal, 12 days for Urgent, or 7 days for Executive processing, plus delivery time. Apply earlier than this minimum to allow for potential delays.",
+      "urdu_question": "اگر مجھے کسی مخصوص تاریخ تک اپنی دستاویز کی ضرورت ہو تو میں کتنی جلدی درخواست دے سکتا ہوں؟",
+      "urdu_answer": "اپنی مطلوبہ تاریخ سے پیچھے کی طرف منصوبہ بنائیں: نارمل کے لیے 30 دن، ارجنٹ کے لیے 12 دن، یا ایگزیکٹو پروسیسنگ کے لیے 7 دن، علاوہ ڈیلیوری کا وقت شامل کریں۔ ممکنہ تاخیر کی اجازت دینے کے لیے اس کم از کم سے پہلے درخواست دیں۔"
+    },
+    {
+      "question": "Do processing times vary by NADRA center or region?",
+      "answer": "Processing categories should be standardized across NADRA centers, but operational factors at different centers might create variations. Check with your local center about their specific processing performance and any regional considerations.",
+      "urdu_question": "کیا نادرا مرکز یا علاقے کے لحاظ سے پروسیسنگ کے اوقات مختلف ہوتے ہیں؟",
+      "urdu_answer": "نادرا مراکز میں پروسیسنگ کیٹیگریز کو معیاری بنایا جانا چاہیے، لیکن مختلف مراکز میں آپریشنل عوامل مختلف حالتیں پیدا کر سکتے ہیں۔ اپنے مقامی مرکز سے ان کی مخصوص پروسیسنگ کارکردگی اور کسی بھی علاقائی تحفظات کے بارے میں معلوم کریں۔"
+    },
+    {
+      "question": "Can I visit the center to check on my urgent application?",
+      "answer": "Yes, you can visit NADRA centers to check application status, especially for urgent applications. Bring your receipt and tracking number. However, calling 1777 or using PAK-ID app might be more efficient for status updates.",
+      "urdu_question": "کیا میں اپنی فوری درخواست چیک کرنے کے لیے سنٹر جا سکتا ہوں؟",
+      "urdu_answer": "جی ہاں، آپ درخواست کی صورتحال کو چیک کرنے کے لیے نادرا کے مراکز پر جا سکتے ہیں، خاص طور پر فوری درخواستوں کے لیے۔ اپنی رسید اور ٹریکنگ نمبر لائیں۔ تاہم، 1777 پر کال کرنا یا PAK-ID ایپ کا استعمال اسٹیٹس اپ ڈیٹس کے لیے زیادہ کارآمد ثابت ہو سکتا ہے۔"
+    },
+    {
+      "question": "What if I made an error in selecting processing category?",
+      "answer": "Contact NADRA immediately at 1777 if you selected the wrong processing category. Corrections may be possible early in the process, though this depends on how far processing has progressed.",
+      "urdu_question": "اگر میں نے پروسیسنگ زمرہ منتخب کرنے میں غلطی کی ہے تو کیا ہوگا؟",
+      "urdu_answer": "اگر آپ نے غلط پروسیسنگ کیٹیگری کا انتخاب کیا ہے تو فوری طور پر 1777 پر نادرا سے رابطہ کریں۔ تصحیحیں عمل کے شروع میں ممکن ہو سکتی ہیں، حالانکہ یہ اس بات پر منحصر ہے کہ پروسیسنگ کتنی آگے بڑھی ہے۔"
+    },
+    {
+      "question": "Are there bulk processing discounts for multiple applications?",
+      "answer": "Bulk processing arrangements may be available for organizations or families with multiple applications. Contact NADRA directly to discuss bulk processing options, timelines, and any potential discounts for large volumes.",
+      "urdu_question": "کیا ایک سے زیادہ ایپلی کیشنز کے لیے بلک پروسیسنگ رعایتیں ہیں؟",
+      "urdu_answer": "بڑی تعداد میں پروسیسنگ کے انتظامات متعدد ایپلی کیشنز والی تنظیموں یا خاندانوں کے لیے دستیاب ہو سکتے ہیں۔ بلک پروسیسنگ کے اختیارات، ٹائم لائنز، اور بڑی مقدار میں کسی بھی ممکنہ رعایت پر بات کرنے کے لیے نادرا سے براہ راست رابطہ کریں۔"
+    },
+    {
+      "question": "How does biometric verification affect processing timelines?",
+      "answer": "Biometric verification is part of standard processing and is included in the category timelines. However, if biometric quality issues require re-capture, this could extend processing time beyond the selected category.",
+      "urdu_question": "بائیو میٹرک تصدیق پروسیسنگ ٹائم لائنز کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "بائیو میٹرک تصدیق معیاری پروسیسنگ کا حصہ ہے اور زمرہ ٹائم لائنز میں شامل ہے۔ تاہم، اگر بایومیٹرک کوالٹی کے مسائل کے لیے دوبارہ کیپچر کی ضرورت ہوتی ہے، تو یہ پروسیسنگ کا وقت منتخب زمرے سے آگے بڑھا سکتا ہے۔"
+    },
+    {
+      "question": "Can weather or technical issues affect processing times?",
+      "answer": "Yes, severe weather, system outages, or technical problems at NADRA facilities could impact processing timelines. NADRA typically communicates such delays and may extend timelines accordingly during exceptional circumstances.",
+      "urdu_question": "کیا موسم یا تکنیکی مسائل پروسیسنگ کے اوقات کو متاثر کر سکتے ہیں؟",
+      "urdu_answer": "ہاں، شدید موسم، سسٹم کی خرابی، یا نادرا کی سہولیات میں تکنیکی مسائل پروسیسنگ ٹائم لائنز کو متاثر کر سکتے ہیں۔ نادرا عام طور پر اس طرح کی تاخیر سے آگاہ کرتا ہے اور غیر معمولی حالات میں اس کے مطابق ٹائم لائنز بڑھا سکتا ہے۔"
+    },
+    {
+      "question": "What if I need my document for immediate travel?",
+      "answer": "For immediate travel needs, select Executive processing (7 days) and choose pickup delivery. For same-day emergencies, contact NADRA at 1777 to discuss emergency procedures, though these require special approval and documentation.",
+      "urdu_question": "اگر مجھے فوری سفر کے لیے اپنے دستاویز کی ضرورت ہو تو کیا ہوگا؟",
+      "urdu_answer": "فوری سفری ضروریات کے لیے، ایگزیکٹو پروسیسنگ (7 دن) کو منتخب کریں اور پک اپ ڈیلیوری کا انتخاب کریں۔ اسی دن کی ہنگامی صورتحال کے لیے، ہنگامی طریقہ کار پر بات کرنے کے لیے نادرا سے 1777 پر رابطہ کریں، حالانکہ ان کے لیے خصوصی منظوری اور دستاویزات کی ضرورت ہوتی ہے۔"
+    },
+    {
+      "question": "Do processing times reset if I need to make corrections?",
+      "answer": "If corrections are required during processing, the timeline may be extended or reset depending on the nature of corrections needed. Minor corrections might not affect timeline, but major changes could restart the process.",
+      "urdu_question": "اگر مجھے تصحیح کرنے کی ضرورت ہو تو کیا پروسیسنگ کے اوقات دوبارہ ترتیب دیں؟",
+      "urdu_answer": "اگر پروسیسنگ کے دوران تصحیح کی ضرورت ہو تو، مطلوبہ اصلاحات کی نوعیت کے لحاظ سے ٹائم لائن کو بڑھایا یا دوبارہ ترتیب دیا جا سکتا ہے۔ معمولی اصلاحات ٹائم لائن کو متاثر نہیں کر سکتی ہیں، لیکن بڑی تبدیلیاں عمل کو دوبارہ شروع کر سکتی ہیں۔"
+    },
+    {
+      "question": "Can I get SMS updates about processing progress?",
+      "answer": "Yes, NADRA provides SMS notifications at various processing stages including application upload, processing milestones, and dispatch. Ensure your mobile number is correctly provided to receive these updates.",
+      "urdu_question": "کیا میں پروسیسنگ کی پیشرفت کے بارے میں SMS اپ ڈیٹ حاصل کر سکتا ہوں؟",
+      "urdu_answer": "ہاں، نادرا پروسیسنگ کے مختلف مراحل پر ایس ایم ایس اطلاعات فراہم کرتا ہے بشمول ایپلیکیشن اپ لوڈ، پروسیسنگ سنگ میل، اور ڈسپیچ۔ یقینی بنائیں کہ یہ اپ ڈیٹس حاصل کرنے کے لیے آپ کا موبائل نمبر درست طریقے سے فراہم کیا گیا ہے۔"
+    },
+    {
+      "question": "What if NADRA center is closed during my processing period?",
+      "answer": "Processing continues at NADRA facilities even if public service counters are closed. However, center closures for holidays or emergencies might affect overall timeline. NADRA typically adjusts timelines for official closure periods.",
+      "urdu_question": "اگر نادرا سنٹر میرے پروسیسنگ پیریڈ کے دوران بند ہو جائے تو کیا ہوگا؟",
+      "urdu_answer": "عوامی خدمات کے کاؤنٹر بند ہونے کے باوجود نادرا کی سہولیات پر کارروائی جاری ہے۔ تاہم، چھٹیوں یا ہنگامی حالات کے لیے مرکز کی بندش مجموعی ٹائم لائن کو متاثر کر سکتی ہے۔ نادرا عام طور پر سرکاری بندش کی مدت کے لیے ٹائم لائنز کو ایڈجسٹ کرتا ہے۔"
+    },
+    {
+      "question": "How do I know which processing option is best for my situation?",
+      "answer": "Consider your timeline needs and budget: Normal (30 days) for non-urgent needs, Urgent (12 days) for moderate urgency, Executive (7 days) for high urgency. Factor in delivery time and any potential delays when deciding.",
+      "urdu_question": "میں کیسے جان سکتا ہوں کہ میری صورتحال کے لیے کون سا پروسیسنگ آپشن بہترین ہے؟",
+      "urdu_answer": "اپنی ٹائم لائن کی ضروریات اور بجٹ پر غور کریں: غیر فوری ضرورتوں کے لیے عام (30 دن)، اعتدال پسندی کے لیے ارجنٹ (12 دن)، اعلیٰ عجلت کے لیے ایگزیکٹو (7 دن)۔ فیصلہ کرتے وقت ترسیل کے وقت اور کسی بھی ممکنہ تاخیر کا عنصر۔"
+    },
+    {
+      "question": "Can I pay extra for weekend or holiday processing?",
+      "answer": "Standard processing categories operate on business days. Special weekend or holiday processing isn't typically available as a standard service, though emergency provisions might exist for exceptional circumstances.",
+      "urdu_question": "کیا میں ویک اینڈ یا چھٹیوں کی پروسیسنگ کے لیے اضافی ادائیگی کر سکتا ہوں؟",
+      "urdu_answer": "معیاری پروسیسنگ کے زمرے کاروباری دنوں میں کام کرتے ہیں۔ خصوصی ویک اینڈ یا چھٹیوں کی پروسیسنگ عام طور پر معیاری سروس کے طور پر دستیاب نہیں ہے، حالانکہ غیر معمولی حالات کے لیے ہنگامی شرائط موجود ہو سکتی ہیں۔"
+    },
+    {
+      "question": "What if my Executive processing takes longer than 7 days?",
+      "answer": "If Executive processing exceeds 7 days, contact NADRA customer service immediately at 1777. Document the delay and ask about the reason, expected completion time, and any compensation or remedial measures available.",
+      "urdu_question": "اگر میری ایگزیکٹو پروسیسنگ میں 7 دن سے زیادہ وقت لگے تو کیا ہوگا؟",
+      "urdu_answer": "اگر ایگزیکٹیو پروسیسنگ 7 دن سے زیادہ ہے، تو نادرا کسٹمر سروس سے فوری طور پر 1777 پر رابطہ کریں۔ تاخیر کی دستاویز کریں اور وجہ، متوقع تکمیل کے وقت، اور دستیاب کسی بھی معاوضے یا علاج کے اقدامات کے بارے میں پوچھیں۔"
+    },
+    {
+      "question": "Are there seasonal variations in processing times?",
+      "answer": "Processing times might be affected by seasonal demand (like before Hajj season), holiday periods, or administrative calendar events. Peak periods might see slight delays even within guaranteed categories.",
+      "urdu_question": "کیا پروسیسنگ کے اوقات میں موسمی تغیرات ہیں؟",
+      "urdu_answer": "پروسیسنگ کے اوقات موسمی طلب (جیسے حج کے سیزن سے پہلے)، چھٹیوں کے ادوار، یا انتظامی کیلنڈر کے واقعات سے متاثر ہو سکتے ہیں۔ گارنٹیڈ زمروں کے اندر بھی چوٹی کے ادوار میں معمولی تاخیر ہو سکتی ہے۔"
+    },
+    {
+      "question": "Can I cancel my application and get processing fee refunded?",
+      "answer": "Cancellation and refund policies depend on processing stage and reason for cancellation. Contact NADRA at 1777 to discuss cancellation options and potential refund eligibility for your specific situation.",
+      "urdu_question": "کیا میں اپنی درخواست منسوخ کر سکتا ہوں اور پروسیسنگ فیس واپس کر سکتا ہوں؟",
+      "urdu_answer": "منسوخی اور رقم کی واپسی کی پالیسیاں کارروائی کے مرحلے اور منسوخی کی وجہ پر منحصر ہیں۔ اپنی مخصوص صورتحال کے لیے منسوخی کے اختیارات اور ممکنہ رقم کی واپسی کی اہلیت پر بات کرنے کے لیے 1777 پر نادرا سے رابطہ کریں۔"
+    },
+    {
+      "question": "What quality checks are performed during different processing categories?",
+      "answer": "All processing categories maintain the same quality standards and verification procedures. The difference is in timeline priority, not in the thoroughness of checks or verification processes performed.",
+      "urdu_question": "مختلف پروسیسنگ کیٹیگریز کے دوران کون سے معیار کی جانچ پڑتال کی جاتی ہے؟",
+      "urdu_answer": "پروسیسنگ کے تمام زمرے یکساں معیار کے معیارات اور تصدیقی طریقہ کار کو برقرار رکھتے ہیں۔ فرق ٹائم لائن کی ترجیح میں ہے، نہ کہ جانچ یا تصدیقی عمل کی مکملیت میں۔"
+    },
+    {
+      "question": "How does PAK-ID app processing compare to center-based processing times?",
+      "answer": "PAK-ID app submissions typically follow the same processing categories (Normal, Urgent, Executive) as center applications. Some digital services might be faster, but document printing and delivery still follow standard timelines.",
+      "urdu_question": "PAK-ID ایپ پروسیسنگ کا مرکز پر مبنی پروسیسنگ کے اوقات سے موازنہ کیسے ہوتا ہے؟",
+      "urdu_answer": "PAK-ID ایپ کی گذارشات عام طور پر اسی پروسیسنگ زمروں (نارمل، ارجنٹ، ایگزیکٹو) کی پیروی کرتی ہیں جیسے سینٹر ایپلی کیشنز۔ کچھ ڈیجیٹل خدمات تیز تر ہو سکتی ہیں، لیکن دستاویز کی پرنٹنگ اور ترسیل اب بھی معیاری ٹائم لائنز کی پیروی کرتی ہے۔"
+    },
+    {
+      "question": "Can I request express pickup for faster overall turnaround?",
+      "answer": "While you can choose center pickup over home delivery for slightly faster receipt, the main processing time is determined by your selected category. Executive processing with pickup is the fastest standard combination available.",
+      "urdu_question": "کیا میں تیزی سے مجموعی تبدیلی کے لیے ایکسپریس پک اپ کی درخواست کر سکتا ہوں؟",
+      "urdu_answer": "اگرچہ آپ قدرے تیز رسید کے لیے ہوم ڈیلیوری پر سینٹر پک اپ کا انتخاب کر سکتے ہیں، لیکن پروسیسنگ کے اہم وقت کا تعین آپ کے منتخب کردہ زمرے سے ہوتا ہے۔ پک اپ کے ساتھ ایگزیکٹو پروسیسنگ دستیاب تیز ترین معیاری مجموعہ ہے۔"
+    },
+    {
+      "question": "What if I have a medical emergency requiring urgent documentation?",
+      "answer": "For medical emergencies, select Executive processing and contact NADRA at 1777 to explain your situation. While this doesn't guarantee faster than 7-day processing, they may provide guidance on emergency procedures if available.",
+      "urdu_question": "اگر مجھے طبی ہنگامی صورت حال ہو جس میں فوری دستاویزات کی ضرورت ہو؟",
+      "urdu_answer": "طبی ہنگامی صورتحال کے لیے، ایگزیکٹو پروسیسنگ کو منتخب کریں اور اپنی صورت حال کی وضاحت کے لیے 1777 پر نادرا سے رابطہ کریں۔ اگرچہ یہ 7 دن کی کارروائی سے زیادہ تیز رفتاری کی ضمانت نہیں دیتا، اگر دستیاب ہو تو وہ ہنگامی طریقہ کار کے بارے میں رہنمائی فراہم کر سکتے ہیں۔"
+    },
+    {
+      "question": "How do processing times compare internationally with other countries?",
+      "answer": "NADRA's processing times are competitive regionally. Executive processing (7 days) is relatively fast for comprehensive identity document processing compared to many other countries' standard government document processing times.",
+      "urdu_question": "پروسیسنگ کے اوقات بین الاقوامی سطح پر دوسرے ممالک کے ساتھ کیسے موازنہ کرتے ہیں؟",
+      "urdu_answer": "نادرا کے پروسیسنگ کے اوقات علاقائی طور پر مسابقتی ہیں۔ شناختی دستاویز کی جامع پروسیسنگ کے لیے ایگزیکٹو پروسیسنگ (7 دن) دیگر ممالک کے معیاری سرکاری دستاویز پراسیسنگ کے اوقات کے مقابلے نسبتاً تیز ہے۔"
+    },
+    {
+      "question": "Can processing priority be inherited by family members?",
+      "answer": "No, processing priority is individual per application. Each family member must select and pay for their own processing category based on their individual needs and timeline requirements.",
+      "urdu_question": "کیا پروسیسنگ کی ترجیح خاندان کے افراد کو وراثت میں مل سکتی ہے؟",
+      "urdu_answer": "نہیں، پروسیسنگ کی ترجیح فی درخواست انفرادی ہے۔ خاندان کے ہر فرد کو ان کی انفرادی ضروریات اور ٹائم لائن کی ضروریات کی بنیاد پر اپنے پروسیسنگ زمرے کا انتخاب اور ادائیگی کرنا ہوگی۔"
+    },
+    {
+      "question": "What backup plans should I have if processing is delayed?",
+      "answer": "Always apply earlier than your absolute deadline, keep alternative documentation ready if available, maintain contact with NADRA for updates, and consider temporary document solutions if offered for urgent situations.",
+      "urdu_question": "اگر پروسیسنگ میں تاخیر ہو رہی ہے تو میرے پاس کون سے بیک اپ پلانز ہونے چاہئیں؟",
+      "urdu_answer": "ہمیشہ اپنی مکمل آخری تاریخ سے پہلے درخواست دیں، اگر دستیاب ہو تو متبادل دستاویزات تیار رکھیں، اپ ڈیٹس کے لیے نادرا سے رابطہ برقرار رکھیں، اور اگر ہنگامی حالات کے لیے پیش کیے جائیں تو عارضی دستاویز کے حل پر غور کریں۔"
+    },
+    {
+      "question": "How do I complaint if processing timeline is not met?",
+      "answer": "If processing exceeds promised timeline, first contact 1777 for status update, then file formal complaint through NADRA's complaint portal, email csd@nadra.gov.pk, or visit the center where you applied to escalate the issue.",
+      "urdu_question": "اگر پروسیسنگ کی ٹائم لائن پوری نہیں ہوتی تو میں شکایت کیسے کروں؟",
+      "urdu_answer": "اگر پروسیسنگ وعدہ کردہ ٹائم لائن سے زیادہ ہے تو، اسٹیٹس اپ ڈیٹ کے لیے پہلے 1777 پر رابطہ کریں، پھر نادرا کے شکایتی پورٹل، csd@nadra.gov.pk پر ای میل کریں، یا اس مرکز پر جائیں جہاں آپ نے مسئلہ کو بڑھانے کے لیے درخواست دی تھی۔"
+    },
+    {
+      "question": "Are there corporate or business processing options with different timelines?",
+      "answer": "NADRA may offer specialized business services for organizations requiring bulk processing or corporate identity verification. Contact NADRA business services division to discuss enterprise processing options and timelines.",
+      "urdu_question": "کیا مختلف ٹائم لائنز کے ساتھ کارپوریٹ یا کاروباری پروسیسنگ کے اختیارات ہیں؟",
+      "urdu_answer": "نادرا ان تنظیموں کے لیے خصوصی کاروباری خدمات پیش کر سکتا ہے جنہیں بلک پروسیسنگ یا کارپوریٹ شناخت کی تصدیق کی ضرورت ہوتی ہے۔ انٹرپرائز پروسیسنگ کے اختیارات اور ٹائم لائنز پر بات کرنے کے لیے نادرا بزنس سروسز ڈویژن سے رابطہ کریں۔"
+    },
+    {
+      "question": "What if my urgent need doesn't qualify for emergency processing?",
+      "answer": "Executive processing (7 days) is the fastest standard option available to all applicants. If this doesn't meet your needs, explore alternative temporary documentation or contact relevant authorities about your specific urgent requirements.",
+      "urdu_question": "اگر میری فوری ضرورت ہنگامی کارروائی کے لیے اہل نہیں ہے تو کیا ہوگا؟",
+      "urdu_answer": "ایگزیکٹو پروسیسنگ (7 دن) تمام درخواست دہندگان کے لیے دستیاب تیز ترین معیاری آپشن ہے۔ اگر یہ آپ کی ضروریات کو پورا نہیں کرتا ہے تو، متبادل عارضی دستاویزات کی تلاش کریں یا اپنی مخصوص فوری ضروریات کے بارے میں متعلقہ حکام سے رابطہ کریں۔"
+    },
+    {
+      "question": "How do public holidays and Eid affect processing timelines?",
+      "answer": "Major holidays like Eid may pause processing operations, potentially extending calendar time needed. NADRA typically announces holiday schedules and adjusts processing timelines accordingly. Plan around major holiday periods when possible.",
+      "urdu_question": "عام تعطیلات اور عیدیں پروسیسنگ ٹائم لائنز کو کیسے متاثر کرتی ہیں؟",
+      "urdu_answer": "عید جیسی بڑی تعطیلات پروسیسنگ کے کاموں کو روک سکتی ہیں، ممکنہ طور پر کیلنڈر کے وقت میں توسیع کر سکتی ہیں۔ نادرا عام طور پر چھٹیوں کے شیڈول کا اعلان کرتا ہے اور اس کے مطابق پروسیسنگ ٹائم لائنز کو ایڈجسٹ کرتا ہے۔ جب ممکن ہو چھٹی کے بڑے ادوار کے ارد گرد منصوبہ بنائیں۔"
+    },
+    {
+      "question": "Can I get notification when my document enters each processing stage?",
+      "answer": "NADRA provides notifications at key stages including application upload, processing start, quality checks, printing, and dispatch. The frequency and detail of notifications may vary by processing category and application type.",
+      "urdu_question": "جب میرا دستاویز ہر پروسیسنگ مرحلے میں داخل ہوتا ہے تو کیا مجھے اطلاع مل سکتی ہے؟",
+      "urdu_answer": "نادرا ایپلی کیشن اپ لوڈ، پروسیسنگ شروع، کوالٹی چیک، پرنٹنگ اور ڈسپیچ سمیت اہم مراحل پر اطلاعات فراہم کرتا ہے۔ اطلاعات کی تعدد اور تفصیل پروسیسنگ کے زمرے اور درخواست کی قسم کے لحاظ سے مختلف ہو سکتی ہے۔"
+    },
+    {
+      "question": "What if I need multiple copies of the same document with different processing speeds?",
+      "answer": "Each document copy or duplicate application can have its own processing category. You might choose Executive for one copy you need urgently and Normal for additional copies you need later.",
+      "urdu_question": "اگر مجھے مختلف پروسیسنگ کی رفتار کے ساتھ ایک ہی دستاویز کی متعدد کاپیاں درکار ہوں تو کیا ہوگا؟",
+      "urdu_answer": "ہر دستاویز کی کاپی یا ڈپلیکیٹ درخواست کا اپنا پروسیسنگ زمرہ ہو سکتا ہے۔ آپ ایک کاپی کے لیے ایگزیکٹو کا انتخاب کر سکتے ہیں جس کی آپ کو فوری ضرورت ہے اور اضافی کاپیوں کے لیے آپ کو بعد میں ضرورت ہے۔"
+    },
+    {
+      "question": "How does document complexity affect processing time within categories?",
+      "answer": "Complex cases (like those requiring additional verification, correction of records, or special circumstances) might take longer within each category. Simple renewals or duplicates typically process faster than new applications or modifications.",
+      "urdu_question": "دستاویزات کی پیچیدگی زمرہ جات میں پروسیسنگ کے وقت کو کیسے متاثر کرتی ہے؟",
+      "urdu_answer": "پیچیدہ معاملات (جیسے کہ اضافی تصدیق، ریکارڈ کی اصلاح، یا خاص حالات) ہر زمرے میں زیادہ وقت لگ سکتے ہیں۔ سادہ تجدید یا ڈپلیکیٹس عام طور پر نئی ایپلیکیشنز یا ترمیمات کے مقابلے میں تیزی سے کارروائی کرتے ہیں۔"
+    },
+    {
+      "question": "What training do NADRA staff receive about meeting processing timelines?",
+      "answer": "NADRA staff are trained on standard operating procedures and timeline commitments for each processing category. The organization has systems in place to monitor and ensure processing deadlines are met across all service levels.",
+      "urdu_question": "میٹنگ پروسیسنگ ٹائم لائنز کے بارے میں نادرا کے عملے کو کیا تربیت ملتی ہے؟",
+      "urdu_answer": "نادرا کے عملے کو ہر پروسیسنگ کیٹیگری کے لیے معیاری آپریٹنگ طریقہ کار اور ٹائم لائن کے وعدوں پر تربیت دی جاتی ہے۔ تنظیم کے پاس نگرانی اور اس بات کو یقینی بنانے کے لیے نظام موجود ہیں کہ تمام سروس لیولز پر پروسیسنگ کی آخری تاریخ پوری ہو جائے۔"
+    },
+    {
+      "question": "Can I get expedited processing if I'm a government employee or military personnel?",
+      "answer": "Standard processing categories apply to all citizens. Check with NADRA about any special provisions for government personnel.",
+      "urdu_question": "اگر میں سرکاری ملازم ہوں یا فوجی اہلکار ہوں تو کیا میں تیزی سے کارروائی کر سکتا ہوں؟",
+      "urdu_answer": "معیاری پروسیسنگ زمرے تمام شہریوں پر لاگو ہوتے ہیں۔ سرکاری ملازمین کے لیے کسی بھی خصوصی انتظامات کے بارے میں نادرا سے معلوم کریں۔"
+    },
+    {
+      "question": "What future improvements are planned for processing times?",
+      "answer": "NADRA continuously works on improving processing efficiency through technology upgrades, system automation, and process improvements. Check NADRA's official announcements for information about planned enhancements to processing capabilities.",
+      "urdu_question": "پروسیسنگ کے اوقات کے لیے مستقبل میں کیا بہتری کی منصوبہ بندی کی گئی ہے؟",
+      "urdu_answer": "نادرا ٹیکنالوجی اپ گریڈ، سسٹم آٹومیشن، اور عمل میں بہتری کے ذریعے پروسیسنگ کی کارکردگی کو بہتر بنانے پر مسلسل کام کرتا ہے۔ پروسیسنگ کی صلاحیتوں میں منصوبہ بند اضافہ کے بارے میں معلومات کے لیے نادرا کے سرکاری اعلانات دیکھیں۔"
+    }
+  ]
+}
